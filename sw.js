@@ -5,7 +5,7 @@
 // WICHTIG: Bei jeder Änderung an index.html, app.css, app.js oder sw.js diese
 // Zahl erhöhen. Das Gerüst wird zuerst aus dem Zwischenspeicher bedient –
 // ohne neue Version behalten installierte Geräte den alten Stand.
-const VERSION = 'anpfiff-v2';
+const VERSION = 'anpfiff-v3';
 const GERUEST = `${VERSION}-geruest`;
 const DATEN = `${VERSION}-daten`;
 const BILDER = `${VERSION}-bilder`;
@@ -23,7 +23,11 @@ const GRUNDGERUEST = [
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open(GERUEST)
-      .then((c) => c.addAll(GRUNDGERUEST))
+      // cache: 'reload' ist entscheidend. Ohne das holt addAll die Dateien
+      // durch den gewöhnlichen Browser-Zwischenspeicher – und legt dann eine
+      // veraltete Fassung unter der neuen Version ab. Der Versionswechsel
+      // allein bliebe damit wirkungslos.
+      .then((c) => c.addAll(GRUNDGERUEST.map((pfad) => new Request(pfad, { cache: 'reload' }))))
       .then(() => self.skipWaiting()),
   );
 });
