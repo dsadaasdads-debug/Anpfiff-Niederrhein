@@ -21,6 +21,8 @@
 
   let einstellungen = laden();
   let daten = null;
+  let tabellendaten = null;         // wird erst beim ersten Wechsel geholt
+  let ansicht = 'meldungen';        // 'meldungen' | 'tabellen'
   let auswahl = 'alle';             // 'alle' | 'favoriten' | Name einer Sportart
   let suchtext = '';
 
@@ -395,6 +397,185 @@
     }
   }
 
+  // ── Tabellenansicht ──────────────────────────────────────────────────────
+
+  /** „Sonntag, 16.08.2026 - 15:00 Uhr“ → „So 16.08. 15:00“ */
+  function spielzeitKurz(roh) {
+    const m = String(roh).match(/^(\w{2})\w*,\s*(\d{2}\.\d{2})\.\d{4}\s*-\s*(\d{2}:\d{2})/);
+    return m ? `${m[1]} ${m[2]}. ${m[3]}` : roh;
+  }
+
+  function spiellisteBauen(spiele, verein) {
+    const ul = el('ul', 'spielliste');
+    for (const s of spiele) {
+      const li = el('li');
+      li.append(el('span', 'wann', spielzeitKurz(s.datum)));
+
+      const paarung = el('span', 'paarung');
+      for (const [i, mannschaft] of [s.heim, s.gast].entries()) {
+        if (i === 1) paarung.append(document.createTextNode(' – '));
+        paarung.append(el('span', mannschaft === verein ? 'eigen' : null, mannschaft));
+      }
+      li.append(paarung);
+
+      if (s.hinweis) li.append(el('span', 'anmerkung', s.hinweis));
+
+      if (s.url) {
+        const a = el('a', null, s.ergebnisVerschleiert ? 'Ergebnis' : 'Details');
+        a.href = s.url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        li.append(a);
+      }
+      ul.append(li);
+    }
+    return ul;
+  }
+
+  function mannschaftBauen(m, staffel) {
+    const karte = el('article', 'mannschaft');
+    karte.dataset.zone = m.zone;
+
+    const kopf = el('div', 'mannschaft-kopf');
+    kopf.append(el('h2', null, m.verein));
+    kopf.append(el('div', 'mannschaft-liga', [m.liga, m.ort].filter(Boolean).join(' · ')));
+
+    const stand = el('div', 'stand');
+    const kennzahl = (wert, bez) => {
+      const d = el('div');
+      d.append(el('span', 'wert', wert), el('span', 'bez', bez));
+      return d;
+    };
+    if (m.platz != null) stand.append(kennzahl(`${m.platz}.`, 'Platz'));
+    if (m.punkte != null) stand.append(kennzahl(String(m.punkte), 'Punkte'));
+    if (m.torverhaeltnis) stand.append(kennzahl(m.torverhaeltnis, 'Tore'));
+    if (stand.childElementCount) kopf.append(stand);
+    karte.append(kopf);
+
+    if (staffel?.zeilen?.length) {
+      const details = el('details');
+      details.append(el('summary', null, `Tabelle ${staffel.name ?? ''}`.trim()));
+
+      const rahmen = el('div', 'tabellenrahmen');
+      const tabelle = el('table', 'liga');
+
+      const kopfzeile = el('tr');
+      for (const [beschriftung, titel] of [['#', 'Platz'], ['Mannschaft', 'Mannschaft'], ['Sp', 'Spiele'],
+        ['S', 'Siege'], ['U', 'Unentschieden'], ['N', 'Niederlagen'], ['Tore', 'Tore'], ['Diff', 'Tordifferenz'], ['Pkt', 'Punkte']]) {
+        const th = el('th', null, beschriftung);
+        th.scope = 'col';
+        th.title = titel;
+        kopfzeile.append(th);
+      }
+      const thead = el('thead');
+      thead.append(kopfzeile);
+      tabelle.append(thead);
+
+      const tbody = el('tbody');
+      for (const z of staffel.zeilen) {
+        const tr = el('tr');
+        if (z.verein === m.verein) tr.className = 'eigen';
+        for (const wert of [`${z.platz}.`, z.verein, z.spiele, z.siege, z.unentschieden, z.niederlagen, z.tore, z.differenz, z.punkte]) {
+          tr.append(el('td', null, String(wert)));
+        }
+        tbody.append(tr);
+      }
+      tabelle.append(tbody);
+      rahmen.append(tabelle);
+      details.append(rahmen);
+      karte.append(details);
+    }
+
+    if (m.naechste?.length) {
+      const details = el('details');
+      details.open = true;
+      details.append(el('summary', null, 'Nächste Spiele'));
+      details.append(spiellisteBauen(m.naechste, m.verein));
+      karte.append(details);
+    }
+
+    if (m.letzte?.length) {
+      const details = el('details');
+      details.append(el('summary', null, 'Zuletzt gespielt'));
+      details.append(spiellisteBauen(m.letzte, m.verein));
+      karte.append(details);
+    }
+
+    const fuss = el('div', 'mannschaft-fuss');
+    fuss.append(el('span', null, m.mannschaft ?? ''));
+    if (m.teamUrl) {
+      const a = el('a', null, 'bei fussball.de öffnen');
+      a.href = m.teamUrl;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      fuss.append(a);
+    }
+    karte.append(fuss);
+
+    return karte;
+  }
+
+  function tabellenZeichnen() {
+    const ziel = $('tabellen-ansicht');
+    ziel.replaceChildren();
+
+    if (!tabellendaten) {
+      ziel.append(el('p', 'leer', 'Tabellen werden geladen …'));
+      return;
+    }
+
+    const rang = { kern: 0, umland: 1, duisburg: 2 };
+    const liste = [...tabellendaten.mannschaften].sort((a, b) => {
+      const fa = einstellungen.favoriten.includes(a.verein) ? 0 : 1;
+      const fb = einstellungen.favoriten.includes(b.verein) ? 0 : 1;
+      return fa - fb || rang[a.zone] - rang[b.zone] || a.verein.localeCompare(b.verein, 'de');
+    }).filter((m) => !einstellungen.ausgeblendeteOrte.includes(m.ort));
+
+    if (liste.length === 0) {
+      ziel.append(el('p', 'leer', 'Keine Mannschaften vorhanden.'));
+      return;
+    }
+
+    for (const m of liste) ziel.append(mannschaftBauen(m, tabellendaten.staffeln?.[m.staffelId]));
+
+    const hinweis = el('p', 'fuss-klein');
+    hinweis.style.marginTop = '1rem';
+    hinweis.textContent = tabellendaten.hinweisErgebnisse ?? '';
+    ziel.append(hinweis);
+  }
+
+  async function ansichtWechseln(neu) {
+    ansicht = neu;
+    for (const b of $('ansicht').querySelectorAll('button')) {
+      b.setAttribute('aria-selected', String(b.dataset.ansicht === neu));
+    }
+
+    const meldungen = neu === 'meldungen';
+    $('liste').hidden = !meldungen;
+    $('tabellen-ansicht').hidden = meldungen;
+    $('filter').hidden = !meldungen;
+    $('knopf-suche').hidden = !meldungen;
+    if (!meldungen) { $('suchzeile').hidden = true; $('leer').hidden = true; }
+
+    if (meldungen) { zeichnen(); return; }
+
+    tabellenZeichnen();
+    if (tabellendaten === null) {
+      try {
+        const antwort = await fetch('data/tabellen.json', { cache: 'no-cache' });
+        if (!antwort.ok) throw new Error(`HTTP ${antwort.status}`);
+        tabellendaten = await antwort.json();
+      } catch (err) {
+        console.error(err);
+        $('tabellen-ansicht').replaceChildren(
+          el('p', 'leer', 'Die Tabellen konnten nicht geladen werden. Bist du offline?'),
+        );
+        return;
+      }
+      tabellenZeichnen();
+    }
+  }
+
   // ── Einstellungsblatt ────────────────────────────────────────────────────
 
   function blattOeffnen(offen) {
@@ -433,6 +614,10 @@
     $('suche-leeren').addEventListener('click', () => {
       $('suche').value = ''; suchtext = ''; zeichnen(); $('suche').focus();
     });
+
+    for (const knopf of $('ansicht').querySelectorAll('button')) {
+      knopf.addEventListener('click', () => ansichtWechseln(knopf.dataset.ansicht));
+    }
 
     $('knopf-einstellungen').addEventListener('click', () => blattOeffnen(true));
     $('knopf-schliessen').addEventListener('click', () => blattOeffnen(false));

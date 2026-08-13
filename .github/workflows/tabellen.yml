@@ -1,0 +1,45 @@
+name: Tabellen aktualisieren
+
+on:
+  schedule:
+    # Alle drei Stunden. Tabellen ändern sich fast nur am Wochenende, häufiger
+    # abzufragen bringt nichts und belastet fussball.de ohne Grund.
+    - cron: '43 */3 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: tabellen
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sammeln:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Tabellen und Spielpläne holen
+        run: node scripts/tabellen.mjs
+
+      - name: Ergebnis zurückschreiben
+        run: |
+          if [ -z "$(git status --porcelain -- data/tabellen.json data/tabellen-cache.json)" ]; then
+            echo "Keine Änderungen an den Tabellen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tabellen.json data/tabellen-cache.json
+          git commit -m "Tabellen aktualisiert ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          # Der Meldungs-Workflow schreibt womoeglich zeitgleich; deshalb vor dem
+          # Schieben neu aufsetzen statt am Konflikt zu scheitern.
+          git pull --rebase --autostash origin main
+          git push

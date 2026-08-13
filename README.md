@@ -17,6 +17,9 @@ JSON ins Repository; GitHub Pages liefert App und Daten aus.
 | `sw.js`, `manifest.webmanifest`, `icons/` | Installierbarkeit und Offline-Betrieb |
 | `data/feed.json` | die eingesammelten Meldungen (wird automatisch erzeugt) |
 | `data/artikel-cache.json` | gemerkte Artikelseiten, damit keine Seite zweimal geholt wird |
+| `data/tabellen.json` | Tabellen, Platzierungen und Spielpläne von fussball.de |
+| `scripts/tabellen.mjs` | der Tabellen-Sammler |
+| `scripts/lib/fussballde.mjs` | das Auslesen von fussball.de |
 | `scripts/fetch.mjs` | der Sammler |
 | `scripts/sources.mjs` | die Quellen, inklusive der geprüften und verworfenen |
 | `scripts/clubs.mjs` | Vereine, Orte, Zonen, Stichwörter |
@@ -123,10 +126,17 @@ verschwinden also nicht, drängen sich aber nicht vor.
   waren es 15 von 43 Meldungen. In den Einstellungen einschaltbar.
 - **Kein FuPa.** FuPa hat seinen RSS-Dienst abgeschaltet (alle `/rss/`-Pfade
   antworten mit `410 Gone`).
-- **Noch keine Tabellen und Ergebnisse.** Vorgesehen über fussball.de, dessen
-  robots.txt das Auslesen ausdrücklich erlaubt und dessen Mannschaftsseiten
-  serverseitig gerendert werden. Die Vereinskennungen liegen bereits in
-  `scripts/data/clubs-fussball.json`.
+- **Keine Spielergebnisse.** Tabellen, Platzierungen und Spielpläne kommen
+  vollständig von fussball.de. Die *Ziffern gespielter Ergebnisse* liefert
+  fussball.de jedoch als private Unicode-Zeichen aus, lesbar nur über eine bei
+  jedem Abruf wechselnde Spezialschrift. Das ist eine absichtliche technische
+  Sperre, und sie wird hier nicht umgangen — für das Ergebnis führt ein Link zur
+  Spielseite. Alles andere (Tabelle, Punkte, Termine, Gegner) steht im Klartext
+  da und wird übernommen.
+- **Tabellen nur für die Kernstädte.** Abgefragt werden die Vereine aus Moers,
+  Kamp-Lintfort und Neukirchen-Vluyn plus einzeln benannte Ausnahmen; die Liste
+  steht oben in `scripts/tabellen.mjs`. Alle 59 Vereine abzufragen wäre gegenüber
+  fussball.de unhöflich und für den Zweck unnötig.
 - **Noch keine Mitteilungen.** Vorgesehen über einen Cloudflare Worker im
   Gratis-Kontingent mit selbst erzeugten VAPID-Schlüsseln.
 - **Die Vereinsliste ist nicht vollständig.** Die Vereinssuche von fussball.de

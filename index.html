@@ -43,6 +43,13 @@
     </div>
   </div>
 
+  <div class="ansichtzeile">
+    <div class="segment segment-ansicht" id="ansicht" role="tablist" aria-label="Ansicht">
+      <button type="button" role="tab" data-ansicht="meldungen" aria-selected="true">Meldungen</button>
+      <button type="button" role="tab" data-ansicht="tabellen" aria-selected="false">Tabellen</button>
+    </div>
+  </div>
+
   <div class="suchzeile" id="suchzeile" hidden>
     <input type="search" id="suche" placeholder="Verein, Ort oder Stichwort…" autocomplete="off" aria-label="Meldungen durchsuchen">
     <button type="button" id="suche-leeren" class="textknopf">Leeren</button>
@@ -57,6 +64,8 @@
   </p>
 
   <div id="liste" class="liste" aria-live="polite"></div>
+
+  <div id="tabellen-ansicht" class="liste" hidden></div>
 
   <p class="leer" id="leer" hidden></p>
 

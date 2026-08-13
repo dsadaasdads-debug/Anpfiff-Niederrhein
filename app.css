@@ -68,6 +68,11 @@
 
 * { box-sizing: border-box; }
 
+/* Muss vor allen Layoutregeln stehen und darf nicht überstimmbar sein: eine
+   eigene Klasse mit display:flex schlägt sonst das eingebaute [hidden], und
+   ausgeblendete Bereiche blieben sichtbar. */
+[hidden] { display: none !important; }
+
 html { -webkit-text-size-adjust: 100%; }
 
 body {
@@ -145,6 +150,9 @@ svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width:
   :root:not([data-thema]) .nur-hell { display: none; }
   :root:not([data-thema]) .nur-dunkel { display: block; }
 }
+
+.ansichtzeile { max-width: 780px; margin: 0 auto; padding: 0 12px 10px; }
+.segment-ansicht { max-width: 320px; }
 
 .suchzeile {
   max-width: 780px; margin: 0 auto; padding: 0 12px 10px;
@@ -269,6 +277,81 @@ main { max-width: 780px; margin: 0 auto; padding: 12px; }
 }
 .karte-fuss .quelle { font-weight: 650; }
 
+/* ── Tabellenansicht ───────────────────────────────────────────────────── */
+
+.mannschaft {
+  position: relative;
+  background: var(--flaeche); border: 1px solid var(--linie);
+  border-radius: var(--radius); box-shadow: var(--schatten); overflow: hidden;
+}
+.mannschaft::before {
+  content: ""; position: absolute; inset: 0 auto 0 0; width: 4px;
+  background: var(--zonenfarbe, var(--linie));
+}
+.mannschaft[data-zone="kern"] { --zonenfarbe: var(--kern); }
+.mannschaft[data-zone="umland"] { --zonenfarbe: var(--umland); }
+.mannschaft[data-zone="duisburg"] { --zonenfarbe: var(--duisburg); }
+
+.mannschaft-kopf { padding: 12px 12px 12px 16px; }
+.mannschaft-kopf h2 { margin: 0 0 .18rem; font-size: 1.02rem; font-weight: 750; letter-spacing: -.01em; }
+.mannschaft-liga { font-size: .78rem; color: var(--schrift-leise); }
+
+.stand { display: flex; gap: 14px; margin-top: .6rem; flex-wrap: wrap; }
+.stand div { display: flex; flex-direction: column; }
+.stand .wert { font-size: 1.16rem; font-weight: 800; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.stand .bez {
+  font-size: .62rem; font-weight: 700; letter-spacing: .09em;
+  text-transform: uppercase; color: var(--schrift-leise); margin-top: 2px;
+}
+
+.mannschaft details { border-top: 1px solid var(--linie); }
+.mannschaft summary {
+  padding: .6rem 12px .6rem 16px; cursor: pointer;
+  font-size: .78rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+  color: var(--schrift-leise); list-style: none;
+}
+.mannschaft summary::-webkit-details-marker { display: none; }
+.mannschaft summary::after { content: " ▾"; }
+.mannschaft details[open] summary::after { content: " ▴"; }
+.mannschaft summary:hover { color: var(--schrift); }
+
+.tabellenrahmen { overflow-x: auto; }
+
+table.liga {
+  width: 100%; border-collapse: collapse; font-size: .8rem;
+  font-variant-numeric: tabular-nums;
+}
+table.liga th, table.liga td { padding: .34rem .45rem; text-align: right; white-space: nowrap; }
+table.liga th {
+  font-size: .62rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+  color: var(--schrift-leise); border-bottom: 1px solid var(--linie);
+}
+table.liga td:nth-child(1), table.liga th:nth-child(1) { padding-left: 16px; text-align: right; width: 1%; }
+table.liga td:nth-child(2), table.liga th:nth-child(2) { text-align: left; white-space: normal; width: 99%; }
+table.liga tbody tr:nth-child(even) { background: color-mix(in srgb, var(--flaeche-2) 55%, transparent); }
+table.liga tr.eigen { background: color-mix(in srgb, var(--akzent) 15%, transparent) !important; font-weight: 750; }
+
+.spielliste { list-style: none; margin: 0; padding: 0 12px 10px 16px; }
+.spielliste li {
+  display: flex; gap: .55rem; align-items: baseline;
+  padding: .38rem 0; border-bottom: 1px solid var(--linie); font-size: .84rem;
+}
+.spielliste li:last-child { border-bottom: 0; }
+.spielliste .wann { flex: none; width: 5.6rem; font-size: .72rem; color: var(--schrift-leise); font-variant-numeric: tabular-nums; }
+.spielliste .paarung { flex: 1; min-width: 0; }
+.spielliste .paarung .eigen { font-weight: 700; }
+.spielliste .anmerkung { flex: none; font-size: .68rem; color: var(--warnung); font-weight: 700; }
+.spielliste a { color: var(--akzent-stark); text-decoration: none; font-size: .72rem; flex: none; }
+.spielliste a:hover { text-decoration: underline; }
+
+.mannschaft-fuss {
+  padding: .6rem 12px .8rem 16px; border-top: 1px solid var(--linie);
+  font-size: .74rem; color: var(--schrift-leise);
+  display: flex; justify-content: space-between; gap: .8rem; flex-wrap: wrap;
+}
+.mannschaft-fuss a { color: var(--akzent-stark); text-decoration: none; font-weight: 650; }
+.mannschaft-fuss a:hover { text-decoration: underline; }
+
 .leer { text-align: center; color: var(--schrift-leise); padding: 3rem 1rem; }
 
 .fuss { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--linie); color: var(--schrift-leise); font-size: .78rem; }
@@ -321,7 +404,8 @@ main { max-width: 780px; margin: 0 auto; padding: 12px; }
   background: transparent; color: var(--schrift-leise);
   font: inherit; font-size: .86rem; font-weight: 650; cursor: pointer;
 }
-.segment button[aria-checked="true"] { background: var(--flaeche); color: var(--schrift); box-shadow: var(--schatten); }
+.segment button[aria-checked="true"],
+.segment button[aria-selected="true"] { background: var(--flaeche); color: var(--schrift); box-shadow: var(--schatten); }
 
 .schalter { display: flex; align-items: center; gap: .7rem; cursor: pointer; font-size: .92rem; }
 .schalter input { position: absolute; opacity: 0; width: 0; height: 0; }

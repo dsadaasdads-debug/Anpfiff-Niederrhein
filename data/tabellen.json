@@ -1,0 +1,3216 @@
+{
+ "aktualisiert": "2026-08-13T17:56:34.916Z",
+ "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
+ "staffeln": {
+  "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
+   "name": "Landesliga Gruppe 1",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "1. FC Kleve 63/03",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "1. FC Lintfort",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "ASV Süchteln",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "DJK Arminia Klosterhardt",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Duisburger FV 08",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Mülheimer FC 97",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Rheinland Hamborn",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SC Union Nettetal",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SC Victoria Mennrath",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Biemenhorst",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Budberg",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Viktoria Goch",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Sportfreunde 06 Neuwerk",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VFB Homberg",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VSF Amern",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfB Bottrop",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfB Speldorf",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfL Rhede",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    }
+   ]
+  },
+  "031HBBJSK4000004VS5489BTVVG7L386-G": {
+   "name": "Kreisliga B,",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "1.FC Lintfort II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Moers-Meerfeld",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Neukirchen-Vluyn III",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Rot-Weiß Moers",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Rumeln-Kaldenhausen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "OSC 04 Rheinhausen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Rumelner TV II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SSV Rheintreu Lüttingen II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Alemannia Kamp",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Schwafheim II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Viktoria Birten",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TV Asberg II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TV Kaldenhausen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TV Kapellen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TuS Asterlagen II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TuS Baerl",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TuS Borth",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfL Rheinhausen II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    }
+   ]
+  },
+  "0311F9OK7C00000NVS5489BUVVARDA0V-G": {
+   "name": "Bezirksliga Gruppe 5",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "Dostlukspor Bottrop",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Duisburger SV 1900",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Neukirchen-Vluyn",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FSV Duisburg",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "GSV Moers",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Rhenania Bottrop",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SC 1920 Oberhausen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SF Hamborn 07",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Fortuna Bottrop",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Genc Osman Duisburg",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Rhenania Hamborn",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Schwarz-Weiss Alstaden",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Spvgg Sterkrade 06/07",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Spvgg. Sterkrade-Nord",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SuS 21 Oberhausen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Tus Asterlagen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VFB Homberg II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfL Repelen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    }
+   ]
+  },
+  "031H97LK70000004VS5489BUVSJ4CRAP-G": {
+   "name": "Kreisliga A",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "Büdericher SV",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "ESV Hohenbudberg",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Neukirchen-Vluyn II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Viktoria Alpen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "GSV Moers II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "MSV Moers",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Rumelner TV",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SSV Rheintreu Lüttingen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Budberg III",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Menzelen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Millingen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Schwafheim",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Sonsbeck II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SpVgg. Rheurdt-Schaephuysen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TV Asberg I",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfL Rheinhausen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    }
+   ]
+  },
+  "031HJBKB28000004VS5489BTVVG7L386-G": {
+   "name": "KL C Gruppe 2",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "FC Moers-Meerfeld II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Neukirchen-Vluyn IV",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Rot-Weiß Moers II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Rumeln-Kaldenhausen II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "MSV Moers II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "MSV Moers IV",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "OSC 04 Rheinhausen II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SC Rheinkamp",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Alemannia Kamp II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Schwafheim III",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SpVgg. Rheurdt-Schaephuysen III",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SuS Rayen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TV Kapellen II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TuS Borth III",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VFB Homberg III",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfL Repelen II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfL Rheinhausen III",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    }
+   ]
+  },
+  "0311F9LVPS00000FVS5489BUVVARDA0V-G": {
+   "name": "Oberliga Niederrhein",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "1. FC Monheim",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "1. Spvg. Solingen-Wald",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "BW Dingden",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "ETB SW Essen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Büderich",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Fortuna Düsseldorf U23",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Holzheimer SG",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Krefelder FC Uerdingen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Ratingen 04/19",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SC St. Tönis 11/20",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SSVg Velbert 02",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Scherpenberg",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Sonsbeck",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SpVg Schonnebeck",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Sportfreunde Baumberg",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TSV Meerbusch",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfL Viktoria Jüchen-Garzweiler",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Wuppertaler SV",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    }
+   ]
+  },
+  "0311F9OJU4000000VS5489BUVVARDA0V-G": {
+   "name": "Bezirksliga Gruppe 4",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "Alemannia Pfalzdorf",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "BW Dingden II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "DJK Rhede",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "DJK Twisteden",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Hamminkelner SV",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Kevelaerer SV",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "PSV Wesel-Lackhausen",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SF 97/30 Lowick",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV 08/29 Friedrichsfeld",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV 1926 Rindern",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Borussia Veen 1920",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Budberg II",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SuS 09 Dinslaken",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TSV Weeze",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TUS Xanten",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TuS Stenern",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfB Rheingold Emmerich",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Westfalia Anholt",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    }
+   ]
+  }
+ },
+ "mannschaften": [
+  {
+   "verein": "1. FC Lintfort",
+   "ort": "Kamp-Lintfort",
+   "zone": "kern",
+   "mannschaft": "Herren - 1. FC Lintfort",
+   "teamUrl": "https://www.fussball.de/mannschaft/1-fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/011MI9O6GK000000VTVG0001VTR8C1K7",
+   "liga": "Landesliga Gruppe 1",
+   "spielklasse": "Landesliga",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1. FC Lintfort",
+     "gast": "ASV Süchteln",
+     "url": "https://www.fussball.de/spiel/1-fc-lintfort-asv-suechteln/-/spiel/031EKQ11HK000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "DJK Arminia Klosterhardt",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/djk-arminia-klosterhardt-1-fc-lintfort/-/spiel/031EKQ11E0000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1. FC Lintfort",
+     "gast": "Mülheimer FC 97",
+     "url": "https://www.fussball.de/spiel/1-fc-lintfort-muelheimer-fc-97/-/spiel/031EKQ10I8000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SV Viktoria Goch",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/sv-viktoria-goch-1-fc-lintfort/-/spiel/031EKQ10D8000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1. FC Lintfort",
+     "gast": "VFB Homberg",
+     "url": "https://www.fussball.de/spiel/1-fc-lintfort-vfb-homberg/-/spiel/031EKQ0VKK000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "DJK Neuss-Gnadental",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/djk-neuss-gnadental-1-fc-lintfort/-/spiel/0318KHQFD0000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Freitag, 07.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "DJK SF Katernberg",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/djk-sf-katernberg-1-fc-lintfort/-/spiel/031M6DV2KC000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 01.08.2026 - 16:00 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "1. FC Lintfort",
+     "gast": "CSV Marathon Krefeld",
+     "url": "https://www.fussball.de/spiel/1-fc-lintfort-csv-marathon-krefeld/-/spiel/031DE4O858000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 01.08.2026 - 16:00 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "1. FC Lintfort",
+     "gast": "CSV Marathon Krefeld",
+     "url": "https://www.fussball.de/spiel/1-fc-lintfort-csv-marathon-krefeld/-/spiel/030QVVHQJ4000000VS5489BUVSEBP30S",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Mittwoch, 29.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "SV Sonsbeck",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/sv-sonsbeck-1-fc-lintfort/-/spiel/0319JA44S0000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "FC Mattheck Moers",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - FC Mattheck Moers",
+   "teamUrl": "https://www.fussball.de/mannschaft/fc-mattheck-moers-fc-mattheck-moers-niederrhein/-/saison/2627/team-id/02TMLSO984000000VS5489BSVTNMVP4D",
+   "liga": null,
+   "spielklasse": null,
+   "platz": null,
+   "punkte": null,
+   "torverhaeltnis": null,
+   "staffelId": null,
+   "naechste": [
+    {
+     "datum": "Samstag, 26.09.2026 - 13:00 Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "DJK SG Altenessen",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/djk-sg-altenessen-fc-mattheck-moers/-/spiel/031OPNR30O000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 03.10.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FF M'gladbach 07 II",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/ff-m%27gladbach-07-ii-fc-mattheck-moers/-/spiel/031OPNR318000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 10.10.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "GTSV Essen",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-gtsv-essen/-/spiel/031OPNR33S000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 31.10.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "VfL Benrath",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/vfl-benrath-fc-mattheck-moers/-/spiel/031OPNR37C000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 07.11.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "Croatia Geistenbeck",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-croatia-geistenbeck/-/spiel/031OPNR39G000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Samstag, 25.04.2026 - 19:00 Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "FC Niederrhein Soccer",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-fc-niederrhein-soccer/-/spiel/030D18CPUC000000VS5489BUVTD8EF64",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 18.04.2026 - 19:00 Uhr",
+     "wettbewerb": "Futsal-Landesliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "WSV Futsal Youngsters 3",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-wsv-futsal-youngsters-3/-/spiel/0308ROT0IG000000VS5489BUVV4MIU4T",
+     "ergebnisVerschleiert": false,
+     "hinweis": "w"
+    },
+    {
+     "datum": "Samstag, 28.03.2026 - 19:00 Uhr",
+     "wettbewerb": "Futsal-Landesliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "DJK SG Altenessen",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-djk-sg-altenessen/-/spiel/0308ROT0H4000000VS5489BUVV4MIU4T",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 21.03.2026 - 19:00 Uhr",
+     "wettbewerb": "Futsal-Landesliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "GSV Duisburg",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-gsv-duisburg/-/spiel/0308ROT0GG000000VS5489BUVV4MIU4T",
+     "ergebnisVerschleiert": false,
+     "hinweis": "v"
+    },
+    {
+     "datum": "Samstag, 14.03.2026 - 19:00 Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "Wuppertaler SV",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-wuppertaler-sv/-/spiel/02VLRCKH3O000000VS5489BUVUJA8J1O",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "FC Moers-Meerfeld 1980",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - FC Moers-Meerfeld",
+   "teamUrl": "https://www.fussball.de/mannschaft/fc-moers-meerfeld-fc-moers-meerfeld-1980-niederrhein/-/saison/2627/team-id/011MIEUGA0000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga B,",
+   "spielklasse": "Kreisliga B",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
+   "naechste": [
+    {
+     "datum": "Samstag, 15.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "VfL Rheinhausen III",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-vfl-rheinhausen-iii/-/spiel/031CDU31BC000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Samstag, 15.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TSV Bruckhausen",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/tsv-bruckhausen-fc-moers-meerfeld/-/spiel/031OQ13L18000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 20.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Repelen",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-fc-moers-meerfeld/-/spiel/031CPLLKBG000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Spellen II",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/sv-spellen-ii-fc-moers-meerfeld/-/spiel/031BTDPFMC000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SSV Rheintreu Lüttingen II",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-ii-fc-moers-meerfeld/-/spiel/031HBDT6TO000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "SV Schwafheim II",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-sv-schwafheim-ii/-/spiel/0319SJG1H4000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TSV Nieukerk",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/tsv-nieukerk-fc-moers-meerfeld/-/spiel/031BFDRGQG000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 31.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "FC Moers-Meerfeld II",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-fc-moers-meerfeld-ii/-/spiel/031KJ8E6R0000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SF Hamborn 07 II",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/sf-hamborn-07-ii-fc-moers-meerfeld/-/spiel/031EDL8M54000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 07.06.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-sv-schwafheim/-/spiel/02TSPTNTT8000000VS5489BUVVJ8R9DS",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "FC Neukirchen-Vluyn",
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "mannschaft": "Herren - FC Neukirchen-Vluyn",
+   "teamUrl": "https://www.fussball.de/mannschaft/fc-neukirchen-vluyn-fc-neukirchen-vluyn-niederrhein/-/saison/2627/team-id/023Q5785LS000000VS548985VT5V9K59",
+   "liga": "Bezirksliga Gruppe 5",
+   "spielklasse": "Bezirksliga",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "Duisburger SV 1900",
+     "gast": "FC Neukirchen-Vluyn",
+     "url": "https://www.fussball.de/spiel/duisburger-sv-1900-fc-neukirchen-vluyn/-/spiel/031ENENJR0000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 21.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "FC Neukirchen-Vluyn",
+     "gast": "GSV Moers",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-gsv-moers/-/spiel/031ENENJOO000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:15 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SC 1920 Oberhausen",
+     "gast": "FC Neukirchen-Vluyn",
+     "url": "https://www.fussball.de/spiel/sc-1920-oberhausen-fc-neukirchen-vluyn/-/spiel/031ENENIVK000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 04.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "FC Neukirchen-Vluyn",
+     "gast": "Dostlukspor Bottrop",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-dostlukspor-bottrop/-/spiel/031ENENIGO000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Fortuna Bottrop",
+     "gast": "FC Neukirchen-Vluyn",
+     "url": "https://www.fussball.de/spiel/sv-fortuna-bottrop-fc-neukirchen-vluyn/-/spiel/031ENENHJS000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfR Krefeld-Fischeln",
+     "gast": "FC Neukirchen-Vluyn",
+     "url": "https://www.fussball.de/spiel/vfr-krefeld-fischeln-fc-neukirchen-vluyn/-/spiel/0316EFQVO0000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "FC Neukirchen-Vluyn",
+     "gast": "FSV Vohwinkel",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-fsv-vohwinkel/-/spiel/031M62FTOC000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 09.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "FC Neukirchen-Vluyn",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-sv-menzelen/-/spiel/031LERVADO000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Donnerstag, 06.08.2026 - 19:45 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "FC Neukirchen-Vluyn",
+     "gast": "VfL Tönisberg",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-vfl-toenisberg/-/spiel/031A9NKQMK000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "FC Neukirchen-Vluyn",
+     "gast": "Ratingen 04/19",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-ratingen-04-19/-/spiel/03168Q9BQS000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    }
+   ]
+  },
+  {
+   "verein": "FC Rot-Weiß Moers 1926",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - FC Rot-Weiß Moers",
+   "teamUrl": "https://www.fussball.de/mannschaft/fc-rot-weiss-moers-fc-rot-weiss-moers-1926-niederrhein/-/saison/2627/team-id/011MIATPVO000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga B,",
+   "spielklasse": "Kreisliga B",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 16:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Internationale Oberhausen",
+     "gast": "FC Rot-Weiß Moers",
+     "url": "https://www.fussball.de/spiel/fc-internationale-oberhausen-fc-rot-weiss-moers/-/spiel/031M6BVJH4000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "TV Kaldenhausen",
+     "gast": "FC Rot-Weiß Moers",
+     "url": "https://www.fussball.de/spiel/tv-kaldenhausen-fc-rot-weiss-moers/-/spiel/031HBDT6RO000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Rot-Weiß Moers",
+     "gast": "SV Viktoria Birten",
+     "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-sv-viktoria-birten/-/spiel/031HBDT6FO000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 08.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Rumeln-Kaldenhausen",
+     "gast": "FC Rot-Weiß Moers",
+     "url": "https://www.fussball.de/spiel/fc-rumeln-kaldenhausen-fc-rot-weiss-moers/-/spiel/031HBDT854000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "TuS Asterlagen II",
+     "gast": "FC Rot-Weiß Moers",
+     "url": "https://www.fussball.de/spiel/tus-asterlagen-ii-fc-rot-weiss-moers/-/spiel/031HBDT63K000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Düsseldorf-Nord",
+     "gast": "FC Rot-Weiß Moers",
+     "url": "https://www.fussball.de/spiel/tus-duesseldorf-nord-fc-rot-weiss-moers/-/spiel/031LHVO214000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 07.06.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Rot-Weiß Moers",
+     "gast": "MSV Moers",
+     "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-msv-moers/-/spiel/02TSQPDEG8000000VS5489BTVTHCTAHT",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 31.05.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Haesen/Hochheide",
+     "gast": "FC Rot-Weiß Moers",
+     "url": "https://www.fussball.de/spiel/sv-haesen-hochheide-fc-rot-weiss-moers/-/spiel/02TSQPDF5S000000VS5489BTVTHCTAHT",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 17.05.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Rot-Weiß Moers",
+     "gast": "OSC 04 Rheinhausen",
+     "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-osc-04-rheinhausen/-/spiel/02TSQPDG2S000000VS5489BTVTHCTAHT",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 10.05.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SSV Rheintreu Lüttingen II",
+     "gast": "FC Rot-Weiß Moers",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-ii-fc-rot-weiss-moers/-/spiel/02TSQPDGMO000000VS5489BTVTHCTAHT",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "Grafschafter SV 1910 Moers",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - GSV Moers",
+   "teamUrl": "https://www.fussball.de/mannschaft/gsv-moers-grafschafter-sv-1910-moers-niederrhein/-/saison/2627/team-id/011MID3SSK000000VTVG0001VTR8C1K7",
+   "liga": "Bezirksliga Gruppe 5",
+   "spielklasse": "Bezirksliga",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "GSV Moers",
+     "gast": "FSV Duisburg",
+     "url": "https://www.fussball.de/spiel/gsv-moers-fsv-duisburg/-/spiel/031ENENKCC000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 21.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "FC Neukirchen-Vluyn",
+     "gast": "GSV Moers",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-gsv-moers/-/spiel/031ENENJOO000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "Duisburger SV 1900",
+     "gast": "GSV Moers",
+     "url": "https://www.fussball.de/spiel/duisburger-sv-1900-gsv-moers/-/spiel/031ENENIIS000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 05.09.2026 - 17:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "GSV Moers",
+     "gast": "SC 1920 Oberhausen",
+     "url": "https://www.fussball.de/spiel/gsv-moers-sc-1920-oberhausen/-/spiel/031ENENIEO000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "Dostlukspor Bottrop",
+     "gast": "GSV Moers",
+     "url": "https://www.fussball.de/spiel/dostlukspor-bottrop-gsv-moers/-/spiel/031ENENHMC000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "GSV Moers",
+     "gast": "FSV Vatan Neuss",
+     "url": "https://www.fussball.de/spiel/gsv-moers-fsv-vatan-neuss/-/spiel/0319RQDV8G000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Samstag, 08.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "GSV Moers",
+     "gast": "VFL Willich 2",
+     "url": "https://www.fussball.de/spiel/gsv-moers-vfl-willich-2/-/spiel/0319RQ11LO000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Freitag, 07.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "GSV Moers",
+     "gast": "VFL Willich 2",
+     "url": "https://www.fussball.de/spiel/gsv-moers-vfl-willich-2/-/spiel/031LD8B9CK000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 06.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "CSV Marathon Krefeld",
+     "gast": "GSV Moers",
+     "url": "https://www.fussball.de/spiel/csv-marathon-krefeld-gsv-moers/-/spiel/031LIUKA14000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "GSV Moers",
+     "gast": "VfL Rheinhausen",
+     "url": "https://www.fussball.de/spiel/gsv-moers-vfl-rheinhausen/-/spiel/031C2VQRNK000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    }
+   ]
+  },
+  {
+   "verein": "Meerbecker SV Moers 13/20",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - MSV Moers",
+   "teamUrl": "https://www.fussball.de/mannschaft/msv-moers-meerbecker-sv-moers-13-20-niederrhein/-/saison/2627/team-id/011MIA3JMS000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga A",
+   "spielklasse": "Kreisliga A",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "MSV Moers",
+     "gast": "SV Beeckerwerth",
+     "url": "https://www.fussball.de/spiel/msv-moers-sv-beeckerwerth/-/spiel/031MI9KK0K000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "MSV Moers",
+     "gast": "SF Walsum 09",
+     "url": "https://www.fussball.de/spiel/msv-moers-sf-walsum-09/-/spiel/031MQHGTD8000000VS5489BUVT2M8LCU",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "MSV Moers",
+     "gast": "SV Sonsbeck II",
+     "url": "https://www.fussball.de/spiel/msv-moers-sv-sonsbeck-ii/-/spiel/031H9RCE3C000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "Büdericher SV",
+     "gast": "MSV Moers",
+     "url": "https://www.fussball.de/spiel/buedericher-sv-msv-moers/-/spiel/031H9RCDT8000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 09.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "MSV Moers",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/msv-moers-tv-asberg-i/-/spiel/031H9RCF5S000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Mittwoch, 12.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TSV Bruckhausen",
+     "gast": "MSV Moers",
+     "url": "https://www.fussball.de/spiel/tsv-bruckhausen-msv-moers/-/spiel/0313M8RQ3C000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 07.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Repelen",
+     "gast": "MSV Moers",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-msv-moers/-/spiel/031CPMA2SC000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 05.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "MSV Moers",
+     "gast": "SC 1912 Buschhausen",
+     "url": "https://www.fussball.de/spiel/msv-moers-sc-1912-buschhausen/-/spiel/031B9D38L8000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 16:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "MSV Moers",
+     "gast": "FSV Duisburg",
+     "url": "https://www.fussball.de/spiel/msv-moers-fsv-duisburg/-/spiel/031B9DTS94000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Tönisberg",
+     "gast": "MSV Moers",
+     "url": "https://www.fussball.de/spiel/vfl-toenisberg-msv-moers/-/spiel/031HBK8NAO000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SC Rheinkamp",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - SC Rheinkamp",
+   "teamUrl": "https://www.fussball.de/mannschaft/sc-rheinkamp-sc-rheinkamp-niederrhein/-/saison/2627/team-id/011MIDP8N4000000VTVG0001VTR8C1K7",
+   "liga": "KL C Gruppe 2",
+   "spielklasse": "Kreisliga C",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
+   "naechste": [
+    {
+     "datum": "Freitag, 14.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SC Rheinkamp",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/sc-rheinkamp-tv-kapellen/-/spiel/031B7NOED8000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Viktoria Birten II",
+     "gast": "SC Rheinkamp",
+     "url": "https://www.fussball.de/spiel/sv-viktoria-birten-ii-sc-rheinkamp/-/spiel/031BG7IQVC000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "SC Rheinkamp",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sc-rheinkamp/-/spiel/031FVRL5V0000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SC Rheinkamp",
+     "gast": "FC Moers-Meerfeld II",
+     "url": "https://www.fussball.de/spiel/sc-rheinkamp-fc-moers-meerfeld-ii/-/spiel/031I6OV1G4000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TV Voerde II",
+     "gast": "SC Rheinkamp",
+     "url": "https://www.fussball.de/spiel/tv-voerde-ii-sc-rheinkamp/-/spiel/031DCJBT7C000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 14:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SC Rheinkamp",
+     "gast": "SpVgg. Rheurdt-Schaephuysen III",
+     "url": "https://www.fussball.de/spiel/sc-rheinkamp-spvgg-rheurdt-schaephuysen-iii/-/spiel/031N3R9AFG000000VS5489BUVT2M8LCU",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 09.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SC Rheinkamp",
+     "gast": "Post Siegfried Hamborn",
+     "url": "https://www.fussball.de/spiel/sc-rheinkamp-post-siegfried-hamborn/-/spiel/031CQ8VBQG000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 09.08.2026 - 12:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "Union Kr. 2",
+     "gast": "SC Rheinkamp",
+     "url": "https://www.fussball.de/spiel/union-kr-2-sc-rheinkamp/-/spiel/031IUACKDK000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 13:15 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "VfL Wedau",
+     "gast": "SC Rheinkamp",
+     "url": "https://www.fussball.de/spiel/vfl-wedau-sc-rheinkamp/-/spiel/031AA58BLO000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 30.07.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SC Rheinkamp",
+     "gast": "MTV Union Hamborn II",
+     "url": "https://www.fussball.de/spiel/sc-rheinkamp-mtv-union-hamborn-ii/-/spiel/031HNOMCJC000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SUS Rayen 1945",
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "mannschaft": "Herren - SuS Rayen",
+   "teamUrl": "https://www.fussball.de/mannschaft/sus-rayen-sus-rayen-1945-niederrhein/-/saison/2627/team-id/011MIA98AS000000VTVG0001VTR8C1K7",
+   "liga": "KL C Gruppe 2",
+   "spielklasse": "Kreisliga C",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SuS Rayen",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/sus-rayen-tv-kapellen/-/spiel/031FVRL5TG000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SuS Rayen",
+     "gast": "TuS Borth III",
+     "url": "https://www.fussball.de/spiel/sus-rayen-tus-borth-iii/-/spiel/031I6OV1CS000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 13:15 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "VFB Homberg III",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/vfb-homberg-iii-sus-rayen/-/spiel/031I6OV17O000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SuS Rayen",
+     "gast": "OSC 04 Rheinhausen II",
+     "url": "https://www.fussball.de/spiel/sus-rayen-osc-04-rheinhausen-ii/-/spiel/031I6OV0BC000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 22.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Alemannia Kamp II",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-ii-sus-rayen/-/spiel/031I6OV04S000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 12:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TS Rahm II",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/ts-rahm-ii-sus-rayen/-/spiel/031D560PF4000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TV Lobberich",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/tv-lobberich-sus-rayen/-/spiel/031E0CPG6O000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 15:15 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Traar 2",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/fc-traar-2-sus-rayen/-/spiel/031G8KDV3G000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 19.07.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "Spvgg Gustorf-Gindorf 24/27 II",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/spvgg-gustorf-gindorf-24-27-ii-sus-rayen/-/spiel/031CQF1VB4000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 07.06.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SuS Rayen",
+     "gast": "1.FC Lintfort III",
+     "url": "https://www.fussball.de/spiel/sus-rayen-1fc-lintfort-iii/-/spiel/02VLPSDG2K000000VS5489BUVUJA8J1O",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SV Alemannia Kamp",
+   "ort": "Kamp-Lintfort",
+   "zone": "kern",
+   "mannschaft": "Herren - SV Alemannia Kamp",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-alemannia-kamp-sv-alemannia-kamp-niederrhein/-/saison/2627/team-id/011MIA986S000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga B,",
+   "spielklasse": "Kreisliga B",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
+   "naechste": [
+    {
+     "datum": "Donnerstag, 13.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp",
+     "gast": "FC Neukirchen-Vluyn II",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-fc-neukirchen-vluyn-ii/-/spiel/03178IS1AK000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "VfL Rheinhausen",
+     "gast": "SV Alemannia Kamp",
+     "url": "https://www.fussball.de/spiel/vfl-rheinhausen-sv-alemannia-kamp/-/spiel/031D3H8S7O000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 21.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp",
+     "gast": "Concordia Rheinberg II",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-concordia-rheinberg-ii/-/spiel/031D4D5H98000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-sv-millingen/-/spiel/031HUV3NSK000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Viktoria Birten",
+     "gast": "SV Alemannia Kamp",
+     "url": "https://www.fussball.de/spiel/sv-viktoria-birten-sv-alemannia-kamp/-/spiel/031HBDT7A4000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV 19 Sevelen II",
+     "gast": "SV Alemannia Kamp",
+     "url": "https://www.fussball.de/spiel/sv-19-sevelen-ii-sv-alemannia-kamp/-/spiel/031641SBEC000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 06.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp",
+     "gast": "SV 1913 Walbeck II",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-sv-1913-walbeck-ii/-/spiel/0319GU07J4000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp",
+     "gast": "SV Spellen II",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-sv-spellen-ii/-/spiel/031CD43710000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 14:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp",
+     "gast": "SV Viktoria Birten",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-sv-viktoria-birten/-/spiel/03178I4KM4000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 07.06.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "1.FC Lintfort II",
+     "gast": "SV Alemannia Kamp",
+     "url": "https://www.fussball.de/spiel/1fc-lintfort-ii-sv-alemannia-kamp/-/spiel/02TSQPDEPO000000VS5489BTVTHCTAHT",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SV Budberg 1946",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "mannschaft": "Herren - SV Budberg",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-budberg-sv-budberg-1946-niederrhein/-/saison/2627/team-id/011MIEFDHS000000VTVG0001VTR8C1K7",
+   "liga": "Landesliga Gruppe 1",
+   "spielklasse": "Landesliga",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SV Budberg",
+     "gast": "VfB Speldorf",
+     "url": "https://www.fussball.de/spiel/sv-budberg-vfb-speldorf/-/spiel/031EKQ11QK000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SC Union Nettetal",
+     "gast": "SV Budberg",
+     "url": "https://www.fussball.de/spiel/sc-union-nettetal-sv-budberg/-/spiel/031EKQ113C000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SV Budberg",
+     "gast": "Duisburger FV 08",
+     "url": "https://www.fussball.de/spiel/sv-budberg-duisburger-fv-08/-/spiel/031EKQ10QK000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "ASV Süchteln",
+     "gast": "SV Budberg",
+     "url": "https://www.fussball.de/spiel/asv-suechteln-sv-budberg/-/spiel/031EKQ10GG000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SV Budberg",
+     "gast": "Mülheimer FC 97",
+     "url": "https://www.fussball.de/spiel/sv-budberg-muelheimer-fc-97/-/spiel/031EKQ0VSK000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SF 97/30 Lowick",
+     "gast": "SV Budberg",
+     "url": "https://www.fussball.de/spiel/sf-97-30-lowick-sv-budberg/-/spiel/031NE8BVI8000000VS5489BUVT2M8LCU",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "SV Budberg",
+     "gast": "Hamminkelner SV",
+     "url": "https://www.fussball.de/spiel/sv-budberg-hamminkelner-sv/-/spiel/031BQ9UJLS000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Nichtantritt GAST"
+    },
+    {
+     "datum": "Donnerstag, 06.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Neukirchen-Vluyn II",
+     "gast": "SV Budberg",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-ii-sv-budberg/-/spiel/03168NUCL4000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "SV Budberg",
+     "gast": "DJK Twisteden",
+     "url": "https://www.fussball.de/spiel/sv-budberg-djk-twisteden/-/spiel/031BQ9MNH0000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 15:30 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "SC 1911 Kapellen-Erft",
+     "gast": "SV Budberg",
+     "url": "https://www.fussball.de/spiel/sc-1911-kapellen-erft-sv-budberg/-/spiel/030UHSKD6C000000VS5489BTVT51B5B5",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SV Scherpenberg 1921",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - SV Scherpenberg",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-scherpenberg-sv-scherpenberg-1921-niederrhein/-/saison/2627/team-id/011MIB5RU0000000VTVG0001VTR8C1K7",
+   "liga": "Oberliga Niederrhein",
+   "spielklasse": "Oberliga Niederrhein",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "0311F9LVPS00000FVS5489BUVVARDA0V-G",
+   "naechste": [
+    {
+     "datum": "Freitag, 14.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Oberliga Niederrhein",
+     "heim": "SV Scherpenberg",
+     "gast": "ETB SW Essen",
+     "url": "https://www.fussball.de/spiel/sv-scherpenberg-etb-sw-essen/-/spiel/031EE4OE7G000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Oberliga Niederrhein",
+     "heim": "SV Sonsbeck",
+     "gast": "SV Scherpenberg",
+     "url": "https://www.fussball.de/spiel/sv-sonsbeck-sv-scherpenberg/-/spiel/031EE4ODHG000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Oberliga Niederrhein",
+     "heim": "SV Scherpenberg",
+     "gast": "TSV Meerbusch",
+     "url": "https://www.fussball.de/spiel/sv-scherpenberg-tsv-meerbusch/-/spiel/031EE4OD38000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 04.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Oberliga Niederrhein",
+     "heim": "Krefelder FC Uerdingen",
+     "gast": "SV Scherpenberg",
+     "url": "https://www.fussball.de/spiel/krefelder-fc-uerdingen-sv-scherpenberg/-/spiel/031EE4OC9C000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 11.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Oberliga Niederrhein",
+     "heim": "SV Scherpenberg",
+     "gast": "1. Spvg. Solingen-Wald",
+     "url": "https://www.fussball.de/spiel/sv-scherpenberg-1-spvg-solingen-wald/-/spiel/031EE4OBU8000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Verbands-Pokal",
+     "heim": "FC Kosova Düsseldorf",
+     "gast": "SV Scherpenberg",
+     "url": "https://www.fussball.de/spiel/fc-kosova-duesseldorf-sv-scherpenberg/-/spiel/031DG666VG000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 05.08.2026 - 19:15 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "FC Kray",
+     "gast": "SV Scherpenberg",
+     "url": "https://www.fussball.de/spiel/fc-kray-sv-scherpenberg/-/spiel/031K62J0DG000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "Anadolu- Türkspor Krefeld",
+     "gast": "SV Scherpenberg",
+     "url": "https://www.fussball.de/spiel/anadolu-tuerkspor-krefeld-sv-scherpenberg/-/spiel/031B9K4J1G000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "Schwarz-Weiss Alstaden",
+     "gast": "SV Scherpenberg",
+     "url": "https://www.fussball.de/spiel/schwarz-weiss-alstaden-sv-scherpenberg/-/spiel/031ARFS2DO000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 22.07.2026 - 19:45 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "TSV Meerbusch",
+     "gast": "SV Scherpenberg",
+     "url": "https://www.fussball.de/spiel/tsv-meerbusch-sv-scherpenberg/-/spiel/031E5FOJHK000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SV Schwafheim 1932",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - SV Schwafheim",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-schwafheim-sv-schwafheim-1932-niederrhein/-/saison/2627/team-id/011MIF5N78000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga A",
+   "spielklasse": "Kreisliga A",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
+   "naechste": [
+    {
+     "datum": "Freitag, 14.08.2026 - 19:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Baerl",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/tus-baerl-sv-schwafheim/-/spiel/031N62G65C000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/tus-borth-sv-schwafheim/-/spiel/031F2MR5EG000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SC Wacker Dinslaken",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/sc-wacker-dinslaken-sv-schwafheim/-/spiel/031LPJ2OKS000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SSV Rheintreu Lüttingen",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-sv-schwafheim/-/spiel/031H9RCE78000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Schwafheim",
+     "gast": "FC Viktoria Alpen",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-fc-viktoria-alpen/-/spiel/031H9RCDNO000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "Eintracht Walsum",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/eintracht-walsum-sv-schwafheim/-/spiel/031BR9F730000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 31.07.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Duissern",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/sv-duissern-sv-schwafheim/-/spiel/031KABJH44000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "GSG Duisburg",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/gsg-duisburg-sv-schwafheim/-/spiel/031F1T7FR8000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 07.06.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-sv-schwafheim/-/spiel/02TSPTNTT8000000VS5489BUVVJ8R9DS",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 31.05.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Schwafheim",
+     "gast": "Concordia Rheinberg",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-concordia-rheinberg/-/spiel/02TSPTNUTG000000VS5489BUVVJ8R9DS",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "TUS Xanten 05/22",
+   "ort": "Xanten",
+   "zone": "umland",
+   "mannschaft": "Herren - TUS Xanten",
+   "teamUrl": "https://www.fussball.de/mannschaft/tus-xanten-tus-xanten-05-22-niederrhein/-/saison/2627/team-id/011MIE0NIG000000VTVG0001VTR8C1K7",
+   "liga": "Bezirksliga Gruppe 4",
+   "spielklasse": "Bezirksliga",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "TUS Xanten",
+     "gast": "DJK Rhede",
+     "url": "https://www.fussball.de/spiel/tus-xanten-djk-rhede/-/spiel/031EO9MTR8000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "TuS Stenern",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/tus-stenern-tus-xanten/-/spiel/031EO9MT88000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "TUS Xanten",
+     "gast": "PSV Wesel-Lackhausen",
+     "url": "https://www.fussball.de/spiel/tus-xanten-psv-wesel-lackhausen/-/spiel/031EO9MSN8000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 04.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV 1926 Rindern",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/sv-1926-rindern-tus-xanten/-/spiel/031EO9MS3K000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "TUS Xanten",
+     "gast": "Hamminkelner SV",
+     "url": "https://www.fussball.de/spiel/tus-xanten-hamminkelner-sv/-/spiel/031EO9MRN4000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Verbands-Pokal",
+     "heim": "SF Broekhuysen",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/sf-broekhuysen-tus-xanten/-/spiel/031DG6685S000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 07.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/tus-borth-tus-xanten/-/spiel/031F2MDAQS000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "TUS Xanten",
+     "gast": "SC TuB Mussum",
+     "url": "https://www.fussball.de/spiel/tus-xanten-sc-tub-mussum/-/spiel/0317BM78S0000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 31.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "TUS Xanten",
+     "gast": "FC Neukirchen-Vluyn II",
+     "url": "https://www.fussball.de/spiel/tus-xanten-fc-neukirchen-vluyn-ii/-/spiel/0317BLJ6Q4000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Dienstag, 28.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SF Broekhuysen",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/sf-broekhuysen-tus-xanten/-/spiel/031CNS2AOS000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    }
+   ]
+  },
+  {
+   "verein": "TV Asberg 1897",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - TV Asberg I",
+   "teamUrl": "https://www.fussball.de/mannschaft/tv-asberg-i-tv-asberg-1897-niederrhein/-/saison/2627/team-id/011MIC29SO000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga A",
+   "spielklasse": "Kreisliga A",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
+   "naechste": [
+    {
+     "datum": "Donnerstag, 13.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SF Hamborn 07",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/sf-hamborn-07-tv-asberg-i/-/spiel/031OKSN4J8000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TV Asberg I",
+     "gast": "SV Schwafheim II",
+     "url": "https://www.fussball.de/spiel/tv-asberg-i-sv-schwafheim-ii/-/spiel/0317URNL0S000000VS5489BUVSBBVPEU",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 17:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Budberg III",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/sv-budberg-iii-tv-asberg-i/-/spiel/031H9RCED8000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 04.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "TV Asberg I",
+     "gast": "VfL Rheinhausen",
+     "url": "https://www.fussball.de/spiel/tv-asberg-i-vfl-rheinhausen/-/spiel/031H9RCE14000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 09.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "MSV Moers",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/msv-moers-tv-asberg-i/-/spiel/031H9RCF5S000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TV Asberg I",
+     "gast": "FC Taxi Duisburg",
+     "url": "https://www.fussball.de/spiel/tv-asberg-i-fc-taxi-duisburg/-/spiel/0317URHQRC000000VS5489BUVSBBVPEU",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Viktoria Buchholz",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/tus-viktoria-buchholz-tv-asberg-i/-/spiel/031D336AA4000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 29.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TSV Bruckhausen",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/tsv-bruckhausen-tv-asberg-i/-/spiel/03124UOFOC000000VS5489BTVT51B5B5",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Duissern",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/sv-duissern-tv-asberg-i/-/spiel/031AV7J0NG000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 24.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SF Königshardt",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/sf-koenigshardt-tv-asberg-i/-/spiel/031H11C6D8000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "TV Kapellen",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - TV Kapellen",
+   "teamUrl": "https://www.fussball.de/mannschaft/tv-kapellen-tv-kapellen-niederrhein/-/saison/2627/team-id/01HIS24VFS000000VV0AG80NVT6JKAPB",
+   "liga": "Kreisliga B,",
+   "spielklasse": "Kreisliga B",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
+   "naechste": [
+    {
+     "datum": "Freitag, 14.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SC Rheinkamp",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/sc-rheinkamp-tv-kapellen/-/spiel/031B7NOED8000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp II",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-ii-tv-kapellen/-/spiel/031OK2P0CO000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SuS Rayen",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/sus-rayen-tv-kapellen/-/spiel/031FVRL5TG000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 27.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Viktoria Alpen",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-tv-kapellen/-/spiel/0316NR024C000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "VfL Rheinhausen II",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/vfl-rheinhausen-ii-tv-kapellen/-/spiel/031HBDT71O000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SF 06 Sterkrade",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/sf-06-sterkrade-tv-kapellen/-/spiel/0316KKIH14000000VS5489BUVSBBVPEU",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SF 06 Sterkrade",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/sf-06-sterkrade-tv-kapellen/-/spiel/031K8O3KL8000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 09.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Menzelen II",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-ii-tv-kapellen/-/spiel/031D5MVOJ4000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 04.08.2026 - 19:45 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "DJK Vierlinden",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/djk-vierlinden-tv-kapellen/-/spiel/031LN5NMCO000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "Union Kr. 2",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/union-kr-2-tv-kapellen/-/spiel/031B6DDUA4000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "VFL Repelen 08",
+   "ort": "Moers",
+   "zone": "kern",
+   "mannschaft": "Herren - VfL Repelen",
+   "teamUrl": "https://www.fussball.de/mannschaft/vfl-repelen-vfl-repelen-08-niederrhein/-/saison/2627/team-id/011MIB78VG000000VTVG0001VTR8C1K7",
+   "liga": "Bezirksliga Gruppe 5",
+   "spielklasse": "Bezirksliga",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
+   "naechste": [
+    {
+     "datum": "Freitag, 14.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "GSV Moers II",
+     "gast": "VfL Repelen",
+     "url": "https://www.fussball.de/spiel/gsv-moers-ii-vfl-repelen/-/spiel/031JIMBRV8000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "MSV Moers III",
+     "gast": "VfL Repelen",
+     "url": "https://www.fussball.de/spiel/msv-moers-iii-vfl-repelen/-/spiel/0316AF0BD8000000VS5489BUVSBBVPEU",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Fortuna Bottrop",
+     "gast": "VfL Repelen",
+     "url": "https://www.fussball.de/spiel/sv-fortuna-bottrop-vfl-repelen/-/spiel/031ENENK4K000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 20.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Repelen",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-fc-moers-meerfeld/-/spiel/031CPLLKBG000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "VfL Repelen",
+     "gast": "SuS 21 Oberhausen",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-sus-21-oberhausen/-/spiel/031ENENJD8000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Freitag, 07.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Repelen",
+     "gast": "MSV Moers",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-msv-moers/-/spiel/031CPMA2SC000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 30.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Repelen",
+     "gast": "TSV Bockum 2",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-tsv-bockum-2/-/spiel/031CPMLI9O000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 28.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Repelen",
+     "gast": "SpVgg. Rheurdt-Schaephuysen II",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-spvgg-rheurdt-schaephuysen-ii/-/spiel/031CPM0GHK000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 12.07.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "MSV Moers III",
+     "gast": "VfL Repelen",
+     "url": "https://www.fussball.de/spiel/msv-moers-iii-vfl-repelen/-/spiel/0316AERS4K000000VS5489BUVSBBVPEU",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 07.06.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "TuS Viktoria Buchholz",
+     "gast": "VfL Repelen",
+     "url": "https://www.fussball.de/spiel/tus-viktoria-buchholz-vfl-repelen/-/spiel/02TQFL34VK000000VS5489BTVV0LE4BT",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  }
+ ],
+ "fehler": []
+}
