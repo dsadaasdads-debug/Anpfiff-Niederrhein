@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-13T19:20:35.528Z",
+ "aktualisiert": "2026-08-13T21:03:54.696Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -5729,31 +5729,6 @@
     "SV Menzelen 1925"
    ],
    "sportart": "Tischtennis",
-   "grund": "vereinsfeed"
-  },
-  {
-   "id": "www.borussia-veen.de/post/freizeitsportler-grillabend-mit-frauen",
-   "titel": "Freizeitsportler: Grillabend mit Frauen",
-   "url": "https://www.borussia-veen.de/post/freizeitsportler-grillabend-mit-frauen",
-   "teaser": "Am Samstag, den 11. Juli 2026 trafen sich die Freizeitsportler mit ihren Frauen um 18.00 Uhr an der Reithalle bei der Familie Albers-Dams, zu einem gemeinsamen Grillabend. Bei der letzten Abteilungsversammlung wurde dieses angeregt, und früher wäre es viel einfacher gewesen eine solche Veranstaltung abzuhalten. Ralf fragen und die Angelegenheit wäre erledegt. Doch heute ist es schwieriger, aber es hat geklapt. Der Abteilungsleiter Ditz van Gelder begrüßte alle Anwesenden recht herzlich und...",
-   "bild": "https://static.wixstatic.com/media/fcb389_c83e3be427bd43bba3c8208f0998d74c~mv2.jpg/v1/fit/w_480,h_441,al_c,q_80/file.png",
-   "datum": "2026-07-14T20:32:26.000Z",
-   "sortZeit": 1784032346000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "SV Borussia Veen",
-   "quelleName": "SV Borussia Veen 1920",
-   "auchIn": [],
-   "ort": "Alpen",
-   "ortSicher": true,
-   "orte": [
-    "Alpen"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "SV Borussia Veen 1920"
-   ],
-   "sportart": "Fußball",
    "grund": "vereinsfeed"
   }
  ]
