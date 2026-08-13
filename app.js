@@ -181,12 +181,15 @@
     }
   }
 
+  /**
+   * Die Karte ist ein <article>, nicht ein großes <a>. Nur der Titel ist der
+   * eigentliche Link; er überzieht die Karte per CSS-Pseudoelement. So bleibt
+   * die ganze Fläche anklickbar, und die Vereinsmarken darüber können echte
+   * Schaltflächen sein – Schaltflächen in einem Link wären ungültiges Markup.
+   */
   function karteBauen(artikel) {
-    const a = el('a', 'karte');
-    a.href = artikel.url;
-    a.target = '_blank';
-    a.rel = 'noopener noreferrer';
-    a.dataset.zone = artikel.zone;
+    const karte = el('article', 'karte');
+    karte.dataset.zone = artikel.zone;
 
     const innen = el('div', 'karte-innen');
 
@@ -201,7 +204,15 @@
     }
 
     const text = el('div', 'karte-text');
-    text.append(el('h2', null, artikel.titel));
+
+    const ueberschrift = el('h2');
+    const link = el('a', 'karte-titel', artikel.titel);
+    link.href = artikel.url;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    ueberschrift.append(link);
+    text.append(ueberschrift);
+
     if (artikel.teaser) text.append(el('p', null, artikel.teaser));
 
     const marken = el('div', 'marken');
@@ -211,10 +222,22 @@
       marken.append(el('span', 'marke-etikett ort', artikel.ort));
     }
     if (artikel.sportart) marken.append(el('span', 'marke-etikett', artikel.sportart));
-    for (const verein of artikel.vereine.slice(0, 2)) {
-      const stern = einstellungen.favoriten.includes(verein);
-      marken.append(el('span', `marke-etikett ${stern ? 'stern' : 'verein'}`, stern ? `★ ${verein}` : verein));
+
+    for (const verein of artikel.vereine.slice(0, 3)) {
+      const markiert = einstellungen.favoriten.includes(verein);
+      const knopf = el('button', `marke-etikett verein-knopf ${markiert ? 'stern' : 'verein'}`,
+        markiert ? `★ ${verein}` : `+ ${verein}`);
+      knopf.type = 'button';
+      knopf.title = markiert ? `${verein} aus „Meine Vereine“ entfernen` : `${verein} zu „Meine Vereine“ hinzufügen`;
+      knopf.setAttribute('aria-pressed', String(markiert));
+      knopf.addEventListener('click', () => {
+        umschalten(einstellungen.favoriten, verein);
+        zeichnen();
+        vereineZeichnen($('vereinssuche').value.trim().toLowerCase());
+      });
+      marken.append(knopf);
     }
+
     if (artikel.paywall === true) marken.append(el('span', 'marke-etikett schloss', '🔒 Bezahlartikel'));
     if (marken.childElementCount) text.append(marken);
 
@@ -225,8 +248,8 @@
     text.append(fuss);
 
     innen.append(text);
-    a.append(innen);
-    return a;
+    karte.append(innen);
+    return karte;
   }
 
   function zeichnen() {
@@ -355,6 +378,9 @@
     }
 
     if (liste.length === 0) behaelter.append(el('p', 'erklaerung', 'Kein Verein gefunden.'));
+
+    const n = einstellungen.favoriten.length;
+    $('vereine-zahl').textContent = n === 0 ? 'keiner gewählt' : n === 1 ? '1 gewählt' : `${n} gewählt`;
   }
 
   function quellenZeichnen() {

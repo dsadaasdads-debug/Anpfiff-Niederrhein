@@ -81,6 +81,17 @@
 
   <div class="blatt-inhalt">
     <section class="feld">
+      <h3>Meine Vereine <span class="zaehler" id="vereine-zahl"></span></h3>
+      <p class="erklaerung">
+        Markierte Vereine stehen im Feed immer oben und lassen sich über den Reiter
+        „★ Meine Vereine“ einzeln aufrufen. Du kannst einen Verein auch direkt in
+        einer Meldung antippen, um ihn hinzuzufügen.
+      </p>
+      <input type="search" id="vereinssuche" placeholder="Verein suchen…" autocomplete="off" aria-label="Vereinsliste durchsuchen">
+      <div class="vereinsliste" id="vereinsliste"></div>
+    </section>
+
+    <section class="feld">
       <h3>Sortierung</h3>
       <div class="segment" id="sortierung" role="radiogroup" aria-label="Sortierung">
         <button type="button" role="radio" data-wert="relevanz" aria-checked="true">Für dich</button>
@@ -112,13 +123,6 @@
       <h3>Orte im Hauptfeed</h3>
       <p class="erklaerung">Hier bestimmst du, welche Orte überhaupt auftauchen. Duisburg ist ohnehin nach hinten gestuft — wer es ganz loswerden will, hakt es hier ab.</p>
       <div class="wahlliste" id="orteliste"></div>
-    </section>
-
-    <section class="feld">
-      <h3>Meine Vereine</h3>
-      <p class="erklaerung">Markierte Vereine stehen im Feed immer oben und lassen sich über den Filter einzeln aufrufen.</p>
-      <input type="search" id="vereinssuche" placeholder="Verein suchen…" autocomplete="off" aria-label="Vereinsliste durchsuchen">
-      <div class="vereinsliste" id="vereinsliste"></div>
     </section>
 
     <section class="feld">

@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-13T15:08:56.258Z",
+ "aktualisiert": "2026-08-13T17:45:39.786Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 27
+   "eintraege": 26
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -594,6 +594,33 @@
  ],
  "artikel": [
   {
+   "id": "funke:412853579",
+   "titel": "Bestürzung beim Moerser SC: Cheftrainer Chang Cheng Liu wieder erkrankt",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412853579/bestuerzung-beim-moerser-sc-cheftrainer-chang-cheng-liu-wieder-erkrankt.html",
+   "teaser": "Volleyball-Ikone muss neue Aufgabe beim Drittligisten nach Rückschlag ruhen lassen. MSC plant deshalb auf der Cheftrainerposition um.",
+   "bild": "https://img.sparknews.funkemedien.de/412794906/412794906_1786623831_v16_9_600.jpeg",
+   "datum": "2026-08-13T17:00:00.000Z",
+   "sortZeit": 1786640400000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "Moerser SC"
+   ],
+   "sportart": "Volleyball",
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412832763",
    "titel": "SV Scherpenberg vor Oberliga-Start - Kapitän: Erlebnisse, die man nicht vergisst",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412832763/sv-scherpenberg-vor-oberliga-start-kapitaen-erlebnisse-die-man-nicht-vergisst.html",
@@ -658,9 +685,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Neukirchen-Vluyn",
    "ortSicher": true,
    "orte": [
@@ -673,6 +698,29 @@
    ],
    "sportart": "Fußball",
    "grund": "pfad"
+  },
+  {
+   "id": "rp:153091413",
+   "titel": "Wiedersehen mit Farke?: Gladbachs Nico Elvedi und Leeds United – das ist der Stand",
+   "url": "https://rp-online.de/sport/fussball/borussia/gladbach-holt-ex-coach-daniel-farke-nico-elvedi-zu-leeds-united_aid-153091413",
+   "teaser": "Dass Borussia Mönchengladbachs Abwehrchef Nico Elvedi möglicherweise entschwinden wird in diesem Sommer, ist schon lange Thema. Wird es nun konkret? Was Gladbachs Ex-Trainer Daniel Farke und der Hamburger SV damit zu tun haben könnten und wie das Ganze einzuordnen ist.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/2/9/8/3/9/3/tok_9e13b703a1b7c7bcff82f8252d1fd7f6/w1200_h630_x1796_y1197_04_09_2022_DP_BMG_M05_02501-914e9364c536c8b1.jpg",
+   "datum": "2026-08-13T17:08:05.000Z",
+   "sortZeit": 1786612085000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412849882",
@@ -830,6 +878,31 @@
    "zone": "umland",
    "vereine": [
     "TUS Xanten 05/22"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: Das sagt MSV-Trainer Hirsch zu einem möglichen Wechsel von Hahn",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-das-sagt-hirsch-zu-einem-moeglichen-wechsel-von-kapitaen-hahn_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-13T14:59:00.000Z",
+   "sortZeit": 1786561140000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
    ],
    "sportart": "Fußball",
    "grund": "rubrik"
@@ -1279,8 +1352,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
