@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-13T19:45:26.682Z",
+ "aktualisiert": "2026-08-13T22:25:08.204Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2369,15 +2369,6 @@
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Donnerstag, 13.08.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Alemannia Kamp",
-     "gast": "FC Neukirchen-Vluyn II",
-     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-fc-neukirchen-vluyn-ii/-/spiel/03178IS1AK000000VS5489BTVU7GTVLE",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
      "heim": "VfL Rheinhausen",
@@ -2412,9 +2403,27 @@
      "url": "https://www.fussball.de/spiel/sv-viktoria-birten-sv-alemannia-kamp/-/spiel/031HBDT7A4000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Alemannia Kamp",
+     "gast": "TuS Asterlagen II",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-tus-asterlagen-ii/-/spiel/031HBDT6HO000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 13.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp",
+     "gast": "FC Neukirchen-Vluyn II",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-fc-neukirchen-vluyn-ii/-/spiel/03178IS1AK000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
@@ -2450,15 +2459,6 @@
      "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-sv-viktoria-birten/-/spiel/03178I4KM4000000VS5489BTVU7GTVLE",
      "ergebnisVerschleiert": false,
      "hinweis": "Absetzung"
-    },
-    {
-     "datum": "Sonntag, 07.06.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "1.FC Lintfort II",
-     "gast": "SV Alemannia Kamp",
-     "url": "https://www.fussball.de/spiel/1fc-lintfort-ii-sv-alemannia-kamp/-/spiel/02TSQPDEPO000000VS5489BTVTHCTAHT",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -2904,15 +2904,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Donnerstag, 13.08.2026 - 20:00 Uhr",
-     "wettbewerb": "Bezirksfreundschaftsspiele",
-     "heim": "SF Hamborn 07",
-     "gast": "TV Asberg I",
-     "url": "https://www.fussball.de/spiel/sf-hamborn-07-tv-asberg-i/-/spiel/031OKSN4J8000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
      "heim": "TV Asberg I",
@@ -2947,9 +2938,27 @@
      "url": "https://www.fussball.de/spiel/msv-moers-tv-asberg-i/-/spiel/031H9RCF5S000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tv-asberg-i/-/spiel/031H9RCDA0000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 13.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SF Hamborn 07",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/sf-hamborn-07-tv-asberg-i/-/spiel/031OKSN4J8000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
@@ -2983,15 +2992,6 @@
      "heim": "SV Duissern",
      "gast": "TV Asberg I",
      "url": "https://www.fussball.de/spiel/sv-duissern-tv-asberg-i/-/spiel/031AV7J0NG000000VS5489BUVV628VP4",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Freitag, 24.07.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SF Königshardt",
-     "gast": "TV Asberg I",
-     "url": "https://www.fussball.de/spiel/sf-koenigshardt-tv-asberg-i/-/spiel/031H11C6D8000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
