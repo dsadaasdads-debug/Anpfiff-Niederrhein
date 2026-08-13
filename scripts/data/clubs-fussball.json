@@ -1,0 +1,415 @@
+[
+  {
+    "name": "1.FC Duisburg Dersimspor E.V.",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "1fc-duisburg-dersimspor-ev-niederrhein",
+    "id": "00ES8GN8VS00004QVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "1.FC Hagenshof",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "1fc-hagenshof-niederrhein",
+    "id": "00ES8GN8VS00003OVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "Biegerhof-Kicker E.V.",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "biegerhof-kicker-ev-niederrhein",
+    "id": "00ES8GN8VS000048VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "Blau-Weiß Neuenkamp 89/25",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "blau-weiss-neuenkamp-89-25-niederrhein",
+    "id": "00ES8GN8VS00002HVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "BSV Beeck 05",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "bsv-beeck-05-niederrhein",
+    "id": "00ES8GN8VS00002MVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "DJK 1928 Vierlinden",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "djk-1928-vierlinden-niederrhein",
+    "id": "00ES8GN8VS00003MVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "DJK Lösort-Meiderich 1921",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "djk-loesort-meiderich-1921-niederrhein",
+    "id": "00ES8GN8VS00002UVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "DSC Preußen",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "dsc-preussen-niederrhein",
+    "id": "00ES8GN8VS00002SVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "Duisburger FV 08",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "duisburger-fv-08-niederrhein",
+    "id": "00ES8GN8VS000020VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "Duisburger SV 1900",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "duisburger-sv-1900-niederrhein",
+    "id": "00ES8GN8VS000028VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "Eintracht 1848 Duisburg",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "eintracht-1848-duisburg-niederrhein",
+    "id": "00ES8GN8VS00001QVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "Eintracht Walsum 19/20 e. V.",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "eintracht-walsum-19-20-e-v-niederrhein",
+    "id": "01SLLBU4F0000000VS548984VUF3HKF9"
+  },
+  {
+    "name": "ESV Grün-Weiß Roland Meiderich",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "esv-gruen-weiss-roland-meiderich-niederrhein",
+    "id": "00ES8GN8VS00002PVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "ESV Hohenbudberg 1910/81",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "esv-hohenbudberg-1910-81-niederrhein",
+    "id": "00ES8GN8UK00009SVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "EtuS 1925 Bissingheim",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "etus-1925-bissingheim-niederrhein",
+    "id": "00ES8GN8VS00002QVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "EtuS Wedau e.V. 1929",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "etus-wedau-ev-1929-niederrhein",
+    "id": "00QRQEF31G000000VV0AG83KVUE21VIT"
+  },
+  {
+    "name": "FC Albania Duisburg e. V.",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "fc-albania-duisburg-e-v-niederrhein",
+    "id": "01SLL4990G000000VS548984VUF3HKF9"
+  },
+  {
+    "name": "FC Niederrhein Soccer",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "fc-niederrhein-soccer-niederrhein",
+    "id": "027GAG2CPC000000VS5489B6VV0QIDSC"
+  },
+  {
+    "name": "FC Rumeln-Kaldenhausen",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "fc-rumeln-kaldenhausen-niederrhein",
+    "id": "00ES8GN8UK0000AEVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "FC Taxi Duisburg",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "fc-taxi-duisburg-niederrhein",
+    "id": "00ES8GN8VS00003RVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SG MIH-Elf Homberg 1976",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "sg-mih-elf-homberg-1976-niederrhein",
+    "id": "00ES8GN8UK0000A5VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "TuS Baerl 1896/1919",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "tus-baerl-1896-1919-niederrhein",
+    "id": "00ES8GN8UK00009AVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "TV Kaldenhausen 05",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "tv-kaldenhausen-05-niederrhein",
+    "id": "00ES8GN8UK0000A6VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "VFB Homberg",
+    "ort": "Duisburg",
+    "zone": "duisburg",
+    "slug": "vfb-homberg-niederrhein",
+    "id": "00ES8GN8UK00008RVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "1. FC Lintfort",
+    "ort": "Kamp-Lintfort",
+    "zone": "kern",
+    "slug": "1-fc-lintfort-niederrhein",
+    "id": "00ES8GN8UK00009VVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Alemannia Kamp",
+    "ort": "Kamp-Lintfort",
+    "zone": "kern",
+    "slug": "sv-alemannia-kamp-niederrhein",
+    "id": "00ES8GN8UK0000A1VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "FC Mattheck Moers",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "fc-mattheck-moers-niederrhein",
+    "id": "02FT1FMCHO000000VS5489B5VV337TTG"
+  },
+  {
+    "name": "FC Moers-Meerfeld 1980",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "fc-moers-meerfeld-1980-niederrhein",
+    "id": "00ES8GN8UK000098VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "FC Rot-Weiß Moers 1926",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "fc-rot-weiss-moers-1926-niederrhein",
+    "id": "00ES8GN8UK000095VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "Grafschafter SV 1910 Moers",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "grafschafter-sv-1910-moers-niederrhein",
+    "id": "00ES8GN8UK000096VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "International Moers",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "international-moers-niederrhein",
+    "id": "020CE4SQKG000000VS54898FVTDUPKE2"
+  },
+  {
+    "name": "Meerbecker SV Moers 13/20",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "meerbecker-sv-moers-13-20-niederrhein",
+    "id": "00ES8GN8UK00008UVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SC Rheinkamp",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "sc-rheinkamp-niederrhein",
+    "id": "00ES8GN8UK00009CVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Scherpenberg 1921",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "sv-scherpenberg-1921-niederrhein",
+    "id": "00ES8GN8UK000092VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Schwafheim 1932",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "sv-schwafheim-1932-niederrhein",
+    "id": "00ES8GN8UK000099VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "TV Asberg 1897",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "tv-asberg-1897-niederrhein",
+    "id": "00ES8GN8UK0000A4VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "TV Kapellen",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "tv-kapellen-niederrhein",
+    "id": "01HHJI3SIK000000VV0AG80NVVRUTBB1"
+  },
+  {
+    "name": "VFL Repelen 08",
+    "ort": "Moers",
+    "zone": "kern",
+    "slug": "vfl-repelen-08-niederrhein",
+    "id": "00ES8GN8UK000097VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "FC Neukirchen-Vluyn",
+    "ort": "Neukirchen-Vluyn",
+    "zone": "kern",
+    "slug": "fc-neukirchen-vluyn-niederrhein",
+    "id": "023N9B3T58000000VS54898FVUC5MF3K"
+  },
+  {
+    "name": "SUS Rayen 1945",
+    "ort": "Neukirchen-Vluyn",
+    "zone": "kern",
+    "slug": "sus-rayen-1945-niederrhein",
+    "id": "00ES8GN8UK00009KVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "BSV 1951 Rot-Weiß Bönninghardt",
+    "ort": "Alpen",
+    "zone": "umland",
+    "slug": "bsv-1951-rot-weiss-boenninghardt-niederrhein",
+    "id": "00ES8GN8UK0000A7VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "FC Viktoria Alpen 1911",
+    "ort": "Alpen",
+    "zone": "umland",
+    "slug": "fc-viktoria-alpen-1911-niederrhein",
+    "id": "00ES8GN8UK00009BVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Borussia Veen 1920",
+    "ort": "Alpen",
+    "zone": "umland",
+    "slug": "sv-borussia-veen-1920-niederrhein",
+    "id": "00ES8GN8UK00009OVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Menzelen 1925",
+    "ort": "Alpen",
+    "zone": "umland",
+    "slug": "sv-menzelen-1925-niederrhein",
+    "id": "00ES8GN8UK00009HVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV E.Esters 1980 e. V.",
+    "ort": "Issum",
+    "zone": "umland",
+    "slug": "sv-eesters-1980-e-v-niederrhein",
+    "id": "00ES8GN8VS00000OVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Issum 1930",
+    "ort": "Issum",
+    "zone": "umland",
+    "slug": "sv-issum-1930-niederrhein",
+    "id": "00ES8GN8UK0000AUVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Sevelen 1919",
+    "ort": "Issum",
+    "zone": "umland",
+    "slug": "sv-sevelen-1919-niederrhein",
+    "id": "00ES8GN8UK0000ARVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "Concordia Rheinberg",
+    "ort": "Rheinberg",
+    "zone": "umland",
+    "slug": "concordia-rheinberg-niederrhein",
+    "id": "02EHTSUE2O000000VS5489B5VTC1HMKK"
+  },
+  {
+    "name": "SV Budberg 1946",
+    "ort": "Rheinberg",
+    "zone": "umland",
+    "slug": "sv-budberg-1946-niederrhein",
+    "id": "00ES8GN8UK00009FVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Concordia Ossenberg 82 e.V.",
+    "ort": "Rheinberg",
+    "zone": "umland",
+    "slug": "sv-concordia-ossenberg-82-ev-niederrhein",
+    "id": "00ES8GN8UK00009TVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Millingen 1928",
+    "ort": "Rheinberg",
+    "zone": "umland",
+    "slug": "sv-millingen-1928-niederrhein",
+    "id": "00ES8GN8UK0000A2VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Orsoy 1919",
+    "ort": "Rheinberg",
+    "zone": "umland",
+    "slug": "sv-orsoy-1919-niederrhein",
+    "id": "00ES8GN8UK00009IVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "TuS Borth 71",
+    "ort": "Rheinberg",
+    "zone": "umland",
+    "slug": "tus-borth-71-niederrhein",
+    "id": "00ES8GN8UK00009EVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "TuS Rheinberg 08",
+    "ort": "Rheinberg",
+    "zone": "umland",
+    "slug": "tus-rheinberg-08-niederrhein",
+    "id": "00ES8GN8UK00009LVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SpVgg. Rheurdt-Schaephuysen",
+    "ort": "Rheurdt",
+    "zone": "umland",
+    "slug": "spvgg-rheurdt-schaephuysen-niederrhein",
+    "id": "00ES8GN8UK00009QVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "DJK Eintracht Wardt 1929",
+    "ort": "Xanten",
+    "zone": "umland",
+    "slug": "djk-eintracht-wardt-1929-niederrhein",
+    "id": "00ES8GN8UK0000A3VV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SSV Rheintreu Lüttingen",
+    "ort": "Xanten",
+    "zone": "umland",
+    "slug": "ssv-rheintreu-luettingen-niederrhein",
+    "id": "00ES8GN8UK00009JVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "SV Vynen-Marienbaum 1997",
+    "ort": "Xanten",
+    "zone": "umland",
+    "slug": "sv-vynen-marienbaum-1997-niederrhein",
+    "id": "00ES8GN8UK00009PVV0AG08LVUPGND5I"
+  },
+  {
+    "name": "TUS Xanten 05/22",
+    "ort": "Xanten",
+    "zone": "umland",
+    "slug": "tus-xanten-05-22-niederrhein",
+    "id": "00ES8GN8UK0000AAVV0AG08LVUPGND5I"
+  }
+]

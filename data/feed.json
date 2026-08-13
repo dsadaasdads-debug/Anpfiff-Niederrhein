@@ -1,0 +1,1639 @@
+{
+ "aktualisiert": "2026-08-13T07:43:17.946Z",
+ "behaltenTage": 30,
+ "zonen": {
+  "kern": {
+   "label": "Kernstädte",
+   "punkte": 100,
+   "versatzStunden": 0
+  },
+  "umland": {
+   "label": "Umland",
+   "punkte": 60,
+   "versatzStunden": -8
+  },
+  "duisburg": {
+   "label": "Duisburg",
+   "punkte": 30,
+   "versatzStunden": -20
+  }
+ },
+ "quellen": [
+  {
+   "id": "fuechse-duisburg",
+   "name": "Füchse Duisburg",
+   "status": "ok",
+   "eintraege": 10
+  },
+  {
+   "id": "nrz-duisburg",
+   "name": "NRZ Duisburg",
+   "status": "ok",
+   "eintraege": 75
+  },
+  {
+   "id": "nrz-fussball",
+   "name": "NRZ Fußball",
+   "status": "ok",
+   "eintraege": 71
+  },
+  {
+   "id": "nrz-lokalsport",
+   "name": "NRZ Lokalsport",
+   "status": "ok",
+   "eintraege": 24
+  },
+  {
+   "id": "rp-duisburg",
+   "name": "RP Online Duisburg",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "rp-fussball",
+   "name": "RP Online Fußball",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "rp-kamp-lintfort",
+   "name": "RP Online Kamp-Lintfort",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "rp-moers",
+   "name": "RP Online Moers",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "rp-neukirchen-vluyn",
+   "name": "RP Online Neukirchen-Vluyn",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "rp-rheinberg",
+   "name": "RP Online Rheinberg",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "rp-sport-duisburg",
+   "name": "RP Online Sport Duisburg",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "rp-sport-moers",
+   "name": "RP Online Sport Moers",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "rp-sport-wesel",
+   "name": "RP Online Sport Wesel",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "rp-sport-xanten",
+   "name": "RP Online Sport Xanten und Rheinberg",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "rp-xanten",
+   "name": "RP Online Xanten",
+   "status": "ok",
+   "eintraege": 20
+  },
+  {
+   "id": "waz-duisburg",
+   "name": "WAZ Duisburg",
+   "status": "ok",
+   "eintraege": 76
+  }
+ ],
+ "vereine": [
+  {
+   "name": "1.FC Duisburg Dersimspor E.V.",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "1.FC Hagenshof",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Biegerhof-Kicker E.V.",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Blau-Weiß Neuenkamp 89/25",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "BSV Beeck 05",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "DJK 1928 Vierlinden",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "DJK Lösort-Meiderich 1921",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "DSC Preußen",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Duisburger FV 08",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Duisburger SV 1900",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Eintracht 1848 Duisburg",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Eintracht Walsum 19/20 e. V.",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "ESV Grün-Weiß Roland Meiderich",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "ESV Hohenbudberg 1910/81",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "EtuS 1925 Bissingheim",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "EtuS Wedau e.V. 1929",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "FC Albania Duisburg e. V.",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "FC Niederrhein Soccer",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "FC Rumeln-Kaldenhausen",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "FC Taxi Duisburg",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SG MIH-Elf Homberg 1976",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "TuS Baerl 1896/1919",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "TV Kaldenhausen 05",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "VFB Homberg",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "1. FC Lintfort",
+   "ort": "Kamp-Lintfort",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Alemannia Kamp",
+   "ort": "Kamp-Lintfort",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "FC Mattheck Moers",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "FC Moers-Meerfeld 1980",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "FC Rot-Weiß Moers 1926",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Grafschafter SV 1910 Moers",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "International Moers",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Meerbecker SV Moers 13/20",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SC Rheinkamp",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Scherpenberg 1921",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Schwafheim 1932",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "TV Asberg 1897",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "TV Kapellen",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "VFL Repelen 08",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "FC Neukirchen-Vluyn",
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SUS Rayen 1945",
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "BSV 1951 Rot-Weiß Bönninghardt",
+   "ort": "Alpen",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "FC Viktoria Alpen 1911",
+   "ort": "Alpen",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Borussia Veen 1920",
+   "ort": "Alpen",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Menzelen 1925",
+   "ort": "Alpen",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV E.Esters 1980 e. V.",
+   "ort": "Issum",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Issum 1930",
+   "ort": "Issum",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Sevelen 1919",
+   "ort": "Issum",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Concordia Rheinberg",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Budberg 1946",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Concordia Ossenberg 82 e.V.",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Millingen 1928",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Orsoy 1919",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "TuS Borth 71",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "TuS Rheinberg 08",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SpVgg. Rheurdt-Schaephuysen",
+   "ort": "Rheurdt",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "DJK Eintracht Wardt 1929",
+   "ort": "Xanten",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SSV Rheintreu Lüttingen",
+   "ort": "Xanten",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "SV Vynen-Marienbaum 1997",
+   "ort": "Xanten",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "TUS Xanten 05/22",
+   "ort": "Xanten",
+   "zone": "umland",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Moerser SC",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Volleyball"
+  },
+  {
+   "name": "Moerser TV",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Turnen"
+  },
+  {
+   "name": "Black Tigers Moers",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Eishockey"
+  },
+  {
+   "name": "TV Schwafheim",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Handball"
+  },
+  {
+   "name": "HSG Moers",
+   "ort": "Moers",
+   "zone": "kern",
+   "sportart": "Handball"
+  },
+  {
+   "name": "RFV Rheurdt",
+   "ort": "Rheurdt",
+   "zone": "umland",
+   "sportart": "Reitsport"
+  },
+  {
+   "name": "RV Eversael",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "sportart": "Reitsport"
+  },
+  {
+   "name": "MSV Duisburg",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Fußball"
+  },
+  {
+   "name": "Füchse Duisburg",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Eishockey"
+  },
+  {
+   "name": "Regattabahn Duisburg",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Rudern & Kanu"
+  }
+ ],
+ "artikel": [
+  {
+   "id": "funke:412846367",
+   "titel": "Zwei Angreifer laufen weiterhin für die Black Tigers Moers auf",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412846367/zwei-angreifer-laufen-weiterhin-fuer-die-black-tigers-moers-auf.html",
+   "teaser": "Die Verantwortlichen des Eishockey-Regionalligisten freuen sich über die nächsten Zusagen für die kommende Saison.",
+   "bild": "https://img.sparknews.funkemedien.de/412846390/412846390_1786550873_v16_9_1600.jpeg",
+   "datum": "2026-08-12T16:10:51.000Z",
+   "sortZeit": 1786551051000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "Black Tigers Moers"
+   ],
+   "sportart": "Eishockey",
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412848894",
+   "titel": "SV Genc Osman: Klare Kante in Sachen Saisonziel",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412848894/sv-genc-osman-klare-kante-in-sachen-saisonziel.html",
+   "teaser": "Der Bezirksligist aus Neumühl hat eine intensive Vorbereitung hinter sich. Zum Abschluss gab es einen 5:2-Sieg gegen Landesliga-Neuling DFV 08.",
+   "bild": "https://img.sparknews.funkemedien.de/412848933/412848933_1786603460_v16_9_1600.jpeg",
+   "datum": "2026-08-13T06:44:49.000Z",
+   "sortZeit": 1786531489000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412848815",
+   "titel": "Bolzplatz, Jugend, Landesliga: Die neuen Visionen des FSV Duisburg",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412848815/bolzplatz-jugend-landesliga-die-neuen-visionen-des-fsv-duisburg.html",
+   "teaser": "Die Ziele für die Entwicklung des Bezirksliga-Rückkehrers klingen anders als noch vor einigen Jahren – und vor allem vernünftiger.",
+   "bild": "https://img.sparknews.funkemedien.de/412848867/412848867_1786602801_v16_9_1600.jpeg",
+   "datum": "2026-08-13T06:33:49.000Z",
+   "sortZeit": 1786530829000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412837939",
+   "titel": "TV Schwafheim geht ohne Hallentraining ins erste Testspiel und zeigt Moral",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412837939/tv-schwafheim-geht-ohne-hallentraining-ins-erste-testspiel-und-zeigt-moral.html",
+   "teaser": "Die Verbandsliga-Handballer steigern nach holprigen Beginn beim Oberligisten HSG Hiesfeld/Aldenrade ihr Engagement und verlieren knapp.",
+   "bild": "https://img.sparknews.funkemedien.de/412837998/412837998_1786528179_v16_9_1600.jpeg",
+   "datum": "2026-08-12T09:51:15.000Z",
+   "sortZeit": 1786528275000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TV Schwafheim"
+   ],
+   "sportart": "Handball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152957881",
+   "titel": "Landesliga-Auftakt am Sonntag: SV Budberg – wer bisher überzeugt hat und wo es noch hakt",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-wilke-verraet-wer-ihn-positiv-ueberrascht-hat_aid-152957881",
+   "teaser": "Tim Wilke analysiert die Vorbereitung des SV Budberg schonungslos. Drei Neuzugänge überzeugen, zwei Positionen sind offen. Welche Spieler der Trainer lobt.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/9/8/4/7/9/1/tok_e520cc26f4cb2fdb4990394aae5607e6/w1200_h630_x1350_y900_rp_20260405_J_0512-e7b136c7cf2d316b.jpg",
+   "datum": "2026-08-12T11:48:00.000Z",
+   "sortZeit": 1786506480000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153002921",
+   "titel": "Leichtathletik-EM in England: Hürdensprinterin Franziska Schuster stürzt und steht unter Schock",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/franziska-schuster-stuerzt-bei-em-erster-sturz-der-karriere_aid-153002921",
+   "teaser": "Franziska Schuster aus Xanten stürzt im EM-Halbfinale über 100 Meter Hürden – erstmals in ihrer Karriere. Die DM-Rekordhalterin steht unter Schock.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/0/9/2/5/0/9/tok_68b69396e1b8db355f0649315e9d7916/w1200_h630_x606_y1199_DPA_dpa_c6aglsgmfa-v3-ax-ms6144-e52351a4667168b1.jpeg",
+   "datum": "2026-08-12T06:26:00.000Z",
+   "sortZeit": 1786487160000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Leichtathletik",
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412844528",
+   "titel": "Zäsur bei MSV-Gegner SC Verl: Die Torfabrik ist geschlossen",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412844528/zaesur-bei-msv-gegner-sc-verl-die-torfabrik-ist-geschlossen.html",
+   "teaser": "Der MSV Duisburg holte gegen den SC Verl in der letzten Saison sechs Punkte. Die Ostwestfalen treten mit einer neu formierten Mannschaft an.",
+   "bild": "https://img.sparknews.funkemedien.de/412845496/412845496_1786545837_v16_9_1600.jpeg",
+   "datum": "2026-08-12T15:01:56.000Z",
+   "sortZeit": 1786474916000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412843672",
+   "titel": "Beim VfB Homberg hat nach dem Abstieg eine neue Zeitrechnung begonnen",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412843672/beim-vfb-homberg-hat-nach-dem-abstieg-eine-neue-zeitrechnung-begonnen.html",
+   "teaser": "Nach dem Abstieg aus der Oberliga hält Trainer Daniel Beine den Ball erst einmal flach. Prominenter Neuzugang mit viel Erfahrung.",
+   "bild": "https://img.sparknews.funkemedien.de/412843734/412843734_1786540415_v16_9_1600.jpeg",
+   "datum": "2026-08-12T13:54:28.000Z",
+   "sortZeit": 1786470868000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412840787",
+   "titel": "Kurz vor Saisonstart: VfB Homberg holt Neuzugang mit viel Regionalliga-Erfahrung",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412840787/kurz-vor-saisonstart-vfb-homberg-holt-neuzugang-mit-viel-regionalliga-erfahrung.html",
+   "teaser": "Der Oberliga-Absteiger kann mit einem Rückkehrer eine Lücke schließen, der schon viertklassig für die Gelb-Schwarzen gespielt hat.",
+   "bild": "https://img.sparknews.funkemedien.de/412840864/412840864_1786529938_v16_9_1600.jpeg",
+   "datum": "2026-08-12T10:22:27.000Z",
+   "sortZeit": 1786458147000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152913065",
+   "titel": "Sorgen vor dem Saisonstart: Borussia Veen hat immer noch ein großes Problem",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/bezirksligist-borussia-veen-hat-noch-einige-baustellen_aid-152913065",
+   "teaser": "Alexander Wisniewski, Trainer des Fußball-Bezirksligisten, ist zwar unter dem Strich mit der Vorbereitung zufrieden. Doch bei der Generalprobe gegen den VfL Tönisberg wird deutlich, woran es in erster Linie noch hakt.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/8/8/2/2/0/9/tok_57e40c195582162aa2d1b793cb123b38/w1200_h630_x1350_y900_rp_20260329_J_1306-8900133cbf96c219.jpg",
+   "datum": "2026-08-10T16:38:04.000Z",
+   "sortZeit": 1786351084000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [
+    "RP Online Xanten"
+   ],
+   "ort": "Alpen",
+   "ortSicher": false,
+   "orte": [
+    "Alpen",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152911919",
+   "titel": "Starker Auftritt in Bocholt: SV Budberg kommt rechtzeitig vor dem Saisonstart in Fahrt",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-kommt-puenktlich-zum-landesliga-saisonstart-in-fahrt_aid-152911919",
+   "teaser": "Der Fußball-Landesligist feiert im letzten Härtetest ein 5:0 beim Bezirksligisten SF Lowick und damit eine gelungene Generalprobe. Trainer Tim Wilke ist überhaupt nicht traurig darüber, dass Torjäger Moritz Paul leer ausgeht.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/8/7/8/5/3/1/tok_b1afd33b3da28effb942a843cfc4cec6/w1200_h630_x1350_y901_rp_20260801_J_0560-b25a5c8e11b6a017.jpg",
+   "datum": "2026-08-10T16:06:18.000Z",
+   "sortZeit": 1786349178000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [
+    "RP Online Xanten"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152853195",
+   "titel": "Die ersten Runde: Wuppertaler SV und Schonnebeck machen es wild",
+   "url": "https://rp-online.de/nrw/staedte/ratingen/sport/niederrheinpokal-wuppertaler-sv-und-schonnebeck-im-elfmeterschiessen_aid-152853195",
+   "teaser": "Die erste Runde im Niederrheinpokal ist angelaufen, die Profi-Teams wie die Drittligisten MSV Duisburg und Fortuna Düsseldorf steigen später ein. Ein Highlight gab es beim Wuppertaler SV gegen die SpVg. Schonnebeck schon – leider vor Geisterkulisse.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/7/4/7/9/8/9/tok_9f735fc90ff3a74db4d350a28625845c/w1200_h630_x1481_y1040_DPA_bfunk_dpa_5FB0EC003F6C19B0-3d6ace7567646a29.jpg",
+   "datum": "2026-08-10T10:30:00.000Z",
+   "sortZeit": 1786285800000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Duisburg",
+   "auchIn": [
+    "RP Online Duisburg"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152759167",
+   "titel": "Letztes Testspiel: SV Sonsbeck im Torrausch – doch Heinrich Losing zögert noch",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-sonsbeck-gewinnt-generalprobe-beim-sv-biemenhorst_aid-152759167",
+   "teaser": "Klarer 5:0-Sieg für den SV Sonsbeck im Testspiel beim SV Biemehorst: Zwei Fragen sind vor dem Saisonstart in wenigen Tagen aber noch offen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/5/5/1/9/5/3/tok_5f6b1d6bdc3c3d47e2ec343922b4563d/w1200_h630_x1796_y1197_rp_20250803_J_02092-625cbb38605bfa27.jpg",
+   "datum": "2026-08-09T16:50:00.000Z",
+   "sortZeit": 1786265400000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152759151",
+   "titel": "Niederrheinpokal-Debüt: Nur 100 Zuschauer verfolgen die historische Premiere des Büdericher SV",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/buedericher-sv-kaum-zuschauer-bei-niederrheinpokal-debuet_aid-152759151",
+   "teaser": "Der Büdericher SV verliert die Niederrheinpokal-Premiere gegen Nettetal. Trainer Griesdorn sieht aber Fortschritte. Neuer Kunstrasen wird bald eröffnet.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/5/5/1/9/1/9/tok_fc6d48c867a1c6d169c43a95caf36dfd/w1200_h630_x1350_y900_rp_20260809_J_0028-a4d50c72457651b9.jpg",
+   "datum": "2026-08-09T16:32:00.000Z",
+   "sortZeit": 1786264320000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Sport Wesel",
+    "RP Online Moers"
+   ],
+   "ort": "Xanten",
+   "ortSicher": false,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152759225",
+   "titel": "Niederrheinpokal: Deshalb ist der TuS Xanten schon in der ersten Runde gescheitert",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/niederrheinpokal-tus-xanten-verliert-gegen-broekhuysen_aid-152759225",
+   "teaser": "Der TuS Xanten verliert in Runde eins des Niederrheinpokals gegen Broekhuysen. Trainer Dietrich analysiert die Niederlage und blickt auf den Saisonstart.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/5/5/2/0/5/7/tok_98211a9cbe80da30b00f06e01654ce57/w1200_h630_x1796_y1197_rp_NOP_0391_b-000e6433f4123814.jpg",
+   "datum": "2026-08-09T16:02:00.000Z",
+   "sortZeit": 1786262520000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers"
+   ],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "TUS Xanten 05/22"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152716229",
+   "titel": "Pokal-Aus beim FSV Duisburg: Viktoria Goch erlebt ein ganz böses Erwachen",
+   "url": "https://rp-online.de/nrw/staedte/kleve/sport/niederrheinpokal-viktoria-goch-blamiert-sich-in-duisburg_aid-152716229",
+   "teaser": "Viktoria Goch kassiert beim Bezirksligisten FSV Duisburg drei Gegentore in zehn Minuten und fliegt aus dem Niederrheinpokal. Trainer Wolze übt Kritik.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/4/5/2/0/4/3/tok_c14f3418dbff2dd374e50138e721f1e2/w1200_h630_x1500_y1001_Fussball-Bezirksliga--Viktoria-Goch-TSV-Krefeld-Bockum-29092024-7868-0fecfb606d3ee02f.jpg",
+   "datum": "2026-08-09T17:36:00.000Z",
+   "sortZeit": 1786224960000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Duisburg",
+   "auchIn": [
+    "RP Online Duisburg"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "fuechse-duisburg.de/hundepension-hollerhof-wird-neuer-business-partner-der-fuechse",
+   "titel": "Hundepension Hollerhof wird neuer Business Partner der Füchse",
+   "url": "https://fuechse-duisburg.de/hundepension-hollerhof-wird-neuer-business-partner-der-fuechse/",
+   "teaser": "Mit der Hundepension Hollerhof begrüßen wir einen neuen Business Partner der Füchse. Seit 1998 bietet die kleine, familiär geführte Hundepension in Duisburg eine erfahrene und zuverlässige Betreuung für Vierbeiner. Im Mittelpunkt steht dabei, dass sich die Hunde während ihres Aufenthalts rundum wohlfühlen und eine schöne Zeit mit ausreichend Auslauf, Spiel und Kontakt zu Artgenossen verbringen […]",
+   "bild": "https://fuechse-duisburg.de/wp-content/uploads/2025/06/spon_hp.jpg",
+   "datum": "2026-08-08T15:00:00.000Z",
+   "sortZeit": 1786129200000,
+   "punkte": 40,
+   "paywall": null,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "grund": "vereinsfeed"
+  },
+  {
+   "id": "rp:152711285",
+   "titel": "Knapper Sieg in Neukirchen-Vluyn: Beim SV Budberg ist noch viel Sand im Getriebe",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-siegt-in-neukirchen-vluyn-kritik-von-trainer-wilke_aid-152711285",
+   "teaser": "5:4-Sieg für den SV Budberg beim FC Neukirchen-Vluyn II – doch Trainer Tim Wilke ist nicht zufrieden. Was er nach der turbulenten Partie kritisiert.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/4/3/9/1/6/3/tok_d357df8050aa0e4a3075c7761f98efd4/w1200_h630_x1796_y1198_rp_20250202_J_0457-d91f1f2ee50b9551.jpg",
+   "datum": "2026-08-07T10:32:00.000Z",
+   "sortZeit": 1786098720000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg"
+   ],
+   "ort": "Neukirchen-Vluyn",
+   "ortSicher": true,
+   "orte": [
+    "Neukirchen-Vluyn",
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "FC Neukirchen-Vluyn",
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152711241",
+   "titel": "Große Bühne Niederrheinpokal: Ein historischer Sonntag für den Büdericher SV und TuS Xanten",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/niederrheinpokal-historischer-tag-fuer-xanten-und-buederich_aid-152711241",
+   "teaser": "Historische Momente: Der Büdericher SV und der TuS Xanten starten im Niederrheinpokal. Beide wollen gegen schwere Gegner überraschen. Alle Infos zum Pokal-Sonntag.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/4/3/9/0/5/5/tok_c71469efeceff194c3555913c2a72ae1/w1200_h630_x1492_y996_rp_20250704_J_00336-ab6da63413da15a7.jpg",
+   "datum": "2026-08-07T11:39:00.000Z",
+   "sortZeit": 1786073940000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Sport Wesel"
+   ],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "TUS Xanten 05/22"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152711321",
+   "titel": "Blitz-Transfer in der Regionalliga: Hirschberger findet binnen Stunden neuen Verein nach Bocholt-Aus",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/hirschberger-blitzwechsel-von-bocholt-zu-wattenscheid-09_aid-152711321",
+   "teaser": "Nur Stunden nach der Vertragsauflösung beim 1. FC Bocholt kehrt der Rheinberger Nicolas Hirschberger zu Wattenscheid 09 zurück.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/4/3/9/2/8/1/tok_a9e8913b65b30bac360d3f5798e44cfa/w1200_h630_x1448_y967_rp_20250705_J_02482-21e31759d4e69cd0.jpg",
+   "datum": "2026-08-07T09:57:00.000Z",
+   "sortZeit": 1786067820000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152707601",
+   "titel": "Komplettes Team vor dem Aus: FC Rot-Weiß Moers trifft Entscheidung über seine Zukunft",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fc-rot-weiss-moers-entscheidung-ueber-zukunft-gefallen_aid-152707601",
+   "teaser": "Das erste Fußballteam des FC Rot-Weiß Moers stand vor dem Aus. Jetzt ist entschieden, wie es beim Traditionsklub aus Hülsdonk weitergeht.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/4/3/0/2/5/1/tok_c3cd3db952dbe8cfa198a609157fb309/w1200_h630_x1536_y1024_060402ema274-0579a723e69bf392.jpg",
+   "datum": "2026-08-06T13:32:00.000Z",
+   "sortZeit": 1786023120000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Xanten"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "FC Rot-Weiß Moers 1926"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152650573",
+   "titel": "Testspiel gegen DJK Adler Union Frintrop: SV Sonsbeck kämpft sich zurück – und der Krankenwagen kommt",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-sonsbeck-rettet-2-2-schock-nach-sturz-eines-spielers_aid-152650573",
+   "teaser": "Der SV Sonsbeck gleicht in letzter Minute aus – doch ein brutaler Sturz überschattet alles. Ein 19-Jähriger schreit vor Schmerzen. Was dann geschah.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/2/9/6/4/6/3/tok_5a374bd8924e98e36dac969f3847efe4/w1200_h630_x1796_y1197_rp_NOP_9978_b-dff131824925e3e9.jpg",
+   "datum": "2026-08-06T12:58:00.000Z",
+   "sortZeit": 1785992280000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152465719",
+   "titel": "Vize-Meisterin und WM-Träume: Basketballerin Maja Manten spielt sich in den Vordergrund",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/basketball-maja-manten-wird-deutsche-vize-meisterin-und-traeumt-von-der-wm_aid-152465719",
+   "teaser": "Maja Manten darf sich Deutsche Vize-Meisterin im 3x3-Basketball nennen. Mit der deutschen U23-Nationalmannschaft träumt die Xantenerin von der WM-Teilnahme. Warum die 20-Jährige bei New Basket Oberhausen Führungsspielerin ist.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/8/7/1/9/2/1/tok_6a0fb6307b627b08e99aaf96d5ce6164/w1200_h630_x1465_y976_7voGyMrg-99eb5b5923e7933d.jpeg",
+   "datum": "2026-08-04T07:15:34.000Z",
+   "sortZeit": 1785798934000,
+   "punkte": 70,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Basketball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152473525",
+   "titel": "„Wir werden keine 100 Tore schießen“: Der SV Budberg II darf endlich einmal Außenseiter sein",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-ii-sorgt-fuer-premiere-in-der-vereinsgeschichte_aid-152473525",
+   "teaser": "Die von Ulf Deutz trainierte Reserve hat mit dem Aufstieg in die Fußball-Bezirksliga für eine Premiere gesorgt. Noch läuft in der Vorbereitung nicht alles rund. Doch immerhin hat die Klever Kirmes schon einmal den Mannschaftsgeist gefördert.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/8/9/1/7/2/7/tok_0686cae48dca3b045fedcf7cd20496ba/w1200_h630_x1350_y899_rp_20260114_J_0290-dc9ead0605d9e445.jpg",
+   "datum": "2026-08-03T13:07:11.000Z",
+   "sortZeit": 1785733631000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152408367",
+   "titel": "Neuzugang Philipp Starbatty trifft: Borussia Veen spielt schon wie ein Geheimfavorit",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/borussia-veen-ist-bereit-fuer-die-fussball-bezirksliga_aid-152408367",
+   "teaser": "Der Fußball-Bezirksligist präsentiert sich in der Vorbereitung in erstaunlicher Frühform. Bei Rot-Weiß Oberhausen II ist die Mannschaft über weite Strecken klar überlegen. Das sagt Trainer Alexander Wisniewski nach dem klaren 6:3-Erfolg.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/7/5/4/7/2/7/tok_ca7252e77ddc428697a395bda808501c/w1200_h630_x1796_y1197_rp_20260712_J_1064-100e26acdad72816.jpg",
+   "datum": "2026-08-03T11:24:58.000Z",
+   "sortZeit": 1785727498000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [],
+   "ort": "Alpen",
+   "ortSicher": false,
+   "orte": [
+    "Alpen",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152483881",
+   "titel": "Jugendmeisterschaften im Gespannfahren : Lilly Witt steckt Rückschlag bei der DM weg",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/jugend-dm-im-fahrsport-lilly-witt-scheidet-beim-gelaendefahren-aus_aid-152483881",
+   "teaser": "Nachwuchsfahrerin Lilly Witt vom RFV Rheurdt muss bei der Jugend-DM in Badeborn einen Rückschlag im Gelände hinnehmen. Die junge Xantenerin zeigt mit Pony Grande aber Kampfgeist und überzeugt im Kegelfahren.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/9/1/6/9/4/7/tok_ae6d0440b295d4fb0ec25da35ee530d8/w1200_h630_x680_y539_4bc3f73c-74be-4ac8-a175-7188667401cb-16ed528222656594.JPG",
+   "datum": "2026-08-03T05:00:00.000Z",
+   "sortZeit": 1785704400000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg"
+   ],
+   "ort": "Rheurdt",
+   "ortSicher": true,
+   "orte": [
+    "Rheurdt",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "RFV Rheurdt"
+   ],
+   "sportart": "Reitsport",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152408417",
+   "titel": "Weiterer Neuzugang kommt: TuS Xanten sorgt schnell für klare Verhältnisse",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-testspiel-dreierpack-von-vadiv-epp-beim-xantener-6-0-sieg-ueber-mussum_aid-152408417",
+   "teaser": "Fußball-Bezirksligist TuS Xanten besiegt in einem einseitigen Testspiel den SC TuB Mussum 6:0. Wer einen Dreierpack schnürte und welcher neue Spieler noch verpflichtet wurde.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/7/5/4/8/4/3/tok_9d8418845fa584d43b60f2cc2ad489c2/w1200_h630_x1350_y900_rp_20260801_J_0400-5a1eb084d1585827.jpg",
+   "datum": "2026-08-02T17:04:00.000Z",
+   "sortZeit": 1785661440000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg"
+   ],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "TUS Xanten 05/22"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152408295",
+   "titel": "Erster Testspiel-Erfolg: Budbergs Neuzugang Karschti zahlt Vertrauen zurück",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/erster-testspiel-erfolg-sv-budberg-besiegt-djk-twisteden-3-0_aid-152408295",
+   "teaser": "Fußball-Landesligist SV Budberg freut sich über den ersten Testspiel-Erfolg der Sommer-Vorbereitung. Noah Karschti stand gegen die DJK Twisteden für Kapitän Moritz Paul in der Startelf. Warum Jannis Kipourous ein Sonderlob erhielt.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/7/5/4/6/0/9/tok_b1afd33b3da28effb942a843cfc4cec6/w1200_h630_x1350_y901_rp_20260801_J_0560-b25a5c8e11b6a017.jpg",
+   "datum": "2026-08-02T16:33:00.000Z",
+   "sortZeit": 1785659580000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152408003",
+   "titel": "Nur 3:3 in Broekhuysen: SV Sonsbeck bei Ecken zu anfällig",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-testspiel-sv-sonsbeck-spielt-in-broekhuysen-nur-3-3_aid-152408003",
+   "teaser": "Fußball-Oberligist SV Sonsbeck muss sich im Testspiel bei den SF Broekhuysen mit einem 3:3 zufriedengeben. Warum ein Zwei-Klassen-Unterschied nicht deutlich wurde.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/7/5/4/0/2/3/tok_44847ca5cb1fdb90bec84e70547db00e/w1200_h630_x1350_y900_rp_20260718_J_0064-fef70a4e8f4e6fc6.jpg",
+   "datum": "2026-08-02T14:51:00.000Z",
+   "sortZeit": 1785653460000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "fuechse-duisburg.de/autobereifung-max-geise-verlaengert-und-wird-gold-sponsor-der-fuechse",
+   "titel": "Autobereifung Max Geise verlängert und wird Gold Sponsor der Füchse",
+   "url": "https://fuechse-duisburg.de/autobereifung-max-geise-verlaengert-und-wird-gold-sponsor-der-fuechse/",
+   "teaser": "Die Autobereifung Max Geise GmbH bleibt weiterhin ein starker Partner an der Seite der Füchse und baut ihr Engagement zur neuen Saison deutlich aus. Aus dem bisherigen Silber Sponsor wird ab sofort ein Gold Sponsor. Das Duisburger Unternehmen steht seit mehr als 60 Jahren für Erfahrung und Kompetenz rund um Reifen und Räder. Mit einem […]",
+   "bild": "https://fuechse-duisburg.de/wp-content/uploads/2025/06/spon_hp.jpg",
+   "datum": "2026-08-01T15:00:00.000Z",
+   "sortZeit": 1785524400000,
+   "punkte": 40,
+   "paywall": null,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "grund": "vereinsfeed"
+  },
+  {
+   "id": "rp:152354059",
+   "titel": "US-Amerikaner Miller ist neu dabei: Vom Nashville FC über den VfB Speldorf zum SV Sonsbeck",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/neuzugang-beim-sv-sonsbeck-interview-mit-dem-us-amerikaner-dominic-miller_aid-152354059",
+   "teaser": "Dominic Miller gehört zu den Neuzugängen des Fußball-Oberligisten SV Sonsbeck. Ein Gespräch mit dem 23-jährigen US-Amerikaner über seinen Weg nach Deutschland, seine sportlichen Ziele und die WM.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/6/3/0/1/1/7/tok_c5ee2cb7e2b45ea77f63707f1191fc2c/w1200_h630_x1350_y901_rp_20260718_J_0409-40f91d5a9ad1ce88.jpg",
+   "datum": "2026-07-31T12:08:00.000Z",
+   "sortZeit": 1785470880000,
+   "punkte": 70,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152345829",
+   "titel": "Xantenerin in Badeborn am Start: Lilly Witt – Auf dem Kutschbock zur Jugend-DM",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/reitsport-lilly-witt-aus-xanten-bei-der-deutschen-meisterschaft-im-fahren-am-start_aid-152345829",
+   "teaser": "Lilly Witt vom RFV Rheurdt ist bei den Deutschen Jugend-Meisterschaften im Fahrsport in Badeborn am Start. Die Xantenerin muss sich bei den Einspännern mit Pony Grande in drei Disziplinen beweisen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/6/1/0/8/0/9/tok_4fc21e7cd84a41e59eb240bcbf3fd664/w965_h630_x482_y372_Lilly_2-f753c9e13ce4fb29.jpg",
+   "datum": "2026-07-31T05:00:00.000Z",
+   "sortZeit": 1785445200000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [],
+   "ort": "Rheurdt",
+   "ortSicher": true,
+   "orte": [
+    "Rheurdt",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "RFV Rheurdt"
+   ],
+   "sportart": "Reitsport",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152330863",
+   "titel": "So lief das Halbfinale um den Voba-Cup: „Jetzt wollen wir das Ding auch gewinnen“",
+   "url": "https://rp-online.de/nrw/staedte/kleve/sport/tsv-weeze-gewinnt-elfmeterschiessen-und-zieht-ins-finale-ein_aid-152330863",
+   "teaser": "Elfmeter-Lotterien entscheiden über den Einzug ins Finale um den Voba-Cup. Gastgeber TSV Weeze freut sich auf das Duell mit den Sportfreunden Broekhuysen II. Deshalb ist Andreas Weinand, Trainer der SpVgg. Rheurdt-Schaephuysen, sauer.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/5/7/6/2/3/1/tok_d0c2b397d99f4cac262483b563488ad0/w1200_h630_x1796_y1197_rp_NOP_8790_b-7964eadc62e9b101.jpg",
+   "datum": "2026-07-30T15:02:00.000Z",
+   "sortZeit": 1785394920000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [],
+   "ort": "Rheurdt",
+   "ortSicher": true,
+   "orte": [
+    "Rheurdt"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SpVgg. Rheurdt-Schaephuysen"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152341751",
+   "titel": "Testspiel gegen TuB Mussum: Bezirksligist TuS Xanten klärt die Kapitänsfrage",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/tus-xanten-kapitaensfrage-geklaert-nathnael-scheffler-vor-debuet_aid-152341751",
+   "teaser": "Fußball-Bezirksligist TuS Xanten muss ein Testspiel aus dem Vorbereitungsplan streichen. Die Kapitänsfrage ist geklärt. Warum der Königstransfer bislang noch in keinem Testspiel dabei war.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/6/0/0/9/4/3/tok_10546f0ab8d652dfe97d04fad8afcee8/w1200_h630_x1350_y901_rp_20260405_J_1557-3c476e3e37914614.jpg",
+   "datum": "2026-07-30T14:30:00.000Z",
+   "sortZeit": 1785393000000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "TUS Xanten 05/22"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152334353",
+   "titel": "Vorverkauf startet: Hier gibt’s Karten für den Pokal-Knüller gegen RWE",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/niederrhein-pokal-vorverkauf-sv-sonsbeck-gegen-rw-essen-beginnt_aid-152334353",
+   "teaser": "Am 19. August stehen sich Oberligist SV Sonsbeck und die Fußball-Profis von Rot-Weiss Essen wieder im Niederrheinpokal gegenüber. Jetzt beginnt der Vorverkauf. Mit dieser Kulisse rechnet der Außenseiter.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/5/8/3/4/6/1/tok_d01fe4502c20a08dcd5aadda89542fb4/w1200_h630_x1192_y795_rp_20241116_J_1677-a8d9ae657d2cdece.jpg",
+   "datum": "2026-07-30T08:52:00.000Z",
+   "sortZeit": 1785372720000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152331463",
+   "titel": "Erfolge für den RV Eversael: Nina Rensing mit makelloser Bilanz Kreismeisterin",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/rv-eversael-nina-rensing-kreismeisterin-in-der-dressur-auf-m-niveau_aid-152331463",
+   "teaser": "Bei den Kreismeisterschaften in Hünxe beeindruckt Nina Rensing vom RV Graf von Schmettow Eversael mit Stute Quinn Rose in der M-Dressur. Johanna Barten zeigt auf Kweb im A-Springen eine starke Leistung und steht ebenfalls auf dem Siegertreppchen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/5/7/7/5/1/5/tok_de6dc15e45f1a036184100fe92475ce4/w1200_h630_x573_y325_B216D6FB-6C55-4087-ACC2-4E6C10153EE5-580c2331e5526a06.jpeg",
+   "datum": "2026-07-30T08:06:00.000Z",
+   "sortZeit": 1785369960000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "RV Eversael"
+   ],
+   "sportart": "Reitsport",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152159043",
+   "titel": "5:1 gegen 1. FC Lintfort: Binn schießt SV Sonsbeck zum Testspiel-Kantersieg",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-testspiel-sv-sonsbeck-besiegt-1-fc-lintfort-5-1_aid-152159043",
+   "teaser": "Fußball-Oberligist SV Sonsbeck dreht im Testspiel gegen den 1. FC Lintfort nach der Pause auf. Beim 5:1-Erfolg macht ein Neuzugang mit einem sehenswerten Seitfallzieher auf sich aufmerksam. Gästeakteur Marcel Goretzki muss früh verletzt runter.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/1/8/7/2/9/5/tok_50f15a92440b44686fd299cab63821fb/w1200_h630_x1350_y900_rp_20260729_J_0296-124afaa198860518.jpg",
+   "datum": "2026-07-29T20:16:00.000Z",
+   "sortZeit": 1785356160000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "1. FC Lintfort"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:152158777",
+   "titel": "B-Liga startet mit Abendspiel: Die Kreisliga-Spielpläne sind fertig",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-kreis-moers-spielplaene-der-a-liga-b-liga-und-c-ligen-veroeffentlicht_aid-152158777",
+   "teaser": "Die vier Spielpläne der Männer-Teams im Fußball-Kreis Moers sind seit Dienstagnachmittag freigegeben. Die A-Liga beginnt mit einem Duisburger Duell. So steigen die B-Ligisten und C-Ligisten in die Saison 2026/27 ein.",
+   "bild": "https://rp-online.de/imgs/32/2/7/5/1/8/6/7/5/5/tok_2c57b52ea5043335f408ab58bd845101/w1200_h630_x1350_y900_rp_20251208_J_0219-ee542de58a9465a7.jpg",
+   "datum": "2026-07-28T14:13:00.000Z",
+   "sortZeit": 1785247980000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Duisburg",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Duisburg",
+    "Xanten"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "fuechse-duisburg.de/zurueck-aus-der-pause-mit-episode-21-und-einem-knall-%f0%9f%92%a5",
+   "titel": "Zurück aus der Pause mit Episode 21 und einem Knall 💥",
+   "url": "https://fuechse-duisburg.de/zurueck-aus-der-pause-mit-episode-21-und-einem-knall-%f0%9f%92%a5/",
+   "teaser": "Wir melden uns am Freitag um 17Uhr mit der neuesten Folge von Late Hit und beenden damit die Sommerpause!Und es geht fulminant in die neue Spielzeit!Wir verkünden gleich mal einen Neuzugang im Fuchsbau! 🥳Oliver Rättig wird unseren neuen Fuchs zu seinem Wechsel nach Duisburg und seinen Ambitionen befragen und mit ihm schon mal auf die […]",
+   "bild": "https://fuechse-duisburg.de/wp-content/uploads/2025/05/podcast-late-hit.jpg",
+   "datum": "2026-07-22T21:45:00.000Z",
+   "sortZeit": 1784684700000,
+   "punkte": 40,
+   "paywall": null,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "grund": "vereinsfeed"
+  },
+  {
+   "id": "rp:151842591",
+   "titel": "Transfer-Offensive beim Fußball-A-Ligisten: SpVgg. Rheurdt-Schaephuysen – ein Dorfklub will hoch hinaus",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-spvgg-rheurdt-schaephuysen-startet-transferoffensive_aid-151842591",
+   "teaser": "Mit der Verpflichtung namhafter Spieler ist die SpVgg. Rheurdt-Schaephuysen der große Bezirksliga-Aufstiegsanwärter. Trainer Andreas Weinand weiß um die Stärke des Kaders mit 14 Zugängen, bleibt aber bei der Zielsetzung demütig.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/4/9/4/2/2/3/tok_dd1c84300a5cb4d02dd1743d6aa17b9c/w1200_h630_x1005_y670_Weinand_1-a757ba5bccf57216.jpg",
+   "datum": "2026-07-21T14:33:00.000Z",
+   "sortZeit": 1784615580000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Duisburg",
+   "auchIn": [],
+   "ort": "Rheurdt",
+   "ortSicher": true,
+   "orte": [
+    "Rheurdt",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SpVgg. Rheurdt-Schaephuysen"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "fuechse-duisburg.de/schanner-und-ase-verlaengern-partnerschaft-mit-den-fuechsen",
+   "titel": "Schanner und ASE verlängern Partnerschaft mit den Füchsen",
+   "url": "https://fuechse-duisburg.de/schanner-und-ase-verlaengern-partnerschaft-mit-den-fuechsen/",
+   "teaser": "Die Füchse Duisburg setzen auch in Zukunft auf zwei langjährige und verlässliche Partner. Die Zusammenarbeit mit der Schanner Eishockeyartikel GmbH + Co. KG und ASE Hockey wird vorzeitig verlängert. Seit mehreren Jahren begleiten uns beide Unternehmen. In dieser Zeit ist eine enge und vertrauensvolle Zusammenarbeit entstanden, die nun langfristig fortgeführt wird. Die Schanner Eishockeyartikel GmbH […]",
+   "bild": "https://fuechse-duisburg.de/wp-content/uploads/2025/09/titel_hp_kooperation.jpg",
+   "datum": "2026-07-18T15:00:00.000Z",
+   "sortZeit": 1784314800000,
+   "punkte": 80,
+   "paywall": null,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "grund": "vereinsfeed"
+  },
+  {
+   "id": "rp:151429437",
+   "titel": "Fußball-Kreis Moers: Saison-Eröffnungsspiel steigt in Rheinhausen",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-kreis-moers-rahmenterninplan-pokalwettbewerbe-weitere-termine_aid-151429437",
+   "teaser": "Am 29. August werden beim VfL Rheinhausen im Saison-Eröffnungsspiel die ersten Kreisliga-Punkte vergeben. Im Frauen-Pokal gibt’s einen Negativrekord. Was noch auf der Mittwoch-Sitzung vom Kreis-Fußballausschuss Moers besprochen und festgelegt wurde.",
+   "bild": "https://rp-online.de/imgs/32/2/7/3/5/6/7/3/6/7/tok_3090c459bf626efde864fe309c3d1c34/w1200_h630_x1350_y900_rp_20260514_J_0280-4abab58f6c660cb6.jpg",
+   "datum": "2026-07-16T09:43:24.000Z",
+   "sortZeit": 1784195004000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Duisburg",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Duisburg",
+    "Xanten"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:151428427",
+   "titel": "Neue Herausforderungen für Amateurfußballer: „Wir müssen jetzt Einwürfe und Abstöße mitzählen“",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/interview-mit-schiri-obmann-fabian-spitzer-zu-den-neuen-fussballregeln_aid-151428427",
+   "teaser": "Die zur WM eingeführten Regeln sorgen im Fußballkreis Moers für viel Gesprächsstoff. Schiedsrichter-Obmann Fabian Spitzer sieht große Herausforderungen für die Unparteiischen und Spieler. Das sind die neuen Vorgaben.",
+   "bild": "https://rp-online.de/imgs/32/2/7/3/5/6/5/1/4/3/tok_dd1a8ec609c9979339a7a034940b74bc/w1200_h630_x1024_y683_rp_202311_J_1334-bf504063fe74e5f8.jpg",
+   "datum": "2026-07-15T05:00:00.000Z",
+   "sortZeit": 1784091600000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Duisburg",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Xanten"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  }
+ ]
+}

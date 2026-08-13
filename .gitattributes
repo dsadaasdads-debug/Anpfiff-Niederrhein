@@ -1,0 +1,8 @@
+# Im Repository liegen alle Textdateien mit LF. Wichtig für den Workflow:
+# das Shell-Skript darin läuft auf Ubuntu und stolpert über CRLF.
+* text=auto eol=lf
+
+# PowerShell bleibt auf Windows-Zeilenenden.
+*.ps1 text eol=crlf
+
+*.png binary

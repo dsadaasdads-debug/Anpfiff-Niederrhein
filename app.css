@@ -1,0 +1,350 @@
+/* Anpfiff Niederrhein — Oberfläche
+   Kräftig-sportlich: Rasengrün als Signalfarbe, tiefes Nachtblau als Grund,
+   breite Versalien für Etiketten, kantige Kanten statt runder Gemütlichkeit. */
+
+:root {
+  color-scheme: light dark;
+
+  --grund: #F2F5F9;
+  --flaeche: #FFFFFF;
+  --flaeche-2: #E9EEF5;
+  --schrift: #0D1726;
+  --schrift-leise: #56657C;
+  --linie: #D8E0EA;
+
+  --akzent: #00963F;
+  --akzent-stark: #007A33;
+  --auf-akzent: #FFFFFF;
+
+  --kern: #00963F;
+  --umland: #1D6FD0;
+  --duisburg: #7B5EA7;
+  --warnung: #B45309;
+
+  --radius: 14px;
+  --schatten: 0 1px 2px rgb(13 23 38 / .06), 0 6px 20px rgb(13 23 38 / .07);
+  --kopf-hoehe: 56px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --grund: #0A1120;
+    --flaeche: #131E31;
+    --flaeche-2: #1C2A42;
+    --schrift: #E9F0F8;
+    --schrift-leise: #93A4BC;
+    --linie: #24344F;
+
+    --akzent: #27DE72;
+    --akzent-stark: #4DE98C;
+    --auf-akzent: #062012;
+
+    --kern: #27DE72;
+    --umland: #5AA9FF;
+    --duisburg: #B79CE8;
+    --warnung: #FBBF24;
+
+    --schatten: 0 1px 2px rgb(0 0 0 / .4), 0 8px 24px rgb(0 0 0 / .35);
+  }
+}
+
+/* Der Umschalter in der App hat immer Vorrang vor der Systemeinstellung. */
+:root[data-thema="hell"] {
+  color-scheme: light;
+  --grund: #F2F5F9; --flaeche: #FFFFFF; --flaeche-2: #E9EEF5;
+  --schrift: #0D1726; --schrift-leise: #56657C; --linie: #D8E0EA;
+  --akzent: #00963F; --akzent-stark: #007A33; --auf-akzent: #FFFFFF;
+  --kern: #00963F; --umland: #1D6FD0; --duisburg: #7B5EA7; --warnung: #B45309;
+  --schatten: 0 1px 2px rgb(13 23 38 / .06), 0 6px 20px rgb(13 23 38 / .07);
+}
+:root[data-thema="dunkel"] {
+  color-scheme: dark;
+  --grund: #0A1120; --flaeche: #131E31; --flaeche-2: #1C2A42;
+  --schrift: #E9F0F8; --schrift-leise: #93A4BC; --linie: #24344F;
+  --akzent: #27DE72; --akzent-stark: #4DE98C; --auf-akzent: #062012;
+  --kern: #27DE72; --umland: #5AA9FF; --duisburg: #B79CE8; --warnung: #FBBF24;
+  --schatten: 0 1px 2px rgb(0 0 0 / .4), 0 8px 24px rgb(0 0 0 / .35);
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--grund);
+  color: var(--schrift);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+
+.sprungmarke {
+  position: absolute; left: -9999px; top: 0; z-index: 100;
+  background: var(--akzent); color: var(--auf-akzent); padding: .6rem 1rem;
+}
+.sprungmarke:focus { left: 0; }
+
+/* ── Kopf ──────────────────────────────────────────────────────────────── */
+
+.kopf {
+  position: sticky; top: 0; z-index: 20;
+  background: color-mix(in srgb, var(--grund) 88%, transparent);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--linie);
+  padding-top: env(safe-area-inset-top);
+}
+
+.kopf-innen {
+  height: var(--kopf-hoehe);
+  max-width: 780px; margin: 0 auto; padding: 0 12px;
+  display: flex; align-items: center; justify-content: space-between; gap: 8px;
+}
+
+.marke { display: flex; align-items: center; gap: 10px; min-width: 0; }
+
+/* Stilisierte Trillerpfeife: Scheibe mit angesetztem Mundstück. */
+.marke-pfiff {
+  width: 30px; height: 30px; flex: none; position: relative;
+  background: var(--akzent); border-radius: 50% 50% 50% 4px;
+}
+.marke-pfiff::after {
+  content: ""; position: absolute; inset: 9px 9px auto auto;
+  width: 8px; height: 8px; border-radius: 50%; background: var(--grund);
+}
+
+.marke-text { display: flex; flex-direction: column; line-height: 1; min-width: 0; }
+.marke-text strong {
+  font-size: 1.18rem; font-weight: 800; letter-spacing: -.02em; text-transform: uppercase;
+}
+.marke-text small {
+  font-size: .66rem; font-weight: 700; letter-spacing: .16em;
+  text-transform: uppercase; color: var(--schrift-leise); margin-top: 3px;
+}
+
+.kopf-knoepfe { display: flex; gap: 2px; }
+
+.ikone {
+  display: grid; place-items: center;
+  width: 40px; height: 40px; flex: none;
+  border: 0; border-radius: 10px; background: transparent;
+  color: var(--schrift); cursor: pointer;
+}
+.ikone:hover { background: var(--flaeche-2); }
+.ikone:focus-visible { outline: 2px solid var(--akzent); outline-offset: 2px; }
+
+:root[data-thema="dunkel"] .nur-hell,
+:root:not([data-thema="hell"]) .nur-hell { display: none; }
+:root[data-thema="hell"] .nur-dunkel { display: none; }
+@media (prefers-color-scheme: light) {
+  :root:not([data-thema]) .nur-hell { display: block; }
+  :root:not([data-thema]) .nur-dunkel { display: none; }
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-thema]) .nur-hell { display: none; }
+  :root:not([data-thema]) .nur-dunkel { display: block; }
+}
+
+.suchzeile {
+  max-width: 780px; margin: 0 auto; padding: 0 12px 10px;
+  display: flex; gap: 8px; align-items: center;
+}
+.suchzeile input { flex: 1; }
+
+input[type="search"] {
+  width: 100%; padding: .6rem .8rem;
+  border: 1px solid var(--linie); border-radius: 10px;
+  background: var(--flaeche); color: var(--schrift); font: inherit;
+}
+input[type="search"]:focus-visible { outline: 2px solid var(--akzent); outline-offset: 1px; border-color: transparent; }
+
+.textknopf {
+  border: 0; background: none; color: var(--schrift-leise);
+  font: inherit; cursor: pointer; padding: .4rem;
+}
+
+/* ── Ortsfilter ────────────────────────────────────────────────────────── */
+
+.filter {
+  max-width: 780px; margin: 0 auto; padding: 0 12px 10px;
+  display: flex; gap: 7px; overflow-x: auto; scrollbar-width: none;
+}
+.filter::-webkit-scrollbar { display: none; }
+
+.chip {
+  flex: none; cursor: pointer;
+  padding: .36rem .72rem;
+  border: 1px solid var(--linie); border-radius: 999px;
+  background: var(--flaeche); color: var(--schrift);
+  font-size: .8rem; font-weight: 650; white-space: nowrap;
+  display: inline-flex; align-items: center; gap: .38rem;
+}
+.chip:hover { border-color: var(--akzent); }
+.chip:focus-visible { outline: 2px solid var(--akzent); outline-offset: 2px; }
+.chip[aria-pressed="true"] {
+  background: var(--akzent); border-color: var(--akzent); color: var(--auf-akzent);
+}
+.chip .zahl { font-variant-numeric: tabular-nums; opacity: .65; font-weight: 600; }
+
+/* ── Liste ─────────────────────────────────────────────────────────────── */
+
+main { max-width: 780px; margin: 0 auto; padding: 12px; }
+
+.hinweis {
+  margin: 0 0 12px; padding: .65rem .85rem;
+  border-left: 4px solid var(--warnung); border-radius: 8px;
+  background: color-mix(in srgb, var(--warnung) 12%, var(--flaeche));
+  font-size: .88rem;
+}
+
+.liste { display: flex; flex-direction: column; gap: 10px; }
+
+.karte {
+  position: relative; display: block;
+  background: var(--flaeche); border: 1px solid var(--linie);
+  border-radius: var(--radius); box-shadow: var(--schatten);
+  color: inherit; text-decoration: none; overflow: hidden;
+}
+.karte:hover { border-color: color-mix(in srgb, var(--akzent) 55%, var(--linie)); }
+.karte:focus-visible { outline: 2px solid var(--akzent); outline-offset: 2px; }
+
+/* Farbstreifen links zeigt die Zone auf einen Blick. */
+.karte::before {
+  content: ""; position: absolute; inset: 0 auto 0 0; width: 4px;
+  background: var(--zonenfarbe, var(--linie));
+}
+.karte[data-zone="kern"] { --zonenfarbe: var(--kern); }
+.karte[data-zone="umland"] { --zonenfarbe: var(--umland); }
+.karte[data-zone="duisburg"] { --zonenfarbe: var(--duisburg); }
+
+.karte-innen { display: flex; gap: 12px; padding: 12px 12px 12px 16px; }
+
+.karte-bild {
+  width: 92px; height: 92px; flex: none;
+  border-radius: 10px; object-fit: cover; background: var(--flaeche-2);
+}
+
+.karte-text { min-width: 0; flex: 1; }
+
+.karte h2 {
+  margin: 0 0 .3rem;
+  font-size: 1.01rem; font-weight: 700; line-height: 1.32; letter-spacing: -.01em;
+}
+
+.karte p {
+  margin: 0 0 .5rem;
+  font-size: .87rem; color: var(--schrift-leise); line-height: 1.45;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+
+.marken { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
+
+.marke-etikett {
+  font-size: .66rem; font-weight: 750; letter-spacing: .05em; text-transform: uppercase;
+  padding: .16rem .42rem; border-radius: 5px;
+  background: var(--flaeche-2); color: var(--schrift-leise);
+}
+.marke-etikett.ort { background: color-mix(in srgb, var(--zonenfarbe) 16%, transparent); color: var(--zonenfarbe); }
+.marke-etikett.verein { background: color-mix(in srgb, var(--akzent) 16%, transparent); color: var(--akzent-stark); }
+.marke-etikett.stern { background: var(--akzent); color: var(--auf-akzent); }
+.marke-etikett.schloss { background: color-mix(in srgb, var(--warnung) 18%, transparent); color: var(--warnung); }
+
+.karte-fuss {
+  margin-top: .45rem; font-size: .74rem; color: var(--schrift-leise);
+  display: flex; gap: .4rem; flex-wrap: wrap;
+}
+.karte-fuss .quelle { font-weight: 650; }
+
+.leer { text-align: center; color: var(--schrift-leise); padding: 3rem 1rem; }
+
+.fuss { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--linie); color: var(--schrift-leise); font-size: .78rem; }
+.fuss p { margin: .3rem 0; }
+.fuss-klein { opacity: .8; }
+
+/* ── Einstellungen ─────────────────────────────────────────────────────── */
+
+.schleier { position: fixed; inset: 0; background: rgb(4 10 20 / .55); z-index: 30; }
+
+.blatt {
+  position: fixed; z-index: 40; inset: auto 0 0 0;
+  max-height: 88vh; overflow-y: auto;
+  background: var(--grund);
+  border-top: 1px solid var(--linie);
+  border-radius: 18px 18px 0 0;
+  padding-bottom: calc(1rem + env(safe-area-inset-bottom));
+}
+@media (min-width: 700px) {
+  .blatt { inset: 0 0 0 auto; width: 420px; max-height: none; border-radius: 0; border-left: 1px solid var(--linie); }
+}
+
+.blatt-kopf {
+  position: sticky; top: 0; z-index: 1;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 12px 12px 18px;
+  background: var(--grund); border-bottom: 1px solid var(--linie);
+}
+.blatt-kopf h2 { margin: 0; font-size: 1.08rem; letter-spacing: -.01em; }
+
+.blatt-inhalt { padding: 4px 18px 18px; }
+
+.feld { padding: 18px 0; border-bottom: 1px solid var(--linie); }
+.feld:last-child { border-bottom: 0; }
+.feld h3 {
+  margin: 0 0 .6rem; font-size: .72rem; font-weight: 750;
+  letter-spacing: .13em; text-transform: uppercase; color: var(--schrift-leise);
+}
+
+.erklaerung { margin: .55rem 0 0; font-size: .8rem; color: var(--schrift-leise); line-height: 1.5; }
+
+.segment { display: flex; gap: 4px; padding: 4px; background: var(--flaeche-2); border-radius: 10px; }
+.segment button {
+  flex: 1; border: 0; border-radius: 7px; padding: .5rem .4rem;
+  background: transparent; color: var(--schrift-leise);
+  font: inherit; font-size: .86rem; font-weight: 650; cursor: pointer;
+}
+.segment button[aria-checked="true"] { background: var(--flaeche); color: var(--schrift); box-shadow: var(--schatten); }
+
+.schalter { display: flex; align-items: center; gap: .7rem; cursor: pointer; font-size: .92rem; }
+.schalter input { position: absolute; opacity: 0; width: 0; height: 0; }
+.schalter-spur {
+  width: 44px; height: 26px; flex: none; border-radius: 999px;
+  background: var(--flaeche-2); border: 1px solid var(--linie); position: relative; transition: background .15s;
+}
+.schalter-spur::after {
+  content: ""; position: absolute; top: 2px; left: 2px;
+  width: 20px; height: 20px; border-radius: 50%; background: var(--flaeche);
+  box-shadow: 0 1px 3px rgb(0 0 0 / .3); transition: transform .15s;
+}
+.schalter input:checked + .schalter-spur { background: var(--akzent); border-color: var(--akzent); }
+.schalter input:checked + .schalter-spur::after { transform: translateX(18px); }
+.schalter input:focus-visible + .schalter-spur { outline: 2px solid var(--akzent); outline-offset: 2px; }
+
+.vereinsliste { margin-top: .7rem; max-height: 300px; overflow-y: auto; border: 1px solid var(--linie); border-radius: 10px; }
+
+.vereinszeile {
+  display: flex; align-items: center; gap: .6rem; width: 100%;
+  padding: .55rem .7rem; border: 0; border-bottom: 1px solid var(--linie);
+  background: var(--flaeche); color: var(--schrift); font: inherit; text-align: left; cursor: pointer;
+}
+.vereinszeile:last-child { border-bottom: 0; }
+.vereinszeile:hover { background: var(--flaeche-2); }
+.vereinszeile .stern-ikone { color: var(--linie); flex: none; }
+.vereinszeile[aria-pressed="true"] .stern-ikone { color: var(--akzent); fill: var(--akzent); }
+.vereinszeile .vname { flex: 1; min-width: 0; font-size: .88rem; font-weight: 600; }
+.vereinszeile .vort { font-size: .72rem; color: var(--schrift-leise); }
+
+.quellenliste { display: flex; flex-direction: column; gap: .3rem; font-size: .8rem; }
+.quellenzeile { display: flex; justify-content: space-between; gap: .8rem; color: var(--schrift-leise); }
+.quellenzeile .status-ok { color: var(--akzent-stark); }
+.quellenzeile .status-fehler { color: var(--warnung); }
+
+.hauptknopf {
+  margin-top: .8rem; width: 100%; padding: .7rem 1rem;
+  border: 0; border-radius: 10px; background: var(--akzent); color: var(--auf-akzent);
+  font: inherit; font-weight: 700; cursor: pointer;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

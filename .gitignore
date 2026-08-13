@@ -1,0 +1,6 @@
+# Nichts von Windows und den Editoren mitschleppen.
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+node_modules/
