@@ -87,6 +87,13 @@ node scripts/discover-clubs.mjs
 
 erzeugt die Vereinsliste aus der Vereinssuche von fussball.de neu.
 
+## Beim Ändern der App beachten
+
+Wer `index.html`, `app.css`, `app.js` oder `sw.js` anfasst, muss in `sw.js` die
+Zeile `const VERSION = 'anpfiff-vN'` hochzählen. Das Gerüst wird zuerst aus dem
+Zwischenspeicher bedient — ohne neue Versionsnummer behalten bereits
+installierte Geräte den alten Stand, egal was auf dem Server liegt.
+
 ## Wie gefiltert wird
 
 Kein Sprachmodell, sondern ein nachvollziehbares Regelwerk. Jeder Artikel trägt

@@ -2,7 +2,10 @@
    Gerüst wird zwischengespeichert, die Meldungen kommen bevorzugt frisch aus
    dem Netz und fallen bei fehlender Verbindung auf den letzten Stand zurück. */
 
-const VERSION = 'anpfiff-v1';
+// WICHTIG: Bei jeder Änderung an index.html, app.css, app.js oder sw.js diese
+// Zahl erhöhen. Das Gerüst wird zuerst aus dem Zwischenspeicher bedient –
+// ohne neue Version behalten installierte Geräte den alten Stand.
+const VERSION = 'anpfiff-v2';
 const GERUEST = `${VERSION}-geruest`;
 const DATEN = `${VERSION}-daten`;
 const BILDER = `${VERSION}-bilder`;
