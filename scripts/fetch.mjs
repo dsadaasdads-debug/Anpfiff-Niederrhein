@@ -114,11 +114,40 @@ for (const k of kandidaten.values()) {
   zurAnreicherung.push({ ...k, vereine, grund, bezug });
 }
 
+/**
+ * Vereinsfeeds tragen ihren Ort im Absender, nicht im Text: „Unsere Erste
+ * gewinnt 3:1“ nennt weder Stadt noch Vereinsnamen. Ohne diesen Rückgriff
+ * fiele fast jeder Beitrag der Vereinsseiten durch den Ortsfilter.
+ */
+function bezugMitQuelle(bezug, quelle) {
+  if (quelle.mode !== 'club') return bezug;
+  if (bezug.zone) return bezug;
+  return {
+    orte: quelle.ort ? [quelle.ort] : [],
+    zone: quelle.zone ?? null,
+    haupt: quelle.ort ?? null,
+    sicher: true,
+  };
+}
+
 log(`  ${zurAnreicherung.length} Sportkandidaten  (verworfen: ${verworfen.keinSport} kein Sport, ${verworfen.keinOrt} kein Ortsbezug)`);
 
 // ── Neue Artikel anreichern ─────────────────────────────────────────────────
-const neu = zurAnreicherung.filter((k) => !speicher.has(k.id));
-log(`\n${neu.length} Artikelseiten werden geladen (Vorschautext, Bild, Paywall), ${zurAnreicherung.length - neu.length} aus dem Zwischenspeicher`);
+// Nicht jede Quelle braucht einen Abruf der Artikelseite:
+//   Vereinsseiten liefern echten Vorschautext und sind nie kostenpflichtig.
+//   Funke-Feeds liefern Vorschautext, Bild und den Bezahlstatus gleich mit.
+// Übrig bleibt im Wesentlichen RP Online, das im Feed nur "Sy Sy" ausgibt.
+const brauchtAbruf = (k) => {
+  if (k.eintrag.beschreibung.length <= 40) return true;
+  if (k.quelle.mode === 'club') return false;
+  if (k.eintrag.zugang) return false;
+  return true;
+};
+
+const neu = zurAnreicherung.filter((k) => brauchtAbruf(k) && !speicher.has(k.id));
+const ausSpeicher = zurAnreicherung.filter((k) => brauchtAbruf(k) && speicher.has(k.id)).length;
+const ohneAbruf = zurAnreicherung.filter((k) => !brauchtAbruf(k)).length;
+log(`\n${neu.length} Artikelseiten werden geladen, ${ausSpeicher} aus dem Zwischenspeicher, ${ohneAbruf} brauchen keinen Abruf (Vereinsfeeds)`);
 
 let fehlgeschlagen = 0;
 await nacheinander(neu, GLEICHZEITIG_ARTIKEL, async (k) => {
@@ -147,15 +176,27 @@ for (const k of zurAnreicherung) {
   const alt = bestand.get(k.id);
   const details = speicher.get(k.id);
 
-  const teaser = details?.teaser || alt?.teaser || '';
+  const teaser = details?.teaser || alt?.teaser || k.eintrag.beschreibung || '';
   const bild = details?.bild || alt?.bild || k.eintrag.bild || '';
-  const paywall = details ? details.paywall : (alt?.paywall ?? null);
+  const paywall = k.quelle.mode === 'club'
+    ? false                                   // Vereinsseiten sind immer frei
+    : k.eintrag.zugang                        // Funke sagt es im Feed
+      ? k.eintrag.zugang === 'paid'
+      : (details ? details.paywall : (alt?.paywall ?? null));
 
   // Mit dem Vorschautext liegt mehr Text vor als beim ersten Durchgang –
   // Vereine und Orte deshalb noch einmal bestimmen.
   const volltext = `${k.eintrag.titel} ${teaser}`;
   const vereine = vereineFinden(volltext);
-  const bezug = ortsbezug({ titel: k.eintrag.titel, teaser, url: k.eintrag.link, vereine });
+  // Der absendende Verein gehört dazu, auch wenn er sich im Text nicht nennt.
+  if (k.quelle.club && !vereine.some((v) => v.name === k.quelle.club)) {
+    const eigen = VEREINE.find((v) => v.name === k.quelle.club);
+    if (eigen) vereine.unshift(eigen);
+  }
+  const bezug = bezugMitQuelle(
+    ortsbezug({ titel: k.eintrag.titel, teaser, url: k.eintrag.link, vereine }),
+    k.quelle,
+  );
 
   if (!bezug.zone) { verworfen.keinOrt++; continue; }
 
@@ -229,3 +270,13 @@ log(`  hinter Paywall          ${zaehle((a) => a.paywall === true)}`);
 log(`  frei lesbar             ${zaehle((a) => a.paywall === false)}`);
 log(`  Zugang unbekannt        ${zaehle((a) => a.paywall === null)}`);
 log(`  mit erkanntem Verein    ${zaehle((a) => a.vereine.length > 0)}`);
+
+log(`\nBeitrag je Quelle:`);
+const jeQuelle = new Map();
+for (const a of artikel) jeQuelle.set(a.quelleName, (jeQuelle.get(a.quelleName) ?? 0) + 1);
+for (const q of quellenStatus) {
+  const n = jeQuelle.get(q.name) ?? 0;
+  // Vereinsfeeds liefern oft nichts, weil ihr letzter Beitrag älter als das
+  // Archivfenster ist. Das ist kein Fehler – sie füllen sich mit der Zeit.
+  log(`  ${q.name.padEnd(38)} ${String(n).padStart(3)} von ${String(q.eintraege).padStart(3)}`);
+}

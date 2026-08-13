@@ -5,19 +5,23 @@
   'use strict';
 
   const SPEICHER = 'anpfiff:einstellungen';
-  const KERNSTAEDTE = ['Moers', 'Kamp-Lintfort', 'Neukirchen-Vluyn'];
 
-  // Voreinstellung: der Verein mit der höchsten Priorität ist schon markiert.
+  // Interner Schlüssel für Meldungen ohne erkannte Sportart.
+  const SONSTIGE = '—sonstige—';
+  const sportVon = (artikel) => artikel.sportart ?? SONSTIGE;
+
   const VORGABE = {
-    thema: null,              // null = Systemeinstellung folgen
+    thema: null,                    // null = der Systemeinstellung folgen
     sortierung: 'relevanz',
-    paywallZeigen: false,     // bewusst aus, laut Wunsch – jederzeit umschaltbar
+    paywallZeigen: false,           // ab Werk aus, jederzeit umschaltbar
     favoriten: ['1. FC Lintfort'],
+    ausgeblendeteSportarten: [],
+    ausgeblendeteOrte: [],
   };
 
   let einstellungen = laden();
   let daten = null;
-  let filter = 'alle';
+  let auswahl = 'alle';             // 'alle' | 'favoriten' | Name einer Sportart
   let suchtext = '';
 
   const $ = (id) => document.getElementById(id);
@@ -27,6 +31,22 @@
     if (text != null) n.textContent = text;
     return n;
   };
+
+  function svgIkone(klasse, d, gefuellt = false) {
+    const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    s.setAttribute('viewBox', '0 0 24 24');
+    s.setAttribute('class', klasse);
+    s.setAttribute('aria-hidden', 'true');
+    const p = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+    p.setAttribute('d', d);
+    if (gefuellt) p.setAttribute('fill', 'currentColor');
+    s.append(p);
+    return s;
+  }
+
+  const STERN = 'M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8L3.5 9.7l5.9-.9z';
+  const HAKEN = 'M5 12.5l4.5 4.5L19 7.5';
+  const KREIS = 'M12 4.5a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15z';
 
   // ── Einstellungen ────────────────────────────────────────────────────────
 
@@ -46,6 +66,13 @@
   function themaAnwenden() {
     if (einstellungen.thema) document.documentElement.dataset.thema = einstellungen.thema;
     else delete document.documentElement.dataset.thema;
+  }
+
+  /** Schaltet einen Eintrag in einer Ausblendliste um. */
+  function umschalten(liste, wert) {
+    const i = liste.indexOf(wert);
+    if (i >= 0) liste.splice(i, 1); else liste.push(wert);
+    sichern();
   }
 
   // ── Zeitangaben ──────────────────────────────────────────────────────────
@@ -69,22 +96,31 @@
 
   // ── Auswahl und Reihenfolge ──────────────────────────────────────────────
 
-  const istFavorit = (artikel) => artikel.vereine.some((v) => einstellungen.favoriten.includes(v));
+  const istFavorit = (a) => a.vereine.some((v) => einstellungen.favoriten.includes(v));
 
-  function sichtbar(artikel) {
-    if (!einstellungen.paywallZeigen && artikel.paywall === true) return false;
+  const ortVersteckt = (a) =>
+    a.orte.length > 0 && a.orte.every((o) => einstellungen.ausgeblendeteOrte.includes(o));
 
-    if (filter === 'umland' && artikel.zone !== 'umland') return false;
-    if (filter === 'duisburg' && artikel.zone !== 'duisburg') return false;
-    if (filter === 'favoriten' && !istFavorit(artikel)) return false;
-    if (KERNSTAEDTE.includes(filter) && !artikel.orte.includes(filter)) return false;
+  function sucheTrifft(a) {
+    if (!suchtext) return true;
+    const heuhaufen = [a.titel, a.teaser, a.ort, a.sportart, a.quelle, ...a.vereine]
+      .join(' ').toLowerCase();
+    return heuhaufen.includes(suchtext);
+  }
 
-    if (suchtext) {
-      const heuhaufen = [artikel.titel, artikel.teaser, artikel.ort, artikel.sportart, artikel.quelle, ...artikel.vereine]
-        .join(' ').toLowerCase();
-      if (!heuhaufen.includes(suchtext)) return false;
-    }
-    return true;
+  /**
+   * Abgewählte Orte gelten überall – wer Duisburg nicht will, will es nirgends.
+   * Abgewählte Sportarten gelten nur im Hauptfeed: den Reiter einer Sportart
+   * aufzurufen ist eine ausdrückliche Ansage und schlägt die Voreinstellung.
+   */
+  function sichtbar(a) {
+    if (!einstellungen.paywallZeigen && a.paywall === true) return false;
+    if (ortVersteckt(a)) return false;
+    if (!sucheTrifft(a)) return false;
+
+    if (auswahl === 'favoriten') return istFavorit(a);
+    if (auswahl !== 'alle') return sportVon(a) === auswahl;
+    return !einstellungen.ausgeblendeteSportarten.includes(sportVon(a));
   }
 
   function reihenfolge(a, b) {
@@ -97,39 +133,49 @@
     return (b.sortZeit + bonus(b)) - (a.sortZeit + bonus(a));
   }
 
+  /** Zählt, wie viele Meldungen eine bestimmte Auswahl ergäbe. */
+  function zaehleFuer(wert) {
+    const merken = auswahl;
+    auswahl = wert;
+    const n = daten.artikel.filter(sichtbar).length;
+    auswahl = merken;
+    return n;
+  }
+
   // ── Darstellung ──────────────────────────────────────────────────────────
+
+  /** Sportarten im Bestand, nach Häufigkeit. */
+  function sportartenImBestand() {
+    const zaehler = new Map();
+    for (const a of daten.artikel) zaehler.set(sportVon(a), (zaehler.get(sportVon(a)) ?? 0) + 1);
+    return [...zaehler.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .map(([name, n]) => ({ name, n }));
+  }
 
   function chipsZeichnen() {
     const behaelter = $('filter');
     behaelter.replaceChildren();
 
-    const merken = filter;
-    const zaehlen = (wert) => {
-      filter = wert;
-      const n = daten.artikel.filter(sichtbar).length;
-      filter = merken;
-      return n;
-    };
-
     const eintraege = [
       ['alle', 'Alle'],
       ['favoriten', '★ Meine Vereine'],
-      ...KERNSTAEDTE.map((s) => [s, s]),
-      ['umland', 'Umland'],
-      ['duisburg', 'Duisburg'],
+      ...sportartenImBestand().map((s) => [s.name, s.name === SONSTIGE ? 'Sonstiges' : s.name]),
     ];
 
     for (const [wert, beschriftung] of eintraege) {
+      const n = zaehleFuer(wert);
+      // Sportarten ohne sichtbare Meldung gar nicht erst anbieten.
+      if (n === 0 && wert !== 'alle' && wert !== auswahl) continue;
+
       const knopf = el('button', 'chip');
       knopf.type = 'button';
-      knopf.setAttribute('aria-pressed', String(filter === wert));
-      knopf.append(document.createTextNode(beschriftung));
-      const n = zaehlen(wert);
-      knopf.append(el('span', 'zahl', String(n)));
+      knopf.setAttribute('aria-pressed', String(auswahl === wert));
+      knopf.append(document.createTextNode(beschriftung), el('span', 'zahl', String(n)));
       knopf.addEventListener('click', () => {
-        filter = wert;
+        auswahl = wert;
         zeichnen();
-        document.querySelector('main')?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+        scrollTo({ top: 0, behavior: 'smooth' });
       });
       behaelter.append(knopf);
     }
@@ -175,7 +221,7 @@
     const fuss = el('div', 'karte-fuss');
     fuss.append(el('span', 'quelle', artikel.quelle));
     const zeit = zeitText(artikel.datum);
-    if (zeit) { fuss.append(el('span', null, '·')); fuss.append(el('span', null, zeit)); }
+    if (zeit) fuss.append(el('span', null, '·'), el('span', null, zeit));
     text.append(fuss);
 
     innen.append(text);
@@ -189,13 +235,12 @@
     chipsZeichnen();
 
     const treffer = daten.artikel.filter(sichtbar).sort(reihenfolge);
-    const liste = $('liste');
-    liste.replaceChildren(...treffer.map(karteBauen));
+    $('liste').replaceChildren(...treffer.map(karteBauen));
 
     const leer = $('leer');
+    const versteckt = daten.artikel.filter((x) => x.paywall === true).length;
     if (treffer.length === 0) {
       leer.hidden = false;
-      const versteckt = daten.artikel.filter((x) => x.paywall === true).length;
       leer.textContent = suchtext
         ? `Keine Meldung passt zu „${suchtext}“.`
         : !einstellungen.paywallZeigen && versteckt > 0
@@ -210,10 +255,65 @@
       ? ''
       : `${treffer.length} von ${daten.artikel.length} Meldungen · zuletzt aktualisiert ${zeitText(daten.aktualisiert)} (${datumLang.format(new Date(stand))}) · Archiv der letzten ${daten.behaltenTage} Tage`;
 
-    const versteckt = daten.artikel.filter((x) => x.paywall === true).length;
     $('paywall-erklaerung').textContent = einstellungen.paywallZeigen
       ? `Bezahlartikel werden mitgezeigt und mit einem Schloss gekennzeichnet. Derzeit betrifft das ${versteckt} Meldungen.`
-      : `Derzeit sind ${versteckt} Meldungen ausgeblendet. RP Online und NRZ stellen einen erheblichen Teil des Lokalsports hinter die Schranke — wenn dir der Feed zu dünn wird, schalte sie hier ein.`;
+      : `Derzeit sind ${versteckt} Meldungen ausgeblendet. RP Online und NRZ stellen einen Teil des Lokalsports hinter die Schranke — wenn dir der Feed zu dünn wird, schalte sie hier ein.`;
+  }
+
+  /** Baut eine Liste mit Häkchen zum Ein- und Ausblenden. */
+  function wahllisteZeichnen(behaelterId, eintraege, ausgeblendet, beimUmschalten) {
+    const behaelter = $(behaelterId);
+    behaelter.replaceChildren();
+
+    for (const { schluessel, name, zusatz } of eintraege) {
+      const an = !ausgeblendet.includes(schluessel);
+      const zeile = el('button', 'vereinszeile');
+      zeile.type = 'button';
+      zeile.setAttribute('aria-pressed', String(an));
+      zeile.append(
+        svgIkone('haken-ikone', an ? HAKEN : KREIS),
+        el('span', 'vname', name),
+        el('span', 'vort', zusatz),
+      );
+      zeile.addEventListener('click', () => {
+        beimUmschalten(schluessel);
+        zeichnen();
+        einstellungslistenZeichnen();
+      });
+      behaelter.append(zeile);
+    }
+  }
+
+  function einstellungslistenZeichnen() {
+    wahllisteZeichnen(
+      'sportartenliste',
+      sportartenImBestand().map((s) => ({
+        schluessel: s.name,
+        name: s.name === SONSTIGE ? 'Sonstiges' : s.name,
+        zusatz: `${s.n}`,
+      })),
+      einstellungen.ausgeblendeteSportarten,
+      (s) => umschalten(einstellungen.ausgeblendeteSportarten, s),
+    );
+
+    const zaehler = new Map();
+    for (const a of daten.artikel) for (const o of a.orte) zaehler.set(o, (zaehler.get(o) ?? 0) + 1);
+    const zonenName = { kern: 'Kernstadt', umland: 'Umland', duisburg: 'gedämpft' };
+    const zoneVonOrt = new Map();
+    for (const a of daten.artikel) if (a.ort) zoneVonOrt.set(a.ort, a.zone);
+
+    wahllisteZeichnen(
+      'orteliste',
+      [...zaehler.entries()]
+        .sort((a, b) => b[1] - a[1])
+        .map(([ort, n]) => ({
+          schluessel: ort,
+          name: ort,
+          zusatz: `${zonenName[zoneVonOrt.get(ort)] ?? ''} · ${n}`,
+        })),
+      einstellungen.ausgeblendeteOrte,
+      (o) => umschalten(einstellungen.ausgeblendeteOrte, o),
+    );
   }
 
   function vereineZeichnen(suchbegriff = '') {
@@ -238,36 +338,23 @@
     for (const verein of liste) {
       const zeile = el('button', 'vereinszeile');
       zeile.type = 'button';
-      const markiert = einstellungen.favoriten.includes(verein.name);
-      zeile.setAttribute('aria-pressed', String(markiert));
+      zeile.setAttribute('aria-pressed', String(einstellungen.favoriten.includes(verein.name)));
 
-      const stern = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-      stern.setAttribute('viewBox', '0 0 24 24');
-      stern.setAttribute('class', 'stern-ikone');
-      stern.setAttribute('aria-hidden', 'true');
-      const pfad = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-      pfad.setAttribute('d', 'M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8L3.5 9.7l5.9-.9z');
-      stern.append(pfad);
-
-      const name = el('span', 'vname', verein.name);
       const n = zaehler.get(verein.name) ?? 0;
-      const ort = el('span', 'vort', n > 0 ? `${verein.ort} · ${n}` : verein.ort);
-
-      zeile.append(stern, name, ort);
+      zeile.append(
+        svgIkone('stern-ikone', STERN),
+        el('span', 'vname', verein.name),
+        el('span', 'vort', n > 0 ? `${verein.ort} · ${n}` : verein.ort),
+      );
       zeile.addEventListener('click', () => {
-        const i = einstellungen.favoriten.indexOf(verein.name);
-        if (i >= 0) einstellungen.favoriten.splice(i, 1);
-        else einstellungen.favoriten.push(verein.name);
-        sichern();
+        umschalten(einstellungen.favoriten, verein.name);
         vereineZeichnen($('vereinssuche').value.trim().toLowerCase());
         zeichnen();
       });
       behaelter.append(zeile);
     }
 
-    if (liste.length === 0) {
-      behaelter.append(el('p', 'erklaerung', 'Kein Verein gefunden.'));
-    }
+    if (liste.length === 0) behaelter.append(el('p', 'erklaerung', 'Kein Verein gefunden.'));
   }
 
   function quellenZeichnen() {
@@ -276,9 +363,8 @@
     for (const q of daten.quellen) {
       const zeile = el('div', 'quellenzeile');
       zeile.append(el('span', null, q.name));
-      const status = el('span', q.status === 'ok' ? 'status-ok' : 'status-fehler',
-        q.status === 'ok' ? `${q.eintraege} Einträge` : `Fehler: ${q.fehler ?? 'unbekannt'}`);
-      zeile.append(status);
+      zeile.append(el('span', q.status === 'ok' ? 'status-ok' : 'status-fehler',
+        q.status === 'ok' ? `${q.eintraege} Einträge` : `Fehler: ${q.fehler ?? 'unbekannt'}`));
       behaelter.append(zeile);
     }
   }
@@ -347,6 +433,7 @@
       einstellungen.paywallZeigen = paywall.checked;
       sichern();
       zeichnen();
+      einstellungslistenZeichnen();
     });
 
     $('vereinssuche').addEventListener('input', (e) => vereineZeichnen(e.target.value.trim().toLowerCase()));
@@ -370,6 +457,7 @@
     }
 
     zeichnen();
+    einstellungslistenZeichnen();
     vereineZeichnen();
     quellenZeichnen();
 
@@ -385,13 +473,11 @@
     const text = $('installtext');
     const knopf = $('knopf-install');
 
-    const schonInstalliert = matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
-    if (schonInstalliert) return;
+    if (matchMedia('(display-mode: standalone)').matches || navigator.standalone === true) return;
 
-    const istIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
     abschnitt.hidden = false;
 
-    if (istIOS) {
+    if (/iphone|ipad|ipod/i.test(navigator.userAgent)) {
       text.textContent = 'In Safari auf das Teilen-Symbol tippen und „Zum Home-Bildschirm“ wählen. '
         + 'Erst danach verhält sich die Seite wie eine App und kann Mitteilungen senden.';
       return;

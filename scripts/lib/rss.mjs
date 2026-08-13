@@ -84,6 +84,12 @@ export function parseRss(xml) {
       attr(block, 'media:thumbnail', 'url') ||
       (/type\s*=\s*["']image\//i.test(block) ? attr(block, 'enclosure', 'url') : '');
 
+    // Die Funke-Titel (NRZ, WAZ) liefern den Bezahlstatus direkt im Feed mit:
+    //   <dcterms:accessRights>paid</dcterms:accessRights>
+    // Wo das steht, erübrigt sich der Abruf der Artikelseite komplett.
+    const zugangRoh = tag(block, 'dcterms:accessRights').toLowerCase();
+    const zugang = zugangRoh === 'paid' ? 'paid' : zugangRoh === 'free' ? 'free' : null;
+
     eintraege.push({
       titel,
       link,
@@ -91,6 +97,7 @@ export function parseRss(xml) {
       beschreibung: htmlZuText(tag(block, 'description')),
       rubriken: tagAll(block, 'category'),
       bild,
+      zugang,
       guid: tag(block, 'guid') || link,
     });
   }

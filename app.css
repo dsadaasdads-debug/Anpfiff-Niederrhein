@@ -320,7 +320,9 @@ main { max-width: 780px; margin: 0 auto; padding: 12px; }
 .schalter input:checked + .schalter-spur::after { transform: translateX(18px); }
 .schalter input:focus-visible + .schalter-spur { outline: 2px solid var(--akzent); outline-offset: 2px; }
 
-.vereinsliste { margin-top: .7rem; max-height: 300px; overflow-y: auto; border: 1px solid var(--linie); border-radius: 10px; }
+.vereinsliste,
+.wahlliste { margin-top: .7rem; max-height: 300px; overflow-y: auto; border: 1px solid var(--linie); border-radius: 10px; }
+.wahlliste { max-height: none; }
 
 .vereinszeile {
   display: flex; align-items: center; gap: .6rem; width: 100%;
@@ -331,6 +333,11 @@ main { max-width: 780px; margin: 0 auto; padding: 12px; }
 .vereinszeile:hover { background: var(--flaeche-2); }
 .vereinszeile .stern-ikone { color: var(--linie); flex: none; }
 .vereinszeile[aria-pressed="true"] .stern-ikone { color: var(--akzent); fill: var(--akzent); }
+
+/* Häkchenzeile: an heißt sichtbar, aus heißt ausgeblendet. */
+.vereinszeile .haken-ikone { color: var(--linie); flex: none; }
+.vereinszeile[aria-pressed="true"] .haken-ikone { color: var(--akzent); }
+.vereinszeile[aria-pressed="false"] .vname { color: var(--schrift-leise); text-decoration: line-through; }
 .vereinszeile .vname { flex: 1; min-width: 0; font-size: .88rem; font-weight: 600; }
 .vereinszeile .vort { font-size: .72rem; color: var(--schrift-leise); }
 
