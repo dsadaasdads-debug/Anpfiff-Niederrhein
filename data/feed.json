@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-13T16:09:53.727Z",
+ "aktualisiert": "2026-08-13T17:13:18.257Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -533,6 +533,31 @@
   }
  ],
  "artikel": [
+  {
+   "id": "funke:412853579",
+   "titel": "Bestürzung beim Moerser SC: Cheftrainer Chang Cheng Liu wieder erkrankt",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412853579/bestuerzung-beim-moerser-sc-cheftrainer-chang-cheng-liu-wieder-erkrankt.html",
+   "teaser": "Volleyball-Ikone muss neue Aufgabe beim Drittligisten nach Rückschlag ruhen lassen. MSC plant deshalb auf der Cheftrainerposition um.",
+   "bild": "https://img.sparknews.funkemedien.de/412794906/412794906_1786623831_v16_9_1600.jpeg",
+   "datum": "2026-08-13T17:00:00.000Z",
+   "sortZeit": 1786640400000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "Moerser SC"
+   ],
+   "sportart": "Volleyball",
+   "grund": "pfad"
+  },
   {
    "id": "funke:412832763",
    "titel": "SV Scherpenberg vor Oberliga-Start - Kapitän: Erlebnisse, die man nicht vergisst",
