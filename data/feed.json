@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-13T07:43:17.946Z",
+ "aktualisiert": "2026-08-13T16:09:53.727Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -41,7 +41,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 26
   },
   {
    "id": "rp-duisburg",
@@ -534,6 +534,287 @@
  ],
  "artikel": [
   {
+   "id": "funke:412832763",
+   "titel": "SV Scherpenberg vor Oberliga-Start - Kapitän: Erlebnisse, die man nicht vergisst",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412832763/sv-scherpenberg-vor-oberliga-start-kapitaen-erlebnisse-die-man-nicht-vergisst.html",
+   "teaser": "Nach fast einem Jahrzehnt kehrt Stefan Kapuscinski in die Fußball-Oberliga zurück. Der Kapitän des SV Scherpenberg über Ziele und Schweiß.",
+   "bild": "https://img.sparknews.funkemedien.de/412834023/412834023_1786453038_v16_9_1600.jpeg",
+   "datum": "2026-08-13T13:13:00.000Z",
+   "sortZeit": 1786626780000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "SV Scherpenberg 1921"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412838742",
+   "titel": "Dreimal Niederlande, einmal Belgien: TuS Lintfort testet jetzt intensiv",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412838742/dreimal-niederlande-einmal-belgien-tus-lintfort-testet-jetzt-intensiv.html",
+   "teaser": "Die Handballfrauen des Zweitligisten müssen sich zwei Wochen vor Saisonstart finden. Trainerin erwartet Fortschritte in der Defensive.",
+   "bild": "https://img.sparknews.funkemedien.de/412839353/412839353_1786619657_v16_9_1600.jpeg",
+   "datum": "2026-08-13T11:24:01.000Z",
+   "sortZeit": 1786620241000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Handball",
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412851704",
+   "titel": "VfL Tönisberg baut auch auf den ehemaligen Torjäger des FC Neukirchen-Vluyn",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412851704/vfl-toenisberg-baut-auch-auf-den-ehemaligen-torjaeger-des-fc-neukirchen-vluyn.html",
+   "teaser": "In der Fußball-Bezirksliga gibt es am Freitagabend gleich eine schwere Aufgabe für das Team von Cheftrainer Justin Müller.",
+   "bild": "https://img.sparknews.funkemedien.de/410750034/410750034_1786617173_v16_9_1600.jpeg",
+   "datum": "2026-08-13T10:34:44.000Z",
+   "sortZeit": 1786617284000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Neukirchen-Vluyn",
+   "ortSicher": true,
+   "orte": [
+    "Neukirchen-Vluyn",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "FC Neukirchen-Vluyn"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412853475",
+   "titel": "Rheinland Hamborn steht vor historischer Premiere",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412853475/rheinland-hamborn-steht-vor-historischer-premiere.html",
+   "teaser": "Am Freitagabend eröffnet der Aufsteiger die Landesliga-Saison mit einem Heimspiel im Holtkamp. Viktoria Goch ist der Auftaktgegner.",
+   "bild": "https://img.sparknews.funkemedien.de/409545723/409545723_1752844028_v16_9_1600.jpeg",
+   "datum": "2026-08-13T12:03:02.000Z",
+   "sortZeit": 1786593782000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153028117",
+   "titel": "Blick hinter die Kulisse: Borussia Veen hat einen Plan gegen Emmerichs Tormaschine",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/borussia-veen-hat-einen-plan-gegen-emmerichs-tormaschine_aid-153028117",
+   "teaser": "Borussia Veen startet gegen den Aufsteiger VfB Rheingold Emmerich in die neue Saison. Trainer Wiśniewski hat einen Plan. Was die Veener erwartet.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/1/4/7/0/4/5/tok_1dfadd3ec8034cd2fdb4fde3ccb23edd/w1200_h630_x1350_y898_rp_20260329_J_0626-431a14d1e94361ed.jpg",
+   "datum": "2026-08-13T11:40:00.000Z",
+   "sortZeit": 1786592400000,
+   "punkte": 70,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Alpen",
+   "ortSicher": false,
+   "orte": [
+    "Alpen",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412851355",
+   "titel": "Noch vor dem Auftakt: Hamborn 07 trennt sich von Soumiya Bouhadi",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412851355/noch-vor-dem-auftakt-hamborn-07-trennt-sich-von-soumiya-bouhadi.html",
+   "teaser": "Nach dem Abstieg kehrt bei den Löwen keine Ruhe ein. Nach der Pokalpackung gibt es einen neuen Trainer – mit einer internen Lösung.",
+   "bild": "https://img.sparknews.funkemedien.de/412852735/412852735_1786619706_v16_9_1600.jpeg",
+   "datum": "2026-08-13T11:18:23.000Z",
+   "sortZeit": 1786591103000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153028105",
+   "titel": "Neuzugang vom SV Rees: Warum Biyan Kesen beim TuS Xanten sofort im Mittelpunkt steht",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/biyan-kesen-und-tus-xanten-mehr-als-ein-spielerwechsel_aid-153028105",
+   "teaser": "Neuzugang Biyan Kesen hat sich beim TuS Xanten viel vorgenommen. Welche familiäre Verbindung mitschwingt und wie er den Saisonstart prägen könnte.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/1/4/7/0/1/9/tok_3ebfbfcab33aebacaaba6f321ba9506d/w1200_h630_x1446_y446_0811_Kesen_2-de240156a99520f4.jpg",
+   "datum": "2026-08-13T10:44:00.000Z",
+   "sortZeit": 1786589040000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Sport Wesel",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "TUS Xanten 05/22"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: Das sagt MSV-Trainer Hirsch zu einem möglichen Wechsel von Hahn",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-das-sagt-hirsch-zu-einem-moeglichen-wechsel-von-kapitaen-hahn_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-13T14:59:00.000Z",
+   "sortZeit": 1786561140000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153082963",
+   "titel": "MSV zu Gast in Ostwestfalen: „Gefühltes Heimspiel“ – Zebras übernehmen Verl",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-gefuehltes-heimspiel-zebras-uebernehmen-verl_aid-153082963",
+   "teaser": "2000 Fans werden den MSV Duisburg zum ersten Auswärtsspiel dieser Drittliga-Saison begleiten. Wie Trainer Dietmar Hirsch den Gegner erwartet und wie die personelle Lage ist.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/2/7/6/6/2/5/tok_960204ec6583fcf48da0bf7891d217a2/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FA20600726A5F12-db22add8111da502.jpg",
+   "datum": "2026-08-13T13:24:00.000Z",
+   "sortZeit": 1786555440000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412853717",
+   "titel": "MSV-Trainer Dietmar Hirsch bleibt bei Wechselgerüchten über Ali Hahn gelassen",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412853717/msv-trainer-dietmar-hirsch-bleibt-bei-wechselgeruechten-ueber-ali-hahn-gelassen.html",
+   "teaser": "Nur „sportliche und mannschaftsinterne Themen“ stehen im Fokus. Vor dem Spiel in Verl befasst sich der Duisburger Coach mit der Auswärtsproblematik.",
+   "bild": "https://img.sparknews.funkemedien.de/412854943/412854943_1786626595_v16_9_1600.jpeg",
+   "datum": "2026-08-13T13:16:51.000Z",
+   "sortZeit": 1786555011000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412852276",
+   "titel": "MSV Duisburg: Das ist der Plan mit Borkowski und Christensen",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412852276/msv-duisburg-das-ist-der-plan-mit-borkowski-und-christensen.html",
+   "teaser": "Dennis Borkowski könnte nach langer Verletzungspause demnächst erste Einsatzzeiten beim MSV erhalten. Entwarnung bei Peter Remmert.",
+   "bild": "https://img.sparknews.funkemedien.de/412853502/412853502_1786622297_v16_9_1600.jpeg",
+   "datum": "2026-08-13T12:10:57.000Z",
+   "sortZeit": 1786551057000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412846367",
    "titel": "Zwei Angreifer laufen weiterhin für die Black Tigers Moers auf",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412846367/zwei-angreifer-laufen-weiterhin-fuer-die-black-tigers-moers-auf.html",
@@ -557,6 +838,31 @@
    ],
    "sportart": "Eishockey",
    "grund": "pfad"
+  },
+  {
+   "id": "rp:153011293",
+   "titel": "Zuletzt auf der Tribüne: Wechsel von MSV-Kapitän Alexander Hahn? Was dafür und dagegen spricht",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-wechselt-kapitaen-alexander-hahn-was-dafuer-und-dagegen-spricht_aid-153011293",
+   "teaser": "Der Innenverteidiger ist momentan nur die Nummer vier auf seiner Position und stand zum Ligastart gegen Meppen nicht einmal im Kader. Könnte er den Klub deshalb verlassen? Es lassen sich Argumente in beide Richtungen finden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/1/0/7/4/1/7/tok_635d207547f736567d4a65022fd790c7/w1200_h630_x960_y540_hahn-ec5ad45d7bc75101.jpg",
+   "datum": "2026-08-13T08:05:00.000Z",
+   "sortZeit": 1786536300000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "grund": "rubrik"
   },
   {
    "id": "funke:412848894",
@@ -773,9 +1079,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Xanten und Rheinberg",
-   "auchIn": [
-    "RP Online Xanten"
-   ],
+   "auchIn": [],
    "ort": "Alpen",
    "ortSicher": false,
    "orte": [
@@ -799,9 +1103,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Xanten und Rheinberg",
-   "auchIn": [
-    "RP Online Xanten"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
@@ -880,8 +1182,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Sport Wesel",
-    "RP Online Moers"
+    "RP Online Sport Wesel"
    ],
    "ort": "Xanten",
    "ortSicher": false,
@@ -906,8 +1207,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Xanten",
    "ortSicher": true,
@@ -1273,9 +1573,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
