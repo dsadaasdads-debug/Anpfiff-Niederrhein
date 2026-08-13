@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-13T17:56:34.916Z",
+ "aktualisiert": "2026-08-13T19:45:26.682Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -206,7 +206,7 @@
    ]
   },
   "031HBBJSK4000004VS5489BTVVG7L386-G": {
-   "name": "Kreisliga B,",
+   "name": "Kreisliga B",
    "zeilen": [
     {
      "platz": 1,
@@ -1513,6 +1513,15 @@
    "staffelId": null,
    "naechste": [
     {
+     "datum": "Samstag, 19.09.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "Elite Marokko FC Wuppertal e.V. (PH)",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers/-/spiel/031P3BLD3G000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Samstag, 26.09.2026 - 13:00 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "DJK SG Altenessen",
@@ -1545,15 +1554,6 @@
      "heim": "VfL Benrath",
      "gast": "FC Mattheck Moers",
      "url": "https://www.fussball.de/spiel/vfl-benrath-fc-mattheck-moers/-/spiel/031OPNR37C000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Samstag, 07.11.2026 - ** Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "FC Mattheck Moers",
-     "gast": "Croatia Geistenbeck",
-     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-croatia-geistenbeck/-/spiel/031OPNR39G000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -1612,7 +1612,7 @@
    "zone": "kern",
    "mannschaft": "Herren - FC Moers-Meerfeld",
    "teamUrl": "https://www.fussball.de/mannschaft/fc-moers-meerfeld-fc-moers-meerfeld-1980-niederrhein/-/saison/2627/team-id/011MIEUGA0000000VTVG0001VTR8C1K7",
-   "liga": "Kreisliga B,",
+   "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
    "platz": 1,
    "punkte": 0,
@@ -1826,7 +1826,7 @@
    "zone": "kern",
    "mannschaft": "Herren - FC Rot-Weiß Moers",
    "teamUrl": "https://www.fussball.de/mannschaft/fc-rot-weiss-moers-fc-rot-weiss-moers-1926-niederrhein/-/saison/2627/team-id/011MIATPVO000000VTVG0001VTR8C1K7",
-   "liga": "Kreisliga B,",
+   "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
    "platz": 1,
    "punkte": 0,
@@ -2361,7 +2361,7 @@
    "zone": "kern",
    "mannschaft": "Herren - SV Alemannia Kamp",
    "teamUrl": "https://www.fussball.de/mannschaft/sv-alemannia-kamp-sv-alemannia-kamp-niederrhein/-/saison/2627/team-id/011MIA986S000000VTVG0001VTR8C1K7",
-   "liga": "Kreisliga B,",
+   "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
    "platz": 1,
    "punkte": 0,
@@ -3003,7 +3003,7 @@
    "zone": "kern",
    "mannschaft": "Herren - TV Kapellen",
    "teamUrl": "https://www.fussball.de/mannschaft/tv-kapellen-tv-kapellen-niederrhein/-/saison/2627/team-id/01HIS24VFS000000VV0AG80NVT6JKAPB",
-   "liga": "Kreisliga B,",
+   "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
    "platz": 1,
    "punkte": 0,
