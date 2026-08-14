@@ -37,6 +37,28 @@ const PAUSE_MS = 400;
 const log = (...a) => console.log(...a);
 const warte = (ms) => new Promise((r) => setTimeout(r, ms));
 
+/**
+ * Verwaltungsdeutsch in gebräuchliche Wörter übersetzen. fussball.de schreibt
+ * „Absetzung“, wenn der Staffelleiter eine Partie abgesetzt hat – gemeint ist,
+ * dass sie nicht stattfindet.
+ */
+function hinweisKlartext(roh) {
+  if (!roh) return null;
+  const t = String(roh).trim();
+  const tabelle = [
+    [/^absetzung$/i, 'abgesagt'],
+    [/^abgesetzt$/i, 'abgesagt'],
+    [/^ausfall$/i, 'ausgefallen'],
+    [/^spielabbruch$/i, 'abgebrochen'],
+    [/^abbruch$/i, 'abgebrochen'],
+    [/^verlegung$/i, 'verlegt'],
+    [/^wertung$/i, 'am grünen Tisch gewertet'],
+    [/^nichtantritt$/i, 'nicht angetreten'],
+  ];
+  for (const [muster, klar] of tabelle) if (muster.test(t)) return klar;
+  return t;
+}
+
 if (!existsSync(QUELLE)) {
   log('data/tabellen.json fehlt – erst scripts/tabellen.mjs laufen lassen.');
   process.exit(0);
@@ -99,6 +121,9 @@ for (const gebiet of GEBIETE) {
       quelle: 'FuPa',
       url: `https://www.fupa.net/match/${p.slug}`,
       verein: meins.verein,
+      // Für den Abgleich mit den gemerkten Vereinen: „TuS Lintfort II“ soll
+      // zum gemerkten „TuS Lintfort“ passen.
+      heimatverein: meins.heimatverein ?? null,
       ort: meins.ort,
       zone: meins.zone,
       liga: meins.liga,
@@ -114,7 +139,7 @@ for (const gebiet of GEBIETE) {
       tickerAutor: verlauf.tickerAutor,
       hatTicker: p.hatTicker,
       abschnitt: verlauf.abschnitt ?? p.abschnitt,
-      hinweis: null,
+      hinweis: hinweisKlartext(p.hinweis),
     });
 
     const stand = verlauf.tore ? `${verlauf.tore.heim}:${verlauf.tore.gast}` : '–:–';
@@ -183,6 +208,7 @@ for (const m of meine) {
       quelle: 'fussball.de',
       url: s.url,
       verein: m.verein,
+      heimatverein: m.heimatverein ?? null,
       ort: m.ort,
       zone: m.zone,
       liga: m.liga,
@@ -203,7 +229,7 @@ for (const m of meine) {
       tickerAutor: null,
       hatTicker: false,
       abschnitt: null,
-      hinweis: s.hinweis || null,
+      hinweis: hinweisKlartext(s.hinweis),
     });
     log(`    [fussball.de] ${(s.heim + ' – ' + s.gast).slice(0, 40).padEnd(42)} ${verlauf?.ereignisse.length ?? 0} Ereignisse, ohne Namen`);
   }

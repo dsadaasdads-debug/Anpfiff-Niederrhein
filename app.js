@@ -32,6 +32,7 @@
   let ansicht = 'meldungen';        // 'meldungen' | 'tabellen'
   let tabellenmodus = 'liga';       // 'liga' | 'verein'
   let tabellensport = 'alle';       // 'alle' | Name einer Sportart
+  let spieltagAlleZeigen = false;   // Notausgang, wenn kein gemerkter Verein spielt
   let auswahl = 'alle';             // 'alle' | 'favoriten' | Name einer Sportart
   let suchtext = '';
   let zuletztGeholt = 0;
@@ -1083,9 +1084,31 @@
 
     if (!livedaten) { ziel.append(el('p', 'leer', 'Spieltag wird geladen …')); return; }
 
-    const partien = livedaten.partien ?? [];
-    if (partien.length === 0) {
+    const alle = livedaten.partien ?? [];
+    if (alle.length === 0) {
       ziel.append(el('p', 'leer', 'Heute spielt keine deiner Mannschaften.'));
+      return;
+    }
+
+    // Nur die gemerkten Vereine. „TuS Lintfort II“ zählt zum gemerkten
+    // „TuS Lintfort“, deshalb wird auch der Heimatverein geprüft.
+    const gemerkt = (p) => einstellungen.favoriten.includes(p.verein)
+      || (p.heimatverein != null && einstellungen.favoriten.includes(p.heimatverein));
+
+    const partien = spieltagAlleZeigen ? alle : alle.filter(gemerkt);
+
+    if (partien.length === 0) {
+      const kasten = el('p', 'leer');
+      kasten.append(document.createTextNode(
+        einstellungen.favoriten.length === 0
+          ? `Du hast noch keinen Verein gemerkt. Heute stehen ${alle.length} Partien an — markiere Vereine in den Einstellungen oder direkt in einer Meldung, dann erscheinen ihre Spiele hier. `
+          : `Von deinen gemerkten Vereinen spielt heute keiner. Angesetzt sind ${alle.length} Partien. `,
+      ));
+      const knopf = el('button', 'textknopf textknopf-betont', 'Trotzdem alle zeigen');
+      knopf.type = 'button';
+      knopf.addEventListener('click', () => { spieltagAlleZeigen = true; spieltagZeichnen(); });
+      kasten.append(knopf);
+      ziel.append(kasten);
       return;
     }
 
@@ -1111,7 +1134,19 @@
       : istHeute
         ? `${partien.length} Partien heute`
         : `Letzter Spieltag: ${wann} · ${partien.length} Partien`;
+    if (!spieltagAlleZeigen && alle.length > partien.length) {
+      kopf.append(el('span', 'leise', ` · ${alle.length - partien.length} weitere ausgeblendet`));
+    }
     ziel.append(kopf);
+
+    if (spieltagAlleZeigen) {
+      const zurueck = el('p', 'erklaerung');
+      const knopf = el('button', 'textknopf textknopf-betont', '★ Nur meine Vereine zeigen');
+      knopf.type = 'button';
+      knopf.addEventListener('click', () => { spieltagAlleZeigen = false; spieltagZeichnen(); });
+      zurueck.append(knopf);
+      ziel.append(zurueck);
+    }
 
     for (const p of partien) ziel.append(partieBauen(p));
 
@@ -1219,7 +1254,11 @@
       livedaten = frisch;
       const reiter = $('ansicht').querySelector('[data-ansicht="spieltag"]');
       reiter.hidden = false;
-      const laufend = frisch.partien.filter((p) => p.laeuft && !p.abgeschlossen).length;
+      // Der Zähler am Reiter zählt nur die gemerkten Vereine – sonst verspricht
+      // er laufende Spiele, die man drinnen gar nicht sieht.
+      const meine = frisch.partien.filter((p) => einstellungen.favoriten.includes(p.verein)
+        || (p.heimatverein != null && einstellungen.favoriten.includes(p.heimatverein)));
+      const laufend = meine.filter((p) => p.laeuft && !p.abgeschlossen).length;
       reiter.replaceChildren(
         ...(laufend > 0 ? [el('span', 'live-punkt')] : []),
         document.createTextNode(laufend > 0 ? `Spieltag ${laufend}` : 'Spieltag'),

@@ -338,6 +338,7 @@ main { max-width: 780px; margin: 0 auto; padding: 12px; }
   font-size: .84rem; font-weight: 600;
 }
 .modushinweis .leise { font-weight: 400; color: var(--schrift-leise); }
+.neuhinweis .leise { font-weight: 400; color: var(--schrift-leise); }
 
 /* Stern in der Kopfzeile einer Tabellenkarte */
 .liga-stern {
