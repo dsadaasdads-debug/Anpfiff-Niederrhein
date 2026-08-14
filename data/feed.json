@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T08:42:28.197Z",
+ "aktualisiert": "2026-08-14T10:17:04.751Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,8 +40,9 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "ok",
-   "eintraege": 10
+   "status": "fehler",
+   "fehler": "HTTP 415",
+   "eintraege": 0
   },
   {
    "id": "moerser-sc",
@@ -52,14 +53,15 @@
   {
    "id": "msv-moers",
    "name": "Meerbecker SV Moers 13/20",
-   "status": "ok",
-   "eintraege": 6
+   "status": "fehler",
+   "fehler": "fetch failed",
+   "eintraege": 0
   },
   {
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 26
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -166,8 +168,9 @@
   {
    "id": "vfl-repelen",
    "name": "VfL Repelen 08",
-   "status": "ok",
-   "eintraege": 4
+   "status": "fehler",
+   "fehler": "fetch failed",
+   "eintraege": 0
   },
   {
    "id": "viktoria-alpen",
@@ -624,6 +627,33 @@
  ],
  "artikel": [
   {
+   "id": "funke:412860642",
+   "titel": "Über acht Monate Pause: Erste Mannschaft des GSV Moers spielt wieder Fußball",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412860642/ueber-acht-monate-pause-erste-mannschaft-des-gsv-moers-spielt-wieder-fussball.html",
+   "teaser": "Grafschafter steigen mit schwerer Heimaufgabe gegen FSV Duisburg in die Fußball-Bezirksliga ein. So sieht es der neue GSV-Cheftrainer.",
+   "bild": "https://img.sparknews.funkemedien.de/412860883/412860883_1786697061_v16_9_600.jpeg",
+   "datum": "2026-08-14T08:51:07.000Z",
+   "sortZeit": 1786697467000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Duisburg"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412840782",
    "titel": "Fast alles neu: Nach verpasstem Aufstieg fährt der TV Asberg die Ziele runter",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412840782/fast-alles-neu-nach-verpasstem-aufstieg-faehrt-der-tv-asberg-die-ziele-runter.html",
@@ -706,7 +736,7 @@
   },
   {
    "id": "funke:412853579",
-   "titel": "Bestürzung beim Moerser SC: Cheftrainer Chang Cheng Liu wieder erkrankt",
+   "titel": "Bestürzung beim Moerser SC: Cheftrainer Chang Cheng Liu wieder schwer erkrankt",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412853579/bestuerzung-beim-moerser-sc-cheftrainer-chang-cheng-liu-wieder-erkrankt.html",
    "teaser": "Volleyball-Ikone muss neue Aufgabe beim Drittligisten nach Rückschlag ruhen lassen. MSC plant deshalb auf der Cheftrainerposition um.",
    "bild": "https://img.sparknews.funkemedien.de/412794906/412794906_1786623831_v16_9_600.jpeg",
@@ -757,6 +787,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:153091645",
+   "titel": "Gastspiel in Verl: „Das hat was mit Qualität zu tun“ – MSV will der Auswärtsschwäche trotzen",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-gegen-die-auswaertsschwaeche-hat-was-mit-qualitaet-zu-tun_aid-153091645",
+   "teaser": "Trainer Dietmar Hirsch will „schleunigst anfangen, auswärts zu punkten“. Die Vergangenheit zeigt, dass das für den Aufstieg auch nötig ist. In Verl wird dabei der Wunsch nach mehr Ballbesitz im eigenen Spiel arg auf die Probe gestellt.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/2/9/9/1/0/7/tok_0c085d405cbfbad646768a9b2fc9a15f/w1200_h630_x1207_y528_DPA_dpa_urn_newsml_dpa.com_20090101_250524-911-014918-v4-s2048-1e1719fd543771c9.jpeg",
+   "datum": "2026-08-14T09:10:00.000Z",
+   "sortZeit": 1786626600000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412838742",
