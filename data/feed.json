@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T22:41:46.363Z",
+ "aktualisiert": "2026-08-14T23:37:44.135Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,11 +40,8 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-14T21:41:38.240Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "moerser-sc",
@@ -55,11 +52,8 @@
   {
    "id": "msv-moers",
    "name": "Meerbecker SV Moers 13/20",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-14T21:41:38.995Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 6
   },
   {
    "id": "nrz-lokalsport",
@@ -172,11 +166,8 @@
   {
    "id": "vfl-repelen",
    "name": "VfL Repelen 08",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-14T21:41:38.373Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 4
   },
   {
    "id": "viktoria-alpen",
