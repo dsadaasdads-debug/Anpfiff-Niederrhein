@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T13:43:14.917Z",
+ "aktualisiert": "2026-08-14T15:07:23.742Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 26
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -838,6 +838,62 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412865048",
+   "titel": "Play-off statt erster Runde – aber MSV-Frauen freuen sich auf ihr Pokal-Comeback",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412865048/play-off-statt-erster-runde-aber-msv-frauen-freuen-sich-auf-ihr-pokal-comeback.html",
+   "teaser": "Gegen den Zweitligisten Borussia Mönchengladbach sind die Zebras in Meiderich zwar Außenseiterinnen, aber sicher nicht ohne Chance.",
+   "bild": "https://img.sparknews.funkemedien.de/412866607/412866607_1786717609_v16_9_600.jpeg",
+   "datum": "2026-08-14T14:35:26.000Z",
+   "sortZeit": 1786646126000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412862524",
+   "titel": "MSV Duisburg: Das soll sich beim Auswärtsspiel in Verl verändern",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412862524/msv-duisburg-das-soll-sich-beim-auswaertsspiel-in-verl-veraendern.html",
+   "teaser": "Gibt es beim Gastspiel des MSV Duisburg beim SC Verl wieder ein Spektakel? Trainer Dietmar Hirsch setzt an der Poststraße auf Emotionen.",
+   "bild": "https://img.sparknews.funkemedien.de/412865706/412865706_1786716875_v16_9_600.jpeg",
+   "datum": "2026-08-14T14:08:50.000Z",
+   "sortZeit": 1786644530000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412862533",
    "titel": "Duisburg 08 macht den Favoriten in der eigenen Stadt aus",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412862533/duisburg-08-macht-den-favoriten-in-der-eigenen-stadt-aus.html",
@@ -903,9 +959,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -958,9 +1012,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
