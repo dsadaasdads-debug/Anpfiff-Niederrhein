@@ -48,7 +48,12 @@ const SPORTARTEN = [
   // "Boxen" bewusst nicht als Stamm – sonst schlägt es beim Boxenstopp an.
   ['Kampfsport', ['Judo', 'Karate', 'Taekwondo', 'Boxkampf', 'Boxer', 'Boxsport', 'Ringer']],
   ['Hockey', ['Hockey']],
-  ['Triathlon', ['Triathlon']],
+  ['Triathlon', ['Triathlon', 'Triathlet']],
+  ['American Football', ['American Football', 'Rhein Fire', 'Touchdown', 'Quarterback', 'ELF']],
+  ['Motorsport', ['Motorsport', 'Kartsport', 'Rallye']],
+  ['Schach', ['Schach']],
+  ['Kegeln & Bowling', ['Kegeln', 'Kegler', 'Bowling', 'Boule', 'Boccia']],
+  ['Dart', ['Dart']],
   // Steht bewusst am Ende: "Testspiel" und "Regionalliga" gibt es auch im
   // Handball, dort greift aber schon die spezifischere Zeile weiter oben.
   ['Fußball', ['Fußball', 'Fussball', 'Kreisliga', 'Bezirksliga', 'Landesliga', 'Verbandsliga',

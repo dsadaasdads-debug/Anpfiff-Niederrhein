@@ -26,6 +26,7 @@
   let tabellenmodus = 'liga';       // 'liga' | 'verein'
   let auswahl = 'alle';             // 'alle' | 'favoriten' | Name einer Sportart
   let suchtext = '';
+  let zuletztGeholt = 0;
 
   const $ = (id) => document.getElementById(id);
   const el = (tag, klasse, text) => {
@@ -193,6 +194,7 @@
   function karteBauen(artikel) {
     const karte = el('article', 'karte');
     karte.dataset.zone = artikel.zone;
+    karte.dataset.id = artikel.id;   // für das Halten der Leseposition
 
     const innen = el('div', 'karte-innen');
 
@@ -235,7 +237,9 @@
       knopf.setAttribute('aria-pressed', String(markiert));
       knopf.addEventListener('click', () => {
         umschalten(einstellungen.favoriten, verein);
-        zeichnen();
+        // Ohne Anker springt genau der Artikel weg, auf dem man getippt hat:
+        // als Favorit rückt er drei Tage vor und landet weit oben in der Liste.
+        mitLesepositionZeichnen(knopf.closest('.karte'));
         vereineZeichnen($('vereinssuche').value.trim().toLowerCase());
       });
       marken.append(knopf);
@@ -276,6 +280,8 @@
       leer.hidden = true;
     }
 
+    $('ansage').textContent = `${treffer.length} Meldungen`;
+
     const stand = Date.parse(daten.aktualisiert);
     $('stand').textContent = Number.isNaN(stand)
       ? ''
@@ -284,6 +290,34 @@
     $('paywall-erklaerung').textContent = einstellungen.paywallZeigen
       ? `Bezahlartikel werden mitgezeigt und mit einem Schloss gekennzeichnet. Derzeit betrifft das ${versteckt} Meldungen.`
       : `Derzeit sind ${versteckt} Meldungen ausgeblendet. RP Online und NRZ stellen einen Teil des Lokalsports hinter die Schranke — wenn dir der Feed zu dünn wird, schalte sie hier ein.`;
+  }
+
+  /**
+   * Zeichnet neu und hält dabei die Leseposition. Ohne das rutscht der Artikel,
+   * den man gerade liest, unter dem Finger weg, sobald sich die Reihenfolge
+   * ändert.
+   */
+  function mitLesepositionZeichnen(bevorzugt = null) {
+    const OBERKANTE = 110;   // etwa die Höhe des klebenden Kopfes
+
+    // Wenn die Aktion von einer bestimmten Karte ausging – etwa ein Tippen auf
+    // deren Vereinsmarke –, dann muss genau die stehen bleiben. Sonst die
+    // oberste sichtbare.
+    let anker = null;
+    if (bevorzugt?.dataset.id) {
+      anker = { id: bevorzugt.dataset.id, oben: bevorzugt.getBoundingClientRect().top };
+    } else {
+      for (const karte of $('liste').children) {
+        const kasten = karte.getBoundingClientRect();
+        if (kasten.bottom > OBERKANTE) { anker = { id: karte.dataset.id, oben: kasten.top }; break; }
+      }
+    }
+
+    zeichnen();
+
+    if (!anker?.id) return;
+    const wieder = $('liste').querySelector(`[data-id="${CSS.escape(anker.id)}"]`);
+    if (wieder) scrollBy(0, wieder.getBoundingClientRect().top - anker.oben);
   }
 
   /** Baut eine Liste mit Häkchen zum Ein- und Ausblenden. */
@@ -675,8 +709,62 @@
     $('einstellungen').hidden = !offen;
     $('schleier').hidden = !offen;
     document.body.style.overflow = offen ? 'hidden' : '';
+
+    // Ohne inert bleibt alles hinter der Überlagerung mit der Tabulatortaste
+    // erreichbar – der Fokus wandert unsichtbar in die Meldungsliste.
+    for (const bereich of [document.querySelector('.kopf'), document.querySelector('main')]) {
+      if (bereich) bereich.inert = offen;
+    }
+
     if (offen) $('knopf-schliessen').focus();
     else $('knopf-einstellungen').focus();
+  }
+
+  // ── Nachladen ────────────────────────────────────────────────────────────
+
+  /**
+   * Holt data/feed.json. Wird beim Start aufgerufen, beim Zurückkehren zur App
+   * und über den Knopf im Fuß.
+   * @returns {Promise<boolean>} false nur, wenn beim allerersten Laden nichts ankam
+   */
+  async function meldungenHolen({ ansagen = false } = {}) {
+    const knopf = $('knopf-neuladen');
+    const beschriftung = knopf.textContent;
+    if (ansagen) { knopf.disabled = true; knopf.textContent = 'Wird gesucht …'; }
+
+    try {
+      const antwort = await fetch('data/feed.json', { cache: 'no-cache' });
+      if (!antwort.ok) throw new Error(`HTTP ${antwort.status}`);
+      const frisch = await antwort.json();
+
+      const bekannt = new Set((daten?.artikel ?? []).map((a) => a.id));
+      const neue = daten ? frisch.artikel.filter((a) => !bekannt.has(a.id)).length : 0;
+
+      daten = frisch;
+      zuletztGeholt = Date.now();
+
+      if (bekannt.size) mitLesepositionZeichnen(); else zeichnen();
+      einstellungslistenZeichnen();
+      vereineZeichnen($('vereinssuche')?.value.trim().toLowerCase() ?? '');
+      quellenZeichnen();
+
+      if (ansagen) {
+        knopf.textContent = neue === 0 ? 'Nichts Neues' : neue === 1 ? '1 neue Meldung' : `${neue} neue Meldungen`;
+        $('ansage').textContent = knopf.textContent;
+        setTimeout(() => { knopf.textContent = beschriftung; knopf.disabled = false; }, 2500);
+      }
+      return true;
+    } catch (err) {
+      console.error(err);
+      if (ansagen) {
+        knopf.textContent = 'Nicht erreichbar';
+        setTimeout(() => { knopf.textContent = beschriftung; knopf.disabled = false; }, 2500);
+      }
+      if (daten) return true;   // der alte Stand bleibt stehen
+      $('leer').hidden = false;
+      $('leer').textContent = 'Die Meldungen konnten nicht geladen werden. Bist du offline?';
+      return false;
+    }
   }
 
   // ── Start ────────────────────────────────────────────────────────────────
@@ -760,21 +848,25 @@
 
     installhilfeVorbereiten();
 
-    try {
-      const antwort = await fetch('data/feed.json', { cache: 'no-cache' });
-      if (!antwort.ok) throw new Error(`HTTP ${antwort.status}`);
-      daten = await antwort.json();
-    } catch (err) {
-      $('leer').hidden = false;
-      $('leer').textContent = 'Die Meldungen konnten nicht geladen werden. Bist du offline?';
-      console.error(err);
-      return;
-    }
+    $('knopf-neuladen').addEventListener('click', () => meldungenHolen({ ansagen: true }));
 
-    zeichnen();
-    einstellungslistenZeichnen();
-    vereineZeichnen();
-    quellenZeichnen();
+    // Beim Zurückkehren zur App nachsehen, ob es Neues gibt. Ohne das zeigt
+    // eine App, die tagelang im Hintergrund liegt, ewig denselben Stand.
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState !== 'visible') return;
+      if (Date.now() - zuletztGeholt < 5 * 60_000) return;
+      meldungenHolen();
+    });
+
+    addEventListener('scroll', () => {
+      $('knopf-nach-oben').hidden = scrollY < 900;
+    }, { passive: true });
+    $('knopf-nach-oben').addEventListener('click', () => {
+      scrollTo({ top: 0, behavior: 'smooth' });
+      $('knopf-suche').focus();
+    });
+
+    if (!await meldungenHolen()) return;
 
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('sw.js').catch((err) => console.warn('Service Worker:', err));

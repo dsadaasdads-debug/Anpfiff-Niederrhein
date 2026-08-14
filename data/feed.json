@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T06:43:10.507Z",
+ "aktualisiert": "2026-08-14T08:21:57.397Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 26
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -574,6 +574,36 @@
    "sportart": "Reitsport"
   },
   {
+   "name": "TuS Lintfort",
+   "ort": "Kamp-Lintfort",
+   "zone": "kern",
+   "sportart": "Handball"
+  },
+  {
+   "name": "TV Issum",
+   "ort": "Issum",
+   "zone": "umland",
+   "sportart": "Handball"
+  },
+  {
+   "name": "Rhein Fire",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "American Football"
+  },
+  {
+   "name": "ASV Duisburg",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Triathlon"
+  },
+  {
+   "name": "ASC Duisburg",
+   "ort": "Duisburg",
+   "zone": "duisburg",
+   "sportart": "Triathlon"
+  },
+  {
    "name": "MSV Duisburg",
    "ort": "Duisburg",
    "zone": "duisburg",
@@ -593,6 +623,34 @@
   }
  ],
  "artikel": [
+  {
+   "id": "funke:412855756",
+   "titel": "Startelf-Puzzle? Beim 1. FC Lintfort kommt es zum Auftakt auch auf Spannung an",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412855756/startelf-puzzle-beim-1-fc-lintfort-kommt-es-zum-auftakt-auch-auf-spannung-an.html",
+   "teaser": "Fußball-Landesligist hat Sonntag den Vorjahresdritten ASV Süchteln vor der Brust. So plant Trainer Meik Bodden mit seinen Kickern.",
+   "bild": "https://img.sparknews.funkemedien.de/412856441/412856441_1786631959_v16_9_600.jpeg",
+   "datum": "2026-08-14T06:44:00.000Z",
+   "sortZeit": 1786689840000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "1. FC Lintfort"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
   {
    "id": "rp:153093603",
    "titel": "Start in die neue Saison: Die SFB suchen von Anfang an ruhiges Fahrwasser",
@@ -678,13 +736,11 @@
    "bild": "https://img.sparknews.funkemedien.de/412839353/412839353_1786619657_v16_9_600.jpeg",
    "datum": "2026-08-13T11:24:01.000Z",
    "sortZeit": 1786620241000,
-   "punkte": 110,
+   "punkte": 150,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
@@ -692,7 +748,9 @@
     "Moers"
    ],
    "zone": "kern",
-   "vereine": [],
+   "vereine": [
+    "TuS Lintfort"
+   ],
    "sportart": "Handball",
    "grund": "pfad"
   },
@@ -1167,9 +1225,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1424,7 +1480,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412830728/412830728_1786447325_v16_9_600.jpeg",
    "datum": "2026-08-11T11:30:02.000Z",
    "sortZeit": 1786447802000,
-   "punkte": 110,
+   "punkte": 150,
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
@@ -1436,8 +1492,10 @@
     "Moers"
    ],
    "zone": "kern",
-   "vereine": [],
-   "sportart": null,
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
    "grund": "pfad"
   },
   {
@@ -1521,7 +1579,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412833602/412833602_1786451643_v16_9_600.jpeg",
    "datum": "2026-08-11T12:34:46.000Z",
    "sortZeit": 1786379686000,
-   "punkte": 40,
+   "punkte": 80,
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
@@ -1532,8 +1590,10 @@
     "Duisburg"
    ],
    "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
+   "vereine": [
+    "ASC Duisburg"
+   ],
+   "sportart": "Triathlon",
    "grund": "pfad"
   },
   {
@@ -2016,7 +2076,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412808345/412808345_1786263582_v16_9_600.jpeg",
    "datum": "2026-08-09T08:29:14.000Z",
    "sortZeit": 1786264154000,
-   "punkte": 110,
+   "punkte": 150,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
@@ -2028,8 +2088,10 @@
     "Moers"
    ],
    "zone": "kern",
-   "vereine": [],
-   "sportart": null,
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
    "grund": "pfad"
   },
   {
@@ -2115,7 +2177,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412816628/412816628_1786297900_v16_9_600.jpeg",
    "datum": "2026-08-09T17:57:06.000Z",
    "sortZeit": 1786226226000,
-   "punkte": 40,
+   "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
@@ -2126,8 +2188,10 @@
     "Duisburg"
    ],
    "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
+   "vereine": [
+    "Rhein Fire"
+   ],
+   "sportart": "American Football",
    "grund": "pfad"
   },
   {
@@ -2142,9 +2206,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Duisburg",
-   "auchIn": [
-    "RP Online Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -3000,7 +3062,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412776570/412776570_1786012231_v16_9_600.jpeg",
    "datum": "2026-08-06T10:43:21.000Z",
    "sortZeit": 1786013001000,
-   "punkte": 110,
+   "punkte": 150,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
@@ -3012,8 +3074,10 @@
     "Moers"
    ],
    "zone": "kern",
-   "vereine": [],
-   "sportart": null,
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
    "grund": "pfad"
   },
   {
@@ -3065,30 +3129,6 @@
    "vereine": [],
    "sportart": "Fußball",
    "grund": "rubrik"
-  },
-  {
-   "id": "funke:412788298",
-   "titel": "Triathleten des ASV Duisburg überzeugen in Kamen",
-   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412788298/triathleten-des-asv-duisburg-ueberzeugen-in-kamen.html",
-   "teaser": "Ein neues Freibad war der Ausgangspunkt für den Wettbewerb. Nun stehen die Saisonfinals in Krefeld und Xanten an.",
-   "bild": "https://img.sparknews.funkemedien.de/412788334/412788334_fc_1786014394_v16_9_600.jpeg",
-   "datum": "2026-08-06T11:38:39.000Z",
-   "sortZeit": 1785987519000,
-   "punkte": 70,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Xanten",
-   "ortSicher": true,
-   "orte": [
-    "Xanten",
-    "Duisburg"
-   ],
-   "zone": "umland",
-   "vereine": [],
-   "sportart": null,
-   "grund": "pfad"
   },
   {
    "id": "fuechse-duisburg.de/erstes-oeffentliches-training",
@@ -3148,19 +3188,21 @@
    "bild": "https://img.sparknews.funkemedien.de/412791281/412791281_1786025502_v16_9_600.jpeg",
    "datum": "2026-08-06T14:22:31.000Z",
    "sortZeit": 1785954151000,
-   "punkte": 40,
+   "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
    "auchIn": [],
    "ort": "Duisburg",
-   "ortSicher": false,
+   "ortSicher": true,
    "orte": [
     "Duisburg"
    ],
    "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
+   "vereine": [
+    "Rhein Fire"
+   ],
+   "sportart": "American Football",
    "grund": "pfad"
   },
   {
@@ -3261,6 +3303,32 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412788298",
+   "titel": "Triathleten des ASV Duisburg überzeugen in Kamen",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412788298/triathleten-des-asv-duisburg-ueberzeugen-in-kamen.html",
+   "teaser": "Ein neues Freibad war der Ausgangspunkt für den Wettbewerb. Nun stehen die Saisonfinals in Krefeld und Xanten an.",
+   "bild": "https://img.sparknews.funkemedien.de/412788334/412788334_fc_1786014394_v16_9_600.jpeg",
+   "datum": "2026-08-06T11:38:39.000Z",
+   "sortZeit": 1785944319000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg",
+    "Xanten"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "ASV Duisburg"
+   ],
+   "sportart": "Triathlon",
    "grund": "pfad"
   },
   {
@@ -3657,7 +3725,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412763677/412763677_1785847987_v16_9_600.jpeg",
    "datum": "2026-08-04T12:54:06.000Z",
    "sortZeit": 1785776046000,
-   "punkte": 40,
+   "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
@@ -3668,8 +3736,10 @@
     "Duisburg"
    ],
    "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
+   "vereine": [
+    "Rhein Fire"
+   ],
+   "sportart": "American Football",
    "grund": "pfad"
   },
   {
@@ -4326,7 +4396,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412735759/412735759_1785602829_v16_9_600.jpeg",
    "datum": "2026-08-01T16:51:28.000Z",
    "sortZeit": 1785574288000,
-   "punkte": 70,
+   "punkte": 110,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
@@ -4338,7 +4408,9 @@
     "Moers"
    ],
    "zone": "umland",
-   "vereine": [],
+   "vereine": [
+    "TV Issum"
+   ],
    "sportart": "Handball",
    "grund": "pfad"
   },
@@ -4350,19 +4422,21 @@
    "bild": "https://img.sparknews.funkemedien.de/412738517/412738517_1785619507_v16_9_600.jpeg",
    "datum": "2026-08-01T21:26:06.000Z",
    "sortZeit": 1785547566000,
-   "punkte": 40,
+   "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
    "auchIn": [],
    "ort": "Duisburg",
-   "ortSicher": false,
+   "ortSicher": true,
    "orte": [
     "Duisburg"
    ],
    "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
+   "vereine": [
+    "Rhein Fire"
+   ],
+   "sportart": "American Football",
    "grund": "pfad"
   },
   {
@@ -4590,7 +4664,7 @@
    "vereine": [
     "MSV Duisburg"
    ],
-   "sportart": "Fußball",
+   "sportart": "American Football",
    "grund": "pfad"
   },
   {
@@ -4615,7 +4689,7 @@
    "vereine": [
     "SpVgg. Rheurdt-Schaephuysen"
    ],
-   "sportart": "Fußball",
+   "sportart": "American Football",
    "grund": "pfad"
   },
   {
@@ -4825,7 +4899,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412705451/412705451_1785316578_v16_9_600.jpeg",
    "datum": "2026-07-29T09:27:14.000Z",
    "sortZeit": 1785288434000,
-   "punkte": 70,
+   "punkte": 110,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
@@ -4838,7 +4912,9 @@
     "Moers"
    ],
    "zone": "umland",
-   "vereine": [],
+   "vereine": [
+    "TV Issum"
+   ],
    "sportart": "Handball",
    "grund": "pfad"
   },
@@ -5021,7 +5097,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412684890/412684890_1785140662_v16_9_600.jpeg",
    "datum": "2026-07-27T08:27:32.000Z",
    "sortZeit": 1785140852000,
-   "punkte": 110,
+   "punkte": 150,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
@@ -5033,8 +5109,10 @@
     "Moers"
    ],
    "zone": "kern",
-   "vereine": [],
-   "sportart": null,
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
    "grund": "pfad"
   },
   {
@@ -5195,7 +5273,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412662640/412662640_1784879833_v16_9_600.jpeg",
    "datum": "2026-07-24T11:30:52.000Z",
    "sortZeit": 1784892652000,
-   "punkte": 110,
+   "punkte": 150,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
@@ -5207,7 +5285,9 @@
     "Moers"
    ],
    "zone": "kern",
-   "vereine": [],
+   "vereine": [
+    "TuS Lintfort"
+   ],
    "sportart": "Handball",
    "grund": "pfad"
   },
@@ -5490,7 +5570,7 @@
    "bild": "https://img.sparknews.funkemedien.de/412637919/412637919_1784633702_v16_9_600.jpeg",
    "datum": "2026-07-21T11:43:10.000Z",
    "sortZeit": 1784634190000,
-   "punkte": 110,
+   "punkte": 150,
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
@@ -5502,7 +5582,9 @@
     "Moers"
    ],
    "zone": "kern",
-   "vereine": [],
+   "vereine": [
+    "TuS Lintfort"
+   ],
    "sportart": "Handball",
    "grund": "pfad"
   },

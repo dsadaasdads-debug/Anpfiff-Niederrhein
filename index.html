@@ -63,7 +63,11 @@
     Keine Verbindung — angezeigt wird der zuletzt geladene Stand.
   </p>
 
-  <div id="liste" class="liste" aria-live="polite"></div>
+  <!-- Kein aria-live auf der Liste selbst: sonst liest ein Screenreader bei
+       jedem Filterklick alle Karten erneut vor. Angesagt wird nur die Anzahl. -->
+  <p class="nur-vorlesen" id="ansage" role="status" aria-live="polite"></p>
+
+  <div id="liste" class="liste"></div>
 
   <div class="untersicht" id="untersicht" hidden>
     <div class="segment" id="tabellenmodus" role="radiogroup" aria-label="Tabellen gruppieren">
@@ -78,6 +82,7 @@
 
   <footer class="fuss">
     <p id="stand"></p>
+    <p><button type="button" class="textknopf textknopf-betont" id="knopf-neuladen">Jetzt nach neuen Meldungen sehen</button></p>
     <p class="fuss-klein">
       Schlagzeilen und Vorschautexte stammen von den jeweils genannten Quellen.
       Zum Weiterlesen wird auf den Originalartikel verlinkt.
@@ -153,6 +158,10 @@
     </section>
   </div>
 </aside>
+
+<button type="button" class="nach-oben" id="knopf-nach-oben" hidden aria-label="Zurück nach oben">
+  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V6M6 12l6-6 6 6"/></svg>
+</button>
 
 <script src="app.js"></script>
 </body>

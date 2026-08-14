@@ -171,6 +171,25 @@ input[type="search"]:focus-visible { outline: 2px solid var(--akzent); outline-o
   border: 0; background: none; color: var(--schrift-leise);
   font: inherit; cursor: pointer; padding: .4rem;
 }
+.textknopf-betont { color: var(--akzent-stark); font-weight: 650; padding-left: 0; }
+.textknopf:focus-visible { outline: 2px solid var(--akzent); outline-offset: 2px; border-radius: 6px; }
+
+/* Nur für Screenreader: sichtbar für Hilfsmittel, nicht auf dem Bildschirm. */
+.nur-vorlesen {
+  position: absolute; width: 1px; height: 1px; margin: -1px;
+  padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap;
+}
+
+.nach-oben {
+  position: fixed; z-index: 15;
+  right: 14px; bottom: calc(14px + env(safe-area-inset-bottom));
+  width: 44px; height: 44px; display: grid; place-items: center;
+  border: 1px solid var(--linie); border-radius: 50%;
+  background: var(--flaeche); color: var(--schrift);
+  box-shadow: var(--schatten); cursor: pointer;
+}
+.nach-oben:hover { border-color: var(--akzent); color: var(--akzent-stark); }
+.nach-oben:focus-visible { outline: 2px solid var(--akzent); outline-offset: 2px; }
 
 /* ── Ortsfilter ────────────────────────────────────────────────────────── */
 

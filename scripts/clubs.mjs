@@ -30,6 +30,20 @@ const WEITERE = [
     aliase: ['RFV Rheurdt'] },
   { name: 'RV Eversael', ort: 'Rheinberg', zone: 'umland', sportart: 'Reitsport',
     aliase: ['RV Eversael'] },
+
+  // Beim Durchsehen des „Sonstiges“-Topfs nachgetragen: allesamt Vereine, die
+  // regelmäßig in den Feeds auftauchen und die fussball.de nicht kennt, weil
+  // sie keinen Fußball spielen.
+  { name: 'TuS Lintfort', ort: 'Kamp-Lintfort', zone: 'kern', sportart: 'Handball',
+    aliase: ['TuS Lintfort', 'TUS Lintfort'] },
+  { name: 'TV Issum', ort: 'Issum', zone: 'umland', sportart: 'Handball',
+    aliase: ['TV Issum'] },
+  { name: 'Rhein Fire', ort: 'Duisburg', zone: 'duisburg', sportart: 'American Football',
+    aliase: ['Rhein Fire'] },
+  { name: 'ASV Duisburg', ort: 'Duisburg', zone: 'duisburg', sportart: 'Triathlon',
+    aliase: ['ASV Duisburg'] },
+  { name: 'ASC Duisburg', ort: 'Duisburg', zone: 'duisburg', sportart: 'Triathlon',
+    aliase: ['ASC Duisburg'] },
   { name: 'MSV Duisburg', ort: 'Duisburg', zone: 'duisburg', sportart: 'Fußball',
     aliase: ['MSV Duisburg', 'MSV', 'Meidericher SV', 'Zebras'] },
   { name: 'Füchse Duisburg', ort: 'Duisburg', zone: 'duisburg', sportart: 'Eishockey',
