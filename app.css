@@ -326,8 +326,31 @@ main { max-width: 780px; margin: 0 auto; padding: 12px; }
 
 /* ── Tabellenansicht ───────────────────────────────────────────────────── */
 
-.untersicht { margin-bottom: 12px; }
-.untersicht .segment { max-width: 320px; }
+.untersicht { margin-bottom: 12px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.untersicht .segment { max-width: 320px; flex: 1; min-width: 220px; }
+.chip-nurmeine { flex: none; }
+
+/* Macht sichtbar, dass gerade nicht alles gezeigt wird. */
+.modushinweis {
+  margin: 0 0 12px; padding: .55rem .85rem;
+  border-left: 4px solid var(--akzent); border-radius: 8px;
+  background: color-mix(in srgb, var(--akzent) 12%, var(--flaeche));
+  font-size: .84rem; font-weight: 600;
+}
+.modushinweis .leise { font-weight: 400; color: var(--schrift-leise); }
+
+/* Stern in der Kopfzeile einer Tabellenkarte */
+.liga-stern {
+  position: absolute; top: 10px; right: 10px; z-index: 1;
+  display: grid; place-items: center; width: 36px; height: 36px;
+  border: 0; border-radius: 9px; background: transparent;
+  color: var(--linie); cursor: pointer;
+}
+.liga-stern:hover { background: var(--flaeche-2); }
+.liga-stern:focus-visible { outline: 2px solid var(--akzent); outline-offset: 2px; }
+.liga-stern[aria-pressed="true"] { color: var(--akzent); }
+.liga-stern[aria-pressed="true"] svg { fill: currentColor; }
+.mannschaft-kopf { padding-right: 52px; }
 
 /* Eigene Vereine in einer Ligatabelle: der markierte Favorit kräftiger. */
 table.liga tr.heimisch { background: color-mix(in srgb, var(--akzent) 10%, transparent) !important; font-weight: 700; }
@@ -496,6 +519,25 @@ table.liga tr.eigen { background: color-mix(in srgb, var(--akzent) 15%, transpar
 .vereinszeile .haken-ikone { color: var(--linie); flex: none; }
 .vereinszeile[aria-pressed="true"] .haken-ikone { color: var(--akzent); }
 .vereinszeile[aria-pressed="false"] .vname { color: var(--schrift-leise); text-decoration: line-through; }
+
+/* Sportartenzeile: links der Stern (Reihenfolge), rechts das Häkchen (sichtbar). */
+.wahlzeile {
+  display: flex; align-items: center; gap: .5rem;
+  padding: .3rem .5rem; border-bottom: 1px solid var(--linie); background: var(--flaeche);
+}
+.wahlzeile:last-child { border-bottom: 0; }
+.wahlzeile .vname { flex: 1; min-width: 0; font-size: .88rem; font-weight: 600; }
+.wahlzeile .vname.durchgestrichen { color: var(--schrift-leise); text-decoration: line-through; }
+.wahlzeile .vort { font-size: .72rem; color: var(--schrift-leise); font-variant-numeric: tabular-nums; }
+
+.zeilenknopf {
+  display: grid; place-items: center; width: 32px; height: 32px; flex: none;
+  border: 0; border-radius: 8px; background: transparent; color: var(--linie); cursor: pointer;
+}
+.zeilenknopf:hover { background: var(--flaeche-2); }
+.zeilenknopf:focus-visible { outline: 2px solid var(--akzent); outline-offset: 1px; }
+.zeilenknopf[aria-pressed="true"] { color: var(--akzent); }
+.zeilenknopf.stern-knopf[aria-pressed="true"] svg { fill: currentColor; }
 .vereinszeile .vname { flex: 1; min-width: 0; font-size: .88rem; font-weight: 600; }
 .vereinszeile .vort { font-size: .72rem; color: var(--schrift-leise); }
 

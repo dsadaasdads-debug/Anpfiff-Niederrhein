@@ -4,7 +4,7 @@
 // Vereins- und Ortsliste treffsicherer als jede Klassifikation – und sie ist
 // nachvollziehbar: jeder Treffer trägt seinen Grund im Datensatz mit.
 
-import { VEREINE, ORTE, ZONEN, SPORT_WOERTER, AUSSCHLUSS_WOERTER } from '../clubs.mjs';
+import { VEREINE, ORTE, ZONEN, SPORT_WOERTER, AUSSCHLUSS_WOERTER, VEREINSINTERN_WOERTER } from '../clubs.mjs';
 
 // Ortsnamen, die außerhalb eines URL-Pfads mehrdeutig sind. "Alpen" ist ein
 // Gebirge, "Homberg" gibt es mehrfach in NRW, "Kapellen" auch bei Grevenbroich.
@@ -37,7 +37,9 @@ const SPORTARTEN = [
   ['Eishockey', ['Eishockey', 'Füchse Duisburg', 'DEL2', 'Oberliga Nord']],
   ['Handball', ['Handball']],
   ['Basketball', ['Basketball']],
-  ['Leichtathletik', ['Leichtathletik', 'Hürden', 'Sprint', 'Speerwurf', 'Weitsprung', 'Staffel']],
+  ['Leichtathletik', ['Leichtathletik', 'Hürden', 'Sprint', 'Speerwurf', 'Weitsprung', 'Hochsprung',
+    'Stabhochsprung', 'Dreisprung', 'Kugelstoß', 'Diskus', 'Hammerwurf', 'Mehrkampf', 'Zehnkampf',
+    'Siebenkampf', 'Staffel', 'Läuferin', 'Läufer', 'Sprinterin', 'Sprinter', 'Marathon', 'Crosslauf']],
   ['Rudern & Kanu', ['Rudern', 'Ruder', 'Kanu', 'Regatta', 'Regattabahn', 'Drachenboot']],
   ['Schwimmen', ['Schwimmen', 'Schwimm', 'Freibad-Meisterschaft']],
   ['Tennis', ['Tennis']],
@@ -144,6 +146,47 @@ export function ortsbezug({ titel, teaser, url, vereine }) {
   };
 }
 
+/**
+ * Erkennt Großereignisse – Europa- und Weltmeisterschaften, Olympia, Deutsche
+ * Meisterschaften –, damit die App dafür von selbst einen Reiter aufmacht und
+ * ihn wieder schließt, wenn das Ereignis vorbei ist.
+ *
+ * Ohne Sprachmodell machbar, weil solche Meldungen sehr formelhaft betitelt
+ * sind: „Leichtathletik-EM in England: …“, „WM-Gold für Deutschland: …“,
+ * „… steckt Rückschlag bei der DM weg“.
+ *
+ * @returns {{schluessel:string, name:string, ort:string|null}|null}
+ */
+export function ereignisErkennen(titel, sportart) {
+  if (!titel) return null;
+
+  // Bewusst nur die Überschrift: Berichte über ein Großereignis nennen es dort.
+  // Im Vorschautext taucht „WM“ auch beiläufig auf – so wurde ein Artikel über
+  // einen US-Amerikaner beim VfB Speldorf als Fußball-WM einsortiert.
+  const text = titel;
+
+  let art = null;
+  if (/\bOlympi(a|sche[nrs]?)\b/.test(text)) art = 'Olympia';
+  else if (new RegExp(WORTGRENZE + '(Europameisterschaften?|EM)' + WORTENDE).test(text)
+    || /-EM\b/.test(text)) art = 'EM';
+  else if (new RegExp(WORTGRENZE + '(Weltmeisterschaften?|WM)' + WORTENDE).test(text)
+    || /-WM\b/.test(text)) art = 'WM';
+  else if (/\bDeutsche[nrs]?\s+Meisterschaften?\b/i.test(text) || /\bDM\b/.test(text)) art = 'DM';
+
+  if (!art) return null;
+
+  // Die Sportart bestimmt die Gruppe, nicht das Wort vor dem Bindestrich:
+  // „Jugend-DM“ und „Masters-DM“ nennen die Altersklasse, nicht den Sport.
+  const langname = { EM: 'Europameisterschaft', WM: 'Weltmeisterschaft', DM: 'Deutsche Meisterschaft', Olympia: 'Olympische Spiele' };
+  const name = art === 'Olympia'
+    ? (sportart ? `Olympia: ${sportart}` : 'Olympische Spiele')
+    : (sportart ? `${sportart}-${art}` : langname[art]);
+
+  const ort = (text.match(/\b(?:EM|WM|DM|Meisterschaften?|Olympia)\s+in\s+([A-ZÄÖÜ][\wäöüß]{2,})/) ?? [])[1] ?? null;
+
+  return { schluessel: `${art}|${sportart ?? '—'}`, name, ort };
+}
+
 /** Erkennt die Sportart für das Etikett. Fällt auf null zurück. */
 export function sportartErkennen(text, vereine) {
   for (const verein of vereine) {
@@ -166,7 +209,14 @@ export function istSport({ eintrag, quelle, vereine }) {
     return { sport: false, grund: 'ausgeschlossen' };
   }
 
-  if (quelle.mode === 'club') return { sport: true, grund: 'vereinsfeed' };
+  if (quelle.mode === 'club') {
+    // Vereinsfeeds enthalten auch Verwaltungskram: Urlaub der Geschäftsstelle,
+    // Einladungen zur Mitgliederversammlung, Beitragsanpassungen. Kein Sport.
+    if (VEREINSINTERN_WOERTER.some((w) => enthaeltStamm(text, w))) {
+      return { sport: false, grund: 'vereinsintern' };
+    }
+    return { sport: true, grund: 'vereinsfeed' };
+  }
 
   if (eintrag.rubriken.some((r) => /^sport$/i.test(r.trim()))) {
     return { sport: true, grund: 'rubrik' };

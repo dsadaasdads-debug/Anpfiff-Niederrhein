@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T08:37:56.533Z",
+ "aktualisiert": "2026-08-14T08:42:28.197Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -648,6 +648,7 @@
     "TV Asberg 1897"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -676,6 +677,7 @@
     "1. FC Lintfort"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -699,6 +701,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -726,6 +729,7 @@
     "Moerser SC"
    ],
    "sportart": "Volleyball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -751,6 +755,7 @@
     "SV Scherpenberg 1921"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -777,6 +782,7 @@
     "TuS Lintfort"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -803,6 +809,7 @@
     "FC Neukirchen-Vluyn"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -826,6 +833,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -851,32 +859,8 @@
     "SV Scherpenberg 1921"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "sv-menzelen1925.de/front/neuer-werbepartner-beim-sv-menzelen-herzlich-willkommen-westenergie",
-   "titel": "Neuer Werbepartner beim SV Menzelen – Herzlich willkommen Westenergie!",
-   "url": "https://sv-menzelen1925.de/front/neuer-werbepartner-beim-sv-menzelen-herzlich-willkommen-westenergie/",
-   "teaser": "von links",
-   "bild": "",
-   "datum": "2026-08-13T13:12:56.000Z",
-   "sortZeit": 1786597976000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "SV Menzelen",
-   "quelleName": "SV Menzelen 1925",
-   "auchIn": [],
-   "ort": "Alpen",
-   "ortSicher": true,
-   "orte": [
-    "Alpen"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "SV Menzelen 1925"
-   ],
-   "sportart": "Fußball",
-   "grund": "vereinsfeed"
   },
   {
    "id": "funke:412853475",
@@ -902,6 +886,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -930,6 +915,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -956,6 +942,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -986,6 +973,7 @@
     "TUS Xanten 05/22"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -1011,31 +999,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
-   "grund": "rubrik"
-  },
-  {
-   "id": "rp:153082963",
-   "titel": "MSV zu Gast in Ostwestfalen: „Gefühltes Heimspiel“ – Zebras übernehmen Verl",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-gefuehltes-heimspiel-zebras-uebernehmen-verl_aid-153082963",
-   "teaser": "2000 Fans werden den MSV Duisburg zum ersten Auswärtsspiel dieser Drittliga-Saison begleiten. Wie Trainer Dietmar Hirsch den Gegner erwartet und wie die personelle Lage ist.",
-   "bild": "https://rp-online.de/imgs/32/2/7/7/2/7/6/6/2/5/tok_960204ec6583fcf48da0bf7891d217a2/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FA20600726A5F12-db22add8111da502.jpg",
-   "datum": "2026-08-13T13:24:00.000Z",
-   "sortZeit": 1786555440000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -1063,6 +1027,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1090,6 +1055,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1113,6 +1079,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1138,6 +1105,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1163,6 +1131,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1188,32 +1157,8 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:153011293",
-   "titel": "Zuletzt auf der Tribüne: Wechsel von MSV-Kapitän Alexander Hahn? Was dafür und dagegen spricht",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-wechselt-kapitaen-alexander-hahn-was-dafuer-und-dagegen-spricht_aid-153011293",
-   "teaser": "Der Innenverteidiger ist momentan nur die Nummer vier auf seiner Position und stand zum Ligastart gegen Meppen nicht einmal im Kader. Könnte er den Klub deshalb verlassen? Es lassen sich Argumente in beide Richtungen finden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/7/1/0/7/4/1/7/tok_635d207547f736567d4a65022fd790c7/w1200_h630_x960_y540_hahn-ec5ad45d7bc75101.jpg",
-   "datum": "2026-08-13T08:05:00.000Z",
-   "sortZeit": 1786536300000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "grund": "rubrik"
   },
   {
    "id": "funke:412848894",
@@ -1236,6 +1181,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1259,6 +1205,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1284,6 +1231,7 @@
     "TV Schwafheim"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1314,6 +1262,7 @@
     "SV Budberg 1946"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -1341,6 +1290,11 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Leichtathletik",
+   "ereignis": {
+    "schluessel": "EM|Leichtathletik",
+    "name": "Leichtathletik-EM",
+    "ort": "England"
+   },
    "grund": "rubrik"
   },
   {
@@ -1366,6 +1320,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1393,6 +1348,7 @@
     "VFB Homberg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1418,6 +1374,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1443,6 +1400,7 @@
     "Duisburger SV 1900"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1470,6 +1428,7 @@
     "VFB Homberg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1495,6 +1454,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1521,6 +1481,7 @@
     "TuS Lintfort"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1544,6 +1505,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1569,13 +1531,14 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
    "id": "fuechse-duisburg.de/neue-und-bekannte-unterstuetzung-im-club-1971",
    "titel": "Neue und bekannte Unterstützung im Club 1971",
    "url": "https://fuechse-duisburg.de/neue-und-bekannte-unterstuetzung-im-club-1971/",
-   "teaser": "Mit der Laufs GmbH und KL Technic dürfen wir uns über starke Unterstützung in unserem Club 1971 freuen. Während die Laufs GmbH neu zum Partnernetzwerk der Füchse hinzukommt, setzt KL Technic die bestehende Zusammenarbeit fort. Laufs GmbH wird neuer Silber Partner Mit der Laufs GmbH begrüßen wir einen neuen Silber Partner im Club 1971. Das […] Der Beitrag Neue und bekannte Unterstützung im Club 1971 erschien zuerst auf Füchse Duisburg .",
+   "teaser": "Mit der Laufs GmbH und KL Technic dürfen wir uns über starke Unterstützung in unserem Club 1971 freuen. Während die Laufs GmbH neu zum Partnernetzwerk der Füchse hinzukommt, setzt KL Technic die bestehende Zusammenarbeit fort. Laufs GmbH wird neuer Silber Partner Mit der Laufs GmbH begrüßen wir einen neuen Silber Partner im Club 1971. Das […]",
    "bild": "",
    "datum": "2026-08-11T15:00:00.000Z",
    "sortZeit": 1786388400000,
@@ -1594,6 +1557,7 @@
     "Füchse Duisburg"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "vereinsfeed"
   },
   {
@@ -1619,6 +1583,7 @@
     "ASC Duisburg"
    ],
    "sportart": "Triathlon",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1642,6 +1607,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Tennis",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1665,6 +1631,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1690,32 +1657,8 @@
     "Eintracht 1848 Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "www.borussia-veen.de/post/freizeitsportler-60-geburtstag-walter-hackel",
-   "titel": "Freizeitsportler: 60.Geburtstag Walter Hackel",
-   "url": "https://www.borussia-veen.de/post/freizeitsportler-60-geburtstag-walter-hackel",
-   "teaser": "Unser Sportskamerad Walter Hackel hat es sich nicht nehmen lassen, die Freizeitsportler am Mittwoch, den 5. August 2026 nachträglich zu seinem 60. Geburtstag einzuladen. Wir trafen uns um 18.00 Uhr am Sportplatz bei Artur und Kirsten, dort war alles schon vorbereitet. Abteilungsleiter Ditz van Gelder bedankte sich im Namender Freizeitsportler für die Einladung und überreichte Walter sein Geschenk und seiner Frau Cordula ein Blumenstrauß. Nach einen hervorragend gegrillten Abendessen und...",
-   "bild": "https://static.wixstatic.com/media/fcb389_531443a2ce7e49619c466d994b9d5b86~mv2.jpg/v1/fit/w_640,h_480,al_c,q_80/file.png",
-   "datum": "2026-08-10T19:34:00.000Z",
-   "sortZeit": 1786361640000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "SV Borussia Veen",
-   "quelleName": "SV Borussia Veen 1920",
-   "auchIn": [],
-   "ort": "Alpen",
-   "ortSicher": true,
-   "orte": [
-    "Alpen"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "SV Borussia Veen 1920"
-   ],
-   "sportart": "Fußball",
-   "grund": "vereinsfeed"
   },
   {
    "id": "funke:412821008",
@@ -1740,6 +1683,7 @@
     "Black Tigers Moers"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1764,6 +1708,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1788,6 +1733,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1814,6 +1760,7 @@
     "SV Budberg 1946"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1840,6 +1787,7 @@
     "FC Neukirchen-Vluyn"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1865,6 +1813,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1890,6 +1839,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1915,6 +1865,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1940,6 +1891,7 @@
     "SV Scherpenberg 1921"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1967,6 +1919,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -1992,6 +1945,7 @@
     "Regattabahn Duisburg"
    ],
    "sportart": "Rudern & Kanu",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2015,6 +1969,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2039,6 +1994,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2065,6 +2021,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -2091,6 +2048,7 @@
     "SV Budberg 1946"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2117,6 +2075,7 @@
     "TuS Lintfort"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2141,6 +2100,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2165,6 +2125,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2192,6 +2153,7 @@
     "TUS Xanten 05/22"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -2217,6 +2179,7 @@
     "Rhein Fire"
    ],
    "sportart": "American Football",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2240,6 +2203,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -2265,6 +2229,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2292,6 +2257,7 @@
     "VFB Homberg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2315,6 +2281,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2340,6 +2307,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2365,6 +2333,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2389,7 +2358,8 @@
    "vereine": [
     "MSV Duisburg"
    ],
-   "sportart": "Fußball",
+   "sportart": "Leichtathletik",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2415,6 +2385,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2443,6 +2414,7 @@
     "SV Budberg 1946"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2469,6 +2441,7 @@
     "1. FC Lintfort"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2494,32 +2467,8 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "fuechse-duisburg.de/hundepension-hollerhof-wird-neuer-business-partner-der-fuechse",
-   "titel": "Hundepension Hollerhof wird neuer Business Partner der Füchse",
-   "url": "https://fuechse-duisburg.de/hundepension-hollerhof-wird-neuer-business-partner-der-fuechse/",
-   "teaser": "Mit der Hundepension Hollerhof begrüßen wir einen neuen Business Partner der Füchse. Seit 1998 bietet die kleine, familiär geführte Hundepension in Duisburg eine erfahrene und zuverlässige Betreuung für Vierbeiner. Im Mittelpunkt steht dabei, dass sich die Hunde während ihres Aufenthalts rundum wohlfühlen und eine schöne Zeit mit ausreichend Auslauf, Spiel und Kontakt zu Artgenossen verbringen […] Der Beitrag Hundepension Hollerhof wird neuer Business Partner der Füchse erschien zuerst auf Füchse Duisburg .",
-   "bild": "",
-   "datum": "2026-08-08T15:00:00.000Z",
-   "sortZeit": 1786129200000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "Füchse Duisburg",
-   "quelleName": "Füchse Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "Füchse Duisburg"
-   ],
-   "sportart": "Eishockey",
-   "grund": "vereinsfeed"
   },
   {
    "id": "funke:412807264",
@@ -2544,6 +2493,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2570,6 +2520,7 @@
     "Regattabahn Duisburg"
    ],
    "sportart": "Rudern & Kanu",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2595,6 +2546,7 @@
     "SV Scherpenberg 1921"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2620,6 +2572,7 @@
     "Black Tigers Moers"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2646,6 +2599,7 @@
     "FC Neukirchen-Vluyn"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2676,6 +2630,7 @@
     "SV Budberg 1946"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -2701,6 +2656,7 @@
     "Moerser SC"
    ],
    "sportart": "Volleyball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2725,6 +2681,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2753,6 +2710,7 @@
     "TUS Xanten 05/22"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -2777,6 +2735,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2803,6 +2762,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -2831,6 +2791,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Schwimmen",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2854,6 +2815,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2879,6 +2841,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2904,6 +2867,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2929,6 +2893,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -2952,6 +2917,11 @@
    "zone": "kern",
    "vereine": [],
    "sportart": null,
+   "ereignis": {
+    "schluessel": "EM|—",
+    "name": "Europameisterschaft",
+    "ort": null
+   },
    "grund": "pfad"
   },
   {
@@ -2977,6 +2947,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3001,6 +2972,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3029,6 +3001,7 @@
     "FC Rot-Weiß Moers 1926"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -3054,6 +3027,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3077,6 +3051,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3103,6 +3078,7 @@
     "TuS Lintfort"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3127,6 +3103,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3153,13 +3130,14 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
    "id": "fuechse-duisburg.de/erstes-oeffentliches-training",
    "titel": "Erstes öffentliches Training",
    "url": "https://fuechse-duisburg.de/erstes-oeffentliches-training/",
-   "teaser": "Es ist bald wieder soweit…Der Klang von Kufen, die ihre Kerben ins Eis schlagen. Pucks, die ans Torgestänge klatschen. Krachende Checks gegen die Bande…Könnt ihr es schon hören? 🤩 🗓 18.08.2026⏰️ 18.00 Uhr Die Füchse starten am 18. August mit einem Training vor euch Fans in die Spielzeit.Ab 18 Uhr begrüßt euch Hallensprecher Justin Holland […] Der Beitrag Erstes öffentliches Training erschien zuerst auf Füchse Duisburg .",
+   "teaser": "Es ist bald wieder soweit…Der Klang von Kufen, die ihre Kerben ins Eis schlagen. Pucks, die ans Torgestänge klatschen. Krachende Checks gegen die Bande…Könnt ihr es schon hören? 🤩 🗓 18.08.2026⏰️ 18.00 Uhr Die Füchse starten am 18. August mit einem Training vor euch Fans in die Spielzeit.Ab 18 Uhr begrüßt euch Hallensprecher Justin Holland […]",
    "bild": "",
    "datum": "2026-08-06T15:00:00.000Z",
    "sortZeit": 1785956400000,
@@ -3178,6 +3156,7 @@
     "Füchse Duisburg"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "vereinsfeed"
   },
   {
@@ -3203,6 +3182,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3228,6 +3208,7 @@
     "Rhein Fire"
    ],
    "sportart": "American Football",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3253,6 +3234,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3278,6 +3260,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3303,6 +3286,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3328,6 +3312,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3354,6 +3339,7 @@
     "ASV Duisburg"
    ],
    "sportart": "Triathlon",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3377,6 +3363,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3402,6 +3389,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3427,6 +3415,7 @@
     "Moerser SC"
    ],
    "sportart": "Volleyball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3452,6 +3441,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3477,6 +3467,7 @@
     "TV Schwafheim"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3502,6 +3493,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3527,6 +3519,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3552,6 +3545,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3575,6 +3569,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3600,6 +3595,7 @@
     "Duisburger SV 1900"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3625,6 +3621,7 @@
     "SV Scherpenberg 1921"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3648,6 +3645,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3671,6 +3669,11 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Hockey",
+   "ereignis": {
+    "schluessel": "WM|Hockey",
+    "name": "Hockey-WM",
+    "ort": null
+   },
    "grund": "pfad"
   },
   {
@@ -3694,6 +3697,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Tennis",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3717,6 +3721,11 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Basketball",
+   "ereignis": {
+    "schluessel": "WM|Basketball",
+    "name": "Basketball-WM",
+    "ort": null
+   },
    "grund": "pfad"
   },
   {
@@ -3740,6 +3749,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3765,6 +3775,7 @@
     "Rhein Fire"
    ],
    "sportart": "American Football",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3788,6 +3799,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3813,6 +3825,7 @@
     "Duisburger SV 1900"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3836,32 +3849,8 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "www.borussia-veen.de/post/planwagenfahrt-zum-abfallentsorgungszentrum-asdonkshof",
-   "titel": "Planwagenfahrt zum Abfallentsorgungszentrum Asdonkshof",
-   "url": "https://www.borussia-veen.de/post/planwagenfahrt-zum-abfallentsorgungszentrum-asdonkshof",
-   "teaser": "Im Rahmen des diesjährigen Ferienprogrammes besuchten am Samstag, 1. August 2026, 18 Freizeitsportler von Borussia Veen mit dem Planwagen das Abfallentsorgungszentrum Asdonkshof. Empfangen wurden sie durch die Leiterin Kommunikation, Frau Cornelia Bothen. Nachdem diese die konkreten Maßnahmen des Entsorgungszentrums an Hand eines Schaubildes dargestellt hatte, begann eine Führung über das gesamte Gelände und durch verschiedene Gebäude. Seit nunmehr 25 Jahren kümmert sich das Abfall- und...",
-   "bild": "https://static.wixstatic.com/media/fcb389_7519c29b3181401391a49247d477cfa1~mv2.jpg/v1/fit/w_640,h_480,al_c,q_80/file.png",
-   "datum": "2026-08-03T20:17:15.000Z",
-   "sortZeit": 1785759435000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "SV Borussia Veen",
-   "quelleName": "SV Borussia Veen 1920",
-   "auchIn": [],
-   "ort": "Alpen",
-   "ortSicher": true,
-   "orte": [
-    "Alpen"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "SV Borussia Veen 1920"
-   ],
-   "sportart": "Fußball",
-   "grund": "vereinsfeed"
   },
   {
    "id": "rp:152473525",
@@ -3887,6 +3876,7 @@
     "SV Budberg 1946"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3911,6 +3901,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3939,6 +3930,11 @@
     "RFV Rheurdt"
    ],
    "sportart": "Reitsport",
+   "ereignis": {
+    "schluessel": "DM|Reitsport",
+    "name": "Reitsport-DM",
+    "ort": null
+   },
    "grund": "rubrik"
   },
   {
@@ -3964,6 +3960,7 @@
     "Füchse Duisburg"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -3987,6 +3984,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4011,6 +4009,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4036,6 +4035,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4059,6 +4059,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4082,6 +4083,7 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4107,6 +4109,7 @@
     "SV Borussia Veen 1920"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "vereinsfeed"
   },
   {
@@ -4134,6 +4137,7 @@
     "TUS Xanten 05/22"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -4158,6 +4162,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4184,6 +4189,7 @@
     "SV Budberg 1946"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4208,6 +4214,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -4233,6 +4240,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4260,6 +4268,7 @@
     "VFB Homberg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4285,6 +4294,7 @@
     "Duisburger FV 08"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4310,6 +4320,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4335,6 +4346,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4360,6 +4372,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4386,6 +4399,7 @@
     "1. FC Lintfort"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4411,6 +4425,7 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4437,6 +4452,7 @@
     "TV Issum"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4462,38 +4478,14 @@
     "Rhein Fire"
    ],
    "sportart": "American Football",
+   "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "fuechse-duisburg.de/autobereifung-max-geise-verlaengert-und-wird-gold-sponsor-der-fuechse",
-   "titel": "Autobereifung Max Geise verlängert und wird Gold Sponsor der Füchse",
-   "url": "https://fuechse-duisburg.de/autobereifung-max-geise-verlaengert-und-wird-gold-sponsor-der-fuechse/",
-   "teaser": "Die Autobereifung Max Geise GmbH bleibt weiterhin ein starker Partner an der Seite der Füchse und baut ihr Engagement zur neuen Saison deutlich aus. Aus dem bisherigen Silber Sponsor wird ab sofort ein Gold Sponsor. Das Duisburger Unternehmen steht seit mehr als 60 Jahren für Erfahrung und Kompetenz rund um Reifen und Räder. Mit einem […] Der Beitrag Autobereifung Max Geise verlängert und wird Gold Sponsor der Füchse erschien zuerst auf Füchse Duisburg .",
-   "bild": "",
-   "datum": "2026-08-01T15:00:00.000Z",
-   "sortZeit": 1785524400000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "Füchse Duisburg",
-   "quelleName": "Füchse Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "Füchse Duisburg"
-   ],
-   "sportart": "Eishockey",
-   "grund": "vereinsfeed"
   },
   {
    "id": "fuechse-duisburg.de/tickets-und-summer-bundle-ab-sofort-erhaeltlich",
    "titel": "Tickets und Summer Bundle ab sofort erhältlich",
    "url": "https://fuechse-duisburg.de/tickets-und-summer-bundle-ab-sofort-erhaeltlich/",
-   "teaser": "Endlich wieder Eishockey! Ab sofort könnt ihr euch eure Tickets für unsere vier Testspiele sichern und euch auf die ersten Partien der neuen Saison freuen. 🦊 Für alle Testspiele gelten in sämtlichen Kategorien einheitliche Preise: Vollzahler: 10,00 Euro Ermäßigt: 8,00 Euro Jugend: 7,00 Euro Kinder auf Sitzplätzen: 6,00 Euro Kinder auf Stehplätzen: kostenlos Tickets bekommt […] Der Beitrag Tickets und Summer Bundle ab sofort erhältlich erschien zuerst auf Füchse Duisburg .",
+   "teaser": "Endlich wieder Eishockey! Ab sofort könnt ihr euch eure Tickets für unsere vier Testspiele sichern und euch auf die ersten Partien der neuen Saison freuen. 🦊 Für alle Testspiele gelten in sämtlichen Kategorien einheitliche Preise: Vollzahler: 10,00 Euro Ermäßigt: 8,00 Euro Jugend: 7,00 Euro Kinder auf Sitzplätzen: 6,00 Euro Kinder auf Stehplätzen: kostenlos Tickets bekommt […]",
    "bild": "",
    "datum": "2026-08-01T10:00:00.000Z",
    "sortZeit": 1785506400000,
@@ -4512,6 +4504,7 @@
     "Füchse Duisburg"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "vereinsfeed"
   },
   {
@@ -4537,6 +4530,7 @@
     "SV Scherpenberg 1921"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4563,6 +4557,7 @@
     "1. FC Lintfort"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4588,6 +4583,7 @@
     "Black Tigers Moers"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4614,6 +4610,7 @@
     "SV Budberg 1946"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4638,6 +4635,7 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -4664,6 +4662,11 @@
     "RFV Rheurdt"
    ],
    "sportart": "Reitsport",
+   "ereignis": {
+    "schluessel": "DM|Reitsport",
+    "name": "Reitsport-DM",
+    "ort": null
+   },
    "grund": "pfad"
   },
   {
@@ -4690,6 +4693,7 @@
     "MSV Duisburg"
    ],
    "sportart": "American Football",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4715,6 +4719,7 @@
     "SpVgg. Rheurdt-Schaephuysen"
    ],
    "sportart": "American Football",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4740,6 +4745,7 @@
     "TUS Xanten 05/22"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -4764,32 +4770,8 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
-  },
-  {
-   "id": "www.borussia-veen.de/post/ferienlager-post-leicht-gemacht",
-   "titel": "Ferienlager-Post leicht gemacht!",
-   "url": "https://www.borussia-veen.de/post/ferienlager-post-leicht-gemacht",
-   "teaser": "Ihr möchtet eurem Kind, Enkelkind oder Freunden im Ferienlager eine kleine Freude machen? Dann nutzt gerne auch in diesem Jahr wieder unseren Ferienlager-Briefkasten! Standort: Bäckerei Dams in Veen Einwurf bis Samstag, den 08.08.2026, 12:00 Uhr zu den regulären Öffnungszeiten Wer Briefe oder Postkarten schreiben möchte, kann diese einfach in den beschrifteten Ferienlager-Briefkasten einwerfen. Wir nehmen die gesamte Post mit ins Lager und verteilen sie dort an die Kinder. So spart ihr...",
-   "bild": "https://static.wixstatic.com/media/ee2c48_07ee72c399dc4256aa0a9bdc33cea2a8~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
-   "datum": "2026-07-30T07:59:49.000Z",
-   "sortZeit": 1785369589000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "SV Borussia Veen",
-   "quelleName": "SV Borussia Veen 1920",
-   "auchIn": [],
-   "ort": "Alpen",
-   "ortSicher": true,
-   "orte": [
-    "Alpen"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "SV Borussia Veen 1920"
-   ],
-   "sportart": "Fußball",
-   "grund": "vereinsfeed"
   },
   {
    "id": "funke:412710312",
@@ -4816,6 +4798,7 @@
     "1. FC Lintfort"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4841,6 +4824,7 @@
     "VFB Homberg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4864,6 +4848,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4889,6 +4874,7 @@
     "Black Tigers Moers"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4914,6 +4900,7 @@
     "TV Schwafheim"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4941,6 +4928,7 @@
     "TV Issum"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -4966,6 +4954,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -4989,6 +4978,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5016,6 +5006,7 @@
     "1. FC Lintfort"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5039,32 +5030,8 @@
    "zone": "kern",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "www.borussia-veen.de/post/freizeitsportler-70-geburtstag-von-rainer-bruns",
-   "titel": "Freizeitsportler: 70. Geburtstag von Rainer Bruns",
-   "url": "https://www.borussia-veen.de/post/freizeitsportler-70-geburtstag-von-rainer-bruns",
-   "teaser": "Unser Sportkamerad Rainer Bruns hat es sich nicht nehmen lassen, die Freizeitsportler am Mittwoch den 22. Juli 2026 nachträglich zu seinem 70. Geburtstag einzuladen. Wir trafen uns um 17.45 Uhr in der Kuschelecke An der Ley und dann liefen wir gemeinsam zu ihm nach Hause. Dort angekommen bedankte Abteilungsleiter Ditz van Gelder für die Einladung und überreichte Rainer sein Geschenk und seiner Frau Marlene einen Blumenstrauß. Nach einem hervorragend gegrillten Abendessen und kühlen Getränken...",
-   "bild": "https://static.wixstatic.com/media/fcb389_8736820ad42e46cca540e8a8c5ac8950~mv2.jpg/v1/fit/w_480,h_457,al_c,q_80/file.png",
-   "datum": "2026-07-28T10:22:28.000Z",
-   "sortZeit": 1785205348000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "SV Borussia Veen",
-   "quelleName": "SV Borussia Veen 1920",
-   "auchIn": [],
-   "ort": "Alpen",
-   "ortSicher": true,
-   "orte": [
-    "Alpen"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "SV Borussia Veen 1920"
-   ],
-   "sportart": "Fußball",
-   "grund": "vereinsfeed"
   },
   {
    "id": "funke:412697552",
@@ -5087,32 +5054,8 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "fuechse-duisburg.de/wir-oeffnen-unseren-fanshop-2",
-   "titel": "Wir öffnen unseren Fanshop",
-   "url": "https://fuechse-duisburg.de/wir-oeffnen-unseren-fanshop-2/",
-   "teaser": "Am Donnerstag, den 30.07, sind wir von 18 bis 19:30 Uhr wieder für euch da! Ihr könnt vor Ort eure Dauerkarte für die Saison 2026/2027 bestellen und euch euren festen Platz bei den Füchsen sichern. Spätestens seit der Verpflichtung von Enrico Saccomani gibt es noch einen Grund mehr, sich auf die neue Saison zu freuen. […] Der Beitrag Wir öffnen unseren Fanshop erschien zuerst auf Füchse Duisburg .",
-   "bild": "",
-   "datum": "2026-07-28T10:00:00.000Z",
-   "sortZeit": 1785160800000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "Füchse Duisburg",
-   "quelleName": "Füchse Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "Füchse Duisburg"
-   ],
-   "sportart": "Eishockey",
-   "grund": "vereinsfeed"
   },
   {
    "id": "funke:412684782",
@@ -5138,13 +5081,14 @@
     "TuS Lintfort"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
    "id": "fuechse-duisburg.de/saisoneroeffnung-2026-2027",
    "titel": "Saisoneröffnung 2026/2027",
    "url": "https://fuechse-duisburg.de/saisoneroeffnung-2026-2027/",
-   "teaser": "Am 23. August starten wir gemeinsam mit euch in die neue Saison. Ab 11 Uhr wartet ein abwechslungsreicher Tag mit jeder Menge Füchse Feeling auf euch! 🦊 Auf der Bühne lernt ihr unsere Mannschaft und das Trainerteam noch einmal näher kennen. Freut euch auf lockere Gespräche mit den Spielern, Einblicke in die neue Saison und […] Der Beitrag Saisoneröffnung 2026/2027 erschien zuerst auf Füchse Duisburg .",
+   "teaser": "Am 23. August starten wir gemeinsam mit euch in die neue Saison. Ab 11 Uhr wartet ein abwechslungsreicher Tag mit jeder Menge Füchse Feeling auf euch! 🦊 Auf der Bühne lernt ihr unsere Mannschaft und das Trainerteam noch einmal näher kennen. Freut euch auf lockere Gespräche mit den Spielern, Einblicke in die neue Saison und […]",
    "bild": "",
    "datum": "2026-07-27T15:00:00.000Z",
    "sortZeit": 1785092400000,
@@ -5163,6 +5107,7 @@
     "Füchse Duisburg"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "vereinsfeed"
   },
   {
@@ -5186,6 +5131,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5211,6 +5157,7 @@
     "SV Scherpenberg 1921"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5237,6 +5184,7 @@
     "1. FC Lintfort"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5263,6 +5211,7 @@
     "SV Budberg 1946"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5288,6 +5237,7 @@
     "VFB Homberg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5314,6 +5264,7 @@
     "TuS Lintfort"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5339,6 +5290,11 @@
     "Moerser TV"
    ],
    "sportart": "Turnen",
+   "ereignis": {
+    "schluessel": "DM|Turnen",
+    "name": "Turnen-DM",
+    "ort": null
+   },
    "grund": "pfad"
   },
   {
@@ -5366,6 +5322,7 @@
     "SV Scherpenberg 1921"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5389,13 +5346,14 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
    "id": "fuechse-duisburg.de/enrico-saccomani-verstaerkt-den-fuechse-angriff",
    "titel": "Enrico Saccomani verstärkt den Füchse-Angriff",
    "url": "https://fuechse-duisburg.de/enrico-saccomani-verstaerkt-den-fuechse-angriff/",
-   "teaser": "Mit Enrico Saccomani präsentieren wir einen Neuzugang im Sturm, der nicht nur Einiges an Offensivpower mitbringt, sondern auch auf alte Weggefährten trifft.Der 31-jährige gebürtige Potsdamer machte über sein Jugendteam, dem EHC Freiburg, den Sprung in den Profibereich.So absolvierte er auch drei Spielzeiten in der DEL2, in denen ihm 23 Tore und 22 Assists gelangen.Die letzten […] Der Beitrag Enrico Saccomani verstärkt den Füchse-Angriff erschien zuerst auf Füchse Duisburg .",
+   "teaser": "Mit Enrico Saccomani präsentieren wir einen Neuzugang im Sturm, der nicht nur Einiges an Offensivpower mitbringt, sondern auch auf alte Weggefährten trifft.Der 31-jährige gebürtige Potsdamer machte über sein Jugendteam, dem EHC Freiburg, den Sprung in den Profibereich.So absolvierte er auch drei Spielzeiten in der DEL2, in denen ihm 23 Tore und 22 Assists gelangen.Die letzten […]",
    "bild": "",
    "datum": "2026-07-24T15:00:00.000Z",
    "sortZeit": 1784833200000,
@@ -5414,6 +5372,7 @@
     "Füchse Duisburg"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "vereinsfeed"
   },
   {
@@ -5439,6 +5398,7 @@
     "SV Scherpenberg 1921"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5464,6 +5424,7 @@
     "VFB Homberg"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5489,6 +5450,7 @@
     "TV Schwafheim"
    ],
    "sportart": "Handball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5512,6 +5474,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Leichtathletik",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5537,13 +5500,14 @@
     "Black Tigers Moers"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
    "id": "fuechse-duisburg.de/zurueck-aus-der-pause-mit-episode-21-und-einem-knall-%f0%9f%92%a5",
    "titel": "Zurück aus der Pause mit Episode 21 und einem Knall 💥",
    "url": "https://fuechse-duisburg.de/zurueck-aus-der-pause-mit-episode-21-und-einem-knall-%f0%9f%92%a5/",
-   "teaser": "Wir melden uns am Freitag um 17Uhr mit der neuesten Folge von Late Hit und beenden damit die Sommerpause!Und es geht fulminant in die neue Spielzeit!Wir verkünden gleich mal einen Neuzugang im Fuchsbau! 🥳Oliver Rättig wird unseren neuen Fuchs zu seinem Wechsel nach Duisburg und seinen Ambitionen befragen und mit ihm schon mal auf die […] Der Beitrag Zurück aus der Pause mit Episode 21 und einem Knall 💥 erschien zuerst auf Füchse Duisburg .",
+   "teaser": "Wir melden uns am Freitag um 17Uhr mit der neuesten Folge von Late Hit und beenden damit die Sommerpause!Und es geht fulminant in die neue Spielzeit!Wir verkünden gleich mal einen Neuzugang im Fuchsbau! 🥳Oliver Rättig wird unseren neuen Fuchs zu seinem Wechsel nach Duisburg und seinen Ambitionen befragen und mit ihm schon mal auf die […]",
    "bild": "",
    "datum": "2026-07-22T21:45:00.000Z",
    "sortZeit": 1784684700000,
@@ -5562,6 +5526,7 @@
     "Füchse Duisburg"
    ],
    "sportart": "Eishockey",
+   "ereignis": null,
    "grund": "vereinsfeed"
   },
   {
@@ -5585,58 +5550,7 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412637670",
-   "titel": "TuS Lintfort: Fünf Neuzugänge mit Heimdebüt, ein Talent ist aber weiter verletzt",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412637670/tus-lintfort-fuenf-neuzugaenge-mit-heimdebuet-ein-talent-ist-aber-weiter-verletzt.html",
-   "teaser": "Erster Heimtest für Handballfrauen des Zweitligisten am Donnerstagabend gegen U18 der Niederlande. Spielplan für neue Saison ist fix.",
-   "bild": "https://img.sparknews.funkemedien.de/412637919/412637919_1784633702_v16_9_600.jpeg",
-   "datum": "2026-07-21T11:43:10.000Z",
-   "sortZeit": 1784634190000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Kamp-Lintfort",
-   "ortSicher": true,
-   "orte": [
-    "Kamp-Lintfort",
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "TuS Lintfort"
-   ],
-   "sportart": "Handball",
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412634271",
-   "titel": "Nach langer Pause: Torjäger meldet sich bei 1. FC Lintfort mit Dreierpack zurück",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412634271/nach-langer-pause-torjaeger-meldet-sich-bei-1-fc-lintfort-mit-dreierpack-zurueck.html",
-   "teaser": "Der Fußball-Landesligist überzeugt im Test beim SuS 21 Oberhausen. Neuzugang Fabio Forster muss passen. Es gab einige Erkenntnisse.",
-   "bild": "https://img.sparknews.funkemedien.de/412634275/412634275_1784619652_v16_9_600.jpeg",
-   "datum": "2026-07-21T08:12:54.000Z",
-   "sortZeit": 1784621574000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Kamp-Lintfort",
-   "ortSicher": true,
-   "orte": [
-    "Kamp-Lintfort",
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "1. FC Lintfort"
-   ],
-   "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -5663,6 +5577,7 @@
     "SpVgg. Rheurdt-Schaephuysen"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
   },
   {
@@ -5687,82 +5602,8 @@
    "zone": "umland",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "moerser-sportclub.de/urlaub-in-der-geschaeftsstelle",
-   "titel": "Urlaub in der Geschäftsstelle",
-   "url": "https://moerser-sportclub.de/urlaub-in-der-geschaeftsstelle/",
-   "teaser": "Der Beitrag Urlaub in der Geschäftsstelle erschien zuerst auf Moerser SC .",
-   "bild": "",
-   "datum": "2026-07-20T21:10:24.000Z",
-   "sortZeit": 1784581824000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "Moerser SC",
-   "quelleName": "Moerser SC",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "Moerser SC"
-   ],
-   "sportart": "Volleyball",
-   "grund": "vereinsfeed"
-  },
-  {
-   "id": "funke:412636808",
-   "titel": "Geballtes Programm für den VfB Homberg: Offensive harmoniert schon gut",
-   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412636808/geballtes-programm-fuer-den-vfb-homberg-offensive-harmoniert-schon-gut.html",
-   "teaser": "Der Absteiger aus der Oberliga ist gut in die Vorbereitung gestartet. Positives Zeugnis für drei Kicker aus der zweiten Mannschaft.",
-   "bild": "https://img.sparknews.funkemedien.de/412636890/412636890_1784629128_v16_9_600.jpeg",
-   "datum": "2026-07-21T10:27:51.000Z",
-   "sortZeit": 1784557671000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "VFB Homberg"
-   ],
-   "sportart": "Fußball",
-   "grund": "pfad"
-  },
-  {
-   "id": "fuechse-duisburg.de/schanner-und-ase-verlaengern-partnerschaft-mit-den-fuechsen",
-   "titel": "Schanner und ASE verlängern Partnerschaft mit den Füchsen",
-   "url": "https://fuechse-duisburg.de/schanner-und-ase-verlaengern-partnerschaft-mit-den-fuechsen/",
-   "teaser": "Die Füchse Duisburg setzen auch in Zukunft auf zwei langjährige und verlässliche Partner. Die Zusammenarbeit mit der Schanner Eishockeyartikel GmbH + Co. KG und ASE Hockey wird vorzeitig verlängert. Seit mehreren Jahren begleiten uns beide Unternehmen. In dieser Zeit ist eine enge und vertrauensvolle Zusammenarbeit entstanden, die nun langfristig fortgeführt wird. Die Schanner Eishockeyartikel GmbH […] Der Beitrag Schanner und ASE verlängern Partnerschaft mit den Füchsen erschien zuerst auf Füchse Duisburg .",
-   "bild": "",
-   "datum": "2026-07-18T15:00:00.000Z",
-   "sortZeit": 1784314800000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "Füchse Duisburg",
-   "quelleName": "Füchse Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "Füchse Duisburg"
-   ],
-   "sportart": "Eishockey",
-   "grund": "vereinsfeed"
   },
   {
    "id": "rp:151429437",
@@ -5787,32 +5628,8 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Fußball",
+   "ereignis": null,
    "grund": "rubrik"
-  },
-  {
-   "id": "moerser-sportclub.de/goldene-ehrennadel-fuer-ulrike-huefken-pannenbecker%f0%9f%8f%85",
-   "titel": "Goldene Ehrennadel für Ulrike Hüfken-Pannenbecker🏅",
-   "url": "https://moerser-sportclub.de/goldene-ehrennadel-fuer-ulrike-huefken-pannenbecker%f0%9f%8f%85/",
-   "teaser": "Für ihr jahrzehntelanges Engagement im Handballsport 🤾 wurde Ulrike Hüfken-Pannenbecker ausgezeichnet. Seit 1996 leitet sie die Handballabteilung des Moerser SC... Der Beitrag Goldene Ehrennadel für Ulrike Hüfken-Pannenbecker🏅 erschien zuerst auf Moerser SC .",
-   "bild": "",
-   "datum": "2026-07-15T14:45:43.000Z",
-   "sortZeit": 1784126743000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "Moerser SC",
-   "quelleName": "Moerser SC",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "Moerser SC"
-   ],
-   "sportart": "Volleyball",
-   "grund": "vereinsfeed"
   },
   {
    "id": "sv-menzelen1925.de/tischtennis/tischtennis-schnuppertraining",
@@ -5837,6 +5654,7 @@
     "SV Menzelen 1925"
    ],
    "sportart": "Tischtennis",
+   "ereignis": null,
    "grund": "vereinsfeed"
   }
  ]

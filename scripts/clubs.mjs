@@ -134,3 +134,21 @@ export const SPORT_WOERTER = [
 export const AUSSCHLUSS_WOERTER = [
   'Sportwetten', 'Wettanbieter', 'Bundesliga-Tippspiel', 'Kickbase', 'Transferticker',
 ];
+
+/**
+ * Verwaltungskram aus Vereinsfeeds. Diese Feeds gelten pauschal als Sport,
+ * weil sie einem Verein gehören – dadurch rutschen aber auch Öffnungszeiten
+ * und Versammlungseinladungen durch.
+ */
+export const VEREINSINTERN_WOERTER = [
+  // Verwaltung
+  'Geschäftsstelle', 'Geschaeftsstelle', 'Mitgliederversammlung', 'Jahreshauptversammlung',
+  'Hauptversammlung', 'Betriebsferien', 'Mitgliedsbeitrag', 'Beitragsanpassung',
+  'Beitragserhöhung', 'Öffnungszeiten', 'Oeffnungszeiten', 'Satzung', 'Datenschutzerklärung',
+  // Werbung und Vermarktung
+  'Sponsor', 'Sponsoring', 'Werbepartner', 'Businesspartner', 'Business Partner',
+  'Partnerschaft', 'Fanshop', 'Merchandise', 'Trikotpartner', 'Ausrüster',
+  // Geselligkeit und Ehrungen
+  'Weihnachtsfeier', 'Vereinsausflug', 'Planwagenfahrt', 'Tombola', 'Geburtstag',
+  'Ehrennadel', 'Ehrenmitglied', 'Jubilar', 'Grillfest', 'Sommerfest',
+];

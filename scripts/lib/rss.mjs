@@ -56,7 +56,13 @@ function htmlZuText(html) {
       .replace(/<script[\s\S]*?<\/script>/gi, ' ')
       .replace(/<style[\s\S]*?<\/style>/gi, ' ')
       .replace(/<[^>]+>/g, ' '),
-  ).replace(/\s+/g, ' ').trim();
+  )
+    // WordPress hängt an jeden Auszug denselben Textbaustein. Als Vorschautext
+    // ist er wertlos – er wiederholt nur die Überschrift und den Vereinsnamen.
+    .replace(/Der Beitrag\s+.*?\s+erschien zuerst auf\s+.*?\.?\s*$/i, '')
+    .replace(/The post\s+.*?\s+appeared first on\s+.*?\.?\s*$/i, '')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 /**

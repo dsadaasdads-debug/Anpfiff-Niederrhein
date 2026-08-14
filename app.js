@@ -8,6 +8,7 @@
 
   // Interner Schlüssel für Meldungen ohne erkannte Sportart.
   const SONSTIGE = '—sonstige—';
+  const EREIGNISSE = '—ereignisse—';
   const sportVon = (artikel) => artikel.sportart ?? SONSTIGE;
 
   const VORGABE = {
@@ -19,6 +20,9 @@
     ausgeblendeteOrte: [],
     gelesen: [],
     letzterBesuch: null,
+    ligaFavoriten: [],
+    nurFavoritenTabellen: false,
+    favoritenSportarten: [],
   };
 
   let einstellungen = laden();
@@ -150,6 +154,7 @@
     if (!sucheTrifft(a)) return false;
 
     if (auswahl === 'favoriten') return istFavorit(a);
+    if (auswahl === EREIGNISSE) return Boolean(a.ereignis);
     if (auswahl !== 'alle') return sportVon(a) === auswahl;
     return !einstellungen.ausgeblendeteSportarten.includes(sportVon(a));
   }
@@ -175,13 +180,23 @@
 
   // ── Darstellung ──────────────────────────────────────────────────────────
 
-  /** Sportarten im Bestand, nach Häufigkeit. */
+  /**
+   * Sportarten im Bestand. Markierte zuerst – in der Reihenfolge, in der sie
+   * markiert wurden –, danach die übrigen nach Häufigkeit.
+   */
   function sportartenImBestand() {
     const zaehler = new Map();
     for (const a of daten.artikel) zaehler.set(sportVon(a), (zaehler.get(sportVon(a)) ?? 0) + 1);
+
+    const markiert = einstellungen.favoritenSportarten;
     return [...zaehler.entries()]
-      .sort((a, b) => b[1] - a[1])
-      .map(([name, n]) => ({ name, n }));
+      .map(([name, n]) => ({ name, n, rang: markiert.indexOf(name) }))
+      .sort((a, b) => {
+        if (a.rang >= 0 && b.rang >= 0) return a.rang - b.rang;
+        if (a.rang >= 0) return -1;
+        if (b.rang >= 0) return 1;
+        return b.n - a.n;
+      });
   }
 
   function chipsZeichnen() {
@@ -191,6 +206,9 @@
     const eintraege = [
       ['alle', 'Alle'],
       ['favoriten', '★ Meine Vereine'],
+      // Erscheint von selbst, sobald Großereignisse laufen, und verschwindet
+      // wieder, wenn die letzte Meldung dazu aus dem Archiv gefallen ist.
+      [EREIGNISSE, '🏅 Großereignisse'],
       ...sportartenImBestand().map((s) => [s.name, s.name === SONSTIGE ? 'Sonstiges' : s.name]),
     ];
 
@@ -324,18 +342,37 @@
     // Datumstrenner nur bei „Neueste zuerst“. In „Für dich“ ist die Reihenfolge
     // absichtlich nicht chronologisch – dort ergäben Trenner „Heute, Gestern,
     // Heute“ oder stellten einen heutigen Duisburger Artikel unter „Gestern“.
-    const mitTrennern = einstellungen.sortierung === 'neueste';
     const knoten = [];
-    let letzterTag = null;
-    for (const artikel of treffer) {
-      if (mitTrennern && artikel.datum) {
-        const tag = tagSchluessel(artikel.datum);
-        if (tag !== letzterTag) {
-          knoten.push(el('h3', 'tagtrenner', tagBeschriftung(artikel.datum)));
-          letzterTag = tag;
-        }
+
+    if (auswahl === EREIGNISSE) {
+      // Im Ereignis-Reiter nach Ereignis gruppieren, nicht nach Datum: erst
+      // die größten Wettbewerbe, innerhalb davon die neuesten Meldungen.
+      const gruppen = new Map();
+      for (const a of treffer) {
+        const s = a.ereignis.schluessel;
+        if (!gruppen.has(s)) gruppen.set(s, { ereignis: a.ereignis, artikel: [] });
+        gruppen.get(s).artikel.push(a);
       }
-      knoten.push(karteBauen(artikel));
+      const sortiert = [...gruppen.values()].sort((a, b) => b.artikel.length - a.artikel.length
+        || a.ereignis.name.localeCompare(b.ereignis.name, 'de'));
+      for (const g of sortiert) {
+        const titel = g.ereignis.ort ? `${g.ereignis.name} · ${g.ereignis.ort}` : g.ereignis.name;
+        knoten.push(el('h3', 'tagtrenner', titel));
+        for (const a of g.artikel) knoten.push(karteBauen(a));
+      }
+    } else {
+      const mitTrennern = einstellungen.sortierung === 'neueste';
+      let letzterTag = null;
+      for (const artikel of treffer) {
+        if (mitTrennern && artikel.datum) {
+          const tag = tagSchluessel(artikel.datum);
+          if (tag !== letzterTag) {
+            knoten.push(el('h3', 'tagtrenner', tagBeschriftung(artikel.datum)));
+            letzterTag = tag;
+          }
+        }
+        knoten.push(karteBauen(artikel));
+      }
     }
     $('liste').replaceChildren(...knoten);
 
@@ -426,17 +463,51 @@
     }
   }
 
+  /**
+   * Sportarten-Liste mit zwei Schaltern je Zeile: der Stern zieht die Sportart
+   * im Reiterband nach vorn, das Häkchen blendet sie im Hauptfeed aus.
+   */
+  function sportartenlisteZeichnen() {
+    const behaelter = $('sportartenliste');
+    behaelter.replaceChildren();
+
+    for (const s of sportartenImBestand()) {
+      const zeile = el('div', 'wahlzeile');
+      const gemerkt = einstellungen.favoritenSportarten.includes(s.name);
+      const sichtbar = !einstellungen.ausgeblendeteSportarten.includes(s.name);
+
+      const stern = el('button', 'zeilenknopf stern-knopf');
+      stern.type = 'button';
+      stern.setAttribute('aria-pressed', String(gemerkt));
+      stern.title = gemerkt ? 'Nicht mehr vorn einsortieren' : 'Im Reiterband vorn einsortieren';
+      stern.setAttribute('aria-label', `${s.name === SONSTIGE ? 'Sonstiges' : s.name}: ${stern.title}`);
+      stern.append(svgIkone('stern-ikone', STERN));
+      stern.addEventListener('click', () => {
+        umschalten(einstellungen.favoritenSportarten, s.name);
+        zeichnen();
+        sportartenlisteZeichnen();
+      });
+
+      const haken = el('button', 'zeilenknopf haken-knopf');
+      haken.type = 'button';
+      haken.setAttribute('aria-pressed', String(sichtbar));
+      haken.title = sichtbar ? 'Im Hauptfeed ausblenden' : 'Im Hauptfeed einblenden';
+      haken.setAttribute('aria-label', `${s.name === SONSTIGE ? 'Sonstiges' : s.name}: ${haken.title}`);
+      haken.append(svgIkone('haken-ikone', sichtbar ? HAKEN : KREIS));
+      haken.addEventListener('click', () => {
+        umschalten(einstellungen.ausgeblendeteSportarten, s.name);
+        zeichnen();
+        sportartenlisteZeichnen();
+      });
+
+      const name = el('span', `vname${sichtbar ? '' : ' durchgestrichen'}`, s.name === SONSTIGE ? 'Sonstiges' : s.name);
+      zeile.append(stern, name, el('span', 'vort', String(s.n)), haken);
+      behaelter.append(zeile);
+    }
+  }
+
   function einstellungslistenZeichnen() {
-    wahllisteZeichnen(
-      'sportartenliste',
-      sportartenImBestand().map((s) => ({
-        schluessel: s.name,
-        name: s.name === SONSTIGE ? 'Sonstiges' : s.name,
-        zusatz: `${s.n}`,
-      })),
-      einstellungen.ausgeblendeteSportarten,
-      (s) => umschalten(einstellungen.ausgeblendeteSportarten, s),
-    );
+    sportartenlisteZeichnen();
 
     const zaehler = new Map();
     for (const a of daten.artikel) for (const o of a.orte) zaehler.set(o, (zaehler.get(o) ?? 0) + 1);
@@ -614,16 +685,38 @@
       return;
     }
 
-    const ligen = [...jeStaffel.entries()].map(([id, teams]) => {
+    let ligen = [...jeStaffel.entries()].map(([id, teams]) => {
       const staffel = tabellendaten.staffeln[id];
-      const markiert = teams.some((t) => einstellungen.favoriten.includes(t.verein));
-      return { id, staffel, teams, markiert, rang: klassenrang(staffel.name ?? teams[0].spielklasse) };
-    }).sort((a, b) => (b.markiert - a.markiert) || (a.rang - b.rang)
+      const gemerkt = einstellungen.ligaFavoriten.includes(id);
+      const markiert = gemerkt || teams.some((t) => einstellungen.favoriten.includes(t.verein));
+      return { id, staffel, teams, gemerkt, markiert, rang: klassenrang(staffel.name ?? teams[0].spielklasse) };
+    }).sort((a, b) => (b.gemerkt - a.gemerkt) || (b.markiert - a.markiert) || (a.rang - b.rang)
       || String(a.staffel.name).localeCompare(String(b.staffel.name), 'de'));
+
+    if (einstellungen.nurFavoritenTabellen) ligen = ligen.filter((l) => l.gemerkt);
+    if (ligen.length === 0) {
+      ziel.append(el('p', 'leer', einstellungen.nurFavoritenTabellen
+        ? 'Du hast noch keine Tabelle gemerkt. Tippe auf den Stern oben rechts an einer Tabelle – oder schalte „Nur meine“ wieder aus.'
+        : 'Für die gewählten Orte liegen keine Tabellen vor.'));
+      return;
+    }
 
     for (const liga of ligen) {
       const karte = el('article', 'mannschaft');
       karte.dataset.zone = liga.teams[0].zone;
+
+      const stern = el('button', 'liga-stern');
+      stern.type = 'button';
+      const markiert = einstellungen.ligaFavoriten.includes(liga.id);
+      stern.setAttribute('aria-pressed', String(markiert));
+      stern.title = markiert ? 'Tabelle nicht mehr merken' : 'Tabelle merken';
+      stern.setAttribute('aria-label', stern.title);
+      stern.append(svgIkone('', STERN));
+      stern.addEventListener('click', () => {
+        umschalten(einstellungen.ligaFavoriten, liga.id);
+        tabellenZeichnen();
+      });
+      karte.append(stern);
 
       const kopf = el('div', 'mannschaft-kopf');
       kopf.append(el('h2', null, liga.staffel.name ?? 'Liga'));
@@ -720,6 +813,14 @@
     return karte;
   }
 
+  /** Erklärt am Fuß der Tabellenansicht, warum keine Ergebnisziffern dastehen. */
+  function fussnoteAnhaengen(ziel) {
+    if (!tabellendaten?.hinweisErgebnisse) return;
+    const note = el('p', 'fuss-klein', tabellendaten.hinweisErgebnisse);
+    note.style.marginTop = '1rem';
+    ziel.append(note);
+  }
+
   function tabellenZeichnen() {
     const ziel = $('tabellen-ansicht');
     ziel.replaceChildren();
@@ -743,13 +844,42 @@
       return;
     }
 
-    if (tabellenmodus === 'liga') ligenZeichnen(ziel, liste);
-    else for (const m of liste) ziel.append(mannschaftBauen(m, tabellendaten.staffeln?.[m.staffelId]));
+    const hinweis = $('modushinweis');
+    // Der Stern-Schalter betrifft nur die Ligaansicht; die Vereinsansicht ist
+    // ohnehin schon auf die eigenen Vereine begrenzt.
+    $('knopf-nur-meine').hidden = tabellenmodus !== 'liga';
+    $('knopf-nur-meine').setAttribute('aria-pressed', String(einstellungen.nurFavoritenTabellen));
 
-    const hinweis = el('p', 'fuss-klein');
-    hinweis.style.marginTop = '1rem';
-    hinweis.textContent = tabellendaten.hinweisErgebnisse ?? '';
-    ziel.append(hinweis);
+    if (tabellenmodus === 'liga') {
+      hinweis.hidden = !einstellungen.nurFavoritenTabellen;
+      if (!hinweis.hidden) {
+        hinweis.replaceChildren(
+          document.createTextNode('★ Nur gemerkte Tabellen '),
+          el('span', 'leise', '— über den Stern an einer Tabelle änderst du das.'),
+        );
+      }
+      ligenZeichnen(ziel, liste);
+      fussnoteAnhaengen(ziel);
+      return;
+    }
+
+    // Vereinsansicht: ausschließlich die markierten Vereine.
+    const gezeigt = liste.filter((m) => einstellungen.favoriten.includes(m.verein));
+
+    hinweis.hidden = false;
+    hinweis.replaceChildren(
+      document.createTextNode(`★ Nur deine Vereine — ${gezeigt.length} von ${liste.length} `),
+      el('span', 'leise', '— Vereine markierst du in den Einstellungen oder direkt in einer Meldung.'),
+    );
+
+    if (gezeigt.length === 0) {
+      ziel.append(el('p', 'leer',
+        'Du hast noch keinen Verein markiert, für den eine Tabelle vorliegt. '
+        + 'Tippe in einer Meldung auf die grüne Vereinsmarke oder wähle sie in den Einstellungen unter „Meine Vereine“.'));
+      return;
+    }
+    for (const m of gezeigt) ziel.append(mannschaftBauen(m, tabellendaten.staffeln?.[m.staffelId]));
+    fussnoteAnhaengen(ziel);
   }
 
   async function ansichtWechseln(neu) {
@@ -762,6 +892,7 @@
     $('liste').hidden = !meldungen;
     $('tabellen-ansicht').hidden = meldungen;
     $('untersicht').hidden = meldungen;
+    if (meldungen) $('modushinweis').hidden = true;
     $('filter').hidden = !meldungen;
     $('knopf-suche').hidden = !meldungen;
     if (!meldungen) { $('suchzeile').hidden = true; $('leer').hidden = true; }
@@ -905,6 +1036,13 @@
     for (const knopf of $('ansicht').querySelectorAll('button')) {
       knopf.addEventListener('click', () => ansichtWechseln(knopf.dataset.ansicht));
     }
+
+    $('knopf-nur-meine').addEventListener('click', () => {
+      einstellungen.nurFavoritenTabellen = !einstellungen.nurFavoritenTabellen;
+      sichern();
+      tabellenZeichnen();
+      scrollTo({ top: 0, behavior: 'smooth' });
+    });
 
     for (const knopf of $('tabellenmodus').querySelectorAll('button')) {
       knopf.addEventListener('click', () => {

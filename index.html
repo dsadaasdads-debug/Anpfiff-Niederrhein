@@ -73,10 +73,13 @@
 
   <div class="untersicht" id="untersicht" hidden>
     <div class="segment" id="tabellenmodus" role="radiogroup" aria-label="Tabellen gruppieren">
-      <button type="button" role="radio" data-modus="liga" aria-checked="true">Nach Liga</button>
-      <button type="button" role="radio" data-modus="verein" aria-checked="false">Nach Verein</button>
+      <button type="button" role="radio" data-modus="liga" aria-checked="true">Alle Ligen</button>
+      <button type="button" role="radio" data-modus="verein" aria-checked="false">★ Meine Vereine</button>
     </div>
+    <button type="button" class="chip chip-nurmeine" id="knopf-nur-meine" aria-pressed="false">★ Nur gemerkte</button>
   </div>
+
+  <p class="modushinweis" id="modushinweis" hidden></p>
 
   <div id="tabellen-ansicht" class="liste" hidden></div>
 
@@ -146,7 +149,11 @@
 
     <section class="feld">
       <h3>Sportarten im Hauptfeed</h3>
-      <p class="erklaerung">Abgewählte Sportarten verschwinden aus „Alle“. Über den Reiter oben sind sie weiterhin einzeln aufrufbar.</p>
+      <p class="erklaerung">
+        Der <strong>Stern</strong> zieht eine Sportart im Reiterband ganz nach vorn.
+        Das <strong>Häkchen</strong> bestimmt, ob sie im Hauptfeed „Alle“ auftaucht —
+        über ihren eigenen Reiter bleibt sie in jedem Fall erreichbar.
+      </p>
       <div class="wahlliste" id="sportartenliste"></div>
     </section>
 

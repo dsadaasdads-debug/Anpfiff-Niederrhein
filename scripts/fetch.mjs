@@ -14,7 +14,7 @@ import { SOURCES } from './sources.mjs';
 import { VEREINE, ZONEN } from './clubs.mjs';
 import { parseRss } from './lib/rss.mjs';
 import { artikelDetails, feedLaden, nacheinander } from './lib/artikel.mjs';
-import { urlSchluessel, vereineFinden, ortsbezug, istSport, bewerten, sportartErkennen } from './lib/einstufung.mjs';
+import { urlSchluessel, vereineFinden, ortsbezug, istSport, bewerten, sportartErkennen, ereignisErkennen } from './lib/einstufung.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const WURZEL = join(HERE, '..');
@@ -204,6 +204,8 @@ for (const k of zurAnreicherung) {
   if (datum && datum.getTime() < grenze) continue;
 
   const { punkte, sortZeit } = bewerten({ zone: bezug.zone, vereine, grund: k.grund, datum });
+  const sportart = sportartErkennen(volltext, vereine);
+  const ereignis = ereignisErkennen(k.eintrag.titel, sportart);
 
   ergebnis.set(k.id, {
     id: k.id,
@@ -223,7 +225,8 @@ for (const k of zurAnreicherung) {
     orte: bezug.orte,
     zone: bezug.zone,
     vereine: vereine.map((v) => v.name),
-    sportart: sportartErkennen(volltext, vereine),
+    sportart,
+    ereignis,
     grund: k.grund,
   });
 }
