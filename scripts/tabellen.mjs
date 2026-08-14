@@ -13,6 +13,7 @@ import { dirname, join } from 'node:path';
 
 import { VEREINE } from './clubs.mjs';
 import { mannschaften, ersteHerren, mannschaftsprofil, tabelle, spiele } from './lib/fussballde.mjs';
+import * as handball from './lib/handballnet.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const DATEN = join(HERE, '..', 'data');
@@ -26,6 +27,28 @@ const IMMER_DABEI = new Set();
 
 const ZUORDNUNG_HAELT_TAGE = 7;
 const PAUSE_MS = 700;
+
+// ── Handball ────────────────────────────────────────────────────────────────
+// Die Spielklassen für unser Gebiet liegen bei Handball Nordrhein in den
+// Kreisen Wesel und Rhein-Ruhr; Krefeld-Grenzland grenzt an und nimmt
+// gelegentlich Mannschaften von hier auf.
+const HANDBALL_ORGANISATION = 'Nordrhein';
+const HANDBALL_KREISE = /^(Wesel|Rhein-Ruhr|Krefeld-Grenzland|Nordrhein)\b/;
+
+/** Handballvereine der Region. fussball.de kennt sie naturgemäß nicht. */
+const HANDBALL_VEREINE = [
+  { muster: /\bTuS\s+Lintfort\b/i, name: 'TuS Lintfort', ort: 'Kamp-Lintfort', zone: 'kern' },
+  { muster: /\bTV\s+Schwafheim\b/i, name: 'TV Schwafheim', ort: 'Moers', zone: 'kern' },
+  { muster: /\bHSG\s+Moers\b/i, name: 'HSG Moers', ort: 'Moers', zone: 'kern' },
+  { muster: /\bMoerser\s+TV\b/i, name: 'Moerser TV', ort: 'Moers', zone: 'kern' },
+  { muster: /\bSV\s+Neukirchen\b/i, name: 'SV Neukirchen', ort: 'Neukirchen-Vluyn', zone: 'kern' },
+  { muster: /\bTuS\s+Xanten\b/i, name: 'TuS Xanten', ort: 'Xanten', zone: 'umland' },
+  { muster: /\bTV\s+Issum\b/i, name: 'TV Issum', ort: 'Issum', zone: 'umland' },
+  { muster: /\bHSG\s+Alpen[/-]?Rheinberg\b/i, name: 'HSG Alpen/Rheinberg', ort: 'Rheinberg', zone: 'umland' },
+  { muster: /\bTV\s+Rheinberg\b/i, name: 'TV Rheinberg', ort: 'Rheinberg', zone: 'umland' },
+];
+
+const handballVereinZu = (name) => HANDBALL_VEREINE.find((v) => v.muster.test(name)) ?? null;
 
 const log = (...a) => console.log(...a);
 const warte = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -64,7 +87,7 @@ for (const verein of ziel) {
     await warte(PAUSE_MS);
 
     if (profil.staffelId && !staffeln.has(profil.staffelId)) {
-      staffeln.set(profil.staffelId, { name: profil.liga, zeilen: await tabelle(profil.staffelId) });
+      staffeln.set(profil.staffelId, { name: profil.liga, sportart: 'Fußball', zeilen: await tabelle(profil.staffelId) });
       await warte(PAUSE_MS);
     }
 
@@ -77,6 +100,7 @@ for (const verein of ziel) {
       verein: verein.name,
       ort: verein.ort,
       zone: verein.zone,
+      sportart: 'Fußball',
       mannschaft: eintrag.mannschaft,
       teamId: eintrag.teamId,
       teamUrl: eintrag.teamUrl,
@@ -96,6 +120,81 @@ for (const verein of ziel) {
     fehler.push({ verein: verein.name, fehler: err.message });
     log(`✗  ${verein.name.padEnd(32)} ${err.message.slice(0, 60)}`);
   }
+}
+
+// ── Handball ────────────────────────────────────────────────────────────────
+// Welche Spielklassen überhaupt heimische Mannschaften enthalten, wird einmal
+// pro Woche ermittelt und dann gemerkt – die Suche kostet gut 20 Abrufe.
+log('\nHandball …');
+
+try {
+  let entdeckt = zuordnung.__handball;
+  if (veraltet(entdeckt)) {
+    log('  Spielklassen werden neu gesucht (einmal pro Woche)');
+    const alle = await handball.wettbewerbe(HANDBALL_ORGANISATION);
+    const saisons = alle.map(handball.saisonVon).filter(Boolean).sort();
+    const neueste = saisons.at(-1);
+
+    const kandidaten = alle.filter((w) => handball.saisonVon(w) === neueste
+      && handball.istErwachsen(w)
+      && HANDBALL_KREISE.test(String(w.name))
+      && !/pokal|quali|freundschaft/i.test(w.name));
+
+    log(`  Saison ${neueste}: ${kandidaten.length} Spielklassen im Erwachsenenbereich werden geprüft`);
+
+    const gefunden = [];
+    for (const w of kandidaten) {
+      try {
+        const zeilen = await handball.tabelle(w.id);
+        if (zeilen.some((z) => handballVereinZu(z.verein))) {
+          gefunden.push({ id: w.id, name: w.name.replace(/\s*\(.*\)\s*$/, '').trim() });
+        }
+      } catch { /* einzelne Spielklasse ohne Tabelle – überspringen */ }
+      await new Promise((r) => setTimeout(r, 150));
+    }
+    entdeckt = { ligen: gefunden, saison: neueste, geprueft: new Date().toISOString() };
+    zuordnung.__handball = entdeckt;
+    log(`  ${gefunden.length} Spielklassen mit heimischen Mannschaften`);
+  }
+
+  for (const liga of entdeckt.ligen ?? []) {
+    try {
+      const zeilen = await handball.tabelle(liga.id);
+      if (!zeilen.length) continue;
+      staffeln.set(liga.id, { name: liga.name, sportart: 'Handball', zeilen });
+
+      for (const z of zeilen) {
+        const verein = handballVereinZu(z.verein);
+        if (!verein) continue;
+        mannschaftsliste.push({
+          verein: z.verein,          // wie in der Tabelle geschrieben
+          heimatverein: verein.name, // vereinheitlichter Name
+          ort: verein.ort,
+          zone: verein.zone,
+          sportart: 'Handball',
+          mannschaft: z.verein,
+          teamId: z.teamId,
+          teamUrl: `https://www.handball.net/mannschaften/${z.teamId}/tabelle`,
+          liga: liga.name,
+          spielklasse: liga.name.split(' - ').at(-1) ?? liga.name,
+          platz: z.platz,
+          punkte: z.punkte,
+          torverhaeltnis: z.tore,
+          staffelId: liga.id,
+          naechste: [],
+          letzte: [],
+        });
+      }
+      log(`✔  ${liga.name.padEnd(46)} ${zeilen.length} Mannschaften`);
+      await new Promise((r) => setTimeout(r, 150));
+    } catch (err) {
+      fehler.push({ verein: liga.name, fehler: err.message });
+      log(`✗  ${liga.name.padEnd(46)} ${err.message.slice(0, 50)}`);
+    }
+  }
+} catch (err) {
+  fehler.push({ verein: 'Handball insgesamt', fehler: err.message });
+  log(`✗  Handball konnte nicht geladen werden: ${err.message}`);
 }
 
 // ── Schreiben ───────────────────────────────────────────────────────────────
@@ -120,5 +219,7 @@ log(`\n${'─'.repeat(60)}`);
 log(`geschrieben: ${ZIEL}`);
 log(`  Mannschaften   ${mannschaftsliste.length}`);
 log(`  Staffeln       ${staffeln.size}`);
-log(`  mit Tabelle    ${mannschaftsliste.filter((m) => staffeln.get(m.staffelId)?.zeilen.length).length}`);
 log(`  Fehler         ${fehler.length}`);
+const jeSportart = new Map();
+for (const [, s] of staffeln) jeSportart.set(s.sportart ?? '—', (jeSportart.get(s.sportart ?? '—') ?? 0) + 1);
+for (const [s, n] of jeSportart) log(`    ${s.padEnd(12)} ${n} Ligen`);

@@ -172,5 +172,39 @@
   "teamUrl": "https://www.fussball.de/mannschaft/sv-vynen-marienbaum-sv-vynen-marienbaum-1997-niederrhein/-/saison/2627/team-id/011MIANO4S000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV Vynen-Marienbaum",
   "geprueft": "2026-08-14T08:28:47.018Z"
+ },
+ "__handball": {
+  "ligen": [
+   {
+    "id": "nuliga.hnr.173163",
+    "name": "Nordrhein - Verbandsliga Männer"
+   },
+   {
+    "id": "nuliga.hnr.173296",
+    "name": "Wesel - Regionsoberliga Männer"
+   },
+   {
+    "id": "nuliga.hnr.173322",
+    "name": "Wesel - Regionsliga Männer"
+   },
+   {
+    "id": "nuliga.hnr.173320",
+    "name": "Wesel - Regionsklasse Männer"
+   },
+   {
+    "id": "nuliga.hnr.173263",
+    "name": "Nordrhein - Oberliga Frauen"
+   },
+   {
+    "id": "nuliga.hnr.173075",
+    "name": "Wesel - Regionsoberliga Frauen"
+   },
+   {
+    "id": "nuliga.hnr.173179",
+    "name": "Wesel - Regionsliga Frauen"
+   }
+  ],
+  "saison": "26/27",
+  "geprueft": "2026-08-14T09:04:39.899Z"
  }
 }

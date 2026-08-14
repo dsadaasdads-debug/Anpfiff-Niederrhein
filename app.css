@@ -357,6 +357,8 @@ table.liga tr.heimisch { background: color-mix(in srgb, var(--akzent) 10%, trans
 table.liga tr.eigen { background: color-mix(in srgb, var(--akzent) 22%, transparent) !important; font-weight: 800; }
 
 .liga-vereine { font-size: .78rem; color: var(--akzent-stark); font-weight: 650; margin-top: .2rem; }
+.sportmarke { display: inline-block; margin: .25rem 0 .1rem; }
+#tabellensport { padding-left: 0; padding-right: 0; margin-bottom: 12px; }
 
 .mannschaft {
   position: relative;

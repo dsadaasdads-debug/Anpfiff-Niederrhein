@@ -30,6 +30,7 @@
   let tabellendaten = null;         // wird erst beim ersten Wechsel geholt
   let ansicht = 'meldungen';        // 'meldungen' | 'tabellen'
   let tabellenmodus = 'liga';       // 'liga' | 'verein'
+  let tabellensport = 'alle';       // 'alle' | Name einer Sportart
   let auswahl = 'alle';             // 'alle' | 'favoriten' | Name einer Sportart
   let suchtext = '';
   let zuletztGeholt = 0;
@@ -648,7 +649,10 @@
       const tr = el('tr');
       if (z.teamId && hervorgehoben.has(z.teamId)) tr.className = 'eigen';
       else if (z.teamId && heimisch.has(z.teamId)) tr.className = 'heimisch';
-      for (const wert of [`${z.platz}.`, z.verein, z.spiele, z.siege, z.unentschieden, z.niederlagen, z.tore, z.differenz, z.punkte]) {
+      // Handball zählt Plus- und Minuspunkte („20:4“); wo das vorliegt, zeigen
+      // wir es so, wie der Verband es ausweist.
+      const punkte = z.punkteText ?? z.punkte;
+      for (const wert of [`${z.platz}.`, z.verein, z.spiele, z.siege, z.unentschieden, z.niederlagen, z.tore, z.differenz, punkte]) {
         tr.append(el('td', null, String(wert)));
       }
       tbody.append(tr);
@@ -688,7 +692,7 @@
     let ligen = [...jeStaffel.entries()].map(([id, teams]) => {
       const staffel = tabellendaten.staffeln[id];
       const gemerkt = einstellungen.ligaFavoriten.includes(id);
-      const markiert = gemerkt || teams.some((t) => einstellungen.favoriten.includes(t.verein));
+      const markiert = gemerkt || teams.some(istMeinVerein);
       return { id, staffel, teams, gemerkt, markiert, rang: klassenrang(staffel.name ?? teams[0].spielklasse) };
     }).sort((a, b) => (b.gemerkt - a.gemerkt) || (b.markiert - a.markiert) || (a.rang - b.rang)
       || String(a.staffel.name).localeCompare(String(b.staffel.name), 'de'));
@@ -720,7 +724,9 @@
 
       const kopf = el('div', 'mannschaft-kopf');
       kopf.append(el('h2', null, liga.staffel.name ?? 'Liga'));
-      kopf.append(el('div', 'liga-vereine', liga.teams.map((t) => t.verein).join(' · ')));
+      const sportart = liga.staffel.sportart ?? sportartVonMannschaft(liga.teams[0]);
+      if (sportart) kopf.append(el('span', 'marke-etikett sportmarke', sportart));
+      kopf.append(el('div', 'liga-vereine', [...new Set(liga.teams.map((t) => t.verein))].join(' · ')));
 
       // Der beste heimische Platz als Kennzahl der Liga.
       const beste = liga.teams.filter((t) => t.platz != null).sort((a, b) => a.platz - b.platz)[0];
@@ -821,6 +827,51 @@
     ziel.append(note);
   }
 
+  /**
+   * Gehört diese Mannschaft zu einem gemerkten Verein? Beim Handball steht in
+   * der Tabelle oft die Reserve („TuS Lintfort II“); `heimatverein` trägt den
+   * vereinheitlichten Namen, unter dem der Verein auch in den Meldungen läuft.
+   */
+  const istMeinVerein = (m) => einstellungen.favoriten.includes(m.verein)
+    || (m.heimatverein != null && einstellungen.favoriten.includes(m.heimatverein));
+
+  /** Sportart einer Mannschaft – ältere Datenstände kannten nur Fußball. */
+  const sportartVonMannschaft = (m) => m.sportart
+    ?? tabellendaten?.staffeln?.[m.staffelId]?.sportart
+    ?? 'Fußball';
+
+  /** Reiterband über den Tabellen, sobald mehr als eine Sportart vorliegt. */
+  function tabellensportZeichnen(mannschaften) {
+    const behaelter = $('tabellensport');
+    const zaehler = new Map();
+    for (const m of mannschaften) {
+      const s = sportartVonMannschaft(m);
+      zaehler.set(s, (zaehler.get(s) ?? 0) + 1);
+    }
+
+    if (zaehler.size < 2) { behaelter.hidden = true; return; }
+    behaelter.hidden = false;
+    behaelter.replaceChildren();
+
+    const eintraege = [['alle', 'Alle Sportarten'], ...[...zaehler.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .map(([name]) => [name, name])];
+
+    for (const [wert, beschriftung] of eintraege) {
+      const knopf = el('button', 'chip');
+      knopf.type = 'button';
+      knopf.setAttribute('aria-pressed', String(tabellensport === wert));
+      knopf.append(document.createTextNode(beschriftung));
+      if (wert !== 'alle') knopf.append(el('span', 'zahl', String(zaehler.get(wert))));
+      knopf.addEventListener('click', () => {
+        tabellensport = wert;
+        tabellenZeichnen();
+        scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      behaelter.append(knopf);
+    }
+  }
+
   function tabellenZeichnen() {
     const ziel = $('tabellen-ansicht');
     ziel.replaceChildren();
@@ -830,12 +881,15 @@
       return;
     }
 
+    tabellensportZeichnen(tabellendaten.mannschaften.filter((m) => !einstellungen.ausgeblendeteOrte.includes(m.ort)));
+
     const rang = { kern: 0, umland: 1, duisburg: 2 };
     const liste = [...tabellendaten.mannschaften]
       .filter((m) => !einstellungen.ausgeblendeteOrte.includes(m.ort))
+      .filter((m) => tabellensport === 'alle' || sportartVonMannschaft(m) === tabellensport)
       .sort((a, b) => {
-        const fa = einstellungen.favoriten.includes(a.verein) ? 0 : 1;
-        const fb = einstellungen.favoriten.includes(b.verein) ? 0 : 1;
+        const fa = istMeinVerein(a) ? 0 : 1;
+        const fb = istMeinVerein(b) ? 0 : 1;
         return fa - fb || rang[a.zone] - rang[b.zone] || a.verein.localeCompare(b.verein, 'de');
       });
 
@@ -864,7 +918,7 @@
     }
 
     // Vereinsansicht: ausschließlich die markierten Vereine.
-    const gezeigt = liste.filter((m) => einstellungen.favoriten.includes(m.verein));
+    const gezeigt = liste.filter(istMeinVerein);
 
     hinweis.hidden = false;
     hinweis.replaceChildren(
@@ -892,7 +946,7 @@
     $('liste').hidden = !meldungen;
     $('tabellen-ansicht').hidden = meldungen;
     $('untersicht').hidden = meldungen;
-    if (meldungen) $('modushinweis').hidden = true;
+    if (meldungen) { $('modushinweis').hidden = true; $('tabellensport').hidden = true; }
     $('filter').hidden = !meldungen;
     $('knopf-suche').hidden = !meldungen;
     if (!meldungen) { $('suchzeile').hidden = true; $('leer').hidden = true; }
