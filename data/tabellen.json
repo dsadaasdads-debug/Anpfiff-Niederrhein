@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T08:01:12.666Z",
+ "aktualisiert": "2026-08-14T08:28:52.696Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1512,6 +1512,621 @@
      "punkte": 0
     }
    ]
+  },
+  "031JAMD8UG000009VS5489BUVVKNMR0J-G": {
+   "name": "Kreisliga B Gruppe 2",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "DJK Twisteden II",
+     "teamId": "011MIDANHK000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Aldekerk 1928/52 II",
+     "teamId": "011MIAE464000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Aldekerk 1928/52 III",
+     "teamId": "011MI9UHUS000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Kevelaerer SV II",
+     "teamId": "011MIDHTKG000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SC Blau-Weiß Auwel-Holt",
+     "teamId": "011MIBSV1S000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV 19 Sevelen II",
+     "teamId": "011MICDOKO000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV 1913 Walbeck II",
+     "teamId": "011MI9UEAC000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Arminia Kapellen-Hamb",
+     "teamId": "011MIBAN7K000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV BW Herongen",
+     "teamId": "011MIAE71G000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV BW Herongen II",
+     "teamId": "011MIBT35O000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Germania Wemb",
+     "teamId": "011MIAIU80000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Grün-Weiß Vernum II",
+     "teamId": "012F5BH3M4000000VV0AG811VT1UN0HI",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Issum",
+     "teamId": "011MIB5RB8000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Union Wetten",
+     "teamId": "011MIE0RGG000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TSV Nieukerk II",
+     "teamId": "011MIDJU5C000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Viktoria Winnekendonk II",
+     "teamId": "011MIC4R40000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    }
+   ]
+  },
+  "031B925F1400000AVS5489BUVV628VP4-G": {
+   "name": "Kreisliga A",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "1. FC Kleve 63/03 II",
+     "teamId": "01E04D3UQO000000VV0AG80NVSNQSIQV",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Alemannia Pfalzdorf II",
+     "teamId": "011MICLM3G000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "BV Sturm Wissel",
+     "teamId": "011MIEUE0S000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SF Broekhuysen II",
+     "teamId": "011MIASBEO000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SG Kessel/Ho-Ha",
+     "teamId": "011MIEMFV0000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV 19 Sevelen",
+     "teamId": "011MIB5PGO000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV 1934 Veert",
+     "teamId": "011MI9IAQ4000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Grün-Weiß Vernum",
+     "teamId": "011MIC5HHK000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Siegfried Materborn",
+     "teamId": "011MIB19AO000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Straelen",
+     "teamId": "011MIASHNC000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Viktoria Goch II",
+     "teamId": "011MIC7VT0000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Walbeck",
+     "teamId": "011MIE876K000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TSV Nieukerk",
+     "teamId": "011MIE0NA8000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TSV Wachtendonk-Wankum",
+     "teamId": "011MICDPGK000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Uedemer SV",
+     "teamId": "011MIA97LK000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Viktoria Winnekendonk",
+     "teamId": "011MIBSVOS000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    }
+   ]
+  },
+  "031HJBFEMO000004VS5489BTVVG7L386-G": {
+   "name": "KL C Gruppe 1",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "1.FC Lintfort III",
+     "teamId": "02M95SI48G000000VS5489B2VURM3E5J",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Büdericher SV II",
+     "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "Concordia Rheinberg II",
+     "teamId": "02EK6VH7AO000000VS5489B1VV8GJNNG",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Viktoria Alpen II",
+     "teamId": "011MIE8974000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "MSV Moers III",
+     "teamId": "02MB52NDG8000000VS5489B1VV4JLPLE",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SC Rheinkamp II",
+     "teamId": "01SIQFBN18000000VS548984VVMI9KVG",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Borussia Veen 1920 II",
+     "teamId": "011MIA3L2K000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Budberg IV",
+     "teamId": "01OTG3R40K000000VV0AG811VSQ2DN07",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Menzelen II",
+     "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Millingen II",
+     "teamId": "011MICLI60000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Orsoy",
+     "teamId": "011MIA98AC000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Rheinkraft Ginderich",
+     "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Sonsbeck III",
+     "teamId": "02PTDCPP68000000VS5489B2VSE05932",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Viktoria Birten II",
+     "teamId": "01A2HO9954000000VV0AG80NVSEJ47CH",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Vynen-Marienbaum",
+     "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SpVgg. Rheurdt-Schaephuysen II",
+     "teamId": "02Q88TMF08000000VS5489B1VURITBKO",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "TuS Borth II",
+     "teamId": "011MIB16NS000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "VfL Repelen III",
+     "teamId": "02Q2ELK7TK000000VS5489B2VT450JFN",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    }
+   ]
   }
  },
  "mannschaften": [
@@ -1618,6 +2233,78 @@
      "heim": "SV Sonsbeck",
      "gast": "1. FC Lintfort",
      "url": "https://www.fussball.de/spiel/sv-sonsbeck-1-fc-lintfort/-/spiel/0319JA44S0000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "Concordia Rheinberg",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "mannschaft": "Herren - Concordia Rheinberg",
+   "teamId": "02EK6V8JKS000000VS5489B1VV8GJNNG",
+   "teamUrl": "https://www.fussball.de/mannschaft/concordia-rheinberg-concordia-rheinberg-niederrhein/-/saison/2627/team-id/02EK6V8JKS000000VS5489B1VV8GJNNG",
+   "liga": null,
+   "spielklasse": null,
+   "platz": null,
+   "punkte": null,
+   "torverhaeltnis": null,
+   "staffelId": null,
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Moers-Meerfeld II",
+     "gast": "Concordia Rheinberg",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-ii-concordia-rheinberg/-/spiel/031EVNJVT8000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 02.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Aldekerk 1928/52 III",
+     "gast": "Concordia Rheinberg",
+     "url": "https://www.fussball.de/spiel/fc-aldekerk-1928-52-iii-concordia-rheinberg/-/spiel/031DDMAUL0000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Samstag, 01.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Orsoy",
+     "gast": "Concordia Rheinberg",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-concordia-rheinberg/-/spiel/031F91HMG0000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 07.06.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "Concordia Rheinberg",
+     "gast": "TV Asberg",
+     "url": "https://www.fussball.de/spiel/concordia-rheinberg-tv-asberg/-/spiel/02TSPTNTQS000000VS5489BUVVJ8R9DS",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 31.05.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Schwafheim",
+     "gast": "Concordia Rheinberg",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-concordia-rheinberg/-/spiel/02TSPTNUTG000000VS5489BUVVJ8R9DS",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 17.05.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "Concordia Rheinberg",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/concordia-rheinberg-sv-menzelen/-/spiel/02TSPTNVGO000000VS5489BUVVJ8R9DS",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -2056,6 +2743,114 @@
    ]
   },
   {
+   "verein": "FC Viktoria Alpen 1911",
+   "ort": "Alpen",
+   "zone": "umland",
+   "mannschaft": "Herren - FC Viktoria Alpen",
+   "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/fc-viktoria-alpen-fc-viktoria-alpen-1911-niederrhein/-/saison/2627/team-id/011MIAIU2S000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga A",
+   "spielklasse": "Kreisliga A",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Viktoria Alpen",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-19-sevelen/-/spiel/0316NR5954000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Viktoria Alpen",
+     "gast": "Rumelner TV II",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-rumelner-tv-ii/-/spiel/031LSICOJS000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Viktoria Alpen",
+     "gast": "FC Rumeln-Kaldenhausen II",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-fc-rumeln-kaldenhausen-ii/-/spiel/031LSJ2K50000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Viktoria Alpen",
+     "gast": "Viktoria Buchholz II",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-viktoria-buchholz-ii/-/spiel/031I7NCPVG000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 27.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Viktoria Alpen",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-tv-kapellen/-/spiel/0316NR024C000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Dienstag, 04.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Viktoria Birten",
+     "gast": "FC Viktoria Alpen",
+     "url": "https://www.fussball.de/spiel/sv-viktoria-birten-fc-viktoria-alpen/-/spiel/031BG5T8A4000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SGE Bedburg-Hau",
+     "gast": "FC Viktoria Alpen",
+     "url": "https://www.fussball.de/spiel/sge-bedburg-hau-fc-viktoria-alpen/-/spiel/0316P95DSG000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Viktoria Alpen",
+     "gast": "DJK Twisteden II",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-djk-twisteden-ii/-/spiel/0318V8UJHO000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 24.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Haffen-Mehr",
+     "gast": "FC Viktoria Alpen",
+     "url": "https://www.fussball.de/spiel/tus-haffen-mehr-fc-viktoria-alpen/-/spiel/0319AJVOAS000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 19.07.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Viktoria Alpen",
+     "gast": "SV Schwafheim II",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-schwafheim-ii/-/spiel/0316NQNIJ0000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
    "verein": "Grafschafter SV 1910 Moers",
    "ort": "Moers",
    "zone": "kern",
@@ -2380,6 +3175,222 @@
    ]
   },
   {
+   "verein": "SpVgg. Rheurdt-Schaephuysen",
+   "ort": "Rheurdt",
+   "zone": "umland",
+   "mannschaft": "Herren - SpVgg. Rheurdt-Schaephuysen",
+   "teamId": "011MIEFG1O000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/spvgg-rheurdt-schaephuysen-spvgg-rheurdt-schaephuysen-niederrhein/-/saison/2627/team-id/011MIEFG1O000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga A",
+   "spielklasse": "Kreisliga A",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
+   "naechste": [
+    {
+     "datum": "Freitag, 21.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/tus-borth-spvgg-rheurdt-schaephuysen/-/spiel/031F2N24G0000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-sv-menzelen/-/spiel/031H9RCE94000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "Rumelner TV",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/rumelner-tv-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCDK0000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "ESV Hohenbudberg",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-esv-hohenbudberg/-/spiel/031H9RCFBS000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tv-asberg-i/-/spiel/031H9RCDA0000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 14:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "GSG Duisburg",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/gsg-duisburg-spvgg-rheurdt-schaephuysen/-/spiel/031LNHU8IC000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 07.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "VFL Tönisberg 2",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-vfl-toenisberg-2/-/spiel/031MRCGJ0C000000VS5489BUVT2M8LCU",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SC 1912 Buschhausen",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/sc-1912-buschhausen-spvgg-rheurdt-schaephuysen/-/spiel/031DB73ALO000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisturnier",
+     "heim": "SV Straelen",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/sv-straelen-spvgg-rheurdt-schaephuysen/-/spiel/031KAIHLVS000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 29.07.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisturnier",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "TSV Weeze",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tsv-weeze/-/spiel/031J9S3C6G000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SSV Rheintreu Lüttingen",
+   "ort": "Xanten",
+   "zone": "umland",
+   "mannschaft": "Herren - SSV Rheintreu Lüttingen",
+   "teamId": "011MIAE4R0000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/ssv-rheintreu-luettingen-ssv-rheintreu-luettingen-niederrhein/-/saison/2627/team-id/011MIAE4R0000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga A",
+   "spielklasse": "Kreisliga A",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
+   "naechste": [
+    {
+     "datum": "Dienstag, 18.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "SSV Rheintreu Lüttingen",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-ssv-rheintreu-luettingen/-/spiel/031OASD7OS000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SSV Rheintreu Lüttingen",
+     "gast": "SuS 09 Dinslaken II",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-sus-09-dinslaken-ii/-/spiel/031MQ859NS000000VS5489BUVT2M8LCU",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SSV Rheintreu Lüttingen",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-sv-schwafheim/-/spiel/031H9RCE78000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 04.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Menzelen",
+     "gast": "SSV Rheintreu Lüttingen",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-ssv-rheintreu-luettingen/-/spiel/031H9RCDLS000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SSV Rheintreu Lüttingen",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-sv-millingen/-/spiel/031H9RCF9S000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Samstag, 08.08.2026 - 16:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "BW Dingden II",
+     "gast": "SSV Rheintreu Lüttingen",
+     "url": "https://www.fussball.de/spiel/bw-dingden-ii-ssv-rheintreu-luettingen/-/spiel/031CRQ22BG000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SSV Rheintreu Lüttingen",
+     "gast": "SV 19 Sevelen II",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-sv-19-sevelen-ii/-/spiel/031COCGN8O000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 29.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Arminia Kapellen-Hamb",
+     "gast": "SSV Rheintreu Lüttingen",
+     "url": "https://www.fussball.de/spiel/sv-arminia-kapellen-hamb-ssv-rheintreu-luettingen/-/spiel/0318KMSP9K000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 07.06.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "GSV Moers II",
+     "gast": "SSV Rheintreu Lüttingen",
+     "url": "https://www.fussball.de/spiel/gsv-moers-ii-ssv-rheintreu-luettingen/-/spiel/02TSPTNU98000000VS5489BUVVJ8R9DS",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 31.05.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SSV Rheintreu Lüttingen",
+     "gast": "Büdericher SV",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-buedericher-sv/-/spiel/02TSPTNUJC000000VS5489BUVVJ8R9DS",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
    "verein": "SUS Rayen 1945",
    "ort": "Neukirchen-Vluyn",
    "zone": "kern",
@@ -2596,6 +3607,114 @@
    ]
   },
   {
+   "verein": "SV Borussia Veen 1920",
+   "ort": "Alpen",
+   "zone": "umland",
+   "mannschaft": "Herren - SV Borussia Veen 1920",
+   "teamId": "011MIBNBS0000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-borussia-veen-1920-sv-borussia-veen-1920-niederrhein/-/saison/2627/team-id/011MIBNBS0000000VTVG0001VTR8C1K7",
+   "liga": "Bezirksliga Gruppe 4",
+   "spielklasse": "Bezirksliga",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "VfB Rheingold Emmerich",
+     "gast": "SV Borussia Veen 1920",
+     "url": "https://www.fussball.de/spiel/vfb-rheingold-emmerich-sv-borussia-veen-1920/-/spiel/031EO9MU5G000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 18.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "SSV Rheintreu Lüttingen",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-ssv-rheintreu-luettingen/-/spiel/031OASD7OS000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 22.08.2026 - 16:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "Westfalia Anholt",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-westfalia-anholt/-/spiel/031EO9MTFO000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 28.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "BW Dingden II",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-bw-dingden-ii/-/spiel/031EO9MSU8000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Budberg II",
+     "gast": "SV Borussia Veen 1920",
+     "url": "https://www.fussball.de/spiel/sv-budberg-ii-sv-borussia-veen-1920/-/spiel/031EO9MSAO000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "VfL Tönisberg",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-vfl-toenisberg/-/spiel/031DCKELHG000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 04.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "Viktoria Winnekendonk",
+     "gast": "SV Borussia Veen 1920",
+     "url": "https://www.fussball.de/spiel/viktoria-winnekendonk-sv-borussia-veen-1920/-/spiel/031CHM1QTS000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SC Rot-Weiß Oberhausen II",
+     "gast": "SV Borussia Veen 1920",
+     "url": "https://www.fussball.de/spiel/sc-rot-weiss-oberhausen-ii-sv-borussia-veen-1920/-/spiel/0318DLCELK000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 28.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-sv-menzelen/-/spiel/03179C2Q08000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 13:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "SV Viktoria Goch",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-sv-viktoria-goch/-/spiel/031DCK7JE4000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
    "verein": "SV Budberg 1946",
    "ort": "Rheinberg",
    "zone": "umland",
@@ -2698,6 +3817,438 @@
      "heim": "SC 1911 Kapellen-Erft",
      "gast": "SV Budberg",
      "url": "https://www.fussball.de/spiel/sc-1911-kapellen-erft-sv-budberg/-/spiel/030UHSKD6C000000VS5489BTVT51B5B5",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SV Issum 1930",
+   "ort": "Issum",
+   "zone": "umland",
+   "mannschaft": "Herren - SV Issum",
+   "teamId": "011MIB5RB8000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-issum-sv-issum-1930-niederrhein/-/saison/2627/team-id/011MIB5RB8000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga B Gruppe 2",
+   "spielklasse": "Kreisliga B",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031JAMD8UG000009VS5489BUVVKNMR0J-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Issum",
+     "gast": "SV 19 Sevelen II",
+     "url": "https://www.fussball.de/spiel/sv-issum-sv-19-sevelen-ii/-/spiel/031JH9A4PO000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 16:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "Kevelaerer SV II",
+     "gast": "SV Issum",
+     "url": "https://www.fussball.de/spiel/kevelaerer-sv-ii-sv-issum/-/spiel/031JH9A428000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Issum",
+     "gast": "SV Grün-Weiß Vernum II",
+     "url": "https://www.fussball.de/spiel/sv-issum-sv-gruen-weiss-vernum-ii/-/spiel/031JH9A3J8000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 04.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SC Blau-Weiß Auwel-Holt",
+     "gast": "SV Issum",
+     "url": "https://www.fussball.de/spiel/sc-blau-weiss-auwel-holt-sv-issum/-/spiel/031JH9A2O8000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 18.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "DJK Twisteden II",
+     "gast": "SV Issum",
+     "url": "https://www.fussball.de/spiel/djk-twisteden-ii-sv-issum/-/spiel/031JH9A1C4000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Issum",
+     "gast": "Kevelaerer SV",
+     "url": "https://www.fussball.de/spiel/sv-issum-kevelaerer-sv/-/spiel/031FON8HE4000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Menzelen",
+     "gast": "SV Issum",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-sv-issum/-/spiel/031HHNT370000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 29.07.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Issum",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/sv-issum-sv-millingen/-/spiel/031CIASH9O000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "SV Issum",
+     "url": "https://www.fussball.de/spiel/tus-borth-sv-issum/-/spiel/031F2LOHCO000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 24.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Issum",
+     "gast": "SV Issum II",
+     "url": "https://www.fussball.de/spiel/sv-issum-sv-issum-ii/-/spiel/031CI9J94G000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SV Menzelen 1925",
+   "ort": "Alpen",
+   "zone": "umland",
+   "mannschaft": "Herren - SV Menzelen",
+   "teamId": "011MIEMJS8000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-menzelen-sv-menzelen-1925-niederrhein/-/saison/2627/team-id/011MIEMJS8000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga A",
+   "spielklasse": "Kreisliga A",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Gahlen II",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/tus-gahlen-ii-sv-menzelen/-/spiel/031F59F14K000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 21.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "GW Flüren",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/gw-flueren-sv-menzelen/-/spiel/031CQRB8HG000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Freitag, 21.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Menzelen",
+     "gast": "GW Flüren",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-gw-flueren/-/spiel/031NVCS2BC000000VS5489BUVT2M8LCU",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "MTV Union Hamborn",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/mtv-union-hamborn-sv-menzelen/-/spiel/031JPUVJVS000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-sv-menzelen/-/spiel/031H9RCE94000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Menzelen",
+     "gast": "FC Sterkrade 72 I",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-fc-sterkrade-72-i/-/spiel/031HHO5G30000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SC Croatia Mülheim",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/sc-croatia-muelheim-sv-menzelen/-/spiel/031NF28I0O000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 09.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "FC Neukirchen-Vluyn",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-sv-menzelen/-/spiel/031LERVADO000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Menzelen",
+     "gast": "SV Issum",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-sv-issum/-/spiel/031HHNT370000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 28.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-sv-menzelen/-/spiel/03179C2Q08000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SV Millingen 1928",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "mannschaft": "Herren - SV Millingen",
+   "teamId": "011MIB2M18000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-millingen-sv-millingen-1928-niederrhein/-/saison/2627/team-id/011MIB2M18000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga A",
+   "spielklasse": "Kreisliga A",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
+   "naechste": [
+    {
+     "datum": "Dienstag, 18.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Millingen",
+     "gast": "TuS Baerl",
+     "url": "https://www.fussball.de/spiel/sv-millingen-tus-baerl/-/spiel/031MD9TVM8000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-sv-millingen/-/spiel/031HUV3NSK000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "FC Neukirchen-Vluyn II",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-ii-sv-millingen/-/spiel/031H9RCEH4000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Millingen",
+     "gast": "GSV Moers II",
+     "url": "https://www.fussball.de/spiel/sv-millingen-gsv-moers-ii/-/spiel/031H9RCDR8000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SSV Rheintreu Lüttingen",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-sv-millingen/-/spiel/031H9RCF9S000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Dienstag, 11.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Millingen",
+     "gast": "FC Albania Duisburg",
+     "url": "https://www.fussball.de/spiel/sv-millingen-fc-albania-duisburg/-/spiel/031MGK1S80000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 08.08.2026 - 14:00 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "SV Budberg I",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/sv-budberg-i-sv-millingen/-/spiel/031DHP6NQK000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Donnerstag, 06.08.2026 - 19:45 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Mündelheim",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/tus-muendelheim-sv-millingen/-/spiel/031D0KFI4K000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Millingen",
+     "gast": "VfvB Ruhrort/Laar",
+     "url": "https://www.fussball.de/spiel/sv-millingen-vfvb-ruhrort-laar/-/spiel/031CINP3DK000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 29.07.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Issum",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/sv-issum-sv-millingen/-/spiel/031CIASH9O000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SV Orsoy 1919",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "mannschaft": "Herren - SV Orsoy",
+   "teamId": "011MIA98AC000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-orsoy-sv-orsoy-1919-niederrhein/-/saison/2627/team-id/011MIA98AC000000VTVG0001VTR8C1K7",
+   "liga": "KL C Gruppe 1",
+   "spielklasse": "Kreisliga C",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
+   "naechste": [
+    {
+     "datum": "Freitag, 21.08.2026 - 19:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Orsoy",
+     "gast": "TuS Borth",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-tus-borth/-/spiel/031FVRL5SG000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 12:15 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SpVgg. Rheurdt-Schaephuysen II",
+     "gast": "SV Orsoy",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-ii-sv-orsoy/-/spiel/031I6NEIKO000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 04.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Orsoy",
+     "gast": "SC Rheinkamp II",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-sc-rheinkamp-ii/-/spiel/031I6NEI3C000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 08.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Orsoy",
+     "gast": "SV Budberg IV",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-sv-budberg-iv/-/spiel/031I6NEJR0000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "FC Viktoria Alpen II",
+     "gast": "SV Orsoy",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-ii-sv-orsoy/-/spiel/031I6NEHIG000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Orsoy",
+     "gast": "TuS Baerl",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-tus-baerl/-/spiel/031HJA7LLC000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 05.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Orsoy",
+     "gast": "Concordia Rheinberg II",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-concordia-rheinberg-ii/-/spiel/031K8QK2F8000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 01.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Orsoy",
+     "gast": "Concordia Rheinberg",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-concordia-rheinberg/-/spiel/031F91HMG0000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 01.03.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Orsoy zg.",
+     "gast": "SV Budberg III",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-sv-budberg-iii/-/spiel/02TSQPDPU4000000VS5489BTVTHCTAHT",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 22.02.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Viktoria Birten",
+     "gast": "SV Orsoy zg.",
+     "url": "https://www.fussball.de/spiel/sv-viktoria-birten-sv-orsoy/-/spiel/02TSQPDQK8000000VS5489BTVTHCTAHT",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -2914,6 +4465,330 @@
      "heim": "SV Schwafheim",
      "gast": "Concordia Rheinberg",
      "url": "https://www.fussball.de/spiel/sv-schwafheim-concordia-rheinberg/-/spiel/02TSPTNUTG000000VS5489BUVVJ8R9DS",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SV Sevelen 1919",
+   "ort": "Issum",
+   "zone": "umland",
+   "mannschaft": "Herren - SV 19 Sevelen",
+   "teamId": "011MIB5PGO000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-19-sevelen-sv-sevelen-1919-niederrhein/-/saison/2627/team-id/011MIB5PGO000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga A",
+   "spielklasse": "Kreisliga A",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031B925F1400000AVS5489BUVV628VP4-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Viktoria Alpen",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-19-sevelen/-/spiel/0316NR5954000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "Alemannia Pfalzdorf II",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/alemannia-pfalzdorf-ii-sv-19-sevelen/-/spiel/031JH226S8000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV 19 Sevelen",
+     "gast": "BV Sturm Wissel",
+     "url": "https://www.fussball.de/spiel/sv-19-sevelen-bv-sturm-wissel/-/spiel/031JH2268O000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV 19 Sevelen",
+     "gast": "TSV Wachtendonk-Wankum",
+     "url": "https://www.fussball.de/spiel/sv-19-sevelen-tsv-wachtendonk-wankum/-/spiel/031JH225KC000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Grün-Weiß Vernum",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/sv-gruen-weiss-vernum-sv-19-sevelen/-/spiel/031JH224TS000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "TSV Nieukerk",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/tsv-nieukerk-sv-19-sevelen/-/spiel/031FON8HGK000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 09.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "GSV Moers II",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/gsv-moers-ii-sv-19-sevelen/-/spiel/0317VC02K0000000VS5489BUVSBBVPEU",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Dienstag, 04.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV 19 Sevelen",
+     "gast": "SV 19 Sevelen II",
+     "url": "https://www.fussball.de/spiel/sv-19-sevelen-sv-19-sevelen-ii/-/spiel/031KQAN73S000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV 19 Sevelen",
+     "gast": "TV Jahn Hiesfeld",
+     "url": "https://www.fussball.de/spiel/sv-19-sevelen-tv-jahn-hiesfeld/-/spiel/03164GQHUG000000VS5489BTVU7GTVLE",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 22.07.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisturnier",
+     "heim": "SV 19 Sevelen",
+     "gast": "SF Broekhuysen II",
+     "url": "https://www.fussball.de/spiel/sv-19-sevelen-sf-broekhuysen-ii/-/spiel/031AG4Q84S000000VS5489BUVV628VP4",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "SV Vynen-Marienbaum 1997",
+   "ort": "Xanten",
+   "zone": "umland",
+   "mannschaft": "Herren - SV Vynen-Marienbaum",
+   "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/sv-vynen-marienbaum-sv-vynen-marienbaum-1997-niederrhein/-/saison/2627/team-id/011MIANO4S000000VTVG0001VTR8C1K7",
+   "liga": "KL C Gruppe 1",
+   "spielklasse": "Kreisliga C",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
+   "naechste": [
+    {
+     "datum": "Dienstag, 18.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Bislich II",
+     "gast": "SV Vynen-Marienbaum",
+     "url": "https://www.fussball.de/spiel/sv-bislich-ii-sv-vynen-marienbaum/-/spiel/031BSPPOBC000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "SC Rheinkamp",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sc-rheinkamp/-/spiel/031FVRL5V0000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "MSV Moers III",
+     "gast": "SV Vynen-Marienbaum",
+     "url": "https://www.fussball.de/spiel/msv-moers-iii-sv-vynen-marienbaum/-/spiel/031I6NEIFG000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "SV Sonsbeck III",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-sonsbeck-iii/-/spiel/031I6NEIBO000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "1.FC Lintfort III",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-1fc-lintfort-iii/-/spiel/031I6NEJUS000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 14:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Fortuna Keppeln",
+     "gast": "SV Vynen-Marienbaum",
+     "url": "https://www.fussball.de/spiel/sv-fortuna-keppeln-sv-vynen-marienbaum/-/spiel/031L544TR0000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 06.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "DJK Labbeck-Uedemerbruch",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-djk-labbeck-uedemerbruch/-/spiel/031AIN10M8000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "SV Rees II",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-rees-ii/-/spiel/031AIMQED8000000VS5489BTVSK8S3O6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 29.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SG Kalkar / Hö-Nie",
+     "gast": "SV Vynen-Marienbaum",
+     "url": "https://www.fussball.de/spiel/sg-kalkar-hoe-nie-sv-vynen-marienbaum/-/spiel/031CHI5FDC000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 19.07.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "VFR SW Warbeyen 1945 E.V.",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-vfr-sw-warbeyen-1945-ev/-/spiel/031GM93HC0000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ]
+  },
+  {
+   "verein": "TuS Borth 71",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "mannschaft": "Herren - TuS Borth",
+   "teamId": "011MIAIST4000000VTVG0001VTR8C1K7",
+   "teamUrl": "https://www.fussball.de/mannschaft/tus-borth-tus-borth-71-niederrhein/-/saison/2627/team-id/011MIAIST4000000VTVG0001VTR8C1K7",
+   "liga": "Kreisliga B",
+   "spielklasse": "Kreisliga B",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
+   "naechste": [
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/tus-borth-sv-schwafheim/-/spiel/031F2MR5EG000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 21.08.2026 - 19:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Orsoy",
+     "gast": "TuS Borth",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-tus-borth/-/spiel/031FVRL5SG000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 21.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/tus-borth-spvgg-rheurdt-schaephuysen/-/spiel/031F2N24G0000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "SV Sonsbeck II",
+     "url": "https://www.fussball.de/spiel/tus-borth-sv-sonsbeck-ii/-/spiel/031F2N6DC8000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 30.08.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "TuS Asterlagen II",
+     "gast": "TuS Borth",
+     "url": "https://www.fussball.de/spiel/tus-asterlagen-ii-tus-borth/-/spiel/031HBDT77O000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    }
+   ],
+   "letzte": [
+    {
+     "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "FC Neukirchen-Vluyn II",
+     "url": "https://www.fussball.de/spiel/tus-borth-fc-neukirchen-vluyn-ii/-/spiel/031F2MI9B8000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 07.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/tus-borth-tus-xanten/-/spiel/031F2MDAQS000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "GSG Duisburg",
+     "url": "https://www.fussball.de/spiel/tus-borth-gsg-duisburg/-/spiel/031F2M95BO000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "SV Issum",
+     "url": "https://www.fussball.de/spiel/tus-borth-sv-issum/-/spiel/031F2LOHCO000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 24.07.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TuS Borth",
+     "gast": "SV Grün-Weiß Vernum",
+     "url": "https://www.fussball.de/spiel/tus-borth-sv-gruen-weiss-vernum/-/spiel/031GNHK1L0000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }

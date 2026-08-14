@@ -17,6 +17,8 @@
     favoriten: ['1. FC Lintfort'],
     ausgeblendeteSportarten: [],
     ausgeblendeteOrte: [],
+    gelesen: [],
+    letzterBesuch: null,
   };
 
   let einstellungen = laden();
@@ -27,6 +29,10 @@
   let auswahl = 'alle';             // 'alle' | 'favoriten' | Name einer Sportart
   let suchtext = '';
   let zuletztGeholt = 0;
+  /** Zeitpunkt des vorigen Besuchs, beim Start eingefroren. */
+  let besuchVorher = null;
+  /** Gelesene Kennungen als Menge, für schnelles Nachschlagen. */
+  let gelesen = new Set();
 
   const $ = (id) => document.getElementById(id);
   const el = (tag, klasse, text) => {
@@ -101,6 +107,27 @@
   // ── Auswahl und Reihenfolge ──────────────────────────────────────────────
 
   const istFavorit = (a) => a.vereine.some((v) => einstellungen.favoriten.includes(v));
+
+  /** Neu seit dem vorigen Besuch – und noch nicht gelesen. */
+  const istNeu = (a) => Boolean(besuchVorher) && !gelesen.has(a.id)
+    && (Date.parse(a.datum) || 0) > Date.parse(besuchVorher);
+
+  function alsGelesenMerken(id) {
+    if (gelesen.has(id)) return;
+    gelesen.add(id);
+    einstellungen.gelesen = [...gelesen];
+    sichern();
+    gelesenstandZeigen();
+  }
+
+  function gelesenstandZeigen() {
+    const feld = $('gelesen-stand');
+    if (!feld || !daten) return;
+    const imBestand = daten.artikel.filter((a) => gelesen.has(a.id)).length;
+    feld.textContent = imBestand === 0
+      ? 'Du hast noch keine Meldung geöffnet. Geöffnete werden abgeblendet dargestellt.'
+      : `${imBestand} von ${daten.artikel.length} Meldungen sind als gelesen vermerkt. Sie werden abgeblendet, aber nicht ausgeblendet.`;
+  }
 
   const ortVersteckt = (a) =>
     a.orte.length > 0 && a.orte.every((o) => einstellungen.ausgeblendeteOrte.includes(o));
@@ -210,11 +237,24 @@
 
     const text = el('div', 'karte-text');
 
+    if (gelesen.has(artikel.id)) karte.classList.add('gelesen');
+
     const ueberschrift = el('h2');
-    const link = el('a', 'karte-titel', artikel.titel);
+    const link = el('a', 'karte-titel');
     link.href = artikel.url;
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
+    if (istNeu(artikel)) {
+      const punkt = el('span', 'neu-punkt');
+      punkt.title = 'Neu seit deinem letzten Besuch';
+      link.append(punkt);
+    }
+    link.append(document.createTextNode(artikel.titel));
+    // Kein Neuzeichnen beim Öffnen: die Karte soll unter dem Finger bleiben.
+    link.addEventListener('click', () => {
+      alsGelesenMerken(artikel.id);
+      karte.classList.add('gelesen');
+    });
     ueberschrift.append(link);
     text.append(ueberschrift);
 
@@ -259,13 +299,54 @@
     return karte;
   }
 
+  const tagName = new Intl.DateTimeFormat('de-DE', { weekday: 'long', day: 'numeric', month: 'long' });
+
+  /** „Heute“, „Gestern“ oder „Sonntag, 10. August“. */
+  function tagBeschriftung(iso) {
+    const d = new Date(Date.parse(iso));
+    const heute = new Date();
+    const tage = Math.round((new Date(heute.getFullYear(), heute.getMonth(), heute.getDate())
+      - new Date(d.getFullYear(), d.getMonth(), d.getDate())) / 86_400_000);
+    if (tage === 0) return 'Heute';
+    if (tage === 1) return 'Gestern';
+    return tagName.format(d);
+  }
+
+  const tagSchluessel = (iso) => (iso ?? '').slice(0, 10);
+
   function zeichnen() {
     if (!daten) return;
 
     chipsZeichnen();
 
     const treffer = daten.artikel.filter(sichtbar).sort(reihenfolge);
-    $('liste').replaceChildren(...treffer.map(karteBauen));
+
+    // Datumstrenner nur bei „Neueste zuerst“. In „Für dich“ ist die Reihenfolge
+    // absichtlich nicht chronologisch – dort ergäben Trenner „Heute, Gestern,
+    // Heute“ oder stellten einen heutigen Duisburger Artikel unter „Gestern“.
+    const mitTrennern = einstellungen.sortierung === 'neueste';
+    const knoten = [];
+    let letzterTag = null;
+    for (const artikel of treffer) {
+      if (mitTrennern && artikel.datum) {
+        const tag = tagSchluessel(artikel.datum);
+        if (tag !== letzterTag) {
+          knoten.push(el('h3', 'tagtrenner', tagBeschriftung(artikel.datum)));
+          letzterTag = tag;
+        }
+      }
+      knoten.push(karteBauen(artikel));
+    }
+    $('liste').replaceChildren(...knoten);
+
+    const neue = treffer.filter(istNeu).length;
+    const hinweis = $('neuhinweis');
+    hinweis.hidden = neue === 0;
+    if (neue > 0) hinweis.textContent = neue === 1
+      ? '1 neue Meldung seit deinem letzten Besuch'
+      : `${neue} neue Meldungen seit deinem letzten Besuch`;
+
+    gelesenstandZeigen();
 
     const leer = $('leer');
     const versteckt = daten.artikel.filter((x) => x.paywall === true).length;
@@ -308,6 +389,7 @@
       anker = { id: bevorzugt.dataset.id, oben: bevorzugt.getBoundingClientRect().top };
     } else {
       for (const karte of $('liste').children) {
+        if (!karte.dataset.id) continue;   // Datumstrenner überspringen
         const kasten = karte.getBoundingClientRect();
         if (kasten.bottom > OBERKANTE) { anker = { id: karte.dataset.id, oben: kasten.top }; break; }
       }
@@ -743,6 +825,18 @@
       daten = frisch;
       zuletztGeholt = Date.now();
 
+      // Vermerke zu Meldungen, die aus dem 30-Tage-Fenster gefallen sind,
+      // wegwerfen – sonst wächst die Liste endlos.
+      const vorhanden = new Set(frisch.artikel.map((a) => a.id));
+      if (gelesen.size) {
+        const gekuerzt = [...gelesen].filter((id) => vorhanden.has(id));
+        if (gekuerzt.length !== gelesen.size) {
+          gelesen = new Set(gekuerzt);
+          einstellungen.gelesen = gekuerzt;
+          sichern();
+        }
+      }
+
       if (bekannt.size) mitLesepositionZeichnen(); else zeichnen();
       einstellungslistenZeichnen();
       vereineZeichnen($('vereinssuche')?.value.trim().toLowerCase() ?? '');
@@ -771,6 +865,18 @@
 
   async function starten() {
     themaAnwenden();
+
+    // Beide Werte werden beim Start eingefroren: „neu seit deinem letzten
+    // Besuch“ soll sich während der Sitzung nicht unter der Hand verschieben.
+    besuchVorher = einstellungen.letzterBesuch;
+    gelesen = new Set(einstellungen.gelesen ?? []);
+
+    $('knopf-alles-gelesen').addEventListener('click', () => {
+      for (const a of daten?.artikel ?? []) gelesen.add(a.id);
+      einstellungen.gelesen = [...gelesen];
+      sichern();
+      zeichnen();
+    });
 
     $('knopf-thema').addEventListener('click', () => {
       const dunkelJetzt = document.documentElement.dataset.thema
@@ -867,6 +973,10 @@
     });
 
     if (!await meldungenHolen()) return;
+
+    // Erst jetzt, nachdem der Hinweis gezeichnet ist: Besuch vermerken.
+    einstellungen.letzterBesuch = new Date().toISOString();
+    sichern();
 
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('sw.js').catch((err) => console.warn('Service Worker:', err));

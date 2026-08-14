@@ -227,6 +227,34 @@ main { max-width: 780px; margin: 0 auto; padding: 12px; }
 
 .liste { display: flex; flex-direction: column; gap: 10px; }
 
+.neuhinweis {
+  margin: 0 0 12px; padding: .55rem .85rem;
+  border-left: 4px solid var(--akzent); border-radius: 8px;
+  background: color-mix(in srgb, var(--akzent) 12%, var(--flaeche));
+  font-size: .86rem; font-weight: 650;
+}
+
+/* Datumstrenner. Klebt unter dem Kopf, damit man beim Scrollen weiß, wo man ist. */
+.tagtrenner {
+  position: sticky; top: var(--kopf-hoehe); z-index: 5;
+  margin: .4rem 0 -2px; padding: .35rem 0;
+  background: linear-gradient(var(--grund) 70%, transparent);
+  font-size: .68rem; font-weight: 750; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--schrift-leise);
+}
+.tagtrenner:first-child { margin-top: 0; }
+
+/* Gelesene Meldungen treten zurück, verschwinden aber nicht. */
+.karte.gelesen { opacity: .58; }
+.karte.gelesen:hover { opacity: .85; }
+.karte.gelesen h2 { font-weight: 600; }
+
+.neu-punkt {
+  display: inline-block; width: .5rem; height: .5rem; flex: none;
+  margin-right: .35rem; border-radius: 50%; background: var(--akzent);
+  vertical-align: middle;
+}
+
 .karte {
   position: relative; display: block;
   background: var(--flaeche); border: 1px solid var(--linie);

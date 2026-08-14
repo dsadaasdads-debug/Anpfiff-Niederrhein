@@ -67,6 +67,8 @@
        jedem Filterklick alle Karten erneut vor. Angesagt wird nur die Anzahl. -->
   <p class="nur-vorlesen" id="ansage" role="status" aria-live="polite"></p>
 
+  <p class="neuhinweis" id="neuhinweis" hidden></p>
+
   <div id="liste" class="liste"></div>
 
   <div class="untersicht" id="untersicht" hidden>
@@ -121,7 +123,15 @@
       <p class="erklaerung">
         „Für dich“ stellt Moers, Kamp-Lintfort und Neukirchen-Vluyn nach vorn, dämpft
         das Umland leicht und Duisburg deutlich. Deine Vereine kommen immer zuerst.
+        Weil diese Reihenfolge bewusst nicht chronologisch ist, gibt es
+        Datumstrenner nur bei „Neueste zuerst“.
       </p>
+    </section>
+
+    <section class="feld">
+      <h3>Gelesenes</h3>
+      <p class="erklaerung" id="gelesen-stand"></p>
+      <button type="button" class="hauptknopf" id="knopf-alles-gelesen">Alles als gelesen markieren</button>
     </section>
 
     <section class="feld">

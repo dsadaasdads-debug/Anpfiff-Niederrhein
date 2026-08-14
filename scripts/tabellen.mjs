@@ -19,10 +19,10 @@ const DATEN = join(HERE, '..', 'data');
 const ZIEL = join(DATEN, 'tabellen.json');
 const SPEICHER = join(DATEN, 'tabellen-cache.json');
 
-// Nur die Kernstädte plus ausdrücklich gewünschte Vereine. Alle 59 Vereine
-// abzufragen wäre unhöflich gegenüber fussball.de und für den Zweck unnötig.
-const ZONEN = new Set(['kern']);
-const IMMER_DABEI = new Set(['1. FC Lintfort', 'SV Budberg 1946', 'TUS Xanten 05/22']);
+// Kernstädte und Umland. Duisburg bleibt draußen: dessen Kreis- und
+// Bezirksligen würden die Ansicht fluten, ohne dass sie hier jemand sucht.
+const ZONEN = new Set(['kern', 'umland']);
+const IMMER_DABEI = new Set();
 
 const ZUORDNUNG_HAELT_TAGE = 7;
 const PAUSE_MS = 700;

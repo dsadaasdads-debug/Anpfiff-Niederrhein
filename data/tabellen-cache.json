@@ -100,5 +100,77 @@
   "teamUrl": "https://www.fussball.de/mannschaft/tus-xanten-tus-xanten-05-22-niederrhein/-/saison/2627/team-id/011MIE0NIG000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - TUS Xanten",
   "geprueft": "2026-08-13T17:54:54.509Z"
+ },
+ "FC Viktoria Alpen 1911": {
+  "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/fc-viktoria-alpen-fc-viktoria-alpen-1911-niederrhein/-/saison/2627/team-id/011MIAIU2S000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - FC Viktoria Alpen",
+  "geprueft": "2026-08-14T08:28:03.595Z"
+ },
+ "SV Borussia Veen 1920": {
+  "teamId": "011MIBNBS0000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/sv-borussia-veen-1920-sv-borussia-veen-1920-niederrhein/-/saison/2627/team-id/011MIBNBS0000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - SV Borussia Veen 1920",
+  "geprueft": "2026-08-14T08:28:06.853Z"
+ },
+ "SV Menzelen 1925": {
+  "teamId": "011MIEMJS8000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/sv-menzelen-sv-menzelen-1925-niederrhein/-/saison/2627/team-id/011MIEMJS8000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - SV Menzelen",
+  "geprueft": "2026-08-14T08:28:11.217Z"
+ },
+ "SV Issum 1930": {
+  "teamId": "011MIB5RB8000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/sv-issum-sv-issum-1930-niederrhein/-/saison/2627/team-id/011MIB5RB8000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - SV Issum",
+  "geprueft": "2026-08-14T08:28:14.596Z"
+ },
+ "SV Sevelen 1919": {
+  "teamId": "011MIB5PGO000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/sv-19-sevelen-sv-sevelen-1919-niederrhein/-/saison/2627/team-id/011MIB5PGO000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - SV 19 Sevelen",
+  "geprueft": "2026-08-14T08:28:18.663Z"
+ },
+ "Concordia Rheinberg": {
+  "teamId": "02EK6V8JKS000000VS5489B1VV8GJNNG",
+  "teamUrl": "https://www.fussball.de/mannschaft/concordia-rheinberg-concordia-rheinberg-niederrhein/-/saison/2627/team-id/02EK6V8JKS000000VS5489B1VV8GJNNG",
+  "mannschaft": "Herren - Concordia Rheinberg",
+  "geprueft": "2026-08-14T08:28:22.739Z"
+ },
+ "SV Millingen 1928": {
+  "teamId": "011MIB2M18000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/sv-millingen-sv-millingen-1928-niederrhein/-/saison/2627/team-id/011MIB2M18000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - SV Millingen",
+  "geprueft": "2026-08-14T08:28:29.062Z"
+ },
+ "SV Orsoy 1919": {
+  "teamId": "011MIA98AC000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/sv-orsoy-sv-orsoy-1919-niederrhein/-/saison/2627/team-id/011MIA98AC000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - SV Orsoy",
+  "geprueft": "2026-08-14T08:28:32.397Z"
+ },
+ "TuS Borth 71": {
+  "teamId": "011MIAIST4000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/tus-borth-tus-borth-71-niederrhein/-/saison/2627/team-id/011MIAIST4000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - TuS Borth",
+  "geprueft": "2026-08-14T08:28:36.477Z"
+ },
+ "SpVgg. Rheurdt-Schaephuysen": {
+  "teamId": "011MIEFG1O000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/spvgg-rheurdt-schaephuysen-spvgg-rheurdt-schaephuysen-niederrhein/-/saison/2627/team-id/011MIEFG1O000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - SpVgg. Rheurdt-Schaephuysen",
+  "geprueft": "2026-08-14T08:28:39.841Z"
+ },
+ "SSV Rheintreu Lüttingen": {
+  "teamId": "011MIAE4R0000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/ssv-rheintreu-luettingen-ssv-rheintreu-luettingen-niederrhein/-/saison/2627/team-id/011MIAE4R0000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - SSV Rheintreu Lüttingen",
+  "geprueft": "2026-08-14T08:28:43.476Z"
+ },
+ "SV Vynen-Marienbaum 1997": {
+  "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/sv-vynen-marienbaum-sv-vynen-marienbaum-1997-niederrhein/-/saison/2627/team-id/011MIANO4S000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - SV Vynen-Marienbaum",
+  "geprueft": "2026-08-14T08:28:47.018Z"
  }
 }
