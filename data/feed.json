@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T15:19:20.222Z",
+ "aktualisiert": "2026-08-14T16:06:34.999Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,8 +40,11 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "ok",
-   "eintraege": 10
+   "status": "fehler",
+   "fehler": "HTTP 415",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-14T15:18:59.844Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "moerser-sc",
@@ -663,9 +666,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -725,6 +726,33 @@
     "TV Asberg 1897"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412866906",
+   "titel": "Alles auf Anfang in Budberg: Der Vizemeister hält den Ball flach",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412866906/alles-auf-anfang-in-budberg-der-vizemeister-haelt-den-ball-flach.html",
+   "teaser": "Landesligist SVB sieht sich nach dem verpassten Aufstieg erst einmal nicht im Favoritenkreis. Zum Start kommt der VfB Speldorf.",
+   "bild": "https://img.sparknews.funkemedien.de/412867447/412867447_1786721237_v16_9_600.jpeg",
+   "datum": "2026-08-14T15:32:48.000Z",
+   "sortZeit": 1786692768000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Moers"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
    "ereignis": null,
    "grund": "pfad"
   },
