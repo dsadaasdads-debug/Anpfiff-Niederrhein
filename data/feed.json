@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T08:21:57.397Z",
+ "aktualisiert": "2026-08-14T08:37:56.533Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,33 @@
  ],
  "artikel": [
   {
+   "id": "funke:412840782",
+   "titel": "Fast alles neu: Nach verpasstem Aufstieg fährt der TV Asberg die Ziele runter",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412840782/fast-alles-neu-nach-verpasstem-aufstieg-faehrt-der-tv-asberg-die-ziele-runter.html",
+   "teaser": "Der A-Kreisligist musste seinen Kader komplett umbauen. Coach Schmitz will auf Dauer nicht nur „um die goldene Ananas spielen“.",
+   "bild": "https://img.sparknews.funkemedien.de/412845313/412845313_1786545166_v16_9_600.jpeg",
+   "datum": "2026-08-14T08:21:00.000Z",
+   "sortZeit": 1786695660000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TV Asberg 1897"
+   ],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412855756",
    "titel": "Startelf-Puzzle? Beim 1. FC Lintfort kommt es zum Auftakt auch auf Spannung an",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412855756/startelf-puzzle-beim-1-fc-lintfort-kommt-es-zum-auftakt-auch-auf-spannung-an.html",
@@ -713,9 +740,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
