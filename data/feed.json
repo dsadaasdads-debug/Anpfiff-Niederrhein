@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T11:57:31.129Z",
+ "aktualisiert": "2026-08-14T13:43:14.917Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 26
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,8 +624,36 @@
  ],
  "artikel": [
   {
+   "id": "funke:412863525",
+   "titel": "Freude beim SV Schwafheim: So sieht der Fahrplan beim neuen Kunstrasen aus",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412863525/freude-beim-sv-schwafheim-so-sieht-der-fahrplan-beim-neuen-kunstrasen-aus.html",
+   "teaser": "Seit fast zwei Jahrzehnten will der Fußball-Traditionsverein seinen Ascheplatz loswerden. Ab Montag ist es für die Schwafheimer so weit.",
+   "bild": "https://img.sparknews.funkemedien.de/412864801/412864801_1786711551_v16_9_600.jpeg",
+   "datum": "2026-08-14T12:57:22.000Z",
+   "sortZeit": 1786712242000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "SV Schwafheim 1932"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412862393",
-   "titel": "Achter Nezugang fix: GSC Moers setzt auf international erfahrenen Verteidiger",
+   "titel": "Achter Neuzugang fix: GSC Moers setzt auf international erfahrenen Verteidiger",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412862393/achter-nezugang-fix-gsc-moers-setzt-auf-international-erfahrenen-verteidiger.html",
    "teaser": "Beim Eishockey-Regionalligisten füllt sich so langsam der Kader. Neuzugang wurde im Nachwuchs der Düsseldorfer EG ausgebildet.",
    "bild": "https://img.sparknews.funkemedien.de/412862728/412862728_1786704979_v16_9_600.jpeg",
@@ -661,9 +689,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -730,6 +756,37 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:153018555",
+   "titel": "Auftakt gegen VfB Speldorf: SV Budberg startet mit „viel Bock“ – doch eine Zahl macht Sorgen",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-start-mit-bock-und-einer-schwachstelle_aid-153018555",
+   "teaser": "Trainer Tim Wilke startet mit dem SV Budberg in seine achte Saison. Gegen Speldorf wartet ein harter Test – und eine Statistik, die Sorgen macht.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/1/2/3/6/5/3/tok_a7e5232f1feeef87f26f40778a822756/w1200_h630_x1350_y900_rp_20260801_J_0767-71f3e58d5005efce.jpg",
+   "datum": "2026-08-14T12:47:00.000Z",
+   "sortZeit": 1786682820000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "rp:153018577",
    "titel": "Oberliga-Auftakt: SV Sonsbeck greift an – neuer Keeper, starke Tests, großer Pokaltraum",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-sonsbeck-revanche-in-baumberg-mit-julius-paris_aid-153018577",
@@ -781,6 +838,32 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412862533",
+   "titel": "Duisburg 08 macht den Favoriten in der eigenen Stadt aus",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412862533/duisburg-08-macht-den-favoriten-in-der-eigenen-stadt-aus.html",
+   "teaser": "Die Hochfelder wollen bei ihrer Landesliga-Rückkehr schnell die 40-Punkte-Marke erreichen. Für Yüksel Kilic gibt es einen klaren Titelanwärter.",
+   "bild": "https://img.sparknews.funkemedien.de/412865266/412865266_fc_1786712991_v16_9_600.jpeg",
+   "datum": "2026-08-14T13:12:26.000Z",
+   "sortZeit": 1786641146000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412853579",
    "titel": "Bestürzung beim Moerser SC: Cheftrainer Chang Cheng Liu wieder schwer erkrankt",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412853579/bestuerzung-beim-moerser-sc-cheftrainer-chang-cheng-liu-wieder-erkrankt.html",
@@ -805,6 +888,32 @@
     "Moerser SC"
    ],
    "sportart": "Volleyball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412862733",
+   "titel": "Meisterschaften und Erinnerungen: Fröhliche Rückkehr zum TC Neumühl",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412862733/meisterschaften-und-erinnerungen-froehliche-rueckkehr-zum-tc-neumuehl.html",
+   "teaser": "Die Duisburger Stadtmeisterschaften sorgen für ein nostalgisches Duell. Der Verein aus dem Duisburger Norden stellt sich neu auf.",
+   "bild": "https://img.sparknews.funkemedien.de/412863132/412863132_1786705817_v16_9_600.jpeg",
+   "datum": "2026-08-14T12:25:36.000Z",
+   "sortZeit": 1786638336000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
    "ereignis": null,
    "grund": "pfad"
   },
@@ -877,9 +986,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1199,9 +1306,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -2089,9 +2194,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Duisburg",
-   "auchIn": [
-    "RP Online Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -4099,9 +4202,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Rheurdt",
    "ortSicher": true,
    "orte": [
@@ -5811,32 +5912,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
-  },
-  {
-   "id": "sv-menzelen1925.de/tischtennis/tischtennis-schnuppertraining",
-   "titel": "Tischtennis – Schnuppertraining",
-   "url": "https://sv-menzelen1925.de/tischtennis/tischtennis-schnuppertraining/",
-   "teaser": "vom 24.08.26 bis 28.08.26, 11:00 Uhr bis 17:00 Uhr",
-   "bild": "",
-   "datum": "2026-07-15T12:51:13.000Z",
-   "sortZeit": 1784091073000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "SV Menzelen",
-   "quelleName": "SV Menzelen 1925",
-   "auchIn": [],
-   "ort": "Alpen",
-   "ortSicher": true,
-   "orte": [
-    "Alpen"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "SV Menzelen 1925"
-   ],
-   "sportart": "Tischtennis",
-   "ereignis": null,
-   "grund": "vereinsfeed"
   }
  ]
 }
