@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T20:46:21.748Z",
+ "aktualisiert": "2026-08-14T21:41:42.316Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 26
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -623,6 +623,32 @@
   }
  ],
  "artikel": [
+  {
+   "id": "funke:412866112",
+   "titel": "Scherpenberger Glanzstart, aber: Platzverweise und Skandal mit Flutlicht-Ausfall",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412866112/scherpenberger-glanzstart-aber-platzverweise-und-skandal-mit-flutlicht-ausfall.html",
+   "teaser": "Premiere in der Fußball-Oberliga: acht Tore und ein 30-minütiger Flutlichtausfall gegen den ETB. Wer hat in Asberg am Licht gedreht?",
+   "bild": "https://img.sparknews.funkemedien.de/412868655/412868655_1786740109_v16_9_600.jpeg",
+   "datum": "2026-08-14T21:00:05.000Z",
+   "sortZeit": 1786741205000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": false,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
   {
    "id": "funke:412863525",
    "titel": "Freude beim SV Schwafheim: So sieht der Fahrplan beim neuen Kunstrasen aus",
