@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T11:11:35.812Z",
+ "aktualisiert": "2026-08-14T11:57:31.129Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 26
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,32 @@
  ],
  "artikel": [
   {
+   "id": "funke:412862393",
+   "titel": "Achter Nezugang fix: GSC Moers setzt auf international erfahrenen Verteidiger",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412862393/achter-nezugang-fix-gsc-moers-setzt-auf-international-erfahrenen-verteidiger.html",
+   "teaser": "Beim Eishockey-Regionalligisten füllt sich so langsam der Kader. Neuzugang wurde im Nachwuchs der Düsseldorfer EG ausgebildet.",
+   "bild": "https://img.sparknews.funkemedien.de/412862728/412862728_1786704979_v16_9_600.jpeg",
+   "datum": "2026-08-14T11:28:13.000Z",
+   "sortZeit": 1786706893000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412860642",
    "titel": "Über acht Monate Pause: Erste Mannschaft des GSV Moers spielt wieder Fußball",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412860642/ueber-acht-monate-pause-erste-mannschaft-des-gsv-moers-spielt-wieder-fussball.html",
@@ -662,9 +688,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -690,9 +714,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
@@ -783,6 +805,91 @@
     "Moerser SC"
    ],
    "sportart": "Volleyball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412862479",
+   "titel": "VfB Homberg startet am Sonntag mit Verspätung in die Saison",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412862479/vfb-homberg-startet-am-sonntag-mit-verspaetung-in-die-saison.html",
+   "teaser": "Erst um 17 Uhr geht es am Sonntag im PCC-Stadion los. Dann aber soll es „volle Pulle“ für die drei Punkte geben. Einige Ausfälle drohen.",
+   "bild": "https://img.sparknews.funkemedien.de/412840864/412840864_1786529938_v16_9_600.jpeg",
+   "datum": "2026-08-14T11:49:39.000Z",
+   "sortZeit": 1786636179000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412863209",
+   "titel": "Rhein Fire: Zweimal Football und Sightseeing",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412863209/rhein-fire-zweimal-football-und-sightseeing.html",
+   "teaser": "Zwei für die Tabelle unbedeutende Spiele müssen die Duisburger Footballer bestreiten, ehe es in den Play-offs ernst wird.",
+   "bild": "https://img.sparknews.funkemedien.de/412559136/412559136_1786707501_v16_9_600.jpeg",
+   "datum": "2026-08-14T11:43:44.000Z",
+   "sortZeit": 1786635824000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Rhein Fire"
+   ],
+   "sportart": "American Football",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412861086",
+   "titel": "MSV Duisburg in Verl: Wichtige Infos zu Anreise, Tickets und TV-Übertragung",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412861086/msv-duisburg-in-verl-wichtige-infos-zu-anreise-tickets-und-tv-uebertragung.html",
+   "teaser": "Im Auswärtsspiel beim SC Verl hoffen die Meidericher auf den nächsten Sieg. Was die MSV-Anhänger bei der Reise nach Ostwestfalen beachten müssen.",
+   "bild": "https://img.sparknews.funkemedien.de/412861072/412861072_1786697954_v16_9_600.jpeg",
+   "datum": "2026-08-14T11:09:19.000Z",
+   "sortZeit": 1786633759000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   },
@@ -954,9 +1061,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
@@ -1122,9 +1227,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
