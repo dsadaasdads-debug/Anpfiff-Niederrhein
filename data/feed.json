@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T19:14:40.407Z",
+ "aktualisiert": "2026-08-14T19:57:34.134Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -834,6 +834,35 @@
    ],
    "zone": "umland",
    "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412868437",
+   "titel": "Statement von Rheinland: Wolzes Gocher beim Gastspiel in Hamborn chancenlos",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412868437/statement-von-rheinland-wolzes-gocher-beim-gastspiel-in-hamborn-chancenlos.html",
+   "teaser": "Der Aufsteiger geht im Ausweichquartier im Holtkamp als deutlicher Sieger vom Platz. Ex-MSV-Talent schnürt einen Dreierpack.",
+   "bild": "https://img.sparknews.funkemedien.de/412868455/412868455_1786736380_v16_9_600.jpeg",
+   "datum": "2026-08-14T19:47:20.000Z",
+   "sortZeit": 1786664840000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg",
+    "Sonsbeck"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
@@ -4612,9 +4641,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
