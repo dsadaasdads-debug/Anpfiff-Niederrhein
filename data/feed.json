@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T21:41:42.316Z",
+ "aktualisiert": "2026-08-14T22:41:46.363Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,8 +40,11 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "ok",
-   "eintraege": 10
+   "status": "fehler",
+   "fehler": "fetch failed",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-14T21:41:38.240Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "moerser-sc",
@@ -52,8 +55,11 @@
   {
    "id": "msv-moers",
    "name": "Meerbecker SV Moers 13/20",
-   "status": "ok",
-   "eintraege": 6
+   "status": "fehler",
+   "fehler": "fetch failed",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-14T21:41:38.995Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "nrz-lokalsport",
@@ -166,8 +172,11 @@
   {
    "id": "vfl-repelen",
    "name": "VfL Repelen 08",
-   "status": "ok",
-   "eintraege": 4
+   "status": "fehler",
+   "fehler": "fetch failed",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-14T21:41:38.373Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "viktoria-alpen",
@@ -1667,8 +1676,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
