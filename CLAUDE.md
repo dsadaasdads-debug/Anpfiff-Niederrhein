@@ -33,6 +33,11 @@ Sprachmodell und ohne API-Schlüssel.
   serverseitig gerendert und dadurch gut auslesbar
 
 ## Bekannte Fallstricke
+- **Beim Rebase niemals `git checkout --theirs data/` benutzen.** Während eines
+  Rebase meint `--theirs` den *eigenen* Commit, nicht den vom Server. Damit
+  überschreibt man die Daten, die die Workflows inzwischen geschrieben haben —
+  am 14.08.2026 sind so sieben Spieltags-Läufe eines ganzen Abends verlorengegangen.
+  Richtig ist `--ours` (der Serverstand) und danach das Skript neu laufen lassen.
 - Bei Feed-Prüfungen zählt nur das Datum der *Beiträge*, nie das des Kanals —
   Jimdo-Feeds setzen den Kanal-Zeitstempel bei jedem Abruf neu (wirkt frisch,
   ist es aber nicht; Beispiel SC Rheinkamp: letzter Beitrag von 2013)

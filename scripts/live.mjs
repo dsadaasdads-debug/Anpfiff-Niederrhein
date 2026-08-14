@@ -88,11 +88,12 @@ for (const gebiet of GEBIETE) {
     if (gesehen.has(p.id)) continue;
     gesehen.add(p.id);
 
-    let verlauf = { ereignisse: [], tore: p.tore, zuschauer: null, schiedsrichter: null, abschnitt: p.abschnitt, tickerAutor: null };
-    if (p.hatTicker || p.abschnitt !== 'PRE') {
-      try { verlauf = await fupa.spielverlauf(p.id); } catch { /* bleibt beim Grundgerüst */ }
-      await warte(PAUSE_MS);
-    }
+    // Der Einzelabruf lohnt sich immer: nur dort stehen die Mannschaftsnamen
+    // mit Zusatz („… II“), Schiedsrichter und Zuschauerzahl. Bei rund zehn
+    // Partien am Tag fällt der zusätzliche Abruf nicht ins Gewicht.
+    let verlauf = { ereignisse: [], tore: p.tore, zuschauer: null, schiedsrichter: null, abschnitt: p.abschnitt, tickerAutor: null, heim: null, gast: null };
+    try { verlauf = await fupa.spielverlauf(p.id); } catch { /* bleibt beim Grundgerüst */ }
+    await warte(PAUSE_MS);
 
     partien.push({
       quelle: 'FuPa',
@@ -104,8 +105,8 @@ for (const gebiet of GEBIETE) {
       wettbewerb: p.wettbewerb,
       anpfiff: p.anpfiff,
       zeit: p.anpfiff ? new Date(p.anpfiff).toTimeString().slice(0, 5) : null,
-      heim: p.heim,
-      gast: p.gast,
+      heim: verlauf.heim ?? p.heim,
+      gast: verlauf.gast ?? p.gast,
       tore: verlauf.tore ?? p.tore,
       ereignisse: verlauf.ereignisse,
       zuschauer: verlauf.zuschauer,
@@ -220,9 +221,23 @@ for (const p of partien) {
 partien.sort((a, b) => String(a.zeit).localeCompare(String(b.zeit)));
 
 mkdirSync(DATEN, { recursive: true });
+// Ein Spieltag ohne Partien überschreibt den vorigen nicht: sonst wäre die
+// Ansicht von Montag bis Freitag leer, statt die Endstände vom Wochenende zu
+// zeigen. Erst wenn wieder gespielt wird, rückt der neue Tag nach.
+if (partien.length === 0 && existsSync(ZIEL)) {
+  try {
+    const alt = JSON.parse(readFileSync(ZIEL, 'utf8'));
+    if ((alt.partien ?? []).length > 0) {
+      log('\nHeute spielt niemand – der letzte Spieltag bleibt stehen.');
+      process.exit(0);
+    }
+  } catch { /* kaputte Datei einfach ersetzen */ }
+}
+
 writeFileSync(ZIEL, JSON.stringify({
   aktualisiert: new Date().toISOString(),
   tag: heuteKurz,
+  datum: heuteISO,
   hinweisVerzoegerung: 'Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. '
     + 'Für die Minute bitte dem Link zur Quelle folgen.',
   hinweisNamen: 'Spielernamen stammen von FuPa, wo die Vereine selbst tickern – dort sind sie offen '

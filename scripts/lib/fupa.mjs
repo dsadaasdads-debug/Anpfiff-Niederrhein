@@ -116,6 +116,11 @@ export async function spielverlauf(id) {
     schiedsrichter: personName(m.referee) ?? m.refereeAlias ?? null,
     abschnitt: m.section ?? null,
     tickerAutor: m.tickerAuthor ? personName(m.tickerAuthor) : null,
+    // Nur hier steht die Mannschaftsbezeichnung mit Zusatz („… II“). In der
+    // Tagesliste heißen beide Mannschaften eines Vereins gleich, ein internes
+    // Testspiel sähe dort aus wie ein Spiel gegen sich selbst.
+    heim: m.homeTeamName ?? null,
+    gast: m.awayTeamName ?? null,
   };
 }
 

@@ -1089,11 +1089,28 @@
       return;
     }
 
+    // Wann war dieser Spieltag? Nach Mitternacht bleibt der letzte stehen,
+    // deshalb muss das Datum dranstehen statt eines pauschalen „heute“.
+    const heute = new Date();
+    const zz = (n) => String(n).padStart(2, '0');
+    const heuteKurz = `${zz(heute.getDate())}.${zz(heute.getMonth() + 1)}.`;
+    const istHeute = livedaten.tag === heuteKurz;
+
+    let wann = 'heute';
+    if (!istHeute) {
+      const d = livedaten.datum ? new Date(`${livedaten.datum}T12:00:00`) : null;
+      wann = d
+        ? new Intl.DateTimeFormat('de-DE', { weekday: 'long', day: 'numeric', month: 'long' }).format(d)
+        : `am ${livedaten.tag}`;
+    }
+
     const laufend = partien.filter((p) => p.laeuft && !p.abgeschlossen).length;
     const kopf = el('p', 'neuhinweis');
-    kopf.textContent = laufend === 0
-      ? `${partien.length} Partien heute`
-      : `${laufend} von ${partien.length} Partien laufen gerade`;
+    kopf.textContent = laufend > 0
+      ? `${laufend} von ${partien.length} Partien laufen gerade`
+      : istHeute
+        ? `${partien.length} Partien heute`
+        : `Letzter Spieltag: ${wann} · ${partien.length} Partien`;
     ziel.append(kopf);
 
     for (const p of partien) ziel.append(partieBauen(p));
@@ -1194,9 +1211,10 @@
       if (!antwort.ok) return;
       const frisch = await antwort.json();
 
-      const heute = new Date();
-      const heuteKurz = `${String(heute.getDate()).padStart(2, '0')}.${String(heute.getMonth() + 1).padStart(2, '0')}.`;
-      if (frisch.tag !== heuteKurz || (frisch.partien ?? []).length === 0) return;
+      // Der Reiter bleibt auch nach Mitternacht stehen: die Endstände vom
+      // Wochenende sind montags noch interessant. Ob es der heutige Tag ist,
+      // steht in der Ansicht selbst.
+      if ((frisch.partien ?? []).length === 0) return;
 
       livedaten = frisch;
       const reiter = $('ansicht').querySelector('[data-ansicht="spieltag"]');
