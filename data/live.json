@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T19:51:32.317Z",
+ "aktualisiert": "2026-08-14T20:33:28.819Z",
  "tag": "14.08.",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zu fussball.de folgen.",
  "hinweisTorschuetzen": "fussball.de gibt die Namen der Torschützen nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen, deshalb stehen hier Minute und Ereignisart, aber keine Namen.",
@@ -171,7 +171,7 @@
    ],
    "abgeschlossen": false,
    "laeuft": true,
-   "seitAnpfiffMin": 52
+   "seitAnpfiffMin": 93
   },
   {
    "url": "https://www.fussball.de/spiel/sv-scherpenberg-etb-sw-essen/-/spiel/031EE4OE7G000000VS5489BTVUS470OH",
@@ -185,11 +185,211 @@
    "hinweis": null,
    "heim": "SV Scherpenberg",
    "gast": "ETB SW Essen",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 5,
+    "gast": 3
+   },
+   "ereignisse": [
+    {
+     "minute": 4,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "gast"
+    },
+    {
+     "minute": 18,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "seite": "gast"
+    },
+    {
+     "minute": 20,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "gast"
+    },
+    {
+     "minute": 23,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "seite": "heim"
+    },
+    {
+     "minute": 24,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "seite": "gast"
+    },
+    {
+     "minute": 30,
+     "art": "red-card",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "seite": "gast"
+    },
+    {
+     "minute": 30,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "seite": "heim"
+    },
+    {
+     "minute": 33,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 40,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "heim"
+    },
+    {
+     "minute": 44,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "heim"
+    },
+    {
+     "minute": 54,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 56,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 56,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 59,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 64,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "gast"
+    },
+    {
+     "minute": 66,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "seite": "gast"
+    },
+    {
+     "minute": 70,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 74,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 84,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 85,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 86,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "heim"
+    },
+    {
+     "minute": 88,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "seite": "gast"
+    },
+    {
+     "minute": 88,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "seite": "gast"
+    },
+    {
+     "minute": 90,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "heim"
+    },
+    {
+     "minute": 90,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "heim"
+    },
+    {
+     "minute": 90,
+     "art": "yellow-red-card",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "seite": "gast"
+    },
+    {
+     "minute": 90,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "seite": "heim"
+    },
+    {
+     "minute": 90,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "seite": "heim"
+    }
+   ],
    "abgeschlossen": false,
    "laeuft": true,
-   "seitAnpfiffMin": 22
+   "seitAnpfiffMin": 63
   },
   {
    "url": "https://www.fussball.de/spiel/gsv-moers-ii-vfl-repelen/-/spiel/031JIMBRV8000000VS5489BUVVKNMR0J",
@@ -323,7 +523,7 @@
    ],
    "abgeschlossen": false,
    "laeuft": true,
-   "seitAnpfiffMin": 22
+   "seitAnpfiffMin": 63
   },
   {
    "url": "https://www.fussball.de/spiel/sc-rheinkamp-tv-kapellen/-/spiel/031B7NOED8000000VS5489BUVV628VP4",
@@ -340,8 +540,8 @@
    "tore": null,
    "ereignisse": [],
    "abgeschlossen": false,
-   "laeuft": false,
-   "seitAnpfiffMin": -9
+   "laeuft": true,
+   "seitAnpfiffMin": 33
   }
  ]
 }
