@@ -135,6 +135,12 @@ export async function tabelle(staffelId) {
     const zellen = [...zeile.matchAll(/<td(?![^>]*column-(?:icon|rank|club))[^>]*>([\s\S]*?)<\/td>/gi)]
       .map((z) => saubern(z[1]));
 
+    // Jede Zeile verlinkt ihre Mannschaft. Über diese Kennung erkennt die App
+    // die eigenen Vereine zuverlässig – ein Namensvergleich scheitert daran,
+    // dass die Tabelle "GSV Moers" schreibt, wo unsere Liste
+    // "Grafschafter SV 1910 Moers" führt.
+    const teamId = (zeile.match(/\/team-id\/([A-Z0-9]+)/i) ?? [])[1] ?? null;
+
     if (!Number.isFinite(platz) || !verein || zellen.length < 7) continue;
 
     const n = (i) => {
@@ -145,6 +151,7 @@ export async function tabelle(staffelId) {
     zeilen.push({
       platz,
       verein,
+      teamId,
       spiele: n(0),
       siege: n(1),
       unentschieden: n(2),

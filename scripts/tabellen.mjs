@@ -78,6 +78,7 @@ for (const verein of ziel) {
       ort: verein.ort,
       zone: verein.zone,
       mannschaft: eintrag.mannschaft,
+      teamId: eintrag.teamId,
       teamUrl: eintrag.teamUrl,
       liga: profil.liga,
       spielklasse: profil.spielklasse,

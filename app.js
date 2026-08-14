@@ -23,6 +23,7 @@
   let daten = null;
   let tabellendaten = null;         // wird erst beim ersten Wechsel geholt
   let ansicht = 'meldungen';        // 'meldungen' | 'tabellen'
+  let tabellenmodus = 'liga';       // 'liga' | 'verein'
   let auswahl = 'alle';             // 'alle' | 'favoriten' | Name einer Sportart
   let suchtext = '';
 
@@ -432,6 +433,120 @@
     return ul;
   }
 
+  /**
+   * Baut eine Ligatabelle. Verglichen wird über die Mannschaftskennung, nicht
+   * über den Namen: die Tabelle schreibt „GSV Moers“, wo unsere Vereinsliste
+   * „Grafschafter SV 1910 Moers“ führt.
+   * @param {Set<string>} heimisch      Kennungen aller Vereine aus der Region
+   * @param {Set<string>} hervorgehoben Kennungen der davon markierten
+   */
+  function ligatabelleBauen(zeilen, heimisch, hervorgehoben) {
+    const rahmen = el('div', 'tabellenrahmen');
+    const tabelle = el('table', 'liga');
+
+    const kopfzeile = el('tr');
+    for (const [beschriftung, titel] of [['#', 'Platz'], ['Mannschaft', 'Mannschaft'], ['Sp', 'Spiele'],
+      ['S', 'Siege'], ['U', 'Unentschieden'], ['N', 'Niederlagen'], ['Tore', 'Tore'], ['Diff', 'Tordifferenz'], ['Pkt', 'Punkte']]) {
+      const th = el('th', null, beschriftung);
+      th.scope = 'col';
+      th.title = titel;
+      kopfzeile.append(th);
+    }
+    const thead = el('thead');
+    thead.append(kopfzeile);
+    tabelle.append(thead);
+
+    const tbody = el('tbody');
+    for (const z of zeilen) {
+      const tr = el('tr');
+      if (z.teamId && hervorgehoben.has(z.teamId)) tr.className = 'eigen';
+      else if (z.teamId && heimisch.has(z.teamId)) tr.className = 'heimisch';
+      for (const wert of [`${z.platz}.`, z.verein, z.spiele, z.siege, z.unentschieden, z.niederlagen, z.tore, z.differenz, z.punkte]) {
+        tr.append(el('td', null, String(wert)));
+      }
+      tbody.append(tr);
+    }
+    tabelle.append(tbody);
+    rahmen.append(tabelle);
+    return rahmen;
+  }
+
+  /** Grobe Rangfolge der Spielklassen, damit die höchste Liga oben steht. */
+  function klassenrang(text) {
+    const t = String(text ?? '').toLowerCase();
+    if (t.includes('regionalliga')) return 0;
+    if (t.includes('oberliga')) return 1;
+    if (t.includes('landesliga')) return 2;
+    if (t.includes('bezirksliga')) return 3;
+    if (t.includes('kreisliga a') || /\bkl a\b/.test(t)) return 4;
+    if (t.includes('kreisliga b') || /\bkl b\b/.test(t)) return 5;
+    if (t.includes('kreisliga c') || /\bkl c\b/.test(t)) return 6;
+    return 7;
+  }
+
+  /** Eine Karte je Liga, mit allen heimischen Vereinen darin. */
+  function ligenZeichnen(ziel, mannschaften) {
+    const jeStaffel = new Map();
+    for (const m of mannschaften) {
+      if (!m.staffelId || !tabellendaten.staffeln?.[m.staffelId]?.zeilen?.length) continue;
+      if (!jeStaffel.has(m.staffelId)) jeStaffel.set(m.staffelId, []);
+      jeStaffel.get(m.staffelId).push(m);
+    }
+
+    if (jeStaffel.size === 0) {
+      ziel.append(el('p', 'leer', 'Für die gewählten Orte liegen keine Tabellen vor.'));
+      return;
+    }
+
+    const ligen = [...jeStaffel.entries()].map(([id, teams]) => {
+      const staffel = tabellendaten.staffeln[id];
+      const markiert = teams.some((t) => einstellungen.favoriten.includes(t.verein));
+      return { id, staffel, teams, markiert, rang: klassenrang(staffel.name ?? teams[0].spielklasse) };
+    }).sort((a, b) => (b.markiert - a.markiert) || (a.rang - b.rang)
+      || String(a.staffel.name).localeCompare(String(b.staffel.name), 'de'));
+
+    for (const liga of ligen) {
+      const karte = el('article', 'mannschaft');
+      karte.dataset.zone = liga.teams[0].zone;
+
+      const kopf = el('div', 'mannschaft-kopf');
+      kopf.append(el('h2', null, liga.staffel.name ?? 'Liga'));
+      kopf.append(el('div', 'liga-vereine', liga.teams.map((t) => t.verein).join(' · ')));
+
+      // Der beste heimische Platz als Kennzahl der Liga.
+      const beste = liga.teams.filter((t) => t.platz != null).sort((a, b) => a.platz - b.platz)[0];
+      if (beste) {
+        const stand = el('div', 'stand');
+        const kennzahl = (wert, bez) => {
+          const d = el('div');
+          d.append(el('span', 'wert', wert), el('span', 'bez', bez));
+          return d;
+        };
+        stand.append(kennzahl(`${beste.platz}.`, `bester Platz · ${beste.verein.split(' ').slice(0, 2).join(' ')}`));
+        stand.append(kennzahl(String(liga.staffel.zeilen.length), 'Mannschaften'));
+        kopf.append(stand);
+      }
+      karte.append(kopf);
+
+      const heimisch = new Set(liga.teams.map((t) => t.teamId).filter(Boolean));
+      const hervorgehoben = new Set(liga.teams
+        .filter((t) => einstellungen.favoriten.includes(t.verein))
+        .map((t) => t.teamId).filter(Boolean));
+      karte.append(ligatabelleBauen(liga.staffel.zeilen, heimisch, hervorgehoben));
+
+      const fuss = el('div', 'mannschaft-fuss');
+      fuss.append(el('span', null, `${liga.staffel.zeilen.length} Mannschaften`));
+      const a = el('a', null, 'Liga bei fussball.de');
+      a.href = `https://www.fussball.de/spieltag/-/staffel/${liga.id}`;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      fuss.append(a);
+      karte.append(fuss);
+
+      ziel.append(karte);
+    }
+  }
+
   function mannschaftBauen(m, staffel) {
     const karte = el('article', 'mannschaft');
     karte.dataset.zone = m.zone;
@@ -454,41 +569,15 @@
 
     if (staffel?.zeilen?.length) {
       const details = el('details');
+      details.open = true;   // Die Tabelle ist der Grund, warum man hier ist.
       details.append(el('summary', null, `Tabelle ${staffel.name ?? ''}`.trim()));
-
-      const rahmen = el('div', 'tabellenrahmen');
-      const tabelle = el('table', 'liga');
-
-      const kopfzeile = el('tr');
-      for (const [beschriftung, titel] of [['#', 'Platz'], ['Mannschaft', 'Mannschaft'], ['Sp', 'Spiele'],
-        ['S', 'Siege'], ['U', 'Unentschieden'], ['N', 'Niederlagen'], ['Tore', 'Tore'], ['Diff', 'Tordifferenz'], ['Pkt', 'Punkte']]) {
-        const th = el('th', null, beschriftung);
-        th.scope = 'col';
-        th.title = titel;
-        kopfzeile.append(th);
-      }
-      const thead = el('thead');
-      thead.append(kopfzeile);
-      tabelle.append(thead);
-
-      const tbody = el('tbody');
-      for (const z of staffel.zeilen) {
-        const tr = el('tr');
-        if (z.verein === m.verein) tr.className = 'eigen';
-        for (const wert of [`${z.platz}.`, z.verein, z.spiele, z.siege, z.unentschieden, z.niederlagen, z.tore, z.differenz, z.punkte]) {
-          tr.append(el('td', null, String(wert)));
-        }
-        tbody.append(tr);
-      }
-      tabelle.append(tbody);
-      rahmen.append(tabelle);
-      details.append(rahmen);
+      const eigen = new Set(m.teamId ? [m.teamId] : []);
+      details.append(ligatabelleBauen(staffel.zeilen, eigen, eigen));
       karte.append(details);
     }
 
     if (m.naechste?.length) {
       const details = el('details');
-      details.open = true;
       details.append(el('summary', null, 'Nächste Spiele'));
       details.append(spiellisteBauen(m.naechste, m.verein));
       karte.append(details);
@@ -525,18 +614,21 @@
     }
 
     const rang = { kern: 0, umland: 1, duisburg: 2 };
-    const liste = [...tabellendaten.mannschaften].sort((a, b) => {
-      const fa = einstellungen.favoriten.includes(a.verein) ? 0 : 1;
-      const fb = einstellungen.favoriten.includes(b.verein) ? 0 : 1;
-      return fa - fb || rang[a.zone] - rang[b.zone] || a.verein.localeCompare(b.verein, 'de');
-    }).filter((m) => !einstellungen.ausgeblendeteOrte.includes(m.ort));
+    const liste = [...tabellendaten.mannschaften]
+      .filter((m) => !einstellungen.ausgeblendeteOrte.includes(m.ort))
+      .sort((a, b) => {
+        const fa = einstellungen.favoriten.includes(a.verein) ? 0 : 1;
+        const fb = einstellungen.favoriten.includes(b.verein) ? 0 : 1;
+        return fa - fb || rang[a.zone] - rang[b.zone] || a.verein.localeCompare(b.verein, 'de');
+      });
 
     if (liste.length === 0) {
       ziel.append(el('p', 'leer', 'Keine Mannschaften vorhanden.'));
       return;
     }
 
-    for (const m of liste) ziel.append(mannschaftBauen(m, tabellendaten.staffeln?.[m.staffelId]));
+    if (tabellenmodus === 'liga') ligenZeichnen(ziel, liste);
+    else for (const m of liste) ziel.append(mannschaftBauen(m, tabellendaten.staffeln?.[m.staffelId]));
 
     const hinweis = el('p', 'fuss-klein');
     hinweis.style.marginTop = '1rem';
@@ -553,6 +645,7 @@
     const meldungen = neu === 'meldungen';
     $('liste').hidden = !meldungen;
     $('tabellen-ansicht').hidden = meldungen;
+    $('untersicht').hidden = meldungen;
     $('filter').hidden = !meldungen;
     $('knopf-suche').hidden = !meldungen;
     if (!meldungen) { $('suchzeile').hidden = true; $('leer').hidden = true; }
@@ -617,6 +710,17 @@
 
     for (const knopf of $('ansicht').querySelectorAll('button')) {
       knopf.addEventListener('click', () => ansichtWechseln(knopf.dataset.ansicht));
+    }
+
+    for (const knopf of $('tabellenmodus').querySelectorAll('button')) {
+      knopf.addEventListener('click', () => {
+        tabellenmodus = knopf.dataset.modus;
+        for (const b of $('tabellenmodus').querySelectorAll('button')) {
+          b.setAttribute('aria-checked', String(b.dataset.modus === tabellenmodus));
+        }
+        tabellenZeichnen();
+        scrollTo({ top: 0, behavior: 'smooth' });
+      });
     }
 
     $('knopf-einstellungen').addEventListener('click', () => blattOeffnen(true));

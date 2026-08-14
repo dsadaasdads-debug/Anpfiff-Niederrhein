@@ -279,6 +279,15 @@ main { max-width: 780px; margin: 0 auto; padding: 12px; }
 
 /* ── Tabellenansicht ───────────────────────────────────────────────────── */
 
+.untersicht { margin-bottom: 12px; }
+.untersicht .segment { max-width: 320px; }
+
+/* Eigene Vereine in einer Ligatabelle: der markierte Favorit kräftiger. */
+table.liga tr.heimisch { background: color-mix(in srgb, var(--akzent) 10%, transparent) !important; font-weight: 700; }
+table.liga tr.eigen { background: color-mix(in srgb, var(--akzent) 22%, transparent) !important; font-weight: 800; }
+
+.liga-vereine { font-size: .78rem; color: var(--akzent-stark); font-weight: 650; margin-top: .2rem; }
+
 .mannschaft {
   position: relative;
   background: var(--flaeche); border: 1px solid var(--linie);
