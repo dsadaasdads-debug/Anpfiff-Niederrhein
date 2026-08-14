@@ -62,19 +62,41 @@ if (existsSync(SPEICHER)) {
 // ── Feeds holen ─────────────────────────────────────────────────────────────
 const quellenStatus = [];
 
+// Wann war eine Quelle zuletzt erreichbar? Ohne diesen Vermerk verschwindet
+// ein Ausfall beim nächsten geglückten Lauf spurlos, und man sieht nie, ob
+// eine Quelle dauerhaft klemmt oder nur einmal gehustet hat.
+const quellenLage = speicher.get('__quellen') ?? {};
+
 const feedErgebnisse = await nacheinander(SOURCES, GLEICHZEITIG_FEEDS, async (quelle) => {
+  const lage = quellenLage[quelle.id] ?? {};
   try {
     const xml = await feedLaden(quelle.url);
     const eintraege = parseRss(xml);
+    quellenLage[quelle.id] = { letzterErfolg: new Date().toISOString(), ausfaelle: 0 };
     quellenStatus.push({ id: quelle.id, name: quelle.name, status: 'ok', eintraege: eintraege.length });
-    log(`  ${quelle.id.padEnd(20)} ${String(eintraege.length).padStart(3)} Einträge`);
+    log(`  ${quelle.id.padEnd(22)} ${String(eintraege.length).padStart(3)} Einträge`);
     return { quelle, eintraege };
   } catch (err) {
-    quellenStatus.push({ id: quelle.id, name: quelle.name, status: 'fehler', fehler: err.message, eintraege: 0 });
-    log(`  ${quelle.id.padEnd(20)} FEHLER ${err.message}`);
+    quellenLage[quelle.id] = {
+      letzterErfolg: lage.letzterErfolg ?? null,
+      ausfaelle: (lage.ausfaelle ?? 0) + 1,
+      letzterFehler: err.message,
+    };
+    quellenStatus.push({
+      id: quelle.id,
+      name: quelle.name,
+      status: 'fehler',
+      fehler: err.message,
+      eintraege: 0,
+      letzterErfolg: lage.letzterErfolg ?? null,
+      ausfaelleInFolge: quellenLage[quelle.id].ausfaelle,
+    });
+    log(`  ${quelle.id.padEnd(22)} FEHLER ${err.message}  (${quellenLage[quelle.id].ausfaelle}. Mal in Folge)`);
     return { quelle, eintraege: [] };
   }
 });
+
+speicher.set('__quellen', quellenLage);
 
 // ── Entdoppeln ──────────────────────────────────────────────────────────────
 // Die RP-Stadtfeeds überschneiden sich stark; derselbe Artikel steht oft in
@@ -257,7 +279,10 @@ writeFileSync(ZIEL, JSON.stringify(ausgabe, null, 1) + '\n', 'utf8');
 // Zwischenspeicher aufräumen und sichern.
 const speicherGrenze = jetzt - SPEICHER_TAGE * 86_400_000;
 const gekuerzt = Object.fromEntries(
-  [...speicher.entries()].filter(([, wert]) => (Date.parse(wert.geholt) || 0) >= speicherGrenze),
+  // Schlüssel mit doppeltem Unterstrich sind Verwaltungsdaten (etwa die
+  // Erreichbarkeitslage der Quellen) und dürfen nicht mit weggeräumt werden.
+  [...speicher.entries()].filter(([schluessel, wert]) => schluessel.startsWith('__')
+    || (Date.parse(wert.geholt) || 0) >= speicherGrenze),
 );
 writeFileSync(SPEICHER, JSON.stringify(gekuerzt) + '\n', 'utf8');
 

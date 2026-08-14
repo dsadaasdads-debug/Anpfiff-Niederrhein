@@ -28,6 +28,7 @@
   let einstellungen = laden();
   let daten = null;
   let tabellendaten = null;         // wird erst beim ersten Wechsel geholt
+  let livedaten = null;             // Spieltag; nur an Spieltagen vorhanden
   let ansicht = 'meldungen';        // 'meldungen' | 'tabellen'
   let tabellenmodus = 'liga';       // 'liga' | 'verein'
   let tabellensport = 'alle';       // 'alle' | Name einer Sportart
@@ -580,8 +581,16 @@
     for (const q of daten.quellen) {
       const zeile = el('div', 'quellenzeile');
       zeile.append(el('span', null, q.name));
-      zeile.append(el('span', q.status === 'ok' ? 'status-ok' : 'status-fehler',
-        q.status === 'ok' ? `${q.eintraege} Einträge` : `Fehler: ${q.fehler ?? 'unbekannt'}`));
+      if (q.status === 'ok') {
+        zeile.append(el('span', 'status-ok', `${q.eintraege} Einträge`));
+      } else {
+        // Bei einer Störung ist die wichtigere Angabe, wie lange sie schon
+        // anhält – ein einzelner Aussetzer ist harmlos, ein Dauerausfall nicht.
+        const seit = q.letzterErfolg ? zeitText(q.letzterErfolg) : 'noch nie';
+        const wieOft = q.ausfaelleInFolge > 1 ? ` · ${q.ausfaelleInFolge}× in Folge` : '';
+        zeile.append(el('span', 'status-fehler', `gestört, zuletzt ${seit}${wieOft}`));
+        zeile.title = q.fehler ?? '';
+      }
       behaelter.append(zeile);
     }
   }
@@ -769,6 +778,7 @@
     const kopf = el('div', 'mannschaft-kopf');
     kopf.append(el('h2', null, m.verein));
     kopf.append(el('div', 'mannschaft-liga', [m.liga, m.ort].filter(Boolean).join(' · ')));
+    if (m.hinweis) kopf.append(el('div', 'mannschaft-hinweis', m.hinweis));
 
     const stand = el('div', 'stand');
     const kennzahl = (wert, bez) => {
@@ -943,15 +953,21 @@
     }
 
     const meldungen = neu === 'meldungen';
+    const tabellen = neu === 'tabellen';
+
     $('liste').hidden = !meldungen;
-    $('tabellen-ansicht').hidden = meldungen;
-    $('untersicht').hidden = meldungen;
-    if (meldungen) { $('modushinweis').hidden = true; $('tabellensport').hidden = true; }
+    $('neuhinweis').hidden = !meldungen || $('neuhinweis').textContent === '';
+    $('tabellen-ansicht').hidden = !tabellen;
+    $('spieltag-ansicht').hidden = neu !== 'spieltag';
+    $('untersicht').hidden = !tabellen;
+    if (!tabellen) { $('modushinweis').hidden = true; $('tabellensport').hidden = true; }
     $('filter').hidden = !meldungen;
     $('knopf-suche').hidden = !meldungen;
     if (!meldungen) { $('suchzeile').hidden = true; $('leer').hidden = true; }
 
     if (meldungen) { zeichnen(); return; }
+
+    if (neu === 'spieltag') { spieltagZeichnen(); return; }
 
     tabellenZeichnen();
     if (tabellendaten === null) {
@@ -967,6 +983,107 @@
         return;
       }
       tabellenZeichnen();
+    }
+  }
+
+  // ── Spieltag ─────────────────────────────────────────────────────────────
+
+  /** Geschätzte Spielminute aus dem Anpfiff, mit Pause und Deckelung. */
+  function spielminute(partie) {
+    if (!partie.anpfiff) return null;
+    const seit = Math.floor((Date.now() - Date.parse(partie.anpfiff)) / 60000);
+    if (seit < 0) return null;
+    if (seit <= 45) return seit;
+    if (seit <= 60) return 'Halbzeit';      // 15 Minuten Pause
+    return Math.min(seit - 15, 90 + 5);
+  }
+
+  function partieBauen(p) {
+    const karte = el('article', 'mannschaft');
+    karte.dataset.zone = p.zone ?? 'kern';
+
+    const kopf = el('div', 'mannschaft-kopf');
+
+    const kopfzeile = el('div', 'partie-kopf');
+    kopfzeile.append(el('span', 'partie-zeit', p.zeit ?? ''));
+    if (p.laeuft && !p.abgeschlossen) {
+      const min = spielminute(p);
+      const marke = el('span', 'live-marke');
+      marke.append(el('span', 'live-punkt'), document.createTextNode(
+        typeof min === 'number' ? `${min}.` : (min ?? 'läuft')));
+      kopfzeile.append(marke);
+    } else if (p.abgeschlossen) {
+      kopfzeile.append(el('span', 'marke-etikett', 'Endstand'));
+    }
+    if (p.hinweis) kopfzeile.append(el('span', 'marke-etikett schloss', p.hinweis));
+    kopf.append(kopfzeile);
+
+    const paarung = el('div', 'partie-paarung');
+    paarung.append(el('span', 'partie-team', p.heim));
+    paarung.append(el('span', 'partie-stand', p.tore ? `${p.tore.heim} : ${p.tore.gast}` : '–:–'));
+    paarung.append(el('span', 'partie-team rechts', p.gast));
+    kopf.append(paarung);
+
+    kopf.append(el('div', 'mannschaft-liga', [p.wettbewerb, p.liga].filter(Boolean).join(' · ')));
+    karte.append(kopf);
+
+    if (p.ereignisse?.length) {
+      const details = el('details');
+      details.open = Boolean(p.laeuft);
+      details.append(el('summary', null, `Spielverlauf · ${p.ereignisse.length} Ereignisse`));
+      const ul = el('ul', 'spielliste');
+      for (const e of p.ereignisse) {
+        const li = el('li');
+        li.append(el('span', 'wann', `${e.minute}.`));
+        const text = el('span', 'paarung');
+        text.append(document.createTextNode(`${e.zeichen} ${e.name} `));
+        text.append(el('span', 'eigen', e.seite === 'heim' ? p.heim : p.gast));
+        li.append(text);
+        ul.append(li);
+      }
+      details.append(ul);
+      karte.append(details);
+    }
+
+    const fuss = el('div', 'mannschaft-fuss');
+    fuss.append(el('span', null, p.verein ?? ''));
+    if (p.url) {
+      const a = el('a', null, 'Spiel bei fussball.de');
+      a.href = p.url;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      fuss.append(a);
+    }
+    karte.append(fuss);
+    return karte;
+  }
+
+  function spieltagZeichnen() {
+    const ziel = $('spieltag-ansicht');
+    ziel.replaceChildren();
+
+    if (!livedaten) { ziel.append(el('p', 'leer', 'Spieltag wird geladen …')); return; }
+
+    const partien = livedaten.partien ?? [];
+    if (partien.length === 0) {
+      ziel.append(el('p', 'leer', 'Heute spielt keine deiner Mannschaften.'));
+      return;
+    }
+
+    const laufend = partien.filter((p) => p.laeuft && !p.abgeschlossen).length;
+    const kopf = el('p', 'neuhinweis');
+    kopf.textContent = laufend === 0
+      ? `${partien.length} Partien heute`
+      : `${laufend} von ${partien.length} Partien laufen gerade`;
+    ziel.append(kopf);
+
+    for (const p of partien) ziel.append(partieBauen(p));
+
+    for (const text of [livedaten.hinweisVerzoegerung, livedaten.hinweisTorschuetzen]) {
+      if (!text) continue;
+      const note = el('p', 'fuss-klein', text);
+      note.style.marginTop = '.8rem';
+      ziel.append(note);
     }
   }
 
@@ -1009,6 +1126,7 @@
 
       daten = frisch;
       zuletztGeholt = Date.now();
+      spieltagHolen();   // an Spieltagen gleich mitziehen
 
       // Vermerke zu Meldungen, die aus dem 30-Tage-Fenster gefallen sind,
       // wegwerfen – sonst wächst die Liste endlos.
@@ -1043,6 +1161,35 @@
       $('leer').hidden = false;
       $('leer').textContent = 'Die Meldungen konnten nicht geladen werden. Bist du offline?';
       return false;
+    }
+  }
+
+  /**
+   * Holt den Spieltag und blendet den Reiter nur ein, wenn heute wirklich
+   * gespielt wird. data/live.json bleibt zwischen Spieltagen stehen – deshalb
+   * wird das Datum darin gegen heute geprüft.
+   */
+  async function spieltagHolen() {
+    try {
+      const antwort = await fetch('data/live.json', { cache: 'no-cache' });
+      if (!antwort.ok) return;
+      const frisch = await antwort.json();
+
+      const heute = new Date();
+      const heuteKurz = `${String(heute.getDate()).padStart(2, '0')}.${String(heute.getMonth() + 1).padStart(2, '0')}.`;
+      if (frisch.tag !== heuteKurz || (frisch.partien ?? []).length === 0) return;
+
+      livedaten = frisch;
+      const reiter = $('ansicht').querySelector('[data-ansicht="spieltag"]');
+      reiter.hidden = false;
+      const laufend = frisch.partien.filter((p) => p.laeuft && !p.abgeschlossen).length;
+      reiter.replaceChildren(
+        ...(laufend > 0 ? [el('span', 'live-punkt')] : []),
+        document.createTextNode(laufend > 0 ? `Spieltag ${laufend}` : 'Spieltag'),
+      );
+      if (ansicht === 'spieltag') spieltagZeichnen();
+    } catch {
+      /* Kein Spieltag hinterlegt – der Reiter bleibt einfach aus. */
     }
   }
 

@@ -36,34 +36,65 @@ function meta(html, schluessel) {
 }
 
 /**
+ * Holt eine Adresse und versucht es bei vorübergehenden Störungen erneut.
+ *
+ * Nötig, weil ein einzelner Netzhänger auf dem GitHub-Runner sonst eine Quelle
+ * für eine ganze Stunde stillschweigend ausfallen lässt. Wiederholt wird nur
+ * bei Zeitüberschreitungen, Verbindungsabbrüchen und den Serverfehlern, die
+ * erfahrungsgemäß von selbst vergehen – nicht bei 404 oder 403.
+ */
+async function holeMitWiederholung(url, { kopf, timeoutMs, versuche = 3 }) {
+  let letzterFehler = null;
+
+  for (let versuch = 1; versuch <= versuche; versuch++) {
+    try {
+      const res = await fetch(url, {
+        headers: kopf,
+        signal: AbortSignal.timeout(timeoutMs),
+        redirect: 'follow',
+      });
+
+      // Dauerhafte Ablehnungen nicht wiederholen – das ändert sich nicht.
+      if (!res.ok && ![408, 429, 500, 502, 503, 504].includes(res.status)) {
+        return { res, fehler: `HTTP ${res.status}` };
+      }
+      if (res.ok) return { res, fehler: null };
+      letzterFehler = `HTTP ${res.status}`;
+    } catch (err) {
+      letzterFehler = err.name === 'TimeoutError' ? 'Zeitüberschreitung' : err.message;
+    }
+
+    if (versuch < versuche) {
+      // 1s, dann 3s – lang genug für einen Aussetzer, kurz genug für den Lauf.
+      await new Promise((r) => setTimeout(r, versuch * 2000 - 1000));
+    }
+  }
+  return { res: null, fehler: letzterFehler };
+}
+
+/**
  * @returns {Promise<{teaser:string, bild:string, paywall:boolean|null, fehler:string|null}>}
  */
-export async function artikelDetails(url, { timeoutMs = 15000 } = {}) {
-  const abbruch = AbortSignal.timeout(timeoutMs);
-  try {
-    const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: abbruch, redirect: 'follow' });
-    if (!res.ok) return { teaser: '', bild: '', paywall: null, fehler: `HTTP ${res.status}` };
-    const html = await res.text();
+export async function artikelDetails(url, { timeoutMs = 20000 } = {}) {
+  const { res, fehler } = await holeMitWiederholung(url, { kopf: { 'User-Agent': UA }, timeoutMs });
+  if (!res || fehler) return { teaser: '', bild: '', paywall: null, fehler: fehler ?? 'unbekannt' };
 
-    return {
-      teaser: meta(html, 'og:description') || meta(html, 'description'),
-      bild: meta(html, 'og:image'),
-      paywall: paywallErkennen(html),
-      fehler: null,
-    };
-  } catch (err) {
-    return { teaser: '', bild: '', paywall: null, fehler: err.name === 'TimeoutError' ? 'Zeitüberschreitung' : err.message };
-  }
+  const html = await res.text();
+  return {
+    teaser: meta(html, 'og:description') || meta(html, 'description'),
+    bild: meta(html, 'og:image'),
+    paywall: paywallErkennen(html),
+    fehler: null,
+  };
 }
 
 /** Holt einen Feed als Text. */
-export async function feedLaden(url, { timeoutMs = 20000 } = {}) {
-  const res = await fetch(url, {
-    headers: { 'User-Agent': UA, Accept: 'application/rss+xml, application/xml, text/xml, */*' },
-    signal: AbortSignal.timeout(timeoutMs),
-    redirect: 'follow',
+export async function feedLaden(url, { timeoutMs = 25000 } = {}) {
+  const { res, fehler } = await holeMitWiederholung(url, {
+    kopf: { 'User-Agent': UA, Accept: 'application/rss+xml, application/xml, text/xml, */*' },
+    timeoutMs,
   });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  if (!res || fehler) throw new Error(fehler ?? 'unbekannt');
   return res.text();
 }
 

@@ -28,6 +28,16 @@ const IMMER_DABEI = new Set();
 const ZUORDNUNG_HAELT_TAGE = 7;
 const PAUSE_MS = 700;
 
+/**
+ * Zusätzliche Mannschaften über die erste Herrenelf hinaus – namentlich
+ * gewünscht, nicht automatisch ermittelt. Hier trägt man ein, wo jemand
+ * persönlich dranhängt.
+ */
+const ZUSATZMANNSCHAFTEN = [
+  // Ausdrücklicher Wunsch: der Bruder des Nutzers spielt dort.
+  { verein: '1. FC Lintfort', muster: /^A-Junioren\b/i, bezeichnung: 'A-Jugend' },
+];
+
 // ── Handball ────────────────────────────────────────────────────────────────
 // Die Spielklassen für unser Gebiet liegen bei Handball Nordrhein in den
 // Kreisen Wesel und Rhein-Ruhr; Krefeld-Grenzland grenzt an und nimmt
@@ -79,6 +89,16 @@ for (const verein of ziel) {
       const herren = ersteHerren(alle);
       if (!herren) { log(`—  ${verein.name.padEnd(32)} keine Herrenmannschaft gefunden`); continue; }
       eintrag = { teamId: herren.teamId, teamUrl: herren.url, mannschaft: herren.name, geprueft: new Date().toISOString() };
+
+      // Namentlich gewünschte Zusatzmannschaften gleich mit ablegen.
+      eintrag.zusatz = ZUSATZMANNSCHAFTEN
+        .filter((z) => z.verein === verein.name)
+        .map((z) => {
+          const treffer = alle.find((t) => z.muster.test(t.name));
+          return treffer ? { teamId: treffer.teamId, teamUrl: treffer.url, mannschaft: treffer.name, bezeichnung: z.bezeichnung } : null;
+        })
+        .filter(Boolean);
+
       zuordnung[verein.name] = eintrag;
       await warte(PAUSE_MS);
     }
@@ -116,6 +136,47 @@ for (const verein of ziel) {
 
     const tab = staffeln.get(profil.staffelId);
     log(`✔  ${verein.name.padEnd(32)} ${String(profil.liga ?? '—').padEnd(24)} Platz ${profil.platz ?? '—'}, ${naechste.length} Spiele, Tabelle ${tab ? tab.zeilen.length : 0} Zeilen`);
+
+    // ── Namentlich gewünschte Zusatzmannschaften ──
+    for (const z of eintrag.zusatz ?? []) {
+      try {
+        const zProfil = await mannschaftsprofil(z.teamUrl);
+        await warte(PAUSE_MS);
+        if (zProfil.staffelId && !staffeln.has(zProfil.staffelId)) {
+          staffeln.set(zProfil.staffelId, { name: zProfil.liga, sportart: 'Fußball', zeilen: await tabelle(zProfil.staffelId) });
+          await warte(PAUSE_MS);
+        }
+        const zNaechste = await spiele(z.teamId, 'next');
+        await warte(PAUSE_MS);
+
+        mannschaftsliste.push({
+          verein: `${verein.name} ${z.bezeichnung}`,
+          heimatverein: verein.name,
+          ort: verein.ort,
+          zone: verein.zone,
+          sportart: 'Fußball',
+          mannschaft: z.mannschaft,
+          teamId: z.teamId,
+          teamUrl: z.teamUrl,
+          liga: zProfil.liga,
+          spielklasse: zProfil.spielklasse,
+          platz: zProfil.platz,
+          punkte: zProfil.punkte,
+          torverhaeltnis: zProfil.torverhaeltnis,
+          staffelId: zProfil.staffelId,
+          naechste: zNaechste.slice(0, 5),
+          letzte: [],
+          // Jugendligen werden erst im Spätsommer über Qualifikationsrunden
+          // eingeteilt. Bis dahin gibt es nur Freundschaftsspiele und keine
+          // Tabelle – das soll die App sagen, statt eine leere Karte zu zeigen.
+          hinweis: zProfil.liga ? null : 'Liga für diese Saison noch nicht zugeteilt — bis dahin nur Freundschaftsspiele.',
+        });
+        log(`   +  ${(verein.name + ' ' + z.bezeichnung).padEnd(29)} ${String(zProfil.liga ?? '—').padEnd(24)} Platz ${zProfil.platz ?? '—'}`);
+      } catch (err) {
+        fehler.push({ verein: `${verein.name} ${z.bezeichnung}`, fehler: err.message });
+        log(`   ✗  ${verein.name} ${z.bezeichnung}: ${err.message.slice(0, 50)}`);
+      }
+    }
   } catch (err) {
     fehler.push({ verein: verein.name, fehler: err.message });
     log(`✗  ${verein.name.padEnd(32)} ${err.message.slice(0, 60)}`);

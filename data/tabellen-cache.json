@@ -3,175 +3,211 @@
   "teamId": "011MI9O6GK000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/1-fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/011MI9O6GK000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - 1. FC Lintfort",
-  "geprueft": "2026-08-13T17:54:00.217Z"
+  "geprueft": "2026-08-14T15:10:21.657Z",
+  "zusatz": [
+   {
+    "teamId": "023R4O6F1G000000VS548985VT5V9K59",
+    "teamUrl": "https://www.fussball.de/mannschaft/1fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/023R4O6F1G000000VS548985VT5V9K59",
+    "mannschaft": "A-Junioren - 1.FC Lintfort",
+    "bezeichnung": "A-Jugend"
+   }
+  ]
  },
  "SV Alemannia Kamp": {
   "teamId": "011MIA986S000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sv-alemannia-kamp-sv-alemannia-kamp-niederrhein/-/saison/2627/team-id/011MIA986S000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV Alemannia Kamp",
-  "geprueft": "2026-08-13T17:54:03.934Z"
+  "geprueft": "2026-08-14T15:10:27.760Z",
+  "zusatz": []
  },
  "FC Mattheck Moers": {
   "teamId": "02TMLSO984000000VS5489BSVTNMVP4D",
   "teamUrl": "https://www.fussball.de/mannschaft/fc-mattheck-moers-fc-mattheck-moers-niederrhein/-/saison/2627/team-id/02TMLSO984000000VS5489BSVTNMVP4D",
   "mannschaft": "Herren - FC Mattheck Moers",
-  "geprueft": "2026-08-13T17:54:08.137Z"
+  "geprueft": "2026-08-14T15:10:31.636Z",
+  "zusatz": []
  },
  "FC Moers-Meerfeld 1980": {
   "teamId": "011MIEUGA0000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/fc-moers-meerfeld-fc-moers-meerfeld-1980-niederrhein/-/saison/2627/team-id/011MIEUGA0000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - FC Moers-Meerfeld",
-  "geprueft": "2026-08-13T17:54:11.122Z"
+  "geprueft": "2026-08-14T15:10:35.072Z",
+  "zusatz": []
  },
  "FC Rot-Weiß Moers 1926": {
   "teamId": "011MIATPVO000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/fc-rot-weiss-moers-fc-rot-weiss-moers-1926-niederrhein/-/saison/2627/team-id/011MIATPVO000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - FC Rot-Weiß Moers",
-  "geprueft": "2026-08-13T17:54:14.399Z"
+  "geprueft": "2026-08-14T15:10:38.497Z",
+  "zusatz": []
  },
  "Grafschafter SV 1910 Moers": {
   "teamId": "011MID3SSK000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/gsv-moers-grafschafter-sv-1910-moers-niederrhein/-/saison/2627/team-id/011MID3SSK000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - GSV Moers",
-  "geprueft": "2026-08-13T17:54:17.451Z"
+  "geprueft": "2026-08-14T15:10:41.511Z",
+  "zusatz": []
  },
  "Meerbecker SV Moers 13/20": {
   "teamId": "011MIA3JMS000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/msv-moers-meerbecker-sv-moers-13-20-niederrhein/-/saison/2627/team-id/011MIA3JMS000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - MSV Moers",
-  "geprueft": "2026-08-13T17:54:21.507Z"
+  "geprueft": "2026-08-14T15:10:45.866Z",
+  "zusatz": []
  },
  "SC Rheinkamp": {
   "teamId": "011MIDP8N4000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sc-rheinkamp-sc-rheinkamp-niederrhein/-/saison/2627/team-id/011MIDP8N4000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SC Rheinkamp",
-  "geprueft": "2026-08-13T17:54:25.257Z"
+  "geprueft": "2026-08-14T15:10:49.844Z",
+  "zusatz": []
  },
  "SV Scherpenberg 1921": {
   "teamId": "011MIB5RU0000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sv-scherpenberg-sv-scherpenberg-1921-niederrhein/-/saison/2627/team-id/011MIB5RU0000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV Scherpenberg",
-  "geprueft": "2026-08-13T17:54:28.991Z"
+  "geprueft": "2026-08-14T15:10:53.818Z",
+  "zusatz": []
  },
  "SV Schwafheim 1932": {
   "teamId": "011MIF5N78000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sv-schwafheim-sv-schwafheim-1932-niederrhein/-/saison/2627/team-id/011MIF5N78000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV Schwafheim",
-  "geprueft": "2026-08-13T17:54:32.712Z"
+  "geprueft": "2026-08-14T15:10:57.817Z",
+  "zusatz": []
  },
  "TV Asberg 1897": {
   "teamId": "011MIC29SO000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/tv-asberg-i-tv-asberg-1897-niederrhein/-/saison/2627/team-id/011MIC29SO000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - TV Asberg I",
-  "geprueft": "2026-08-13T17:54:36.207Z"
+  "geprueft": "2026-08-14T15:11:00.900Z",
+  "zusatz": []
  },
  "TV Kapellen": {
   "teamId": "01HIS24VFS000000VV0AG80NVT6JKAPB",
   "teamUrl": "https://www.fussball.de/mannschaft/tv-kapellen-tv-kapellen-niederrhein/-/saison/2627/team-id/01HIS24VFS000000VV0AG80NVT6JKAPB",
   "mannschaft": "Herren - TV Kapellen",
-  "geprueft": "2026-08-13T17:54:39.171Z"
+  "geprueft": "2026-08-14T15:11:04.304Z",
+  "zusatz": []
  },
  "VFL Repelen 08": {
   "teamId": "011MIB78VG000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/vfl-repelen-vfl-repelen-08-niederrhein/-/saison/2627/team-id/011MIB78VG000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - VfL Repelen",
-  "geprueft": "2026-08-13T17:54:42.164Z"
+  "geprueft": "2026-08-14T15:11:07.769Z",
+  "zusatz": []
  },
  "FC Neukirchen-Vluyn": {
   "teamId": "023Q5785LS000000VS548985VT5V9K59",
   "teamUrl": "https://www.fussball.de/mannschaft/fc-neukirchen-vluyn-fc-neukirchen-vluyn-niederrhein/-/saison/2627/team-id/023Q5785LS000000VS548985VT5V9K59",
   "mannschaft": "Herren - FC Neukirchen-Vluyn",
-  "geprueft": "2026-08-13T17:54:45.128Z"
+  "geprueft": "2026-08-14T15:11:10.799Z",
+  "zusatz": []
  },
  "SUS Rayen 1945": {
   "teamId": "011MIA98AS000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sus-rayen-sus-rayen-1945-niederrhein/-/saison/2627/team-id/011MIA98AS000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SuS Rayen",
-  "geprueft": "2026-08-13T17:54:48.552Z"
- },
- "SV Budberg 1946": {
-  "teamId": "011MIEFDHS000000VTVG0001VTR8C1K7",
-  "teamUrl": "https://www.fussball.de/mannschaft/sv-budberg-sv-budberg-1946-niederrhein/-/saison/2627/team-id/011MIEFDHS000000VTVG0001VTR8C1K7",
-  "mannschaft": "Herren - SV Budberg",
-  "geprueft": "2026-08-13T17:54:51.552Z"
- },
- "TUS Xanten 05/22": {
-  "teamId": "011MIE0NIG000000VTVG0001VTR8C1K7",
-  "teamUrl": "https://www.fussball.de/mannschaft/tus-xanten-tus-xanten-05-22-niederrhein/-/saison/2627/team-id/011MIE0NIG000000VTVG0001VTR8C1K7",
-  "mannschaft": "Herren - TUS Xanten",
-  "geprueft": "2026-08-13T17:54:54.509Z"
+  "geprueft": "2026-08-14T15:11:14.075Z",
+  "zusatz": []
  },
  "FC Viktoria Alpen 1911": {
   "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/fc-viktoria-alpen-fc-viktoria-alpen-1911-niederrhein/-/saison/2627/team-id/011MIAIU2S000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - FC Viktoria Alpen",
-  "geprueft": "2026-08-14T08:28:03.595Z"
+  "geprueft": "2026-08-14T15:11:17.319Z",
+  "zusatz": []
  },
  "SV Borussia Veen 1920": {
   "teamId": "011MIBNBS0000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sv-borussia-veen-1920-sv-borussia-veen-1920-niederrhein/-/saison/2627/team-id/011MIBNBS0000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV Borussia Veen 1920",
-  "geprueft": "2026-08-14T08:28:06.853Z"
+  "geprueft": "2026-08-14T15:11:20.342Z",
+  "zusatz": []
  },
  "SV Menzelen 1925": {
   "teamId": "011MIEMJS8000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sv-menzelen-sv-menzelen-1925-niederrhein/-/saison/2627/team-id/011MIEMJS8000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV Menzelen",
-  "geprueft": "2026-08-14T08:28:11.217Z"
+  "geprueft": "2026-08-14T15:11:24.542Z",
+  "zusatz": []
  },
  "SV Issum 1930": {
   "teamId": "011MIB5RB8000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sv-issum-sv-issum-1930-niederrhein/-/saison/2627/team-id/011MIB5RB8000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV Issum",
-  "geprueft": "2026-08-14T08:28:14.596Z"
+  "geprueft": "2026-08-14T15:11:28.406Z",
+  "zusatz": []
  },
  "SV Sevelen 1919": {
   "teamId": "011MIB5PGO000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sv-19-sevelen-sv-sevelen-1919-niederrhein/-/saison/2627/team-id/011MIB5PGO000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV 19 Sevelen",
-  "geprueft": "2026-08-14T08:28:18.663Z"
+  "geprueft": "2026-08-14T15:11:32.235Z",
+  "zusatz": []
  },
  "Concordia Rheinberg": {
   "teamId": "02EK6V8JKS000000VS5489B1VV8GJNNG",
   "teamUrl": "https://www.fussball.de/mannschaft/concordia-rheinberg-concordia-rheinberg-niederrhein/-/saison/2627/team-id/02EK6V8JKS000000VS5489B1VV8GJNNG",
   "mannschaft": "Herren - Concordia Rheinberg",
-  "geprueft": "2026-08-14T08:28:22.739Z"
+  "geprueft": "2026-08-14T15:11:36.455Z",
+  "zusatz": []
+ },
+ "SV Budberg 1946": {
+  "teamId": "011MIEFDHS000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/sv-budberg-sv-budberg-1946-niederrhein/-/saison/2627/team-id/011MIEFDHS000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - SV Budberg",
+  "geprueft": "2026-08-14T15:11:40.210Z",
+  "zusatz": []
  },
  "SV Millingen 1928": {
   "teamId": "011MIB2M18000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sv-millingen-sv-millingen-1928-niederrhein/-/saison/2627/team-id/011MIB2M18000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV Millingen",
-  "geprueft": "2026-08-14T08:28:29.062Z"
+  "geprueft": "2026-08-14T15:11:43.876Z",
+  "zusatz": []
  },
  "SV Orsoy 1919": {
   "teamId": "011MIA98AC000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sv-orsoy-sv-orsoy-1919-niederrhein/-/saison/2627/team-id/011MIA98AC000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV Orsoy",
-  "geprueft": "2026-08-14T08:28:32.397Z"
+  "geprueft": "2026-08-14T15:11:47.000Z",
+  "zusatz": []
  },
  "TuS Borth 71": {
   "teamId": "011MIAIST4000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/tus-borth-tus-borth-71-niederrhein/-/saison/2627/team-id/011MIAIST4000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - TuS Borth",
-  "geprueft": "2026-08-14T08:28:36.477Z"
+  "geprueft": "2026-08-14T15:11:51.170Z",
+  "zusatz": []
  },
  "SpVgg. Rheurdt-Schaephuysen": {
   "teamId": "011MIEFG1O000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/spvgg-rheurdt-schaephuysen-spvgg-rheurdt-schaephuysen-niederrhein/-/saison/2627/team-id/011MIEFG1O000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SpVgg. Rheurdt-Schaephuysen",
-  "geprueft": "2026-08-14T08:28:39.841Z"
+  "geprueft": "2026-08-14T15:11:54.676Z",
+  "zusatz": []
  },
  "SSV Rheintreu Lüttingen": {
   "teamId": "011MIAE4R0000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/ssv-rheintreu-luettingen-ssv-rheintreu-luettingen-niederrhein/-/saison/2627/team-id/011MIAE4R0000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SSV Rheintreu Lüttingen",
-  "geprueft": "2026-08-14T08:28:43.476Z"
+  "geprueft": "2026-08-14T15:11:58.226Z",
+  "zusatz": []
  },
  "SV Vynen-Marienbaum 1997": {
   "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
   "teamUrl": "https://www.fussball.de/mannschaft/sv-vynen-marienbaum-sv-vynen-marienbaum-1997-niederrhein/-/saison/2627/team-id/011MIANO4S000000VTVG0001VTR8C1K7",
   "mannschaft": "Herren - SV Vynen-Marienbaum",
-  "geprueft": "2026-08-14T08:28:47.018Z"
+  "geprueft": "2026-08-14T15:12:01.730Z",
+  "zusatz": []
+ },
+ "TUS Xanten 05/22": {
+  "teamId": "011MIE0NIG000000VTVG0001VTR8C1K7",
+  "teamUrl": "https://www.fussball.de/mannschaft/tus-xanten-tus-xanten-05-22-niederrhein/-/saison/2627/team-id/011MIE0NIG000000VTVG0001VTR8C1K7",
+  "mannschaft": "Herren - TUS Xanten",
+  "geprueft": "2026-08-14T15:12:04.948Z",
+  "zusatz": []
  },
  "__handball": {
   "ligen": [
@@ -205,6 +241,6 @@
    }
   ],
   "saison": "26/27",
-  "geprueft": "2026-08-14T09:04:39.899Z"
+  "geprueft": "2026-08-14T15:16:08.163Z"
  }
 }

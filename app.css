@@ -358,6 +358,42 @@ table.liga tr.eigen { background: color-mix(in srgb, var(--akzent) 22%, transpar
 
 .liga-vereine { font-size: .78rem; color: var(--akzent-stark); font-weight: 650; margin-top: .2rem; }
 .sportmarke { display: inline-block; margin: .25rem 0 .1rem; }
+
+/* ── Spieltag ──────────────────────────────────────────────────────────── */
+
+.partie-kopf { display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; margin-bottom: .45rem; }
+.partie-zeit {
+  font-size: .78rem; font-weight: 750; color: var(--schrift-leise);
+  font-variant-numeric: tabular-nums;
+}
+
+.live-marke {
+  display: inline-flex; align-items: center; gap: .32rem;
+  padding: .12rem .45rem; border-radius: 5px;
+  background: color-mix(in srgb, var(--akzent) 20%, transparent);
+  color: var(--akzent-stark);
+  font-size: .68rem; font-weight: 800; letter-spacing: .04em;
+  font-variant-numeric: tabular-nums;
+}
+
+.live-punkt {
+  display: inline-block; width: .45rem; height: .45rem; flex: none;
+  border-radius: 50%; background: var(--akzent);
+  animation: pulsieren 1.8s ease-in-out infinite;
+}
+#ansicht .live-punkt { margin-right: .35rem; }
+@keyframes pulsieren { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+
+.partie-paarung {
+  display: grid; grid-template-columns: 1fr auto 1fr;
+  align-items: center; gap: .6rem; margin: .2rem 0 .35rem;
+}
+.partie-team { font-size: .94rem; font-weight: 700; line-height: 1.25; }
+.partie-team.rechts { text-align: right; }
+.partie-stand {
+  font-size: 1.3rem; font-weight: 800; white-space: nowrap;
+  font-variant-numeric: tabular-nums; letter-spacing: -.01em;
+}
 #tabellensport { padding-left: 0; padding-right: 0; margin-bottom: 12px; }
 
 .mannschaft {
@@ -376,6 +412,11 @@ table.liga tr.eigen { background: color-mix(in srgb, var(--akzent) 22%, transpar
 .mannschaft-kopf { padding: 12px 12px 12px 16px; }
 .mannschaft-kopf h2 { margin: 0 0 .18rem; font-size: 1.02rem; font-weight: 750; letter-spacing: -.01em; }
 .mannschaft-liga { font-size: .78rem; color: var(--schrift-leise); }
+.mannschaft-hinweis {
+  margin-top: .35rem; padding: .35rem .5rem; border-radius: 6px;
+  background: color-mix(in srgb, var(--warnung) 14%, transparent);
+  color: var(--warnung); font-size: .74rem; font-weight: 600;
+}
 
 .stand { display: flex; gap: 14px; margin-top: .6rem; flex-wrap: wrap; }
 .stand div { display: flex; flex-direction: column; }
