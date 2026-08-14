@@ -463,6 +463,12 @@ table.liga tr.eigen { background: color-mix(in srgb, var(--akzent) 15%, transpar
 .spielliste .paarung { flex: 1; min-width: 0; }
 .spielliste .paarung .eigen { font-weight: 700; }
 .spielliste .anmerkung { flex: none; font-size: .68rem; color: var(--warnung); font-weight: 700; }
+.ereignis-zeichen { margin-right: .3rem; }
+.ereignis-stand {
+  flex: none; font-size: .74rem; font-weight: 750;
+  font-variant-numeric: tabular-nums; color: var(--schrift-leise);
+}
+
 .spielliste a { color: var(--akzent-stark); text-decoration: none; font-size: .72rem; flex: none; }
 .spielliste a:hover { text-decoration: underline; }
 

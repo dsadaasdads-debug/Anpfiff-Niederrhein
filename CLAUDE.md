@@ -42,6 +42,28 @@ Sprachmodell und ohne API-Schlüssel.
 - Beim Ändern der App immer `VERSION` in `sw.js` hochzählen, sonst behalten
   bereits installierte Geräte das alte Gerüst
 
+## Spieltag / Ticker
+- **FuPa ist die erste Quelle** — `api.fupa.net/v1`, offen, ohne Schlüssel.
+  Entscheidend: dort stehen **Spielernamen im Klartext**. Der Ticker steckt im
+  Feld `highlights` des Spielobjekts (`/matches/{id}`), nicht in einer eigenen
+  Route — `/matches/{id}/ticker` und `/goals` sind reine Schreibwege (405 bei GET).
+  Aufbau eines Ereignisses: `{minute, additionalMinute, type, subtype, homeGoal,
+  awayGoal, primaryRole:{firstName,lastName}, secondaryRole}`.
+- Vereine tragen ihr Gebiet selbst mit: `/clubs/{slug}` → `district.slug`.
+  Für uns sind das **`moers`** (Kreisligen) und **`niederrhein`** (Bezirks-,
+  Landes-, Oberliga). Partien eines Tages: `/districts/{gebiet}/matches?day=JJJJ-MM-TT`.
+  Achtung: Mannschaftsnamen liegen dort unter `homeTeam.name.full`, nicht unter
+  `homeTeamName` — letzteres gibt es nur im Einzelspiel.
+- Die Daten sind von Menschen eingetragen. `flags: ['ticker']` sagt vorab, ob
+  überhaupt getickert wird; Minuten fehlen, wenn der Reporter sie nicht erfasst hat.
+- **fussball.de dient als Rückfall** für Partien ohne FuPa-Ticker: dort liefert
+  das Attribut `data-match-events` Minute und Ereignisart im Klartext, aber die
+  Spielernamen sind wie die Ergebnisziffern verschleiert und bleiben leer.
+- Dublettenabgleich zwischen beiden Quellen läuft über *eigene Mannschaft +
+  Anstoßzeit*, nicht über die Paarung: die Quellen schreiben Gegner
+  unterschiedlich („ETB Schwarz-Weiß Essen“ / „ETB SW Essen“) und fussball.de
+  hängt Reserven ein „II“ an, das FuPa weglässt.
+
 ## Tabellenquellen
 - **Fußball:** fussball.de, Kern + Umland, 10 Ligen / 29 Mannschaften
 - **Handball:** handball.net, offenes JSON ohne Schlüssel, 7 Spielklassen.

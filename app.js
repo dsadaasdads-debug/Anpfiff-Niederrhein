@@ -1030,15 +1030,32 @@
     if (p.ereignisse?.length) {
       const details = el('details');
       details.open = Boolean(p.laeuft);
-      details.append(el('summary', null, `Spielverlauf · ${p.ereignisse.length} Ereignisse`));
+      const mitNamen = p.ereignisse.filter((e) => e.spieler).length;
+      details.append(el('summary', null,
+        `Spielverlauf · ${p.ereignisse.length} Ereignisse${mitNamen ? '' : ' (ohne Namen)'}`));
+
       const ul = el('ul', 'spielliste');
       for (const e of p.ereignisse) {
         const li = el('li');
-        li.append(el('span', 'wann', `${e.minute}.`));
+        // Ohne erfasste Minute kein falscher Zeitpunkt – lieber ein Strich.
+        const minute = e.minute
+          ? `${e.minute}${e.nachspielzeit ? `+${e.nachspielzeit}` : ''}.`
+          : '–';
+        li.append(el('span', 'wann', minute));
+
         const text = el('span', 'paarung');
-        text.append(document.createTextNode(`${e.zeichen} ${e.name} `));
-        text.append(el('span', 'eigen', e.seite === 'heim' ? p.heim : p.gast));
+        text.append(el('span', 'ereignis-zeichen', e.zeichen));
+        if (e.spieler) {
+          text.append(el('span', 'eigen', e.spieler));
+          text.append(document.createTextNode(e.fuer ? ` für ${e.fuer} · ${e.name}` : ` · ${e.name}`));
+        } else {
+          // fussball.de liefert nur die Seite, keinen Namen.
+          text.append(document.createTextNode(`${e.name} `));
+          if (e.seite) text.append(el('span', 'eigen', e.seite === 'heim' ? p.heim : p.gast));
+        }
         li.append(text);
+
+        if (e.stand) li.append(el('span', 'ereignis-stand', `${e.stand.heim}:${e.stand.gast}`));
         ul.append(li);
       }
       details.append(ul);
@@ -1046,9 +1063,11 @@
     }
 
     const fuss = el('div', 'mannschaft-fuss');
-    fuss.append(el('span', null, p.verein ?? ''));
+    const links = [p.verein, p.zuschauer ? `${p.zuschauer} Zuschauer` : null,
+      p.schiedsrichter ? `SR ${p.schiedsrichter}` : null].filter(Boolean);
+    fuss.append(el('span', null, links.join(' · ')));
     if (p.url) {
-      const a = el('a', null, 'Spiel bei fussball.de');
+      const a = el('a', null, `Spiel bei ${p.quelle ?? 'fussball.de'}`);
       a.href = p.url;
       a.target = '_blank';
       a.rel = 'noopener noreferrer';
@@ -1079,7 +1098,7 @@
 
     for (const p of partien) ziel.append(partieBauen(p));
 
-    for (const text of [livedaten.hinweisVerzoegerung, livedaten.hinweisTorschuetzen]) {
+    for (const text of [livedaten.hinweisVerzoegerung, livedaten.hinweisNamen]) {
       if (!text) continue;
       const note = el('p', 'fuss-klein', text);
       note.style.marginTop = '.8rem';

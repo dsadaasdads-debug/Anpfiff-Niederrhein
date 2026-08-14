@@ -1,547 +1,200 @@
 {
- "aktualisiert": "2026-08-14T21:58:23.398Z",
+ "aktualisiert": "2026-08-14T16:42:50.436Z",
  "tag": "14.08.",
- "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zu fussball.de folgen.",
- "hinweisTorschuetzen": "fussball.de gibt die Namen der Torschützen nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen, deshalb stehen hier Minute und Ereignisart, aber keine Namen.",
+ "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
+ "hinweisNamen": "Spielernamen stammen von FuPa, wo die Vereine selbst tickern – dort sind sie offen veröffentlicht. Partien ohne FuPa-Ticker kommen von fussball.de: dort gibt es Minute und Ereignisart, aber keine Namen.",
  "partien": [
   {
-   "url": "https://www.fussball.de/spiel/tus-baerl-sv-schwafheim/-/spiel/031N62G65C000000VS5489BTVV1LNS7C",
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/tus-baerl-m1-sv-schwafheim-m1-260814",
    "verein": "SV Schwafheim 1932",
    "ort": "Moers",
    "zone": "kern",
    "liga": "Kreisliga A",
-   "wettbewerb": "Kreisfreundschaftsspiele",
-   "anpfiff": "2026-08-14T19:00:00.000Z",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-14T19:00:00+02:00",
    "zeit": "19:00",
-   "hinweis": null,
    "heim": "TuS Baerl",
    "gast": "SV Schwafheim",
-   "tore": {
-    "heim": 0,
-    "gast": 6
-   },
-   "ereignisse": [
-    {
-     "minute": 38,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "gast"
-    },
-    {
-     "minute": 39,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "gast"
-    },
-    {
-     "minute": 40,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 60,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "gast"
-    },
-    {
-     "minute": 67,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "gast"
-    },
-    {
-     "minute": 68,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 75,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 75,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "gast"
-    },
-    {
-     "minute": 82,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 82,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 88,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "gast"
-    }
-   ],
-   "abgeschlossen": true,
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": "Toto Kleinekort",
+   "hatTicker": true,
+   "abschnitt": "PRE",
+   "hinweis": null,
+   "seitAnpfiffMin": -17,
    "laeuft": false,
-   "seitAnpfiffMin": 178
+   "abgeschlossen": false
   },
   {
-   "url": "https://www.fussball.de/spiel/sv-scherpenberg-etb-sw-essen/-/spiel/031EE4OE7G000000VS5489BTVUS470OH",
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/sv-scherpenberg-m1-etb-schwarz-weiss-essen-m1-260814",
    "verein": "SV Scherpenberg 1921",
    "ort": "Moers",
    "zone": "kern",
    "liga": "Oberliga Niederrhein",
    "wettbewerb": "Oberliga Niederrhein",
-   "anpfiff": "2026-08-14T19:30:00.000Z",
+   "anpfiff": "2026-08-14T19:30:00+02:00",
    "zeit": "19:30",
-   "hinweis": null,
    "heim": "SV Scherpenberg",
-   "gast": "ETB SW Essen",
-   "tore": {
-    "heim": 5,
-    "gast": 3
-   },
-   "ereignisse": [
-    {
-     "minute": 4,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "gast"
-    },
-    {
-     "minute": 18,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "seite": "gast"
-    },
-    {
-     "minute": 20,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "gast"
-    },
-    {
-     "minute": 23,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "seite": "heim"
-    },
-    {
-     "minute": 24,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "seite": "gast"
-    },
-    {
-     "minute": 30,
-     "art": "red-card",
-     "name": "Rote Karte",
-     "zeichen": "🟥",
-     "seite": "gast"
-    },
-    {
-     "minute": 30,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "seite": "heim"
-    },
-    {
-     "minute": 33,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 40,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "heim"
-    },
-    {
-     "minute": 44,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "heim"
-    },
-    {
-     "minute": 54,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 56,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 56,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 59,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 64,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "gast"
-    },
-    {
-     "minute": 66,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "seite": "gast"
-    },
-    {
-     "minute": 70,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 74,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 84,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 85,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 86,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "heim"
-    },
-    {
-     "minute": 88,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "seite": "gast"
-    },
-    {
-     "minute": 88,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "seite": "gast"
-    },
-    {
-     "minute": 90,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "heim"
-    },
-    {
-     "minute": 90,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "heim"
-    },
-    {
-     "minute": 90,
-     "art": "yellow-red-card",
-     "name": "Gelb-Rote Karte",
-     "zeichen": "🟨🟥",
-     "seite": "gast"
-    },
-    {
-     "minute": 90,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "seite": "heim"
-    },
-    {
-     "minute": 90,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "seite": "heim"
-    }
-   ],
-   "abgeschlossen": true,
+   "gast": "ETB Schwarz-Weiß Essen",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": "Christina Junkers",
+   "tickerAutor": "Jens Kröll",
+   "hatTicker": true,
+   "abschnitt": "PRE",
+   "hinweis": null,
+   "seitAnpfiffMin": -47,
    "laeuft": false,
-   "seitAnpfiffMin": 148
+   "abgeschlossen": false
   },
   {
-   "url": "https://www.fussball.de/spiel/gsv-moers-ii-vfl-repelen/-/spiel/031JIMBRV8000000VS5489BUVVKNMR0J",
-   "verein": "VFL Repelen 08",
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/gsv-moers-m2-vfl-repelen-m1-260814",
+   "verein": "Grafschafter SV 1910 Moers",
    "ort": "Moers",
    "zone": "kern",
    "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Kreisfreundschaftsspiele",
-   "anpfiff": "2026-08-14T19:30:00.000Z",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-14T19:30:00+02:00",
    "zeit": "19:30",
-   "hinweis": null,
-   "heim": "GSV Moers II",
+   "heim": "GSV Moers",
    "gast": "VfL Repelen",
-   "tore": {
-    "heim": 0,
-    "gast": 1
-   },
-   "ereignisse": [
-    {
-     "minute": 12,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 18,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 28,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "seite": "gast"
-    },
-    {
-     "minute": 35,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 40,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 51,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 58,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 60,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 63,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 64,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 65,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "gast"
-    },
-    {
-     "minute": 75,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 75,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "seite": "heim"
-    },
-    {
-     "minute": 85,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "seite": "heim"
-    }
-   ],
-   "abgeschlossen": true,
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": "Noel Marian Morawiec",
+   "hatTicker": true,
+   "abschnitt": "PRE",
+   "hinweis": null,
+   "seitAnpfiffMin": -47,
    "laeuft": false,
-   "seitAnpfiffMin": 148
+   "abgeschlossen": false
   },
   {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/mtv-union-hamborn-m1-tv-asberg-m1-260814",
+   "verein": "TV Asberg 1897",
+   "ort": "Moers",
+   "zone": "kern",
+   "liga": "Kreisliga A",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-14T19:30:00+02:00",
+   "zeit": "19:30",
+   "heim": "MTV Union Hamborn",
+   "gast": "TV Asberg",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "PRE",
+   "hinweis": null,
+   "seitAnpfiffMin": -47,
+   "laeuft": false,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/fc-neukirchen-vluyn-0921-m4-spvgg-rheurdt-schaephuysen-m3-260814",
+   "verein": "FC Neukirchen-Vluyn",
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "liga": "Bezirksliga Gruppe 5",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-14T19:45:00+02:00",
+   "zeit": "19:45",
+   "heim": "FC Neukirchen-Vluyn 09/21",
+   "gast": "SpVgg Rheurdt-Schaephuysen",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "PRE",
+   "hinweis": null,
+   "seitAnpfiffMin": -62,
+   "laeuft": false,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/tus-borth-m3-fc-moers-meerfeld-m2-260814",
+   "verein": "TuS Borth 71",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "Kreisliga B",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-14T20:00:00+02:00",
+   "zeit": "20:00",
+   "heim": "TuS Borth",
+   "gast": "FC Moers-Meerfeld",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "PRE",
+   "hinweis": null,
+   "seitAnpfiffMin": -77,
+   "laeuft": false,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/sv-menzelen-m2-tv-asberg-m2-260814",
+   "verein": "SV Menzelen 1925",
+   "ort": "Alpen",
+   "zone": "umland",
+   "liga": "Kreisliga A",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-14T20:00:00+02:00",
+   "zeit": "20:00",
+   "heim": "SV Menzelen",
+   "gast": "TV Asberg",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": "Jamie Pittschi",
+   "hatTicker": true,
+   "abschnitt": "PRE",
+   "hinweis": null,
+   "seitAnpfiffMin": -77,
+   "laeuft": false,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "fussball.de",
    "url": "https://www.fussball.de/spiel/sc-rheinkamp-tv-kapellen/-/spiel/031B7NOED8000000VS5489BUVV628VP4",
    "verein": "SC Rheinkamp",
    "ort": "Moers",
    "zone": "kern",
    "liga": "KL C Gruppe 2",
    "wettbewerb": "Kreisfreundschaftsspiele",
-   "anpfiff": "2026-08-14T20:00:00.000Z",
+   "anpfiff": "2026-08-14T18:00:00.000Z",
    "zeit": "20:00",
-   "hinweis": "Absetzung",
    "heim": "SC Rheinkamp",
    "gast": "TV Kapellen",
    "tore": null,
    "ereignisse": [],
-   "abgeschlossen": false,
-   "laeuft": true,
-   "seitAnpfiffMin": 118
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": null,
+   "hinweis": "Absetzung",
+   "seitAnpfiffMin": -77,
+   "laeuft": false,
+   "abgeschlossen": false
   }
  ]
 }

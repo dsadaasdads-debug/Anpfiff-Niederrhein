@@ -1,22 +1,27 @@
-// Spieltags-Ticker: Was machen meine Mannschaften heute?
+// Spieltag: Was machen meine Mannschaften heute?
 //
 //   node scripts/live.mjs
 //
-// Läuft an Spieltagen häufig und schreibt data/live.json. Grundlage sind die
-// Mannschaften aus data/tabellen.json; für jede wird geschaut, ob heute ein
-// Spiel ansteht, und wenn ja der Spielverlauf geholt.
+// Zwei Quellen, in dieser Reihenfolge:
 //
-// EHRLICHE EINORDNUNG: Das ist kein Ticker in Echtzeit. GitHub Actions kann
-// frühestens alle fünf Minuten anstoßen und verzögert unter Last regelmäßig um
-// weitere zehn bis zwanzig. Rechne mit einem Rückstand von etwa einer
-// Viertelstunde. Für einen Amateurspieltag reicht das; wer die Minute braucht,
-// ist bei fussball.de selbst besser aufgehoben – dorthin wird verlinkt.
+//   1. FuPa (api.fupa.net) – offene Schnittstelle, und dort stehen die
+//      **Spielernamen im Klartext**. Torschütze, Karten, Wechsel. Die Vereine
+//      tickern selbst, deshalb ist das freiwillig veröffentlicht.
+//   2. fussball.de – für Partien ohne FuPa-Ticker. Liefert Minute und
+//      Ereignisart, aber keine Namen: die sind dort in privaten Unicode-Zeichen
+//      mit wechselnder Spezialschrift versteckt, und diese Sperre wird nicht
+//      umgangen.
+//
+// EHRLICHE EINORDNUNG: Kein Ticker in Echtzeit. GitHub Actions stößt frühestens
+// alle fünf Minuten an und verzögert unter Last. Rechne mit einer Viertelstunde
+// Rückstand; für die Minute führt der Link zur Quelle.
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
-import { spielverlauf } from './lib/spielverlauf.mjs';
+import * as fupa from './lib/fupa.mjs';
+import { spielverlauf as fussballdeVerlauf } from './lib/spielverlauf.mjs';
 import { spiele } from './lib/fussballde.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
@@ -24,7 +29,11 @@ const DATEN = join(HERE, '..', 'data');
 const ZIEL = join(DATEN, 'live.json');
 const QUELLE = join(DATEN, 'tabellen.json');
 
-const PAUSE_MS = 500;
+// FuPa ordnet unsere Vereine diesen Gebieten zu: der Kreis Moers für die
+// Kreisligen, „niederrhein“ für Bezirks-, Landes- und Oberliga.
+const GEBIETE = ['moers', 'niederrhein'];
+const PAUSE_MS = 400;
+
 const log = (...a) => console.log(...a);
 const warte = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -34,105 +43,195 @@ if (!existsSync(QUELLE)) {
 }
 const tabellen = JSON.parse(readFileSync(QUELLE, 'utf8'));
 
-// ── Heutiges Datum in deutscher Schreibweise, wie fussball.de es ausgibt ─────
 const heute = new Date();
-const zweistellig = (n) => String(n).padStart(2, '0');
-const heuteKurz = `${zweistellig(heute.getDate())}.${zweistellig(heute.getMonth() + 1)}.`;
+const zz = (n) => String(n).padStart(2, '0');
+const heuteISO = `${heute.getFullYear()}-${zz(heute.getMonth() + 1)}-${zz(heute.getDate())}`;
+const heuteKurz = `${zz(heute.getDate())}.${zz(heute.getMonth() + 1)}.`;
 
-/** „Sonntag, 16.08.2026 - 15:00 Uhr“ → { tag: '16.08.', zeit: '15:00' } */
-function terminLesen(roh) {
-  const m = String(roh).match(/(\d{2}\.\d{2}\.)(\d{4})?\s*-\s*(\d{2}:\d{2})/);
-  return m ? { tag: m[1], jahr: m[2], zeit: m[3] } : null;
+// ── Namen, unter denen meine Mannschaften auftreten können ──────────────────
+// Die eigene Liste schreibt „Grafschafter SV 1910 Moers“, fussball.de und FuPa
+// schreiben „GSV Moers“. Deshalb werden beide Schreibweisen gesammelt.
+const meine = [];
+for (const m of tabellen.mannschaften) {
+  if ((m.sportart ?? 'Fußball') !== 'Fußball') continue;
+  const namen = new Set([m.verein]);
+  if (m.heimatverein) namen.add(m.heimatverein);
+  const zeile = tabellen.staffeln?.[m.staffelId]?.zeilen?.find((z) => z.teamId === m.teamId);
+  if (zeile?.verein) namen.add(zeile.verein);
+  meine.push({ ...m, kerne: [...namen].map(fupa.namensKern).filter((k) => k.length > 4) });
+}
+log(`${meine.length} eigene Fußballmannschaften, ${heuteKurz}`);
+
+const passtZuMir = (name) => {
+  const k = fupa.namensKern(name);
+  if (k.length < 5) return null;
+  return meine.find((m) => m.kerne.some((eig) => k === eig || k.includes(eig) || eig.includes(k))) ?? null;
+};
+
+// ── 1) FuPa ─────────────────────────────────────────────────────────────────
+const partien = [];
+const gesehen = new Set();
+
+for (const gebiet of GEBIETE) {
+  let alle = [];
+  try {
+    alle = await fupa.partienAmTag(gebiet, heuteISO);
+  } catch (err) {
+    log(`  FuPa-Gebiet ${gebiet}: ${err.message}`);
+    continue;
+  }
+  log(`  FuPa/${gebiet}: ${alle.length} Partien am Tag`);
+
+  for (const p of alle) {
+    const meins = passtZuMir(p.heim) ?? passtZuMir(p.gast);
+    if (!meins) continue;
+    if (gesehen.has(p.id)) continue;
+    gesehen.add(p.id);
+
+    let verlauf = { ereignisse: [], tore: p.tore, zuschauer: null, schiedsrichter: null, abschnitt: p.abschnitt, tickerAutor: null };
+    if (p.hatTicker || p.abschnitt !== 'PRE') {
+      try { verlauf = await fupa.spielverlauf(p.id); } catch { /* bleibt beim Grundgerüst */ }
+      await warte(PAUSE_MS);
+    }
+
+    partien.push({
+      quelle: 'FuPa',
+      url: `https://www.fupa.net/match/${p.slug}`,
+      verein: meins.verein,
+      ort: meins.ort,
+      zone: meins.zone,
+      liga: meins.liga,
+      wettbewerb: p.wettbewerb,
+      anpfiff: p.anpfiff,
+      zeit: p.anpfiff ? new Date(p.anpfiff).toTimeString().slice(0, 5) : null,
+      heim: p.heim,
+      gast: p.gast,
+      tore: verlauf.tore ?? p.tore,
+      ereignisse: verlauf.ereignisse,
+      zuschauer: verlauf.zuschauer,
+      schiedsrichter: verlauf.schiedsrichter,
+      tickerAutor: verlauf.tickerAutor,
+      hatTicker: p.hatTicker,
+      abschnitt: verlauf.abschnitt ?? p.abschnitt,
+      hinweis: null,
+    });
+
+    const stand = verlauf.tore ? `${verlauf.tore.heim}:${verlauf.tore.gast}` : '–:–';
+    const namen = verlauf.ereignisse.filter((e) => e.spieler).length;
+    log(`    ${(p.heim + ' – ' + p.gast).slice(0, 46).padEnd(48)} ${stand}  ${verlauf.ereignisse.length} Ereignisse, ${namen} mit Namen`);
+  }
 }
 
-// ── Heutige Partien der eigenen Mannschaften finden ─────────────────────────
-// Nur Fußball: die Handballdaten enthalten keine Spielpläne, und der
-// Spielverlauf ist ein Sonderweg von fussball.de.
-const fussball = tabellen.mannschaften.filter((m) => (m.sportart ?? 'Fußball') === 'Fußball' && m.teamId);
-log(`${fussball.length} Fußballmannschaften werden auf heutige Spiele geprüft (${heuteKurz})`);
+// ── 2) fussball.de als Rückfall ─────────────────────────────────────────────
+// Für Partien, die FuPa nicht führt: Minute und Ereignisart ohne Namen.
+//
+// Abgeglichen wird über die eigene Mannschaft und die Anstoßzeit, nicht über
+// die Paarung: die Quellen schreiben Gegner unterschiedlich („ETB Schwarz-Weiß
+// Essen“ gegen „ETB SW Essen“), und fussball.de hängt Reserven ein „II“ an,
+// das FuPa weglässt.
+const bekannt = new Set();
+for (const p of partien) {
+  for (const seite of [p.heim, p.gast]) {
+    const meins = passtZuMir(seite);
+    if (meins) bekannt.add(`${meins.verein}|${p.zeit ?? ''}`);
+  }
+}
 
-const heutige = [];
-for (const m of fussball) {
-  // Erst im vorhandenen Spielplan nachsehen, das spart Abrufe.
-  let kandidaten = (m.naechste ?? []).concat(m.letzte ?? [])
-    .filter((s) => terminLesen(s.datum)?.tag === heuteKurz);
+const terminLesen = (roh) => {
+  const m = String(roh).match(/(\d{2}\.\d{2}\.)(?:\d{4})?\s*-\s*(\d{2}:\d{2})/);
+  return m ? { tag: m[1], zeit: m[2] } : null;
+};
 
-  // Nichts gefunden? Dann den Plan frisch holen – er könnte veraltet sein.
+for (const m of meine) {
+  if (!m.teamId) continue;
+  let kandidaten = (m.naechste ?? []).filter((s) => terminLesen(s.datum)?.tag === heuteKurz);
   if (kandidaten.length === 0) {
     try {
-      const frisch = await spiele(m.teamId, 'next');
-      kandidaten = frisch.filter((s) => terminLesen(s.datum)?.tag === heuteKurz);
+      kandidaten = (await spiele(m.teamId, 'next')).filter((s) => terminLesen(s.datum)?.tag === heuteKurz);
       await warte(PAUSE_MS);
-    } catch { /* Mannschaft überspringen */ }
+    } catch { continue; }
   }
 
   for (const s of kandidaten) {
     if (!s.url) continue;
-    if (heutige.some((h) => h.url === s.url)) continue;   // beide Mannschaften im selben Spiel
-    heutige.push({ ...s, verein: m.verein, ort: m.ort, zone: m.zone, liga: m.liga });
+    const termin0 = terminLesen(s.datum);
+    const schluessel = `${m.verein}|${termin0?.zeit ?? ''}`;
+    if (bekannt.has(schluessel)) continue;
+    bekannt.add(schluessel);
+    // Treffen zwei eigene Mannschaften aufeinander, würde die Partie sonst
+    // zweimal auftauchen – einmal je Mannschaft. Deshalb den Gegner gleich
+    // mit vermerken.
+    for (const seite of [s.heim, s.gast]) {
+      const gegner = passtZuMir(seite);
+      if (gegner) bekannt.add(`${gegner.verein}|${termin0?.zeit ?? ''}`);
+    }
+
+    const verlauf = await fussballdeVerlauf(s.url);
+    await warte(PAUSE_MS);
+    const termin = terminLesen(s.datum);
+
+    let anpfiff = null;
+    if (termin?.zeit) {
+      const [std, min] = termin.zeit.split(':').map(Number);
+      const d = new Date(heute);
+      d.setHours(std, min, 0, 0);
+      anpfiff = d.toISOString();
+    }
+
+    partien.push({
+      quelle: 'fussball.de',
+      url: s.url,
+      verein: m.verein,
+      ort: m.ort,
+      zone: m.zone,
+      liga: m.liga,
+      wettbewerb: s.wettbewerb,
+      anpfiff,
+      zeit: termin?.zeit ?? null,
+      heim: verlauf?.heim || s.heim,
+      gast: verlauf?.gast || s.gast,
+      tore: verlauf?.tore ?? null,
+      // Ohne Namen – die sind bei fussball.de verschleiert.
+      ereignisse: (verlauf?.ereignisse ?? []).map((e) => ({
+        minute: e.minute, nachspielzeit: 0, art: e.art, name: e.name,
+        zeichen: e.zeichen, spieler: null, fuer: null, stand: null,
+        seite: e.seite,
+      })),
+      zuschauer: null,
+      schiedsrichter: null,
+      tickerAutor: null,
+      hatTicker: false,
+      abschnitt: null,
+      hinweis: s.hinweis || null,
+    });
+    log(`    [fussball.de] ${(s.heim + ' – ' + s.gast).slice(0, 40).padEnd(42)} ${verlauf?.ereignisse.length ?? 0} Ereignisse, ohne Namen`);
   }
 }
 
-log(`${heutige.length} Partien heute`);
-
-// ── Verlauf holen ───────────────────────────────────────────────────────────
-const partien = [];
-for (const s of heutige) {
-  const termin = terminLesen(s.datum);
-  const verlauf = await spielverlauf(s.url);
-  await warte(PAUSE_MS);
-
-  // Anpfiff als Zeitstempel, damit die App die laufende Minute schätzen kann.
-  let anpfiff = null;
-  let seitAnpfiffMin = null;
-  if (termin?.zeit) {
-    const [std, min] = termin.zeit.split(':').map(Number);
-    const d = new Date(heute);
-    d.setHours(std, min, 0, 0);
-    anpfiff = d.toISOString();
-    seitAnpfiffMin = Math.round((Date.now() - d.getTime()) / 60000);
-  }
-
-  // Zwei Stunden nach Anpfiff ist auch die zäheste Kreisligapartie vorbei –
-  // inklusive Halbzeitpause und Nachspielzeit.
-  const abgeschlossen = seitAnpfiffMin != null && seitAnpfiffMin > 120;
-  const laeuft = seitAnpfiffMin != null && seitAnpfiffMin >= 0 && seitAnpfiffMin <= 120;
-
-  partien.push({
-    url: s.url,
-    verein: s.verein,
-    ort: s.ort,
-    zone: s.zone,
-    liga: s.liga,
-    wettbewerb: s.wettbewerb,
-    anpfiff,
-    zeit: termin?.zeit ?? null,
-    hinweis: s.hinweis || null,
-    heim: verlauf?.heim || s.heim,
-    gast: verlauf?.gast || s.gast,
-    tore: verlauf?.tore ?? null,
-    ereignisse: verlauf?.ereignisse ?? [],
-    abgeschlossen,
-    laeuft,
-    seitAnpfiffMin,
-  });
-
-  const stand = verlauf?.tore ? `${verlauf.tore.heim}:${verlauf.tore.gast}` : '—';
-  log(`  ${(s.heim + ' – ' + s.gast).padEnd(52)} ${stand}  ${verlauf?.ereignisse.length ?? 0} Ereignisse`);
+// ── Zeitliche Einordnung und Schreiben ──────────────────────────────────────
+for (const p of partien) {
+  const seit = p.anpfiff ? Math.round((Date.now() - Date.parse(p.anpfiff)) / 60000) : null;
+  p.seitAnpfiffMin = seit;
+  // FuPa sagt es selbst; sonst entscheidet die Uhr (zwei Stunden reichen für
+  // jede Kreisligapartie inklusive Pause und Nachspielzeit).
+  p.laeuft = p.abschnitt === 'LIVE' || (p.abschnitt == null && seit != null && seit >= 0 && seit <= 120);
+  p.abgeschlossen = p.abschnitt === 'POST' || (p.abschnitt == null && seit != null && seit > 120);
 }
-
 partien.sort((a, b) => String(a.zeit).localeCompare(String(b.zeit)));
 
 mkdirSync(DATEN, { recursive: true });
 writeFileSync(ZIEL, JSON.stringify({
   aktualisiert: new Date().toISOString(),
   tag: heuteKurz,
-  hinweisVerzoegerung: 'Der Stand wird alle zehn Minuten geholt und kann entsprechend '
-    + 'nachhinken. Für die Minute bitte dem Link zu fussball.de folgen.',
-  hinweisTorschuetzen: 'fussball.de gibt die Namen der Torschützen nur über eine wechselnde '
-    + 'Spezialschrift aus. Diese Sperre wird nicht umgangen, deshalb stehen hier Minute und '
+  hinweisVerzoegerung: 'Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. '
+    + 'Für die Minute bitte dem Link zur Quelle folgen.',
+  hinweisNamen: 'Spielernamen stammen von FuPa, wo die Vereine selbst tickern – dort sind sie offen '
+    + 'veröffentlicht. Partien ohne FuPa-Ticker kommen von fussball.de: dort gibt es Minute und '
     + 'Ereignisart, aber keine Namen.',
   partien,
 }, null, 1) + '\n', 'utf8');
 
-log(`\ngeschrieben: ${ZIEL}  (${partien.length} Partien)`);
+const mitNamen = partien.filter((p) => p.ereignisse.some((e) => e.spieler)).length;
+log(`\ngeschrieben: ${ZIEL}`);
+log(`  ${partien.length} Partien, davon ${partien.filter((p) => p.quelle === 'FuPa').length} über FuPa`);
+log(`  ${mitNamen} Partien mit Spielernamen`);
