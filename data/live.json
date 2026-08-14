@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T18:57:19.994Z",
+ "aktualisiert": "2026-08-14T19:51:32.317Z",
  "tag": "14.08.",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zu fussball.de folgen.",
  "hinweisTorschuetzen": "fussball.de gibt die Namen der Torschützen nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen, deshalb stehen hier Minute und Ereignisart, aber keine Namen.",
@@ -16,11 +16,162 @@
    "hinweis": null,
    "heim": "TuS Baerl",
    "gast": "SV Schwafheim",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 0,
+    "gast": 6
+   },
+   "ereignisse": [
+    {
+     "minute": 38,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "gast"
+    },
+    {
+     "minute": 39,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "gast"
+    },
+    {
+     "minute": 40,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 60,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "gast"
+    },
+    {
+     "minute": 67,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "gast"
+    },
+    {
+     "minute": 68,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 75,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 75,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "gast"
+    },
+    {
+     "minute": 82,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 82,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 88,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "gast"
+    }
+   ],
    "abgeschlossen": false,
-   "laeuft": false,
-   "seitAnpfiffMin": -3
+   "laeuft": true,
+   "seitAnpfiffMin": 52
   },
   {
    "url": "https://www.fussball.de/spiel/sv-scherpenberg-etb-sw-essen/-/spiel/031EE4OE7G000000VS5489BTVUS470OH",
@@ -37,8 +188,8 @@
    "tore": null,
    "ereignisse": [],
    "abgeschlossen": false,
-   "laeuft": false,
-   "seitAnpfiffMin": -33
+   "laeuft": true,
+   "seitAnpfiffMin": 22
   },
   {
    "url": "https://www.fussball.de/spiel/gsv-moers-ii-vfl-repelen/-/spiel/031JIMBRV8000000VS5489BUVVKNMR0J",
@@ -52,11 +203,127 @@
    "hinweis": null,
    "heim": "GSV Moers II",
    "gast": "VfL Repelen",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 0,
+    "gast": 1
+   },
+   "ereignisse": [
+    {
+     "minute": 12,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 18,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 28,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "seite": "gast"
+    },
+    {
+     "minute": 35,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 40,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 46,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 51,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 58,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 60,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 63,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 64,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 65,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "gast"
+    },
+    {
+     "minute": 75,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 75,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "seite": "heim"
+    },
+    {
+     "minute": 85,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "seite": "heim"
+    }
+   ],
    "abgeschlossen": false,
-   "laeuft": false,
-   "seitAnpfiffMin": -33
+   "laeuft": true,
+   "seitAnpfiffMin": 22
   },
   {
    "url": "https://www.fussball.de/spiel/sc-rheinkamp-tv-kapellen/-/spiel/031B7NOED8000000VS5489BUVV628VP4",
@@ -74,7 +341,7 @@
    "ereignisse": [],
    "abgeschlossen": false,
    "laeuft": false,
-   "seitAnpfiffMin": -63
+   "seitAnpfiffMin": -9
   }
  ]
 }
