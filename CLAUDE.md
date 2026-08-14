@@ -42,7 +42,22 @@ Sprachmodell und ohne API-Schlüssel.
 - Beim Ändern der App immer `VERSION` in `sw.js` hochzählen, sonst behalten
   bereits installierte Geräte das alte Gerüst
 
+## Tabellenquellen
+- **Fußball:** fussball.de, Kern + Umland, 10 Ligen / 29 Mannschaften
+- **Handball:** handball.net, offenes JSON ohne Schlüssel, 7 Spielklassen.
+  ACHTUNG: Der Handball-Verband Niederrhein ist 2023/24 in **Handball Nordrhein**
+  aufgegangen. Unter der Kennung `Niederrhein` liegen nur tote Daten bis 23/24;
+  aktuell ist die Organisation `Nordrhein`, Kreise „Wesel“ und „Rhein-Ruhr“.
+  Die alte nuLiga-Instanz `hvniederrhein-handball.liga.nu` endet bei 22/23.
+- **Volleyball:** noch nicht gebaut, aber der Weg ist bekannt. Die Tabellen der
+  Volleyball-Bundesliga stehen serverseitig gerendert unter
+  `/cms/home/<bereich>/statistik/<seite>/tabelle_<seite>.xhtml` (SAMS/PrimeFaces).
+  Für die 1. Bundesliga Männer funktioniert das bereits. Die 2. Bundesliga, in
+  der der Moerser SC spielt, war am 13.08.2026 noch nicht veröffentlicht —
+  **Saisonstart ist der 20.10.2026**. Vorher gibt es nichts zu holen.
+
 ## Offene Punkte
 - Push-Benachrichtigungen über Cloudflare Worker (vom Nutzer gewünscht, noch
   nicht gebaut)
+- Volleyball-Tabellen ab Ende Oktober 2026 nachziehen (siehe oben)
 - Regattabahn / Sportpark Duisburg als zusätzliche Quelle
