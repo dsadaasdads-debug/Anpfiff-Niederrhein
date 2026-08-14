@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T16:06:34.999Z",
+ "aktualisiert": "2026-08-14T17:11:43.464Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,11 +40,8 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "fehler",
-   "fehler": "HTTP 415",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-14T15:18:59.844Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "moerser-sc",
@@ -842,6 +839,32 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: 1:4 in Aachen und dann am Mittwoch auch das noch – bei MSV-Gegner Verl ruckelt's",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-1-4-in-aachen-und-dann-am-mittwoch-auch-das-noch-beim-sc-verl-ruckelt-s_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-14T16:39:00.000Z",
+   "sortZeit": 1786653540000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "rp:153093603",
    "titel": "Start in die neue Saison: Die SFB suchen von Anfang an ruhiges Fahrwasser",
    "url": "https://rp-online.de/nrw/staedte/langenfeld/sport/fussball-oberliga-sportfreunde-baumberg-empfangen-sv-sonsbeck_aid-153093603",
@@ -1012,8 +1035,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
@@ -1349,32 +1371,6 @@
    "grund": "rubrik"
   },
   {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: Das sagt MSV-Trainer Hirsch zu einem möglichen Wechsel von Hahn",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-das-sagt-hirsch-zu-einem-moeglichen-wechsel-von-kapitaen-hahn_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-13T14:59:00.000Z",
-   "sortZeit": 1786561140000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
    "id": "funke:412853717",
    "titel": "MSV-Trainer Dietmar Hirsch bleibt bei Wechselgerüchten über Ali Hahn gelassen",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412853717/msv-trainer-dietmar-hirsch-bleibt-bei-wechselgeruechten-ueber-ali-hahn-gelassen.html",
@@ -1647,8 +1643,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Xanten",
    "ortSicher": true,
