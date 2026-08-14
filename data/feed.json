@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T02:46:29.138Z",
+ "aktualisiert": "2026-08-14T05:03:15.261Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -594,6 +594,29 @@
  ],
  "artikel": [
   {
+   "id": "rp:153093603",
+   "titel": "Start in die neue Saison: Die SFB suchen von Anfang an ruhiges Fahrwasser",
+   "url": "https://rp-online.de/nrw/staedte/langenfeld/sport/fussball-oberliga-sportfreunde-baumberg-empfangen-sv-sonsbeck_aid-153093603",
+   "teaser": "In der Vorsaison der Fußball-Oberiiga sicherten sich die Sportfreunde Baumberg beim SV Sonsbeck den Klassenerhalt. Die neue Spielzeit startet nun mit diesem Duell. Die Trainer sind dieselben, die Gesichter der Teams haben sich verändert.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/3/0/4/6/7/5/tok_0b60193865aae14145f6de24b5b70fbf/w1200_h630_x1498_y384_rp_sfb_jonathan_freitag_01-5fe08cc1dcfa7810.jpg",
+   "datum": "2026-08-14T04:30:00.000Z",
+   "sortZeit": 1786653000000,
+   "punkte": 70,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412853579",
    "titel": "Bestürzung beim Moerser SC: Cheftrainer Chang Cheng Liu wieder erkrankt",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412853579/bestuerzung-beim-moerser-sc-cheftrainer-chang-cheng-liu-wieder-erkrankt.html",
@@ -1144,7 +1167,9 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -5681,30 +5706,6 @@
    ],
    "sportart": "Volleyball",
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "rp:151428427",
-   "titel": "Neue Herausforderungen für Amateurfußballer: „Wir müssen jetzt Einwürfe und Abstöße mitzählen“",
-   "url": "https://rp-online.de/nrw/staedte/xanten/sport/interview-mit-schiri-obmann-fabian-spitzer-zu-den-neuen-fussballregeln_aid-151428427",
-   "teaser": "Die zur WM eingeführten Regeln sorgen im Fußballkreis Moers für viel Gesprächsstoff. Schiedsrichter-Obmann Fabian Spitzer sieht große Herausforderungen für die Unparteiischen und Spieler. Das sind die neuen Vorgaben.",
-   "bild": "https://rp-online.de/imgs/32/2/7/3/5/6/5/1/4/3/tok_dd1a8ec609c9979339a7a034940b74bc/w1200_h630_x1024_y683_rp_202311_J_1334-bf504063fe74e5f8.jpg",
-   "datum": "2026-07-15T05:00:00.000Z",
-   "sortZeit": 1784091600000,
-   "punkte": 110,
-   "paywall": true,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Sport Duisburg",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers",
-    "Xanten"
-   ],
-   "zone": "kern",
-   "vereine": [],
-   "sportart": "Fußball",
-   "grund": "rubrik"
   },
   {
    "id": "sv-menzelen1925.de/tischtennis/tischtennis-schnuppertraining",
