@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T10:17:04.751Z",
+ "aktualisiert": "2026-08-14T11:11:35.812Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,9 +40,8 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "fehler",
-   "fehler": "HTTP 415",
-   "eintraege": 0
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "moerser-sc",
@@ -53,9 +52,8 @@
   {
    "id": "msv-moers",
    "name": "Meerbecker SV Moers 13/20",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0
+   "status": "ok",
+   "eintraege": 6
   },
   {
    "id": "nrz-lokalsport",
@@ -168,9 +166,8 @@
   {
    "id": "vfl-repelen",
    "name": "VfL Repelen 08",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0
+   "status": "ok",
+   "eintraege": 4
   },
   {
    "id": "viktoria-alpen",
@@ -706,6 +703,33 @@
    "vereine": [
     "1. FC Lintfort"
    ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153018577",
+   "titel": "Oberliga-Auftakt: SV Sonsbeck greift an – neuer Keeper, starke Tests, großer Pokaltraum",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-sonsbeck-revanche-in-baumberg-mit-julius-paris_aid-153018577",
+   "teaser": "Der SV Sonsbeck will in Baumberg die Vorjahrespleiten ausbügeln. Trainer Losing setzt auf Neuzugang Julius Paris. Er hat aber auch Verletzungssorgen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/1/2/3/6/7/9/tok_9bab2b650a2609fada89dc875ed2979e/w1200_h630_x1350_y901_rp_202602019_J_0044-e25de95909271630.jpg",
+   "datum": "2026-08-14T10:39:00.000Z",
+   "sortZeit": 1786675140000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [
+    "RP Online Xanten"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
@@ -4180,9 +4204,7 @@
    "paywall": true,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Xanten",
    "ortSicher": true,
    "orte": [
