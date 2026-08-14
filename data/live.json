@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T21:01:11.843Z",
+ "aktualisiert": "2026-08-14T21:37:27.131Z",
  "tag": "14.08.",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zu fussball.de folgen.",
  "hinweisTorschuetzen": "fussball.de gibt die Namen der Torschützen nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen, deshalb stehen hier Minute und Ereignisart, aber keine Namen.",
@@ -171,7 +171,7 @@
    ],
    "abgeschlossen": true,
    "laeuft": false,
-   "seitAnpfiffMin": 121
+   "seitAnpfiffMin": 157
   },
   {
    "url": "https://www.fussball.de/spiel/sv-scherpenberg-etb-sw-essen/-/spiel/031EE4OE7G000000VS5489BTVUS470OH",
@@ -387,9 +387,9 @@
      "seite": "heim"
     }
    ],
-   "abgeschlossen": false,
-   "laeuft": true,
-   "seitAnpfiffMin": 91
+   "abgeschlossen": true,
+   "laeuft": false,
+   "seitAnpfiffMin": 127
   },
   {
    "url": "https://www.fussball.de/spiel/gsv-moers-ii-vfl-repelen/-/spiel/031JIMBRV8000000VS5489BUVVKNMR0J",
@@ -521,9 +521,9 @@
      "seite": "heim"
     }
    ],
-   "abgeschlossen": false,
-   "laeuft": true,
-   "seitAnpfiffMin": 91
+   "abgeschlossen": true,
+   "laeuft": false,
+   "seitAnpfiffMin": 127
   },
   {
    "url": "https://www.fussball.de/spiel/sc-rheinkamp-tv-kapellen/-/spiel/031B7NOED8000000VS5489BUVV628VP4",
@@ -541,7 +541,7 @@
    "ereignisse": [],
    "abgeschlossen": false,
    "laeuft": true,
-   "seitAnpfiffMin": 61
+   "seitAnpfiffMin": 97
   }
  ]
 }
