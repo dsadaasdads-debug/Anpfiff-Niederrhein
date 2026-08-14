@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-14T15:07:56.703Z",
+ "aktualisiert": "2026-08-14T17:55:04.968Z",
  "tag": "14.08.",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zu fussball.de folgen.",
  "hinweisTorschuetzen": "fussball.de gibt die Namen der Torschützen nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen, deshalb stehen hier Minute und Ereignisart, aber keine Namen.",
@@ -11,7 +11,7 @@
    "zone": "kern",
    "liga": "Kreisliga A",
    "wettbewerb": "Kreisfreundschaftsspiele",
-   "anpfiff": "2026-08-14T17:00:00.000Z",
+   "anpfiff": "2026-08-14T19:00:00.000Z",
    "zeit": "19:00",
    "hinweis": null,
    "heim": "TuS Baerl",
@@ -20,7 +20,7 @@
    "ereignisse": [],
    "abgeschlossen": false,
    "laeuft": false,
-   "seitAnpfiffMin": -112
+   "seitAnpfiffMin": -65
   },
   {
    "url": "https://www.fussball.de/spiel/sv-scherpenberg-etb-sw-essen/-/spiel/031EE4OE7G000000VS5489BTVUS470OH",
@@ -29,7 +29,7 @@
    "zone": "kern",
    "liga": "Oberliga Niederrhein",
    "wettbewerb": "Oberliga Niederrhein",
-   "anpfiff": "2026-08-14T17:30:00.000Z",
+   "anpfiff": "2026-08-14T19:30:00.000Z",
    "zeit": "19:30",
    "hinweis": null,
    "heim": "SV Scherpenberg",
@@ -38,7 +38,7 @@
    "ereignisse": [],
    "abgeschlossen": false,
    "laeuft": false,
-   "seitAnpfiffMin": -142
+   "seitAnpfiffMin": -95
   },
   {
    "url": "https://www.fussball.de/spiel/gsv-moers-ii-vfl-repelen/-/spiel/031JIMBRV8000000VS5489BUVVKNMR0J",
@@ -47,7 +47,7 @@
    "zone": "kern",
    "liga": "Bezirksliga Gruppe 5",
    "wettbewerb": "Kreisfreundschaftsspiele",
-   "anpfiff": "2026-08-14T17:30:00.000Z",
+   "anpfiff": "2026-08-14T19:30:00.000Z",
    "zeit": "19:30",
    "hinweis": null,
    "heim": "GSV Moers II",
@@ -56,7 +56,7 @@
    "ereignisse": [],
    "abgeschlossen": false,
    "laeuft": false,
-   "seitAnpfiffMin": -142
+   "seitAnpfiffMin": -95
   },
   {
    "url": "https://www.fussball.de/spiel/sc-rheinkamp-tv-kapellen/-/spiel/031B7NOED8000000VS5489BUVV628VP4",
@@ -65,7 +65,7 @@
    "zone": "kern",
    "liga": "KL C Gruppe 2",
    "wettbewerb": "Kreisfreundschaftsspiele",
-   "anpfiff": "2026-08-14T18:00:00.000Z",
+   "anpfiff": "2026-08-14T20:00:00.000Z",
    "zeit": "20:00",
    "hinweis": "Absetzung",
    "heim": "SC Rheinkamp",
@@ -74,7 +74,7 @@
    "ereignisse": [],
    "abgeschlossen": false,
    "laeuft": false,
-   "seitAnpfiffMin": -172
+   "seitAnpfiffMin": -125
   }
  ]
 }
