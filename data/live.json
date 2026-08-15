@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T20:41:32.432Z",
+ "aktualisiert": "2026-08-15T20:59:58.392Z",
  "tag": "15.08.",
  "datum": "2026-08-15",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 702,
+   "seitAnpfiffMin": 720,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 582,
+   "seitAnpfiffMin": 600,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -140,7 +140,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 522,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -168,7 +168,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 462,
+   "seitAnpfiffMin": 480,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -193,7 +193,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 462,
+   "seitAnpfiffMin": 480,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -221,7 +221,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 432,
+   "seitAnpfiffMin": 450,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -246,7 +246,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 402,
+   "seitAnpfiffMin": 420,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -350,7 +350,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 342,
+   "seitAnpfiffMin": 360,
    "laeuft": false,
    "abgeschlossen": true
   }
