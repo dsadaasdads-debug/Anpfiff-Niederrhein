@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T14:40:52.148Z",
+ "aktualisiert": "2026-08-15T15:00:04.760Z",
  "tag": "15.08.",
  "datum": "2026-08-15",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 341,
+   "seitAnpfiffMin": 360,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 240,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -76,7 +76,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 180,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -101,7 +101,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 101,
+   "seitAnpfiffMin": 120,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -126,7 +126,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 101,
+   "seitAnpfiffMin": 120,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -151,7 +151,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 71,
+   "seitAnpfiffMin": 90,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -176,7 +176,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 41,
+   "seitAnpfiffMin": 60,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -201,7 +201,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -19,
+   "seitAnpfiffMin": 0,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -226,7 +226,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -49,
+   "seitAnpfiffMin": -30,
    "laeuft": false,
    "abgeschlossen": false
   }
