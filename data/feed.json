@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T14:39:36.080Z",
+ "aktualisiert": "2026-08-15T15:35:27.837Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -762,39 +762,13 @@
    "grund": "pfad"
   },
   {
-   "id": "rp:152589319",
-   "titel": "Drittligaspiel im Liveticker: Anstoß in Ostwestfalen – MSV Duisburg gastiert beim SC Verl",
-   "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-zu-gast-in-verl-das-spiel-im-liveticker_aid-152589319",
-   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
-   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
-   "datum": "2026-08-15T14:32:00.000Z",
-   "sortZeit": 1786732320000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
    "id": "funke:412851999",
-   "titel": "LIVE! MSV Duisburg zu Gast beim Verl – Hahn nicht im Kader, Safi beginnt",
+   "titel": "0:1! Ex-Duisburger Tim Heike trifft: MSV liegt beim SC Verl früh zurück",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412851999/der-msv-duisburg-spielt-beim-sc-verl-das-match-im-liveticker.html",
    "teaser": "Der MSV Duisburg spielt am Samstag in der 3. Liga beim SC Verl. Anstoß an der Poststraße ist um 16.30 Uhr. Wir sind mit einem Liveticker am Start.",
    "bild": "https://img.sparknews.funkemedien.de/412852101/412852101_1786617390_v16_9_600.jpeg",
-   "datum": "2026-08-15T13:34:00.000Z",
-   "sortZeit": 1786728840000,
+   "datum": "2026-08-15T15:33:00.000Z",
+   "sortZeit": 1786735980000,
    "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
@@ -814,6 +788,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:152589319",
+   "titel": "Drittligaspiel im Liveticker: Ex-Duisburger Heike trifft – MSV liegt beim SC Verl in Rückstand",
+   "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-zu-gast-in-verl-das-spiel-im-liveticker_aid-152589319",
+   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
+   "datum": "2026-08-15T14:46:00.000Z",
+   "sortZeit": 1786733160000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412863525",
