@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T17:01:31.380Z",
+ "aktualisiert": "2026-08-15T17:30:23.950Z",
  "tag": "15.08.",
  "datum": "2026-08-15",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 482,
+   "seitAnpfiffMin": 510,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 362,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -140,7 +140,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 302,
+   "seitAnpfiffMin": 330,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -168,7 +168,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -193,7 +193,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -221,7 +221,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 212,
+   "seitAnpfiffMin": 240,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -244,11 +244,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 182,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 210,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -345,12 +345,12 @@
     }
    ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Jens Hempel",
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 122,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -375,7 +375,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 92,
+   "seitAnpfiffMin": 120,
    "laeuft": true,
    "abgeschlossen": false
   }
