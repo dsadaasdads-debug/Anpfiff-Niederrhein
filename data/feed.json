@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T19:34:53.250Z",
+ "aktualisiert": "2026-08-15T20:39:29.962Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 26
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -739,6 +739,34 @@
    "grund": "verein"
   },
   {
+   "id": "funke:412873448",
+   "titel": "Freudloses Comeback nach 24 Jahren: Duisburger FV 08 enttäuscht in Mülheim",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412873448/freudloses-comeback-nach-24-jahren-duisburger-fv-08-enttaeuscht-in-muelheim.html",
+   "teaser": "Der Landesliga-Aufsteiger legt ohne sieben Urlauber einen verbockten Start hin und hofft nun auf Besserung im Derby gegen Homberg.",
+   "bild": "https://img.sparknews.funkemedien.de/412873464/412873464_1786822888_v16_9_600.jpeg",
+   "datum": "2026-08-15T19:43:47.000Z",
+   "sortZeit": 1786751027000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Duisburger FV 08"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412872889",
    "titel": "MSV Duisburg: Doppeltorschütze Florian Krüger ist der Spieler des Spiels",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412872889/msv-duisburg-doppeltorschuetze-florian-krueger-ist-der-spieler-des-spiels.html",
@@ -910,9 +938,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
