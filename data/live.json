@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T15:22:25.591Z",
+ "aktualisiert": "2026-08-15T15:42:16.839Z",
  "tag": "15.08.",
  "datum": "2026-08-15",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 382,
+   "seitAnpfiffMin": 402,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 262,
+   "seitAnpfiffMin": 282,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -76,7 +76,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 202,
+   "seitAnpfiffMin": 222,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -101,7 +101,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 142,
+   "seitAnpfiffMin": 162,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -126,7 +126,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 142,
+   "seitAnpfiffMin": 162,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -143,17 +143,20 @@
    "zeit": "13:30",
    "heim": "Türkischer SV 1920 Bruckhausen",
    "gast": "FC Moers-Meerfeld",
-   "tore": null,
+   "tore": {
+    "heim": 10,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 112,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 132,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -176,7 +179,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 82,
+   "seitAnpfiffMin": 102,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -193,7 +196,10 @@
    "zeit": "15:00",
    "heim": "SuS 09 Dinslaken",
    "gast": "SV Budberg II",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
@@ -201,7 +207,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 22,
+   "seitAnpfiffMin": 42,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -226,8 +232,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -8,
-   "laeuft": false,
+   "seitAnpfiffMin": 12,
+   "laeuft": true,
    "abgeschlossen": false
   }
  ]
