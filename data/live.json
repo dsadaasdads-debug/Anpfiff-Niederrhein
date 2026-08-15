@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T13:01:40.529Z",
+ "aktualisiert": "2026-08-15T13:37:56.016Z",
  "tag": "15.08.",
  "datum": "2026-08-15",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 278,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 122,
+   "seitAnpfiffMin": 158,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -76,32 +76,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 62,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "url": "https://www.fussball.de/spiel/1fc-lintfort-vfr-fischeln-a1/-/spiel/031ECKLDLC000000VS5489BUVUR5FS5A",
-   "verein": "1. FC Lintfort A-Jugend",
-   "heimatverein": "1. FC Lintfort",
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "liga": null,
-   "wettbewerb": "Kreisfreundschaftsspiele",
-   "anpfiff": "2026-08-15T12:00:00.000Z",
-   "zeit": "12:00",
-   "heim": "1.FC Lintfort",
-   "gast": "VfR Fischeln A1",
-   "tore": null,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "tickerAutor": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": "abgesagt",
-   "seitAnpfiffMin": 62,
+   "seitAnpfiffMin": 98,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -126,7 +101,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 2,
+   "seitAnpfiffMin": 38,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -151,7 +126,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 2,
+   "seitAnpfiffMin": 38,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -174,10 +149,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -28,
-   "laeuft": false,
+   "seitAnpfiffMin": 8,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -201,7 +176,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -58,
+   "seitAnpfiffMin": -22,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -226,7 +201,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -118,
+   "seitAnpfiffMin": -82,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -251,7 +226,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -148,
+   "seitAnpfiffMin": -112,
    "laeuft": false,
    "abgeschlossen": false
   }
