@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T15:00:04.760Z",
+ "aktualisiert": "2026-08-15T15:22:25.591Z",
  "tag": "15.08.",
  "datum": "2026-08-15",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 360,
+   "seitAnpfiffMin": 382,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 240,
+   "seitAnpfiffMin": 262,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -74,11 +74,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 180,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 202,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -101,7 +101,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 120,
+   "seitAnpfiffMin": 142,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -126,7 +126,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 120,
+   "seitAnpfiffMin": 142,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -151,7 +151,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 90,
+   "seitAnpfiffMin": 112,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -176,7 +176,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 60,
+   "seitAnpfiffMin": 82,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -197,12 +197,12 @@
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
-   "tickerAutor": "Abdullah Topcu",
-   "hatTicker": true,
-   "abschnitt": "PRE",
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 0,
-   "laeuft": false,
+   "seitAnpfiffMin": 22,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -226,7 +226,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -30,
+   "seitAnpfiffMin": -8,
    "laeuft": false,
    "abgeschlossen": false
   }
