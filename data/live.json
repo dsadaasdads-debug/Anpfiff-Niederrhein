@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T15:42:16.839Z",
+ "aktualisiert": "2026-08-15T15:57:53.455Z",
  "tag": "15.08.",
  "datum": "2026-08-15",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 402,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 282,
+   "seitAnpfiffMin": 298,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -68,15 +68,79 @@
    "zeit": "12:00",
    "heim": "FC Neukirchen-Vluyn 09/21",
    "gast": "FC Neukirchen-Vluyn 09/21 III",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 3,
+    "gast": 1
+   },
+   "ereignisse": [
+    {
+     "minute": 25,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Elias Karaicic",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 51,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Justus Hoffmann",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m3-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 58,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noel Chiduch",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 66,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Anthony Vucica",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 222,
+   "seitAnpfiffMin": 238,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -93,17 +157,20 @@
    "zeit": "13:00",
    "heim": "SV Budberg",
    "gast": "SC Westfalia Kinderhaus",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 9
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 162,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 178,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -126,7 +193,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 162,
+   "seitAnpfiffMin": 178,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -154,7 +221,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 132,
+   "seitAnpfiffMin": 148,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -179,7 +246,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 102,
+   "seitAnpfiffMin": 118,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -197,7 +264,7 @@
    "heim": "SuS 09 Dinslaken",
    "gast": "SV Budberg II",
    "tore": {
-    "heim": 0,
+    "heim": 1,
     "gast": 0
    },
    "ereignisse": [],
@@ -207,7 +274,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 42,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -232,7 +299,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 12,
+   "seitAnpfiffMin": 28,
    "laeuft": true,
    "abgeschlossen": false
   }
