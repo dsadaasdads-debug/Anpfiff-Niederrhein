@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T13:37:56.016Z",
+ "aktualisiert": "2026-08-15T13:56:07.856Z",
  "tag": "15.08.",
  "datum": "2026-08-15",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 278,
+   "seitAnpfiffMin": 296,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 158,
+   "seitAnpfiffMin": 176,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -76,7 +76,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 98,
+   "seitAnpfiffMin": 116,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -101,7 +101,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 38,
+   "seitAnpfiffMin": 56,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -126,7 +126,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 38,
+   "seitAnpfiffMin": 56,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -151,7 +151,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 8,
+   "seitAnpfiffMin": 26,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -176,7 +176,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -22,
+   "seitAnpfiffMin": -4,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -201,7 +201,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -82,
+   "seitAnpfiffMin": -64,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -226,7 +226,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -112,
+   "seitAnpfiffMin": -94,
    "laeuft": false,
    "abgeschlossen": false
   }
