@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T10:00:41.881Z",
+ "aktualisiert": "2026-08-15T13:18:48.344Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -3348,15 +3348,6 @@
    "staffelId": null,
    "naechste": [
     {
-     "datum": "Samstag, 15.08.2026 - 12:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "1.FC Lintfort",
-     "gast": "VfR Fischeln A1",
-     "url": "https://www.fussball.de/spiel/1fc-lintfort-vfr-fischeln-a1/-/spiel/031ECKLDLC000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
      "datum": "Sonntag, 23.08.2026 - 11:00 Uhr",
      "wettbewerb": "Landesfreundschaftsspiele",
      "heim": "VFB Speldorf",
@@ -3391,6 +3382,15 @@
      "url": "https://www.fussball.de/spiel/1fc-lintfort-sf-hamborn-07/-/spiel/031ECV0D4S000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Dienstag, 01.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "1.FC Lintfort",
+     "gast": "SuS 09 Dinslaken",
+     "url": "https://www.fussball.de/spiel/1fc-lintfort-sus-09-dinslaken/-/spiel/031E6528E0000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [],
@@ -4366,6 +4366,15 @@
      "hinweis": "Absetzung"
     },
     {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "TSV Bruckhausen",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tsv-bruckhausen/-/spiel/031PLB9LN8000000VS5489BTVT8K11BC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SpVgg. Rheurdt-Schaephuysen",
@@ -4389,15 +4398,6 @@
      "heim": "SpVgg. Rheurdt-Schaephuysen",
      "gast": "ESV Hohenbudberg",
      "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-esv-hohenbudberg/-/spiel/031H9RCFBS000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "TV Asberg I",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tv-asberg-i/-/spiel/031H9RCDA0000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -5285,15 +5285,6 @@
      "hinweis": null
     },
     {
-     "datum": "Samstag, 08.08.2026 - 14:00 Uhr",
-     "wettbewerb": "Landesfreundschaftsspiele",
-     "heim": "SV Budberg I",
-     "gast": "SV Millingen",
-     "url": "https://www.fussball.de/spiel/sv-budberg-i-sv-millingen/-/spiel/031DHP6NQK000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
      "datum": "Donnerstag, 06.08.2026 - 19:45 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
      "heim": "TuS Mündelheim",
@@ -5319,6 +5310,15 @@
      "url": "https://www.fussball.de/spiel/sv-issum-sv-millingen/-/spiel/031CIASH9O000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 26.07.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Millingen",
+     "gast": "FC Moers-Meerfeld II",
+     "url": "https://www.fussball.de/spiel/sv-millingen-fc-moers-meerfeld-ii/-/spiel/031CMPDFDK000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
     }
    ]
   },
