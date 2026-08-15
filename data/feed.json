@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T17:35:49.041Z",
+ "aktualisiert": "2026-08-15T18:47:56.550Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 26
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,35 @@
  ],
  "artikel": [
   {
+   "id": "funke:412870763",
+   "titel": "Mehr Selbstvertrauen in Magenta: Frauen des TuS Lintfort sammeln Pluspunkte ein",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412870763/mehr-selbstvertrauen-in-magenta-frauen-des-tus-lintfort-sammeln-pluspunkte-ein.html",
+   "teaser": "Beim internationalen Vorbereitungsturnier siegt TuS-Team dreimal. Neuzugang spielt sich etwas nach vorn. Dazu gibt es unser Torvideo.",
+   "bild": "https://img.sparknews.funkemedien.de/412873176/412873176_1786818040_v16_9_600.jpeg",
+   "datum": "2026-08-15T18:44:04.000Z",
+   "sortZeit": 1786819444000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412870129",
    "titel": "Flutlicht-Panne bei SV Scherpenberg: Jetzt legt Schwarz-Weiß Essen Einspruch ein",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412870129/flutlicht-panne-bei-sv-scherpenberg-jetzt-legt-schwarz-weiss-essen-einspruch-ein.html",
@@ -708,6 +737,34 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "verein"
+  },
+  {
+   "id": "funke:412872889",
+   "titel": "MSV Duisburg: Doppeltorschütze Florian Krüger ist der Spieler des Spiels",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412872889/msv-duisburg-doppeltorschuetze-florian-krueger-ist-der-spieler-des-spiels.html",
+   "teaser": "Florian Krüger musste beim MSV zunächst mit der Reservistenrolle begnügen. Kapitän Alexander Hahn zollt er größten Respekt.",
+   "bild": "https://img.sparknews.funkemedien.de/412872892/412872892_1786815820_v16_9_600.jpeg",
+   "datum": "2026-08-15T17:48:38.000Z",
+   "sortZeit": 1786744118000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "funke:412872563",
@@ -881,9 +938,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
