@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T09:40:55.790Z",
+ "aktualisiert": "2026-08-15T10:39:00.109Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,35 @@
  ],
  "artikel": [
   {
+   "id": "funke:412870129",
+   "titel": "Flutlicht-Panne bei SV Scherpenberg: Jetzt legt Schwarz-Weiß Essen Einspruch ein",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412870129/flutlicht-panne-bei-sv-scherpenberg-jetzt-legt-schwarz-weiss-essen-einspruch-ein.html",
+   "teaser": "Sportlicher Glanzstart in der Fußball-Oberliga wird von Unstimmigkeiten mit TV Asberg überschattet. Auch Stadt Moers ist nun gefordert.",
+   "bild": "https://img.sparknews.funkemedien.de/412870659/412870659_1786789686_v16_9_600.jpeg",
+   "datum": "2026-08-15T10:33:46.000Z",
+   "sortZeit": 1786790026000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "SV Scherpenberg 1921",
+    "TV Asberg 1897"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412869886",
    "titel": "Plan geändert: Handballfrauen des TuS Lintfort testen Sonntag auch Südkorea",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412869886/plan-geaendert-handballfrauen-des-tus-lintfort-testen-sonntag-auch-suedkorea.html",
@@ -699,6 +728,34 @@
    "zone": "kern",
    "vereine": [
     "SV Scherpenberg 1921"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412851999",
+   "titel": "LIVE! Spektakel (nahezu) garantiert: MSV Duisburg zu Gast beim SC Verl",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412851999/der-msv-duisburg-spielt-beim-sc-verl-das-match-im-liveticker.html",
+   "teaser": "Der MSV Duisburg spielt am Samstag in der 3. Liga beim SC Verl. Anstoß an der Poststraße ist um 16.30 Uhr. Wir sind mit einem Liveticker am Start.",
+   "bild": "https://img.sparknews.funkemedien.de/412852101/412852101_1786617390_v16_9_600.jpeg",
+   "datum": "2026-08-15T09:52:00.000Z",
+   "sortZeit": 1786715520000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
    ],
    "sportart": "Fußball",
    "ereignis": null,
@@ -1034,9 +1091,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1554,32 +1609,6 @@
    "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
    "datum": "2026-08-13T11:30:00.000Z",
    "sortZeit": 1786548600000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412851999",
-   "titel": "Der MSV Duisburg spielt beim SC Verl – das Match im Liveticker",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article412851999/der-msv-duisburg-spielt-beim-sc-verl-das-match-im-liveticker.html",
-   "teaser": "Der MSV Duisburg spielt am Samstag in der 3. Liga beim SC Verl. Anstoß an der Poststraße ist um 16.30 Uhr. Wir sind mit einem Liveticker am Start.",
-   "bild": "https://img.sparknews.funkemedien.de/412852101/412852101_1786617390_v16_9_600.jpeg",
-   "datum": "2026-08-13T10:39:36.000Z",
-   "sortZeit": 1786545576000,
    "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
@@ -6058,32 +6087,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:151429437",
-   "titel": "Fußball-Kreis Moers: Saison-Eröffnungsspiel steigt in Rheinhausen",
-   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-kreis-moers-rahmenterninplan-pokalwettbewerbe-weitere-termine_aid-151429437",
-   "teaser": "Am 29. August werden beim VfL Rheinhausen im Saison-Eröffnungsspiel die ersten Kreisliga-Punkte vergeben. Im Frauen-Pokal gibt’s einen Negativrekord. Was noch auf der Mittwoch-Sitzung vom Kreis-Fußballausschuss Moers besprochen und festgelegt wurde.",
-   "bild": "https://rp-online.de/imgs/32/2/7/3/5/6/7/3/6/7/tok_3090c459bf626efde864fe309c3d1c34/w1200_h630_x1350_y900_rp_20260514_J_0280-4abab58f6c660cb6.jpg",
-   "datum": "2026-07-16T09:43:24.000Z",
-   "sortZeit": 1784195004000,
-   "punkte": 110,
-   "paywall": true,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Sport Duisburg",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers",
-    "Duisburg",
-    "Xanten"
-   ],
-   "zone": "kern",
-   "vereine": [],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   }
  ]
 }
