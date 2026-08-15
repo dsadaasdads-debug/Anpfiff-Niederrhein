@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T13:44:17.054Z",
+ "aktualisiert": "2026-08-15T14:39:36.080Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -682,6 +682,34 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412758441",
+   "titel": "Die Ultras aus der Kreisliga: „Unser Familienausflug geht zum Sportplatz“",
+   "url": "https://www.nrz.de/freizeit/article412758441/die-ultras-aus-der-kreisliga-unser-familienausflug-geht-zum-sportplatz.html",
+   "teaser": "Sie grillen, organisieren Fanmärsche und reisen zu Auswärtsspielen: Beim SV Issum ist der Fußball wieder zum Treffpunkt geworden.",
+   "bild": "https://img.sparknews.funkemedien.de/412758493/412758493_1785830214_v16_9_600.jpeg",
+   "datum": "2026-08-15T14:00:00.000Z",
+   "sortZeit": 1786773600000,
+   "punkte": 100,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Issum",
+   "ortSicher": true,
+   "orte": [
+    "Issum"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Issum 1930"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "verein"
+  },
+  {
    "id": "funke:412866112",
    "titel": "Scherpenberger Glanzstart, aber: Platzverweise und Skandal mit Flutlicht-Ausfall",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412866112/scherpenberger-glanzstart-aber-platzverweise-und-skandal-mit-flutlicht-ausfall.html",
@@ -732,6 +760,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:152589319",
+   "titel": "Drittligaspiel im Liveticker: Anstoß in Ostwestfalen – MSV Duisburg gastiert beim SC Verl",
+   "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-zu-gast-in-verl-das-spiel-im-liveticker_aid-152589319",
+   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
+   "datum": "2026-08-15T14:32:00.000Z",
+   "sortZeit": 1786732320000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412851999",
