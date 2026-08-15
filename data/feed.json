@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T05:42:10.822Z",
+ "aktualisiert": "2026-08-15T06:58:27.080Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
