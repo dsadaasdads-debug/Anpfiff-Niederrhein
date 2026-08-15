@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T19:04:45.292Z",
+ "aktualisiert": "2026-08-15T21:58:34.160Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -31,7 +31,19 @@
      "punkte": 3
     },
     {
-     "platz": 3,
+     "platz": 2,
+     "verein": "Mülheimer FC 97",
+     "teamId": "011MIE8CPG000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "2:0",
+     "differenz": 2,
+     "punkte": 3
+    },
+    {
+     "platz": 4,
      "verein": "1. FC Kleve 63/03",
      "teamId": "011MICO3BK000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -43,7 +55,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "1. FC Lintfort",
      "teamId": "011MI9O6GK000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -55,7 +67,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "ASV Süchteln",
      "teamId": "011MIBT2S4000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -67,31 +79,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
-     "verein": "Duisburger FV 08",
-     "teamId": "011MIDHOES000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 3,
-     "verein": "Mülheimer FC 97",
-     "teamId": "011MIE8CPG000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 3,
+     "platz": 4,
      "verein": "SC Union Nettetal",
      "teamId": "011MIA96QC000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -103,7 +91,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "SC Victoria Mennrath",
      "teamId": "011MIAE48S000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -115,7 +103,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "SV Biemenhorst",
      "teamId": "011MIBAN1G000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -127,7 +115,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "SV Budberg",
      "teamId": "011MIEFDHS000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -139,7 +127,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "Sportfreunde 06 Neuwerk",
      "teamId": "011MIF5M24000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -151,7 +139,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "VFB Homberg",
      "teamId": "011MIEFD0K000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -163,7 +151,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "VSF Amern",
      "teamId": "011MIEFE10000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -175,7 +163,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "VfB Speldorf",
      "teamId": "011MICNMMK000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -187,7 +175,7 @@
      "punkte": 0
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "VfL Rhede",
      "teamId": "011MIBAORC000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -199,7 +187,19 @@
      "punkte": 0
     },
     {
-     "platz": 17,
+     "platz": 16,
+     "verein": "Duisburger FV 08",
+     "teamId": "011MIDHOES000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "0:2",
+     "differenz": -2,
+     "punkte": 0
+    },
+    {
+     "platz": 16,
      "verein": "VfB Bottrop",
      "teamId": "011MIASA78000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -3232,7 +3232,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/1-fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/011MI9O6GK000000VTVG0001VTR8C1K7",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 3,
+   "platz": 4,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
@@ -4896,7 +4896,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-budberg-sv-budberg-1946-niederrhein/-/saison/2627/team-id/011MIEFDHS000000VTVG0001VTR8C1K7",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 3,
+   "platz": 4,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
