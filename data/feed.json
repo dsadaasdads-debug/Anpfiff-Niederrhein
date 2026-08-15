@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T10:39:00.109Z",
+ "aktualisiert": "2026-08-15T11:33:59.505Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,8 +40,11 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "ok",
-   "eintraege": 10
+   "status": "fehler",
+   "fehler": "HTTP 503",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-15T10:38:53.866Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "moerser-sc",
@@ -59,7 +62,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 23
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
