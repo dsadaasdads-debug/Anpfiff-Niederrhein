@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T16:19:18.508Z",
+ "aktualisiert": "2026-08-15T16:44:30.997Z",
  "tag": "15.08.",
  "datum": "2026-08-15",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 439,
+   "seitAnpfiffMin": 465,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 319,
+   "seitAnpfiffMin": 345,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -140,7 +140,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 259,
+   "seitAnpfiffMin": 285,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -168,7 +168,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 199,
+   "seitAnpfiffMin": 225,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -191,11 +191,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 199,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 225,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -221,7 +221,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 169,
+   "seitAnpfiffMin": 195,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -246,7 +246,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 139,
+   "seitAnpfiffMin": 165,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -264,7 +264,7 @@
    "heim": "SuS 09 Dinslaken",
    "gast": "SV Budberg II",
    "tore": {
-    "heim": 1,
+    "heim": 5,
     "gast": 0
    },
    "ereignisse": [
@@ -282,6 +282,66 @@
      },
      "teamSlug": "sus-09-dinslaken-m1-2026-27",
      "clubSlug": "sus-09-dinslaken"
+    },
+    {
+     "minute": 56,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Max Suchomel",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "sus-09-dinslaken-m1-2026-27",
+     "clubSlug": "sus-09-dinslaken"
+    },
+    {
+     "minute": 59,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Stefan Frieler",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "sus-09-dinslaken-m1-2026-27",
+     "clubSlug": "sus-09-dinslaken"
+    },
+    {
+     "minute": 64,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Sebastian Eisenstein",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "sus-09-dinslaken-m1-2026-27",
+     "clubSlug": "sus-09-dinslaken"
+    },
+    {
+     "minute": 69,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Colin Schmitt",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 0
+     },
+     "teamSlug": "sus-09-dinslaken-m1-2026-27",
+     "clubSlug": "sus-09-dinslaken"
     }
    ],
    "zuschauer": null,
@@ -290,7 +350,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
+   "seitAnpfiffMin": 105,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -315,7 +375,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 49,
+   "seitAnpfiffMin": 75,
    "laeuft": true,
    "abgeschlossen": false
   }
