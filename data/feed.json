@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T15:35:27.837Z",
+ "aktualisiert": "2026-08-15T16:41:50.965Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -762,13 +762,13 @@
    "grund": "pfad"
   },
   {
-   "id": "funke:412851999",
-   "titel": "0:1! Ex-Duisburger Tim Heike trifft: MSV liegt beim SC Verl früh zurück",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article412851999/der-msv-duisburg-spielt-beim-sc-verl-das-match-im-liveticker.html",
-   "teaser": "Der MSV Duisburg spielt am Samstag in der 3. Liga beim SC Verl. Anstoß an der Poststraße ist um 16.30 Uhr. Wir sind mit einem Liveticker am Start.",
-   "bild": "https://img.sparknews.funkemedien.de/412852101/412852101_1786617390_v16_9_600.jpeg",
-   "datum": "2026-08-15T15:33:00.000Z",
-   "sortZeit": 1786735980000,
+   "id": "funke:412865989",
+   "titel": "Verler Wahnsinn 2.0! MSV dreht erneut das Spiel beim Sportclub und siegt 4:2",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412865989/verler-wahnsinn-20-msv-dreht-erneut-das-spiel-beim-sportclub-und-siegt-42.html",
+   "teaser": "Erneut gibt es an der Poststraße ein Spektakel. Der MSV Duisburg liefert wie im letzten Jahr ein Spektakel ab und steht vorübergehend an der Spitze.",
+   "bild": "https://img.sparknews.funkemedien.de/412872521/412872521_1786810558_v16_9_600.jpeg",
+   "datum": "2026-08-15T16:25:35.000Z",
+   "sortZeit": 1786739135000,
    "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
@@ -791,12 +791,12 @@
   },
   {
    "id": "rp:152589319",
-   "titel": "Drittligaspiel im Liveticker: Ex-Duisburger Heike trifft – MSV liegt beim SC Verl in Rückstand",
+   "titel": "Drittligaspiel im Liveticker: 4:2 nach 0:2 – MSV Duisburg dreht Partie in Verl",
    "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-zu-gast-in-verl-das-spiel-im-liveticker_aid-152589319",
    "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
    "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
-   "datum": "2026-08-15T14:46:00.000Z",
-   "sortZeit": 1786733160000,
+   "datum": "2026-08-15T16:17:00.000Z",
+   "sortZeit": 1786738620000,
    "punkte": 80,
    "paywall": false,
    "quelle": "RP Online",
@@ -814,6 +814,34 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "funke:412851999",
+   "titel": "4:2! Krüger, Lobinger und Sussek treffen: MSV Duisburg dreht Spiel in Verl",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412851999/der-msv-duisburg-spielt-beim-sc-verl-das-match-im-liveticker.html",
+   "teaser": "Der MSV Duisburg spielt am Samstag in der 3. Liga beim SC Verl. Anstoß an der Poststraße ist um 16.30 Uhr. Wir sind mit einem Liveticker am Start.",
+   "bild": "https://img.sparknews.funkemedien.de/412852101/412852101_1786617390_v16_9_600.jpeg",
+   "datum": "2026-08-15T16:10:00.000Z",
+   "sortZeit": 1786738200000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "funke:412863525",
@@ -1117,9 +1145,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
