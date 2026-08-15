@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T07:44:50.347Z",
+ "aktualisiert": "2026-08-15T08:45:47.804Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 23
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,35 @@
  ],
  "artikel": [
   {
+   "id": "funke:412869886",
+   "titel": "Plan geändert: Handballfrauen des TuS Lintfort testen Sonntag auch Südkorea",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412869886/plan-geaendert-handballfrauen-des-tus-lintfort-testen-sonntag-auch-suedkorea.html",
+   "teaser": "A-Nationalmannschaft aus Südkorea sucht kurzfristig einen Testgegner. Und wird Sonntag an der Eyller Straße auflaufen. Dazu kommt Venlo.",
+   "bild": "https://img.sparknews.funkemedien.de/412638013/412638013_1786781773_v16_9_600.jpeg",
+   "datum": "2026-08-15T08:17:16.000Z",
+   "sortZeit": 1786781836000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412866112",
    "titel": "Scherpenberger Glanzstart, aber: Platzverweise und Skandal mit Flutlicht-Ausfall",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412866112/scherpenberger-glanzstart-aber-platzverweise-und-skandal-mit-flutlicht-ausfall.html",
@@ -788,9 +817,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
@@ -1035,9 +1062,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1061,9 +1086,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
