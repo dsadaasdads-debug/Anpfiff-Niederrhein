@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T15:58:14.373Z",
+ "aktualisiert": "2026-08-15T19:04:45.292Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -452,6 +452,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SV Genc Osman Duisburg",
+     "teamId": "011MIB8DCS000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "9:2",
+     "differenz": 7,
+     "punkte": 3
+    },
+    {
+     "platz": 2,
      "verein": "Dostlukspor Bottrop",
      "teamId": "011MI9UE40000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -463,7 +475,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "Duisburger SV 1900",
      "teamId": "011MICSOOO000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -475,7 +487,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "FC Neukirchen-Vluyn",
      "teamId": "023Q5785LS000000VS548985VT5V9K59",
      "spiele": 0,
@@ -487,7 +499,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "FSV Duisburg",
      "teamId": "011MIFCRO8000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -499,7 +511,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "GSV Moers",
      "teamId": "011MID3SSK000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -511,7 +523,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "Rhenania Bottrop",
      "teamId": "011MIEFDV4000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -523,7 +535,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "SC 1920 Oberhausen",
      "teamId": "011MIE0KMG000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -535,7 +547,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "SF Hamborn 07",
      "teamId": "011MIC2OFK000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -547,7 +559,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "SV Fortuna Bottrop",
      "teamId": "011MI96Q1S000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -559,19 +571,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
-     "verein": "SV Genc Osman Duisburg",
-     "teamId": "011MIB8DCS000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 1,
+     "platz": 2,
      "verein": "SV Rhenania Hamborn",
      "teamId": "011MIBH4BK000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -583,7 +583,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "Schwarz-Weiss Alstaden",
      "teamId": "011MIEUEV8000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -595,7 +595,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "Spvgg Sterkrade 06/07",
      "teamId": "011MICSTMG000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -607,7 +607,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "Spvgg. Sterkrade-Nord",
      "teamId": "011MIEFJGO000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -619,19 +619,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
-     "verein": "SuS 21 Oberhausen",
-     "teamId": "011MI9UHLK000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 1,
+     "platz": 2,
      "verein": "Tus Asterlagen",
      "teamId": "011MI9UGRO000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -643,7 +631,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "VFB Homberg II",
      "teamId": "011MI9I87C000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -655,7 +643,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "VfL Repelen",
      "teamId": "011MIB78VG000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -664,6 +652,18 @@
      "niederlagen": 0,
      "tore": "0:0",
      "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 18,
+     "verein": "SuS 21 Oberhausen",
+     "teamId": "011MI9UHLK000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "2:9",
+     "differenz": -7,
      "punkte": 0
     }
    ]
@@ -1082,6 +1082,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "Krefelder FC Uerdingen",
+     "teamId": "011MIA4KF4000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "5:1",
+     "differenz": 4,
+     "punkte": 3
+    },
+    {
+     "platz": 2,
      "verein": "BW Dingden",
      "teamId": "011MIDCROO000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1093,7 +1105,7 @@
      "punkte": 3
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "Fortuna Düsseldorf U23",
      "teamId": "011MI96NBO000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1105,7 +1117,7 @@
      "punkte": 3
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "SV Scherpenberg",
      "teamId": "011MIB5RU0000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1117,7 +1129,31 @@
      "punkte": 3
     },
     {
-     "platz": 4,
+     "platz": 5,
+     "verein": "SV Sonsbeck",
+     "teamId": "011MIB5PAG000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "1:1",
+     "differenz": 0,
+     "punkte": 1
+    },
+    {
+     "platz": 5,
+     "verein": "Sportfreunde Baumberg",
+     "teamId": "011MIF5I1C000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "1:1",
+     "differenz": 0,
+     "punkte": 1
+    },
+    {
+     "platz": 7,
      "verein": "1. FC Monheim",
      "teamId": "011MIAU70C000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1129,7 +1165,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 7,
      "verein": "1. Spvg. Solingen-Wald",
      "teamId": "011MIBT0IK000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1141,7 +1177,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 7,
      "verein": "FC Büderich",
      "teamId": "011MID3PO0000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1153,31 +1189,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
-     "verein": "Holzheimer SG",
-     "teamId": "011MIDAP84000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 4,
-     "verein": "Krefelder FC Uerdingen",
-     "teamId": "011MIA4KF4000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 4,
+     "platz": 7,
      "verein": "Ratingen 04/19",
      "teamId": "011MIERO8C000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1189,7 +1201,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 7,
      "verein": "SC St. Tönis 11/20",
      "teamId": "011MIC7T0S000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1201,7 +1213,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 7,
      "verein": "SSVg Velbert 02",
      "teamId": "011MIEI1Q8000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1213,19 +1225,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
-     "verein": "SV Sonsbeck",
-     "teamId": "011MIB5PAG000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 4,
+     "platz": 7,
      "verein": "SpVg Schonnebeck",
      "teamId": "011MID3NIC000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1237,19 +1237,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
-     "verein": "Sportfreunde Baumberg",
-     "teamId": "011MIF5I1C000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 4,
+     "platz": 7,
      "verein": "Wuppertaler SV",
      "teamId": "011MIB4F8S000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1261,7 +1249,7 @@
      "punkte": 0
     },
     {
-     "platz": 16,
+     "platz": 15,
      "verein": "ETB SW Essen",
      "teamId": "011MIBKRU0000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1273,7 +1261,7 @@
      "punkte": 0
     },
     {
-     "platz": 17,
+     "platz": 16,
      "verein": "TSV Meerbusch",
      "teamId": "01OSKP4IVO000000VV0AG811VSQ2DN07",
      "spiele": 1,
@@ -1285,7 +1273,7 @@
      "punkte": 0
     },
     {
-     "platz": 17,
+     "platz": 16,
      "verein": "VfL Viktoria Jüchen-Garzweiler",
      "teamId": "011MICDOHK000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1294,6 +1282,18 @@
      "niederlagen": 1,
      "tore": "0:3",
      "differenz": -3,
+     "punkte": 0
+    },
+    {
+     "platz": 18,
+     "verein": "Holzheimer SG",
+     "teamId": "011MIDAP84000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "1:5",
+     "differenz": -4,
      "punkte": 0
     }
    ]
@@ -1304,6 +1304,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SuS 09 Dinslaken",
+     "teamId": "011MIAE2VS000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "5:0",
+     "differenz": 5,
+     "punkte": 3
+    },
+    {
+     "platz": 2,
      "verein": "Hamminkelner SV",
      "teamId": "011MIEUEQG000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1315,7 +1327,7 @@
      "punkte": 3
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "BW Dingden II",
      "teamId": "011MIC7T8S000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1327,7 +1339,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "DJK Rhede",
      "teamId": "011MIAJ0L4000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1339,7 +1351,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "DJK Twisteden",
      "teamId": "011MIA3J6S000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1351,7 +1363,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "Kevelaerer SV",
      "teamId": "011MI9I8B0000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1363,7 +1375,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "PSV Wesel-Lackhausen",
      "teamId": "011MIBNAEG000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1375,7 +1387,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "SF 97/30 Lowick",
      "teamId": "011MIBAO80000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1387,7 +1399,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "SV 08/29 Friedrichsfeld",
      "teamId": "011MICLEFK000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1399,7 +1411,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "SV 1926 Rindern",
      "teamId": "011MIDAPGO000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1411,7 +1423,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "SV Borussia Veen 1920",
      "teamId": "011MIBNBS0000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1423,31 +1435,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
-     "verein": "SV Budberg II",
-     "teamId": "011MIEFG78000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 2,
-     "verein": "SuS 09 Dinslaken",
-     "teamId": "011MIAE2VS000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 2,
+     "platz": 3,
      "verein": "TSV Weeze",
      "teamId": "011MIAE41S000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1459,7 +1447,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "TUS Xanten",
      "teamId": "011MIE0NIG000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1471,7 +1459,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "TuS Stenern",
      "teamId": "011MIBT1TC000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1483,7 +1471,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "VfB Rheingold Emmerich",
      "teamId": "011MICUVNG000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1495,7 +1483,7 @@
      "punkte": 0
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "Westfalia Anholt",
      "teamId": "011MI9I9NC000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1507,7 +1495,7 @@
      "punkte": 0
     },
     {
-     "platz": 18,
+     "platz": 17,
      "verein": "Alemannia Pfalzdorf",
      "teamId": "011MIC2OH0000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1516,6 +1504,18 @@
      "niederlagen": 1,
      "tore": "1:2",
      "differenz": -1,
+     "punkte": 0
+    },
+    {
+     "platz": 18,
+     "verein": "SV Budberg II",
+     "teamId": "011MIEFG78000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "0:5",
+     "differenz": -5,
      "punkte": 0
     }
    ]
@@ -3594,24 +3594,6 @@
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Samstag, 15.08.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "FC Moers-Meerfeld",
-     "gast": "VfL Rheinhausen III",
-     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-vfl-rheinhausen-iii/-/spiel/031CDU31BC000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
-     "datum": "Samstag, 15.08.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "TSV Bruckhausen",
-     "gast": "FC Moers-Meerfeld",
-     "url": "https://www.fussball.de/spiel/tsv-bruckhausen-fc-moers-meerfeld/-/spiel/031OQ13L18000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Donnerstag, 20.08.2026 - 19:30 Uhr",
      "wettbewerb": "Bezirksfreundschaftsspiele",
      "heim": "VfL Repelen",
@@ -3637,9 +3619,45 @@
      "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-ii-fc-moers-meerfeld/-/spiel/031HBDT6TO000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Samstag, 05.09.2026 - 16:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "TV Kaldenhausen",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-tv-kaldenhausen/-/spiel/031HBDT6DO000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 10.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "VfL Rheinhausen II",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/vfl-rheinhausen-ii-fc-moers-meerfeld/-/spiel/031HBDT878000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 15.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "VfL Rheinhausen III",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-vfl-rheinhausen-iii/-/spiel/031CDU31BC000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Samstag, 15.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TSV Bruckhausen",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/tsv-bruckhausen-fc-moers-meerfeld/-/spiel/031OQ13L18000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 09.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
@@ -3666,24 +3684,6 @@
      "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-fc-moers-meerfeld-ii/-/spiel/031KJ8E6R0000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 26.07.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SF Hamborn 07 II",
-     "gast": "FC Moers-Meerfeld",
-     "url": "https://www.fussball.de/spiel/sf-hamborn-07-ii-fc-moers-meerfeld/-/spiel/031EDL8M54000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 07.06.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "FC Moers-Meerfeld",
-     "gast": "SV Schwafheim",
-     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-sv-schwafheim/-/spiel/02TSPTNTT8000000VS5489BUVVJ8R9DS",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -3697,7 +3697,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/fc-neukirchen-vluyn-fc-neukirchen-vluyn-niederrhein/-/saison/2627/team-id/023Q5785LS000000VS548985VT5V9K59",
    "liga": "Bezirksliga Gruppe 5",
    "spielklasse": "Bezirksliga",
-   "platz": 1,
+   "platz": 2,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
@@ -3821,6 +3821,15 @@
      "hinweis": "Absetzung"
     },
     {
+     "datum": "Mittwoch, 19.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TV Asberg II",
+     "gast": "FC Rot-Weiß Moers",
+     "url": "https://www.fussball.de/spiel/tv-asberg-ii-fc-rot-weiss-moers/-/spiel/031PNQ5UVS000000VS5489BTVT8K11BC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga B",
      "heim": "TV Kaldenhausen",
@@ -3844,15 +3853,6 @@
      "heim": "FC Rumeln-Kaldenhausen",
      "gast": "FC Rot-Weiß Moers",
      "url": "https://www.fussball.de/spiel/fc-rumeln-kaldenhausen-fc-rot-weiss-moers/-/spiel/031HBDT854000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 13.09.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "TuS Asterlagen II",
-     "gast": "FC Rot-Weiß Moers",
-     "url": "https://www.fussball.de/spiel/tus-asterlagen-ii-fc-rot-weiss-moers/-/spiel/031HBDT63K000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4024,7 +4024,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/gsv-moers-grafschafter-sv-1910-moers-niederrhein/-/saison/2627/team-id/011MID3SSK000000VTVG0001VTR8C1K7",
    "liga": "Bezirksliga Gruppe 5",
    "spielklasse": "Bezirksliga",
-   "platz": 1,
+   "platz": 2,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
@@ -4787,7 +4787,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-borussia-veen-1920-sv-borussia-veen-1920-niederrhein/-/saison/2627/team-id/011MIBNBS0000000VTVG0001VTR8C1K7",
    "liga": "Bezirksliga Gruppe 4",
    "spielklasse": "Bezirksliga",
-   "platz": 2,
+   "platz": 3,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
@@ -5495,7 +5495,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-scherpenberg-sv-scherpenberg-1921-niederrhein/-/saison/2627/team-id/011MIB5RU0000000VTVG0001VTR8C1K7",
    "liga": "Oberliga Niederrhein",
    "spielklasse": "Oberliga Niederrhein",
-   "platz": 3,
+   "platz": 4,
    "punkte": 3,
    "torverhaeltnis": "5:3",
    "staffelId": "0311F9LVPS00000FVS5489BUVVARDA0V-G",
@@ -6148,7 +6148,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/tus-xanten-tus-xanten-05-22-niederrhein/-/saison/2627/team-id/011MIE0NIG000000VTVG0001VTR8C1K7",
    "liga": "Bezirksliga Gruppe 4",
    "spielklasse": "Bezirksliga",
-   "platz": 2,
+   "platz": 3,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
@@ -6619,7 +6619,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/vfl-repelen-vfl-repelen-08-niederrhein/-/saison/2627/team-id/011MIB78VG000000VTVG0001VTR8C1K7",
    "liga": "Bezirksliga Gruppe 5",
    "spielklasse": "Bezirksliga",
-   "platz": 1,
+   "platz": 2,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
