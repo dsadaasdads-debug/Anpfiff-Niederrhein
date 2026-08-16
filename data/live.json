@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T12:19:01.590Z",
+ "aktualisiert": "2026-08-16T13:04:24.164Z",
  "tag": "16.08.",
  "datum": "2026-08-16",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 214,
+   "seitAnpfiffMin": 259,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -49,11 +49,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 199,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 244,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -72,14 +72,30 @@
     "heim": 3,
     "gast": 1
    },
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 39,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Pascal de Fries",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "fc-rot-weiss-moers-m2-2026-27",
+     "clubSlug": "fc-rot-weiss-moers"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 139,
+   "seitAnpfiffMin": 184,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -104,7 +120,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 109,
+   "seitAnpfiffMin": 154,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -122,8 +138,8 @@
    "heim": "SV Alemannia Kamp II",
    "gast": "TV Kapellen",
    "tore": {
-    "heim": 3,
-    "gast": 7
+    "heim": 4,
+    "gast": 11
    },
    "ereignisse": [
     {
@@ -275,17 +291,92 @@
      },
      "teamSlug": "tv-kapellen-m1-2026-27",
      "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 60,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Luca Domogalla",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 8
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 67,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Julian Strauch",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 9
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 69,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Lukas Kowalski",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 10
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 69,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jonas Prinz",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 11
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 69,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Salih Altay",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 11
+     },
+     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
     }
    ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": "Steffen Kinner-Alsen",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 124,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -301,7 +392,7 @@
    "heim": "TuS Gahlen II",
    "gast": "SV Menzelen",
    "tore": {
-    "heim": 0,
+    "heim": 2,
     "gast": 2
    },
    "ereignisse": [
@@ -334,6 +425,36 @@
      },
      "teamSlug": "sv-menzelen-m1-2026-27",
      "clubSlug": "sv-menzelen"
+    },
+    {
+     "minute": 65,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Timo Dejoks",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "tus-gahlen-m2-2026-27",
+     "clubSlug": "tus-gahlen"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 2,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "tus-gahlen-m2-2026-27",
+     "clubSlug": "tus-gahlen"
     }
    ],
    "zuschauer": null,
@@ -342,7 +463,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
+   "seitAnpfiffMin": 124,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -370,7 +491,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
+   "seitAnpfiffMin": 124,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -395,7 +516,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
+   "seitAnpfiffMin": 124,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -420,7 +541,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
+   "seitAnpfiffMin": 124,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -445,7 +566,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
+   "seitAnpfiffMin": 124,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -462,16 +583,19 @@
    "zeit": "13:00",
    "heim": "SV Budberg",
    "gast": "VfB Speldorf",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Marvin Konopatzki",
    "tickerAutor": "Jamie van de Loo",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -493,10 +617,10 @@
    "schiedsrichter": "Cedric Fox",
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -515,12 +639,12 @@
    "tore": null,
    "ereignisse": [],
    "zuschauer": null,
-   "schiedsrichter": null,
-   "tickerAutor": null,
-   "hatTicker": false,
+   "schiedsrichter": "Keine Angabe",
+   "tickerAutor": "Gerd. Kempkes",
+   "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
+   "seitAnpfiffMin": 4,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -537,16 +661,19 @@
    "zeit": "13:00",
    "heim": "TuS Xanten",
    "gast": "DJK Rhede",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Nenad Kuvac",
    "tickerAutor": "klaus keisers",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -568,10 +695,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -593,10 +720,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -612,16 +739,19 @@
    "zeit": "13:00",
    "heim": "FC Viktoria Alpen 1911 e.V.",
    "gast": "FC Rumeln-Kaldenhausen III",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": "Nils Speicher",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -637,7 +767,10 @@
    "zeit": "13:00",
    "heim": "TuS Borth",
    "gast": "SV Schwafheim",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
@@ -645,7 +778,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
+   "seitAnpfiffMin": 4,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -670,8 +803,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -695,8 +828,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -720,8 +853,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -745,8 +878,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -770,8 +903,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -795,7 +928,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -71,
+   "seitAnpfiffMin": -26,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -820,7 +953,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -71,
+   "seitAnpfiffMin": -26,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -845,7 +978,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -71,
+   "seitAnpfiffMin": -26,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -870,7 +1003,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -116,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -895,7 +1028,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -116,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -920,7 +1053,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -116,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -945,7 +1078,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -116,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -970,7 +1103,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -116,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -995,7 +1128,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -116,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1020,7 +1153,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -116,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1045,7 +1178,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -116,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1070,7 +1203,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -116,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1095,7 +1228,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -191,
+   "seitAnpfiffMin": -146,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1120,7 +1253,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -191,
+   "seitAnpfiffMin": -146,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1145,7 +1278,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -191,
+   "seitAnpfiffMin": -146,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1170,7 +1303,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -191,
+   "seitAnpfiffMin": -146,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1195,7 +1328,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -221,
+   "seitAnpfiffMin": -176,
    "laeuft": false,
    "abgeschlossen": false
   }
