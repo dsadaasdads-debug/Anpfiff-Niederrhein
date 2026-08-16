@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-15T21:58:34.160Z",
+ "aktualisiert": "2026-08-16T02:12:27.443Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4145,7 +4145,7 @@
      "gast": "SV Beeckerwerth",
      "url": "https://www.fussball.de/spiel/msv-moers-sv-beeckerwerth/-/spiel/031MI9KK0K000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
