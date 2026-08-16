@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T19:35:06.925Z",
+ "aktualisiert": "2026-08-16T19:49:43.804Z",
  "tag": "16.08.",
  "datum": "2026-08-16",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 650,
+   "seitAnpfiffMin": 665,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 635,
+   "seitAnpfiffMin": 650,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -95,7 +95,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 575,
+   "seitAnpfiffMin": 590,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -199,7 +199,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 545,
+   "seitAnpfiffMin": 560,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -453,7 +453,32 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 515,
+   "seitAnpfiffMin": 530,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/rsg-verberggartenst-m1-sc-rheinkamp-m2-260816",
+   "verein": "SC Rheinkamp",
+   "heimatverein": null,
+   "ort": "Moers",
+   "zone": "kern",
+   "liga": "KL C Gruppe 2",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-16T13:00:00+02:00",
+   "zeit": "11:00",
+   "heim": "RSG Verberg/Gartenst.",
+   "gast": "SC Rheinkamp II",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 530,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -542,7 +567,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 515,
+   "seitAnpfiffMin": 530,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -586,7 +611,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 515,
+   "seitAnpfiffMin": 530,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -735,7 +760,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 515,
+   "seitAnpfiffMin": 530,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -760,7 +785,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 515,
+   "seitAnpfiffMin": 530,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -785,7 +810,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 515,
+   "seitAnpfiffMin": 530,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -904,7 +929,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 395,
+   "seitAnpfiffMin": 410,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -963,7 +988,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 395,
+   "seitAnpfiffMin": 410,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1097,7 +1122,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 395,
+   "seitAnpfiffMin": 410,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1186,7 +1211,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 395,
+   "seitAnpfiffMin": 410,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1214,7 +1239,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 395,
+   "seitAnpfiffMin": 410,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1239,7 +1264,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 395,
+   "seitAnpfiffMin": 410,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1267,7 +1292,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 395,
+   "seitAnpfiffMin": 410,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1386,7 +1411,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 395,
+   "seitAnpfiffMin": 410,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1505,7 +1530,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 365,
+   "seitAnpfiffMin": 380,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1819,7 +1844,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 365,
+   "seitAnpfiffMin": 380,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1893,7 +1918,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 365,
+   "seitAnpfiffMin": 380,
    "laeuft": false,
    "abgeschlossen": true
   }
