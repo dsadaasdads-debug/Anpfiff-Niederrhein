@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T08:47:10.546Z",
+ "aktualisiert": "2026-08-16T09:42:31.240Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -653,6 +653,32 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: 4:2 nach 0:2, drei Jokertore und sechs Zähler auf dem Konto – der MSV-Sieg in Verl im Video",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-4-2-nach-0-2-drei-jokertore-der-duisburger-sieg-in-verl-hier-im-video_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-16T08:56:00.000Z",
+   "sortZeit": 1786798560000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412870129",
    "titel": "Flutlicht-Panne bei SV Scherpenberg: Jetzt legt Schwarz-Weiß Essen Einspruch ein",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412870129/flutlicht-panne-bei-sv-scherpenberg-jetzt-legt-schwarz-weiss-essen-einspruch-ein.html",
@@ -1213,32 +1239,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: 1:4 in Aachen und dann am Mittwoch auch das noch – bei MSV-Gegner Verl ruckelt's",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-1-4-in-aachen-und-dann-am-mittwoch-auch-das-noch-beim-sc-verl-ruckelt-s_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-14T16:39:00.000Z",
-   "sortZeit": 1786653540000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "rp:153093603",
