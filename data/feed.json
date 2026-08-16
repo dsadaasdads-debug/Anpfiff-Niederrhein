@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T13:45:20.791Z",
+ "aktualisiert": "2026-08-16T14:39:17.529Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -789,6 +789,34 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412878900",
+   "titel": "Wucht von der Bank – deshalb war der Coup des MSV Duisburg in Verl möglich",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412878900/wucht-von-der-bank-deshalb-war-der-coup-des-msv-duisburg-in-verl-moeglich.html",
+   "teaser": "Wie im letzten Jahr dreht der MSV Duisburg in Verl nach einem 0:2-Rückstand das Spiel. Trotzdem gibt es markante Unterschiede.",
+   "bild": "https://img.sparknews.funkemedien.de/412879504/412879504_1786889446_v16_9_600.jpeg",
+   "datum": "2026-08-16T14:33:11.000Z",
+   "sortZeit": 1786818791000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153191811",
    "titel": "2:1-Play-off-Sieg: Borussia-Frauen lösen gegen Duisburg DFB-Pokal-Ticket",
    "url": "https://rp-online.de/nrw/staedte/moenchengladbach/sport/dfb-pokal-borussia-moenchengladbach-frauen-loesen-ticket-fuer-die-hauptrunde_aid-153191811",
@@ -1014,9 +1042,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
