@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T10:40:29.823Z",
+ "aktualisiert": "2026-08-16T11:34:14.245Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 23
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,89 @@
  ],
  "artikel": [
   {
+   "id": "funke:412876755",
+   "titel": "TV Issum wird überrollt – HSG Vennikel demonstriert eindrucksvoll Dominanz",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412876755/tv-issum-wird-ueberrollt-hsg-vennikel-demonstriert-eindrucksvoll-dominanz.html",
+   "teaser": "In den Vorbereitungsspielen sieht der Handball-Verbandsligist weiterhin nicht viel Land. TV Schwafheim setzt sich indes knapp durch.",
+   "bild": "https://img.sparknews.funkemedien.de/412877654/412877654_1786879390_v16_9_600.jpeg",
+   "datum": "2026-08-16T11:27:48.000Z",
+   "sortZeit": 1786879668000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Issum"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TV Schwafheim",
+    "TV Issum"
+   ],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153026525",
+   "titel": "Unentschieden in Baumberg: SV Sonsbeck hadert mit Schiedsrichter und verpasstem Sieg",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-sonsbeck-in-baumberg-aerger-ueber-schiri-und-das-1-1_aid-153026525",
+   "teaser": "1:1 in Baumberg: Der SV Sonsbeck fordert zweimal Elfmeter, trifft den Pfosten und vergibt Top-Chancen. Warum Trainer Losing trotzdem zufrieden ist.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/1/4/3/2/4/9/tok_68871506faaf33063cdf99346cacdb2c/w1200_h630_x1500_y1000_rp_sfb_son_felix_neuhaeuser-e35b3da8deda1514.jpg",
+   "datum": "2026-08-16T11:02:00.000Z",
+   "sortZeit": 1786849320000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "American Football",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153205409",
+   "titel": "Auftakt in die neue Saison: Die Sportfreunde Baumberg punkten einfach zum Start",
+   "url": "https://rp-online.de/nrw/staedte/langenfeld/sport/fussball-oberliga-sportfreunde-baumberg-1-1-gegen-sv-sonsbeck_aid-153205409",
+   "teaser": "Am ersten Spieltag der neuen Saison in der Fußball-Oberliga müssen sich die Sportfreunde Baumberg im Heimspiel gegen den SV Sonsbeck mit einem 1:1 begnügen. Beide Trainer vermissen einen Elfmeterpfiff für ihre Mannschaft. Das sagen sie zur Partie.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/5/3/8/3/6/7/tok_f9cc86b19c68e9e51ca5e5e1975df4e2/w1200_h630_x1470_y479_rp_sfb_son_felix_neuhaeuser-e35b3da8deda1514.jpg",
+   "datum": "2026-08-16T10:46:48.000Z",
+   "sortZeit": 1786848408000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412875945",
    "titel": "Trainer wechselt sich selbst ein: SuS 09 Dinslaken startet mit Kantersieg",
    "url": "https://www.nrz.de/sport/lokalsport/dinslaken-huenxe-voerde/article412875945/trainer-wechselt-sich-selbst-ein-sus-09-dinslaken-startet-mit-kantersieg.html",
@@ -679,6 +762,60 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412877569",
+   "titel": "Starker Auftakt für die Youngster des MSV Duisburg",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412877569/starker-auftakt-fuer-die-youngster-des-msv-duisburg.html",
+   "teaser": "In der DFB-Nachwuchsliga treten die Meidericher B-Junioren mit einer neu formierten Mannschaft an – und gewinnen zum Auftakt in Osnabrück.",
+   "bild": "https://img.sparknews.funkemedien.de/412877706/412877706_1786878883_v16_9_600.jpeg",
+   "datum": "2026-08-16T11:25:08.000Z",
+   "sortZeit": 1786807508000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153204527",
+   "titel": "Joker stechen, Traumstart perfekt: „Muss mehr moderieren als trainieren“ – Hirsch befeuert Euphorie mit Aussage über Team",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-muss-mehr-moderieren-als-trainieren-hirsch-laesst-mit-aussage-ueber-team-aufhorchen_aid-153204527",
+   "teaser": "Der MSV-Trainer lobt seine Spieler nach dem dramatischen 4:2 in Verl in den höchsten Tönen. Die Fans dürften regelrecht euphorisch sein angesichts dessen, was er im Detail über die Qualität seiner Mannschaft sagt – und angesichts dessen, was der Coach daraus für das anstehende DFB-Pokal-Spiel ableitet.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/5/3/6/6/5/5/tok_3b863d77b3c248563e36bc25d8372549/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB5320042E8D7E1-9c61ffb1218b6998.jpg",
+   "datum": "2026-08-16T10:51:00.000Z",
+   "sortZeit": 1786805460000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "rp:151856843",
    "titel": "Die Zebras im Liveblog: 4:2 nach 0:2, drei Jokertore und sechs Zähler auf dem Konto – der MSV-Sieg in Verl im Video",
    "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-4-2-nach-0-2-drei-jokertore-der-duisburger-sieg-in-verl-hier-im-video_aid-151856843",
@@ -716,9 +853,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
