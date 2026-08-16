@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T09:42:31.240Z",
+ "aktualisiert": "2026-08-16T10:40:29.823Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -623,6 +623,32 @@
   }
  ],
  "artikel": [
+  {
+   "id": "funke:412875945",
+   "titel": "Trainer wechselt sich selbst ein: SuS 09 Dinslaken startet mit Kantersieg",
+   "url": "https://www.nrz.de/sport/lokalsport/dinslaken-huenxe-voerde/article412875945/trainer-wechselt-sich-selbst-ein-sus-09-dinslaken-startet-mit-kantersieg.html",
+   "teaser": "Der SuS 09 Dinslaken startet mit einem klaren 5:0-Erfolg gegen den SV Budberg II in die Bezirksliga-Saison. Was der Coach dazu sagt.",
+   "bild": "https://img.sparknews.funkemedien.de/412876368/412876368_1786874387_v16_9_600.jpeg",
+   "datum": "2026-08-16T09:59:47.000Z",
+   "sortZeit": 1786845587000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
   {
    "id": "funke:412870763",
    "titel": "Mehr Selbstvertrauen in Magenta: Frauen des TuS Lintfort sammeln Pluspunkte ein",
