@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T16:42:53.875Z",
+ "aktualisiert": "2026-08-16T17:34:23.720Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,11 +40,8 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "fehler",
-   "fehler": "HTTP 415",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-16T15:35:50.934Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "moerser-sc",
@@ -62,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 26
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -627,6 +624,32 @@
  ],
  "artikel": [
   {
+   "id": "funke:412881361",
+   "titel": "Bewegter Bezirksliga-Start: 18 Gegentore für den VfL Repelen in Bottrop",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412881361/bewegter-bezirksliga-start-abbruch-bei-asterlagen-18-gegentore-fuer-repelen.html",
+   "teaser": "Fußball-Bezirksliga: GSV Moers verliert knapp den Neustart, der Moerser Rivale VfL Repelen scheint nicht konkurrenzfähig zu sein.",
+   "bild": "https://img.sparknews.funkemedien.de/412881413/412881413_1786899661_v16_9_600.jpeg",
+   "datum": "2026-08-16T17:05:47.000Z",
+   "sortZeit": 1786899947000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412880208",
    "titel": "Viel Tempo, tolle Pässe und sehenswerte Tore: TuS Lintfort scheint gestärkt",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412880208/viel-tempo-tolle-paesse-und-sehenswerte-tore-tus-lintfort-scheint-gestaerkt.html",
@@ -694,9 +717,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
@@ -766,6 +787,64 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:153026605",
+   "titel": "Bezirksliga-Start: Was das 1:6 von Borussia Veen in Emmerich wirklich offenlegt",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/borussia-veen-was-die-1-6-pleite-in-emmerich-offenlegt_aid-153026605",
+   "teaser": "Fußball-Bezirksligist Borussia Veen kassiert zum Saisonauftakt eine deutliche Niederlage gegen den Aufsteiger VfB Rheingold Emmerich. Das sind die Gründe.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/1/4/3/4/0/9/tok_a901fcad22b2a959054c18549e036453/w724_h543_x355_y199_Szentulat-1c74e4b47e444768.jpg",
+   "datum": "2026-08-16T17:13:00.000Z",
+   "sortZeit": 1786871580000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [
+    "RP Online Xanten"
+   ],
+   "ort": "Alpen",
+   "ortSicher": false,
+   "orte": [
+    "Alpen",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153026561",
+   "titel": "Kantersieg gegen VfB Speldorf: SV Budberg feiert einen Traumstart in die Landesliga-Saison",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-schlaegt-vfb-speldorf-4-1-zum-saisonstart_aid-153026561",
+   "teaser": "Der SV Budberg startet mit einem Sieg gegen Speldorf in die Landesliga. Nach Rückstand und Platzverweis dreht der SVB auf. Alle Tore und Wendepunkte im Überblick.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/1/4/3/3/1/5/tok_38a42b4fd8f60565c957961482d9feab/w1200_h630_x1350_y900_rp_20260816_J_0728-f957445cb843cb3a.jpg",
+   "datum": "2026-08-16T16:47:00.000Z",
+   "sortZeit": 1786870020000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412880969",
    "titel": "Sonntag ist wieder Paul-Tag: Torjäger trifft bei Budbergs Startsieg doppelt",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412880969/sonntag-ist-wieder-paul-tag-torjaeger-trifft-bei-budbergs-startsieg-doppelt.html",
@@ -777,9 +856,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
@@ -894,6 +971,33 @@
    "vereine": [
     "SV Budberg 1946"
    ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412881165",
+   "titel": "Asterlagens Spiel abgebrochen: Schiedsrichter konnte nicht mehr weitermachen",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412881165/asterlagens-spiel-abgebrochen-schiedsrichter-konnte-nicht-mehr-weitermachen.html",
+   "teaser": "Das Saisondebüt des TuS Asterlagen in der Fußball-Bezirksliga endet schon nach 45 Minuten. Vermutlich gibt es ein schnelles Wiedersehen.",
+   "bild": "https://img.sparknews.funkemedien.de/408411114/408411114_1786899138_v16_9_600.jpeg",
+   "datum": "2026-08-16T16:57:12.000Z",
+   "sortZeit": 1786827432000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
@@ -2115,8 +2219,7 @@
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
     "RP Online Sport Wesel",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Xanten",
    "ortSicher": true,
