@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T19:49:43.804Z",
+ "aktualisiert": "2026-08-16T19:59:29.923Z",
  "tag": "16.08.",
  "datum": "2026-08-16",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 665,
+   "seitAnpfiffMin": 674,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 650,
+   "seitAnpfiffMin": 659,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -95,7 +95,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 590,
+   "seitAnpfiffMin": 599,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -199,7 +199,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 560,
+   "seitAnpfiffMin": 569,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -453,7 +453,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 530,
+   "seitAnpfiffMin": 539,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -470,15 +470,109 @@
    "zeit": "11:00",
    "heim": "RSG Verberg/Gartenst.",
    "gast": "SC Rheinkamp II",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 2,
+    "gast": 4
+   },
+   "ereignisse": [
+    {
+     "minute": 42,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Cetin Lale",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "sc-rheinkamp-m2-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 43,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Rene Brabender",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "rsg-verberggartenst-m1-2026-27",
+     "clubSlug": "rsg-verberggartenst"
+    },
+    {
+     "minute": 61,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mohammed Taj",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "sc-rheinkamp-m2-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 62,
+     "nachspielzeit": 0,
+     "art": "goal_free_kick",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Eren Kayman",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 3
+     },
+     "teamSlug": "sc-rheinkamp-m2-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 76,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Justin Uwe Engelstadt",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 3
+     },
+     "teamSlug": "rsg-verberggartenst-m1-2026-27",
+     "clubSlug": "rsg-verberggartenst"
+    },
+    {
+     "minute": 82,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Konstantin Stepanow",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 4
+     },
+     "teamSlug": "sc-rheinkamp-m2-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    }
+   ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Yusuf Baki",
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 530,
+   "seitAnpfiffMin": 539,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -567,7 +661,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 530,
+   "seitAnpfiffMin": 539,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -611,7 +705,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 530,
+   "seitAnpfiffMin": 539,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -636,10 +730,10 @@
     {
      "minute": 7,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "penalty_foul",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Raphael Ratz",
      "fuer": null,
      "stand": {
       "heim": 0,
@@ -669,7 +763,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Aaron Tekath",
      "fuer": null,
      "stand": {
       "heim": 2,
@@ -684,7 +778,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Yannik Schmithuisen",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -714,7 +808,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Alexander Mallach",
      "fuer": null,
      "stand": {
       "heim": 4,
@@ -760,7 +854,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 530,
+   "seitAnpfiffMin": 539,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -785,7 +879,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 530,
+   "seitAnpfiffMin": 539,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -810,7 +904,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 530,
+   "seitAnpfiffMin": 539,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -929,7 +1023,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 419,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -988,7 +1082,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 419,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1122,7 +1216,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 419,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1211,7 +1305,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 419,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1239,7 +1333,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 419,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1264,7 +1358,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 419,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1292,7 +1386,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 419,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1411,7 +1505,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 419,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1530,7 +1624,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 380,
+   "seitAnpfiffMin": 389,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1844,7 +1938,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 380,
+   "seitAnpfiffMin": 389,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1918,7 +2012,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 380,
+   "seitAnpfiffMin": 389,
    "laeuft": false,
    "abgeschlossen": true
   }
