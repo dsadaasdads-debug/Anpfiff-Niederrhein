@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T11:34:14.245Z",
+ "aktualisiert": "2026-08-16T13:01:02.252Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -654,6 +654,33 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412877360",
+   "titel": "Am desolaten Zustand von Hamborn 07 trägt die Ex-Trainerin die wenigste Schuld",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412877360/am-desolaten-zustand-von-hamborn-07-traegt-die-ex-trainerin-die-wenigste-schuld.html",
+   "teaser": "Der abgestürzte Traditionsverein nimmt kurz vor dem Saisonstart einen Personalwechsel vor, doch das wird nicht reichen. Ein Kommentar.",
+   "bild": "https://img.sparknews.funkemedien.de/412877760/412877760_1786879142_v16_9_600.jpeg",
+   "datum": "2026-08-16T12:04:14.000Z",
+   "sortZeit": 1786853054000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153026525",
    "titel": "Unentschieden in Baumberg: SV Sonsbeck hadert mit Schiedsrichter und verpasstem Sieg",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-sonsbeck-in-baumberg-aerger-ueber-schiri-und-das-1-1_aid-153026525",
@@ -758,6 +785,58 @@
     "TuS Lintfort"
    ],
    "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153191811",
+   "titel": "2:1-Play-off-Sieg: Borussia-Frauen lösen gegen Duisburg DFB-Pokal-Ticket",
+   "url": "https://rp-online.de/nrw/staedte/moenchengladbach/sport/dfb-pokal-borussia-moenchengladbach-frauen-loesen-ticket-fuer-die-hauptrunde_aid-153191811",
+   "teaser": "Es ist geschafft: Das Damenteam von Borussia Mönchengladbach ist Teil des Frauen-DFB-Pokals 2026/27. In Duisburg setzte sich das Team von Trainer Jonas Spengler knapp durch, nachdem es zuvor noch mal in Bedrängnis geraten war.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/5/2/0/4/5/9/tok_36c093e26078b7a8fcaeff28164efa35/w1200_h630_x1743_y648_2026_08_15_MV_MSVBMG_00325-1a6c6ddaed553b91.jpg",
+   "datum": "2026-08-16T12:21:27.000Z",
+   "sortZeit": 1786810887000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:406808429",
+   "titel": "MSV Duisburg: ein freier Trainingstag als Siegprämie",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
+   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
+   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
+   "datum": "2026-08-16T11:45:00.000Z",
+   "sortZeit": 1786808700000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   },
@@ -963,9 +1042,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1974,32 +2051,6 @@
    "grund": "pfad"
   },
   {
-   "id": "funke:406808429",
-   "titel": "MSV Duisburg: Noch 78 Gästetickets für das Spiel in Verl erhältlich",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
-   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
-   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
-   "datum": "2026-08-13T11:30:00.000Z",
-   "sortZeit": 1786548600000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
    "id": "funke:412849845",
    "titel": "Streifendienst 1902: Das wünscht sich MSV-Chef Dirk Broska zum 50. Geburtstag",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412849845/streifendienst-1902-das-wuenscht-sich-msv-chef-dirk-broska-zum-50-geburtstag.html",
@@ -2142,8 +2193,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Xanten",
    "ortSicher": true,
