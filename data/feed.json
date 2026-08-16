@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T17:34:23.720Z",
+ "aktualisiert": "2026-08-16T18:47:34.371Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -661,9 +661,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
@@ -781,6 +779,60 @@
    "zone": "kern",
    "vereine": [
     "SV Scherpenberg 1921"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153026649",
+   "titel": "Bittere Niederlage: Warum der TuS Xanten gegen die DJK Rhede chancenlos war",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/tus-xanten-verliert-gegen-rhede-analyse-des-fehlstarts_aid-153026649",
+   "teaser": "Der TuS Xanten unterliegt Aufsteiger DJK Rhede 1:3. Nervöses Aufbauspiel und drei Gegentore offenbaren einige Probleme. Die Analyse von Trainer Dietrich.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/1/4/3/4/9/1/tok_993f30877027ad988f44afebfeea65db/w1200_h630_x1350_y899_rp_20260816_J_0089-978fc49e2c96dbde.jpg",
+   "datum": "2026-08-16T17:48:00.000Z",
+   "sortZeit": 1786873680000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [
+    "RP Online Xanten"
+   ],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "TUS Xanten 05/22"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412881679",
+   "titel": "VfB Rheingold Emmerich dreht nach der Pause mächtig auf und ist Tabellenführer",
+   "url": "https://www.nrz.de/sport/lokalsport/emmerich-und-kleve/article412881679/vfb-rheingold-emmerich-dreht-nach-der-pause-maechtig-auf-und-ist-tabellenfuehrer.html",
+   "teaser": "Furioser Auftakt des Aufsteigers: Nach einer torlosen ersten Hälfte fertigt der VfB den SV Borussia Veen mit 6:1 ab. Anholt verliert gegen Lowick.",
+   "bild": "https://img.sparknews.funkemedien.de/412881606/412881606_1786903622_v16_9_600.jpeg",
+   "datum": "2026-08-16T17:40:40.000Z",
+   "sortZeit": 1786873240000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Alpen",
+   "ortSicher": true,
+   "orte": [
+    "Alpen"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Borussia Veen 1920"
    ],
    "sportart": "Fußball",
    "ereignis": null,
@@ -970,6 +1022,63 @@
    "zone": "umland",
    "vereine": [
     "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412881378",
+   "titel": "Zehnmal gepunktet: Rhein Fire rennt über Florenz hinweg",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412881378/zehnmal-gepunktet-rhein-fire-rennt-ueber-florenz-hinweg.html",
+   "teaser": "Vor allem das Laufspiel der Duisburger Footballer konnte das Schlusslicht der AFLE nicht stoppen. Noch ein Spiel bis zu den Play-offs.",
+   "bild": "https://img.sparknews.funkemedien.de/412614685/412614685_1784399193_v16_9_600.jpeg",
+   "datum": "2026-08-16T18:01:41.000Z",
+   "sortZeit": 1786831301000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Rhein Fire"
+   ],
+   "sportart": "American Football",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412881532",
+   "titel": "In der Nachspielzeit brechen beim VfB Homberg alle Dämme",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412881532/in-der-nachspielzeit-brechen-beim-vfb-homberg-alle-daemme.html",
+   "teaser": "Der Oberliga-Absteiger tut sich beim Meisterschaftsauftakt schwer, kann aber am Ende gegen Nettetal auf einen Doppelpacker bauen.",
+   "bild": "https://img.sparknews.funkemedien.de/412881573/412881573_1786901360_v16_9_600.jpeg",
+   "datum": "2026-08-16T17:40:30.000Z",
+   "sortZeit": 1786830030000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
    ],
    "sportart": "Fußball",
    "ereignis": null,
@@ -1331,9 +1440,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -2164,8 +2271,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Alpen",
    "ortSicher": false,
@@ -4288,9 +4394,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
@@ -4704,9 +4808,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
