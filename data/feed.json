@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T18:47:34.371Z",
+ "aktualisiert": "2026-08-16T19:34:05.366Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,8 +40,11 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "ok",
-   "eintraege": 10
+   "status": "fehler",
+   "fehler": "HTTP 415",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-16T18:47:30.253Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "moerser-sc",
@@ -1022,6 +1025,32 @@
    "zone": "umland",
    "vereine": [
     "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153223247",
+   "titel": "Heimvorteil mit Sicherheitsauflagen: 1. FC Wülfrath verlegt Pokalspiel gegen MSV Duisburg",
+   "url": "https://rp-online.de/nrw/staedte/mettmann/sport/1-fc-wuelfrath-verlegt-pokalspiel-gegen-msv-duisburg_aid-153223247",
+   "teaser": "Drittligist MSV Duisburg stellt den Bezirksligisten Wülfrath vor ungewohnte Aufgaben. Sicherheitszäune, Ordner und Medienplätze werden zum Kraftakt und machen einen Umzug nach Velbert notwendig.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/5/7/9/5/0/9/tok_9b3b3ea2fc11c22d38108e46a7d77ec9/w1200_h630_x1250_y760_RP_131018abzl5-e08955062426dafe.jpg",
+   "datum": "2026-08-16T19:15:00.000Z",
+   "sortZeit": 1786835700000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
    ],
    "sportart": "Fußball",
    "ereignis": null,
