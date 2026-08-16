@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T21:34:25.901Z",
+ "aktualisiert": "2026-08-16T22:37:12.726Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -1030,6 +1030,32 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412866264",
+   "titel": "Die Abstimmung läuft: Wahl zu den Duisburger Sportlern des Jahres",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412866264/die-abstimmung-laeuft-wahl-zu-den-duisburger-sportlern-des-jahres.html",
+   "teaser": "Bis zum 13. September läuft Duisburgs Sportlerwahl in den gewohnten vier Kategorien. Die Ehrung erfolgt bei der Sportschau des Stadtsportbundes",
+   "bild": "https://img.sparknews.funkemedien.de/412881626/412881626_1786901972_v16_9_600.jpeg",
+   "datum": "2026-08-16T21:59:00.000Z",
+   "sortZeit": 1786845540000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153223247",
    "titel": "Heimvorteil mit Sicherheitsauflagen: 1. FC Wülfrath verlegt Pokalspiel gegen MSV Duisburg",
    "url": "https://rp-online.de/nrw/staedte/mettmann/sport/1-fc-wuelfrath-verlegt-pokalspiel-gegen-msv-duisburg_aid-153223247",
@@ -1204,9 +1230,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
