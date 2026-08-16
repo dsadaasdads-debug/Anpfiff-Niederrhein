@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T15:35:53.704Z",
+ "aktualisiert": "2026-08-16T16:42:53.875Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,8 +40,11 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "ok",
-   "eintraege": 10
+   "status": "fehler",
+   "fehler": "HTTP 415",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-16T15:35:50.934Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "moerser-sc",
@@ -624,6 +627,91 @@
  ],
  "artikel": [
   {
+   "id": "funke:412880208",
+   "titel": "Viel Tempo, tolle Pässe und sehenswerte Tore: TuS Lintfort scheint gestärkt",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412880208/viel-tempo-tolle-paesse-und-sehenswerte-tore-tus-lintfort-scheint-gestaerkt.html",
+   "teaser": "Die Zweitliga-Handballerinnen des TuS Lintfort unterliegen der A-Nationalmannschaft aus Südkorea mit 12:20, schlagen zuvor aber Venlo.",
+   "bild": "https://img.sparknews.funkemedien.de/412880237/412880237_1786897127_v16_9_600.jpeg",
+   "datum": "2026-08-16T16:28:36.000Z",
+   "sortZeit": 1786897716000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412881061",
+   "titel": "DSV 1900 lässt Neukirchen-Vluyn keine Chance – Ärger beim ersten Tor",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412881061/dsv-1900-laesst-neukirchen-vluyn-keine-chance-aerger-beim-ersten-tor.html",
+   "teaser": "Der Co-Trainer der Gäste sieht sogar die gelb-rote Karte. Bezirksligist aus Wanheimerort beeindruckt durch starke Leistung.",
+   "bild": "https://img.sparknews.funkemedien.de/412881133/412881133_1786896977_v16_9_600.jpeg",
+   "datum": "2026-08-16T16:17:48.000Z",
+   "sortZeit": 1786897068000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Neukirchen-Vluyn",
+   "ortSicher": true,
+   "orte": [
+    "Neukirchen-Vluyn",
+    "Duisburg"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412877105",
+   "titel": "Nach „Plan A“: Andoulaye Sall rettet mit Köpfchen den Start des 1. FC Lintfort",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412877105/nach-plan-a-andoulaye-sall-rettet-mit-koepfchen-den-start-des-1-fc-lintfort.html",
+   "teaser": "Beim Fußball-Landesligisten ist vor allem offensiv gegen Süchteln viel Sand im Getriebe. Dann ruft Trainer Meik Bodden den „Plan A“ aus.",
+   "bild": "https://img.sparknews.funkemedien.de/412880975/412880975_1786895288_v16_9_600.jpeg",
+   "datum": "2026-08-16T16:13:20.000Z",
+   "sortZeit": 1786896800000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "1. FC Lintfort"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412876755",
    "titel": "TV Issum wird überrollt – HSG Vennikel demonstriert eindrucksvoll Dominanz",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412876755/tv-issum-wird-ueberrollt-hsg-vennikel-demonstriert-eindrucksvoll-dominanz.html",
@@ -635,9 +723,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -650,6 +736,59 @@
     "TV Issum"
    ],
    "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412870741",
+   "titel": "Debüt in der Fußball-Oberliga: Das sind unsere Bilder zum SV Scherpenberg",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412870741/debuet-in-der-fussball-oberliga-das-sind-unsere-bilder-zum-sv-scherpenberg.html",
+   "teaser": "Zum Freitagspiel des Fußball-Oberliga-Aufsteigers SV Scherpenberg gegen Schwarz-Weiß Essen gibt es rund um das 5:3 die schönsten Fotos",
+   "bild": "https://img.sparknews.funkemedien.de/412870739/412870739_1786875745_v16_9_600.jpeg",
+   "datum": "2026-08-16T10:22:26.000Z",
+   "sortZeit": 1786875746000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "SV Scherpenberg 1921"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412880969",
+   "titel": "Sonntag ist wieder Paul-Tag: Torjäger trifft bei Budbergs Startsieg doppelt",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412880969/sonntag-ist-wieder-paul-tag-torjaeger-trifft-bei-budbergs-startsieg-doppelt.html",
+   "teaser": "Eine Startelf ohne Neuzugänge, aber mit Anlaufschwierigkeiten – dann helfen die Gäste aus Speldorf jedoch kräftig mit.",
+   "bild": "https://img.sparknews.funkemedien.de/412881093/412881093_1786896622_v16_9_600.jpeg",
+   "datum": "2026-08-16T16:17:37.000Z",
+   "sortZeit": 1786868257000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Moers"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   },
@@ -797,9 +936,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
@@ -878,9 +1015,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1014,9 +1149,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Issum",
    "ortSicher": true,
    "orte": [
@@ -1487,9 +1620,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
