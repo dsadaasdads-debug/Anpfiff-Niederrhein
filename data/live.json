@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T17:29:08.660Z",
+ "aktualisiert": "2026-08-16T17:44:52.614Z",
  "tag": "16.08.",
  "datum": "2026-08-16",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 524,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 509,
+   "seitAnpfiffMin": 525,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -95,7 +95,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 449,
+   "seitAnpfiffMin": 465,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -199,7 +199,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 419,
+   "seitAnpfiffMin": 435,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -453,7 +453,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 389,
+   "seitAnpfiffMin": 405,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -542,7 +542,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 389,
+   "seitAnpfiffMin": 405,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -586,7 +586,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 389,
+   "seitAnpfiffMin": 405,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -607,14 +607,135 @@
     "heim": 4,
     "gast": 4
    },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "ereignisse": [
+    {
+     "minute": 7,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "sv-viktoria-birten-m2-2026-27",
+     "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 37,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marvin Baab",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sc-rheinkamp-m1-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 44,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "sv-viktoria-birten-m2-2026-27",
+     "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 47,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "sv-viktoria-birten-m2-2026-27",
+     "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 50,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marvin Baab",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "sc-rheinkamp-m1-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 55,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 2
+     },
+     "teamSlug": "sv-viktoria-birten-m2-2026-27",
+     "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 85,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marvin Maas",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 3
+     },
+     "teamSlug": "sc-rheinkamp-m1-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Yonatan Yowahans",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 4
+     },
+     "teamSlug": "sc-rheinkamp-m1-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    }
+   ],
+   "zuschauer": 40,
+   "schiedsrichter": "Jens Klaßen",
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 389,
+   "seitAnpfiffMin": 405,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -639,7 +760,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 389,
+   "seitAnpfiffMin": 405,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -664,7 +785,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 389,
+   "seitAnpfiffMin": 405,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -783,7 +904,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 269,
+   "seitAnpfiffMin": 285,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -842,7 +963,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 269,
+   "seitAnpfiffMin": 285,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -976,7 +1097,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 269,
+   "seitAnpfiffMin": 285,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1065,7 +1186,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 269,
+   "seitAnpfiffMin": 285,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1090,7 +1211,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 269,
+   "seitAnpfiffMin": 285,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1115,7 +1236,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 269,
+   "seitAnpfiffMin": 285,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1143,7 +1264,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 269,
+   "seitAnpfiffMin": 285,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1262,7 +1383,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 269,
+   "seitAnpfiffMin": 285,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1381,7 +1502,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 239,
+   "seitAnpfiffMin": 255,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1695,7 +1816,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 239,
+   "seitAnpfiffMin": 255,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1769,7 +1890,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 239,
+   "seitAnpfiffMin": 255,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1963,7 +2084,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 149,
+   "seitAnpfiffMin": 165,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1988,7 +2109,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 149,
+   "seitAnpfiffMin": 165,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2013,7 +2134,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 149,
+   "seitAnpfiffMin": 165,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2251,7 +2372,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 149,
+   "seitAnpfiffMin": 165,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2478,7 +2599,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 149,
+   "seitAnpfiffMin": 165,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2771,7 +2892,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 149,
+   "seitAnpfiffMin": 165,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2976,7 +3097,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 149,
+   "seitAnpfiffMin": 165,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3159,7 +3280,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 149,
+   "seitAnpfiffMin": 165,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3184,7 +3305,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 149,
+   "seitAnpfiffMin": 165,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3444,9 +3565,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 119,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 135,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -3715,9 +3836,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 119,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 135,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -3964,9 +4085,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 119,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 135,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -4367,9 +4488,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 119,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 135,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -4392,7 +4513,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 89,
+   "seitAnpfiffMin": 105,
    "laeuft": true,
    "abgeschlossen": false
   }
