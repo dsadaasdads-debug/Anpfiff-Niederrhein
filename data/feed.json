@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T14:39:17.529Z",
+ "aktualisiert": "2026-08-16T15:35:53.704Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -760,6 +760,32 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: „Die Wucht vom MSV ist schon der Wahnsinn“ – So reagieren die Fans im Netz auf den Sieg in Verl",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-die-wucht-ist-schon-der-wahnsinn-so-reagieren-die-fans-auf-den-sieg-in-verl_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-16T14:50:00.000Z",
+   "sortZeit": 1786819800000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412870763",
    "titel": "Mehr Selbstvertrauen in Magenta: Frauen des TuS Lintfort sammeln Pluspunkte ein",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412870763/mehr-selbstvertrauen-in-magenta-frauen-des-tus-lintfort-sammeln-pluspunkte-ein.html",
@@ -904,32 +930,6 @@
    "bild": "https://rp-online.de/imgs/32/2/7/7/5/3/6/6/5/5/tok_3b863d77b3c248563e36bc25d8372549/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB5320042E8D7E1-9c61ffb1218b6998.jpg",
    "datum": "2026-08-16T10:51:00.000Z",
    "sortZeit": 1786805460000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: 4:2 nach 0:2, drei Jokertore und sechs Zähler auf dem Konto – der MSV-Sieg in Verl im Video",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-4-2-nach-0-2-drei-jokertore-der-duisburger-sieg-in-verl-hier-im-video_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-16T08:56:00.000Z",
-   "sortZeit": 1786798560000,
    "punkte": 80,
    "paywall": false,
    "quelle": "RP Online",
