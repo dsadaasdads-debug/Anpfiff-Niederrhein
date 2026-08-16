@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T13:57:51.820Z",
+ "aktualisiert": "2026-08-16T14:18:17.761Z",
  "tag": "16.08.",
  "datum": "2026-08-16",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 313,
+   "seitAnpfiffMin": 333,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 298,
+   "seitAnpfiffMin": 318,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -95,7 +95,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 238,
+   "seitAnpfiffMin": 258,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -199,7 +199,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 208,
+   "seitAnpfiffMin": 228,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -453,7 +453,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 178,
+   "seitAnpfiffMin": 198,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -542,7 +542,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 178,
+   "seitAnpfiffMin": 198,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -586,7 +586,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 178,
+   "seitAnpfiffMin": 198,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -614,7 +614,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 178,
+   "seitAnpfiffMin": 198,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -639,7 +639,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 178,
+   "seitAnpfiffMin": 198,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -664,7 +664,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 178,
+   "seitAnpfiffMin": 198,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -753,7 +753,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -781,7 +781,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -809,7 +809,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -828,7 +828,7 @@
    "gast": "DJK Rhede",
    "tore": {
     "heim": 0,
-    "gast": 1
+    "gast": 2
    },
    "ereignisse": [
     {
@@ -845,6 +845,21 @@
      },
      "teamSlug": "djk-rhede-m1-2026-27",
      "clubSlug": "djk-rhede"
+    },
+    {
+     "minute": 53,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Rene Groes",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "djk-rhede-m1-2026-27",
+     "clubSlug": "djk-rhede"
     }
    ],
    "zuschauer": null,
@@ -853,7 +868,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -878,7 +893,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -903,7 +918,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -931,7 +946,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -950,7 +965,7 @@
    "gast": "SV Schwafheim",
    "tore": {
     "heim": 0,
-    "gast": 2
+    "gast": 3
    },
    "ereignisse": [
     {
@@ -982,6 +997,21 @@
      },
      "teamSlug": "sv-schwafheim-m1-2026-27",
      "clubSlug": "sv-schwafheim"
+    },
+    {
+     "minute": 51,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Robin Morawa",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 3
+     },
+     "teamSlug": "sv-schwafheim-m1-2026-27",
+     "clubSlug": "sv-schwafheim"
     }
    ],
    "zuschauer": null,
@@ -990,7 +1020,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1015,7 +1045,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1198,7 +1228,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1414,7 +1444,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1707,7 +1737,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1732,7 +1762,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 58,
+   "seitAnpfiffMin": 78,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1791,7 +1821,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 28,
+   "seitAnpfiffMin": 48,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1809,7 +1839,7 @@
    "heim": "Fortuna Bottrop",
    "gast": "VfL Repelen",
    "tore": {
-    "heim": 2,
+    "heim": 4,
     "gast": 0
    },
    "ereignisse": [
@@ -1842,6 +1872,36 @@
      },
      "teamSlug": "fortuna-bottrop-m1-2026-27",
      "clubSlug": "fortuna-bottrop"
+    },
+    {
+     "minute": 31,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "fortuna-bottrop-m1-2026-27",
+     "clubSlug": "fortuna-bottrop"
+    },
+    {
+     "minute": 36,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "fortuna-bottrop-m1-2026-27",
+     "clubSlug": "fortuna-bottrop"
     }
    ],
    "zuschauer": null,
@@ -1850,7 +1910,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 28,
+   "seitAnpfiffMin": 48,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1878,7 +1938,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 28,
+   "seitAnpfiffMin": 48,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1903,7 +1963,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -62,
+   "seitAnpfiffMin": -42,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1928,7 +1988,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -62,
+   "seitAnpfiffMin": -42,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1953,7 +2013,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -62,
+   "seitAnpfiffMin": -42,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1978,7 +2038,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -62,
+   "seitAnpfiffMin": -42,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -2003,7 +2063,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -62,
+   "seitAnpfiffMin": -42,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -2028,7 +2088,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -62,
+   "seitAnpfiffMin": -42,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -2053,7 +2113,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -62,
+   "seitAnpfiffMin": -42,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -2078,7 +2138,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -62,
+   "seitAnpfiffMin": -42,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -2103,7 +2163,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -62,
+   "seitAnpfiffMin": -42,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -2128,7 +2188,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -92,
+   "seitAnpfiffMin": -72,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -2153,7 +2213,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -92,
+   "seitAnpfiffMin": -72,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -2178,7 +2238,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -92,
+   "seitAnpfiffMin": -72,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -2203,7 +2263,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -92,
+   "seitAnpfiffMin": -72,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -2228,7 +2288,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -122,
+   "seitAnpfiffMin": -102,
    "laeuft": false,
    "abgeschlossen": false
   }
