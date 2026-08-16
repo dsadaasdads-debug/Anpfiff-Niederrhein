@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-16T13:39:32.498Z",
+ "aktualisiert": "2026-08-16T13:57:51.820Z",
  "tag": "16.08.",
  "datum": "2026-08-16",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 295,
+   "seitAnpfiffMin": 313,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 280,
+   "seitAnpfiffMin": 298,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -95,7 +95,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 220,
+   "seitAnpfiffMin": 238,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -199,7 +199,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 190,
+   "seitAnpfiffMin": 208,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -453,7 +453,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 160,
+   "seitAnpfiffMin": 178,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -542,7 +542,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 160,
+   "seitAnpfiffMin": 178,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -586,7 +586,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 160,
+   "seitAnpfiffMin": 178,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -614,7 +614,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 160,
+   "seitAnpfiffMin": 178,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -639,7 +639,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 160,
+   "seitAnpfiffMin": 178,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -664,7 +664,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 160,
+   "seitAnpfiffMin": 178,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -682,14 +682,14 @@
    "heim": "SV Budberg",
    "gast": "VfB Speldorf",
    "tore": {
-    "heim": 1,
+    "heim": 2,
     "gast": 1
    },
    "ereignisse": [
     {
-     "minute": 21,
+     "minute": 20,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "penalty_foul",
      "name": "Tor",
      "zeichen": "⚽",
      "spieler": "Lukas Mühlenfeld",
@@ -730,15 +730,30 @@
      },
      "teamSlug": "vfb-speldorf-m1-2026-27",
      "clubSlug": "vfb-speldorf"
+    },
+    {
+     "minute": 39,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Lennart Hahn",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-m1-2026-27",
+     "clubSlug": "sv-budberg"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 20,
    "schiedsrichter": "Marvin Konopatzki",
    "tickerAutor": "Jamie van de Loo",
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -766,7 +781,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -794,7 +809,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -813,16 +828,32 @@
    "gast": "DJK Rhede",
    "tore": {
     "heim": 0,
-    "gast": 0
+    "gast": 1
    },
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 40,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Tom Schlütter",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "djk-rhede-m1-2026-27",
+     "clubSlug": "djk-rhede"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": "Nenad Kuvac",
    "tickerAutor": "klaus keisers",
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -847,7 +878,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -872,7 +903,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -900,7 +931,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -959,7 +990,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -984,7 +1015,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1167,7 +1198,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1184,15 +1215,206 @@
    "zeit": "13:00",
    "heim": "TuS Gahlen II",
    "gast": "SV Menzelen",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 2,
+    "gast": 2
+   },
+   "ereignisse": [
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 4,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 40,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 44,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 44,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 50,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 54,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 63,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 63,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 64,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 65,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 66,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 71,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 71,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 75,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 75,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 89,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1485,7 +1707,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1510,7 +1732,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 40,
+   "seitAnpfiffMin": 58,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1528,17 +1750,48 @@
    "heim": "Duisburger SV 1900",
    "gast": "FC Neukirchen-Vluyn 09/21",
    "tore": {
-    "heim": 0,
+    "heim": 1,
     "gast": 0
    },
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 20,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Benedikt Thülig",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "duisburger-sv-1900-m1-2026-27",
+     "clubSlug": "duisburger-sv-1900"
+    },
+    {
+     "minute": 21,
+     "nachspielzeit": 0,
+     "art": "card_yellow_red",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "spieler": "Abdelmalek Zenzoul",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
    "zuschauer": 100,
    "schiedsrichter": "Isa Hacisalihoglu",
    "tickerAutor": "Kaan Gümüsdag",
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 10,
+   "seitAnpfiffMin": 28,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1556,17 +1809,48 @@
    "heim": "Fortuna Bottrop",
    "gast": "VfL Repelen",
    "tore": {
-    "heim": 0,
+    "heim": 2,
     "gast": 0
    },
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 14,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "fortuna-bottrop-m1-2026-27",
+     "clubSlug": "fortuna-bottrop"
+    },
+    {
+     "minute": 19,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "fortuna-bottrop-m1-2026-27",
+     "clubSlug": "fortuna-bottrop"
+    }
+   ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Kai Schakowski",
    "tickerAutor": "Wilhelm Höschen",
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 10,
+   "seitAnpfiffMin": 28,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1583,16 +1867,19 @@
    "zeit": "13:30",
    "heim": "GSV Moers",
    "gast": "FSV Duisburg",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
-   "schiedsrichter": null,
-   "tickerAutor": "Andreas Gressl",
-   "hatTicker": true,
-   "abschnitt": "PRE",
+   "schiedsrichter": "Bekir Durmus",
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 10,
-   "laeuft": false,
+   "seitAnpfiffMin": 28,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1616,7 +1903,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -80,
+   "seitAnpfiffMin": -62,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1641,7 +1928,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -80,
+   "seitAnpfiffMin": -62,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1666,7 +1953,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -80,
+   "seitAnpfiffMin": -62,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1691,7 +1978,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -80,
+   "seitAnpfiffMin": -62,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1716,7 +2003,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -80,
+   "seitAnpfiffMin": -62,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1741,7 +2028,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -80,
+   "seitAnpfiffMin": -62,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1766,7 +2053,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -80,
+   "seitAnpfiffMin": -62,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1791,7 +2078,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -80,
+   "seitAnpfiffMin": -62,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1816,7 +2103,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -80,
+   "seitAnpfiffMin": -62,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1841,7 +2128,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -110,
+   "seitAnpfiffMin": -92,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1866,7 +2153,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -110,
+   "seitAnpfiffMin": -92,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1891,7 +2178,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -110,
+   "seitAnpfiffMin": -92,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1916,7 +2203,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -110,
+   "seitAnpfiffMin": -92,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1941,7 +2228,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -140,
+   "seitAnpfiffMin": -122,
    "laeuft": false,
    "abgeschlossen": false
   }
