@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-17T11:41:03.199Z",
+ "aktualisiert": "2026-08-17T13:06:11.606Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -645,6 +645,32 @@
    ],
    "zone": "kern",
    "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153266639",
+   "titel": "Auslosung DFB-Pokal: Traumlos in erster Runde – Borussia trifft auf Bayern München",
+   "url": "https://rp-online.de/nrw/staedte/moenchengladbach/sport/dfb-pokal-frauen-borussia-moenchengladbach-trifft-auf-bayern-muenchen-in-1-runde_aid-153266639",
+   "teaser": "Nach dem erfolgreichen Play-off gegen den MSV Duisburg wartet auf Borussia Mönchengladbach im DFB-Pokal ein echter Härtetest: In der ersten Runde kommt Titelverteidiger Bayern München. Wann die Begegnung geplant ist.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/6/7/5/8/6/5/tok_3cb766aa8679629c3cc0d636008e6c5c/w1200_h630_x1796_y1394_DPA_dpa_544wldny27-v1-ax-ms6144-59c0c9bf9c1bedfa.jpeg",
+   "datum": "2026-08-17T12:35:01.000Z",
+   "sortZeit": 1786898101000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
