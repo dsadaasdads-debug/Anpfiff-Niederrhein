@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-17T13:06:11.606Z",
+ "aktualisiert": "2026-08-17T13:53:19.620Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,34 @@
  ],
  "artikel": [
   {
+   "id": "funke:412890362",
+   "titel": "MSV Duisburg: Umstellungen verbunden mit viel Spielfreude",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412890362/msv-duisburg-umstellungen-verbunden-mit-viel-spielfreude.html",
+   "teaser": "Die Zebras reagierten perfekt auf die Überzahlsituation im Spiel gegen Verl – und rissen das Spiel so verdientermaßen an sich.",
+   "bild": "https://img.sparknews.funkemedien.de/412029027/412029027_1779104750_v16_9_600.jpeg",
+   "datum": "2026-08-17T13:44:39.000Z",
+   "sortZeit": 1786902279000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412881361",
    "titel": "Bewegter Bezirksliga-Start: 18 Gegentore für den VfL Repelen in Bottrop",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412881361/bewegter-bezirksliga-start-abbruch-bei-asterlagen-18-gegentore-fuer-repelen.html",
@@ -648,6 +676,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: „Deutlich mehr als drittligareif!“ – dieser MSV-Akteur bringt Let’s-Dance-Star Llambi zum Schwärmen",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-mehr-als-drittligareif-hirsch-bringt-let-s-dance-star-llambi-zum-schwaermen_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-17T13:01:00.000Z",
+   "sortZeit": 1786899660000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "rp:153266639",
@@ -889,32 +943,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: So selten war ein MSV-Start besser – und so wird er gegen Würzburg zum besten",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-so-selten-war-ein-msv-start-besser-und-so-wird-er-gegen-wuerzburg-zum-besten_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-17T05:25:00.000Z",
-   "sortZeit": 1786872300000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "rp:153026605",
@@ -1167,9 +1195,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
