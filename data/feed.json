@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-17T09:57:57.540Z",
+ "aktualisiert": "2026-08-17T10:48:43.419Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -688,9 +688,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Neukirchen-Vluyn",
    "ortSicher": true,
    "orte": [
@@ -742,7 +740,9 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
