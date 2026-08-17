@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-17T16:46:05.599Z",
+ "aktualisiert": "2026-08-17T17:45:20.474Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -1956,8 +1956,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
@@ -1985,9 +1984,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Xanten und Rheinberg",
-   "auchIn": [
-    "RP Online Xanten"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
