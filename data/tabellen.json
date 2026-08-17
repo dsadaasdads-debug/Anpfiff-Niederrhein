@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-17T16:00:47.003Z",
+ "aktualisiert": "2026-08-17T19:17:25.542Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4683,6 +4683,15 @@
      "hinweis": "Absetzung"
     },
     {
+     "datum": "Freitag, 21.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp",
+     "gast": "SV Hamborn 90",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-sv-hamborn-90/-/spiel/031QD10MUS000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
      "heim": "SV Alemannia Kamp",
@@ -4706,15 +4715,6 @@
      "heim": "SV Alemannia Kamp",
      "gast": "TuS Asterlagen II",
      "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-tus-asterlagen-ii/-/spiel/031HBDT6HO000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Dienstag, 08.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "SSV Rheintreu Lüttingen II",
-     "gast": "SV Alemannia Kamp",
-     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-ii-sv-alemannia-kamp/-/spiel/031HBDT830000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
