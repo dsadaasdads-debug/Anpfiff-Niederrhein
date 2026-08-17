@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-17T17:45:20.474Z",
+ "aktualisiert": "2026-08-17T18:57:43.250Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -623,6 +623,32 @@
   }
  ],
  "artikel": [
+  {
+   "id": "www.borussia-veen.de/post/danke-knutschi-danke-krolli",
+   "titel": "Danke Knutschi, danke Krolli!",
+   "url": "https://www.borussia-veen.de/post/danke-knutschi-danke-krolli",
+   "teaser": "Am Samstag ist unser Ferienlager nach zwei aufregenden Wochen auf Ameland wieder in Veen eingetroffen. Am Sportplatz konnten die Eltern ihre Kinder empfangen, die in den nächsten Tagen sicherlich viel zu erzählen haben werden. Der Empfang am Sportplatz stand in diesem Jahr jedoch unter einem besonderen Motto. Denn für Cornelia Gietmann und Michael van Beek, die bis dato die Lagerleitung innehatten, war es das letzte Mal Ferienlager. Knutschi begleitet das Lager bereits seit 42 Jahren, Krolli...",
+   "bild": "https://static.wixstatic.com/media/fcb389_59d8910f33ca41f6b746aeded55932fc~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+   "datum": "2026-08-17T18:56:14.000Z",
+   "sortZeit": 1786964174000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "SV Borussia Veen",
+   "quelleName": "SV Borussia Veen 1920",
+   "auchIn": [],
+   "ort": "Alpen",
+   "ortSicher": true,
+   "orte": [
+    "Alpen"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Borussia Veen 1920"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
   {
    "id": "rp:153140693",
    "titel": "Die erste Rate Lehrgeld: Der SV Budberg II muss sich wieder an Niederlagen gewöhnen",
