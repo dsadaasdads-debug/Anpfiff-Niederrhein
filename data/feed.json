@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-17T18:57:43.250Z",
+ "aktualisiert": "2026-08-17T19:42:37.079Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -679,6 +679,32 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412892766",
+   "titel": "Meister Meiderich! MKC-Frauen holen den Titel",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412892766/meister-meiderich-mkc-frauen-holen-den-titel.html",
+   "teaser": "Großer Jubel bei den Kanupolo-Spielerinnen des 1. Meidericher KC: Auf dem Baldeneysee setzten sich die Duisburgerinnen die Krone auf.",
+   "bild": "https://img.sparknews.funkemedien.de/412892773/412892773_fc_1786994943_v16_9_600.jpeg",
+   "datum": "2026-08-17T19:29:19.000Z",
+   "sortZeit": 1786922959000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Rudern & Kanu",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412890497",
    "titel": "Füchse Duisburg: Training aufgenommen – so ist der Stand der Planung",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412890497/fuechse-duisburg-training-aufgenommen-so-ist-der-stand-der-planung.html",
@@ -903,9 +929,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
