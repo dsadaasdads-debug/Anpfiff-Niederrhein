@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-17T14:44:46.929Z",
+ "aktualisiert": "2026-08-17T15:40:34.219Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -623,6 +623,63 @@
   }
  ],
  "artikel": [
+  {
+   "id": "rp:153140693",
+   "titel": "Die erste Rate Lehrgeld: Der SV Budberg II muss sich wieder an Niederlagen gewöhnen",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-ii-kommt-in-dinslaken-unter-die-raeder_aid-153140693",
+   "teaser": "Der Aufstieg in die Fußball-Bezirksliga hat seinen Preis. Die Mannschaft von Ulf Deutz und Thomas Kehrmann bekommt in Dinslaken ihre Grenzen aufgezeigt und verliert mit 0:5. Das Ergebnis fällt allerdings zu hoch aus.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/4/1/2/1/3/3/tok_138fb35740d28f8177beb536d6985bb4/w1200_h630_x1143_y761_rp_20250316_J_1272-0a02dcf750329166.jpg",
+   "datum": "2026-08-17T15:26:55.000Z",
+   "sortZeit": 1786951615000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [
+    "RP Online Xanten"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412890497",
+   "titel": "Füchse Duisburg: Training aufgenommen – so ist der Stand der Planung",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412890497/fuechse-duisburg-training-aufgenommen-so-ist-der-stand-der-planung.html",
+   "teaser": "In einem Monat beginnt die Oberliga-Saison mit dem Auswärtsspiel in Neuwied. Bis dahin will sich der EVD noch verstärken. Trainer zufrieden.",
+   "bild": "https://img.sparknews.funkemedien.de/412891424/412891424_1786977913_v16_9_600.jpeg",
+   "datum": "2026-08-17T14:46:33.000Z",
+   "sortZeit": 1786905993000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "pfad"
+  },
   {
    "id": "funke:412890362",
    "titel": "MSV Duisburg: Umstellungen verbunden mit viel Spielfreude",
@@ -4387,9 +4444,7 @@
    "paywall": true,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
