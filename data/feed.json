@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-17T09:01:40.194Z",
+ "aktualisiert": "2026-08-17T09:57:57.540Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -725,6 +725,32 @@
    "zone": "kern",
    "vereine": [
     "1. FC Lintfort"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412879655",
+   "titel": "„Das ist unser Wohnzimmer“ – MSV-Stürmer Lobinger mit Kampfansage an Elversberg",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412879655/das-ist-unser-wohnzimmer-msv-stuermer-lobinger-mit-kampfansage-an-elversberg.html",
+   "teaser": "Nach zwei Siegen zum Saisonstart strotzen die Kicker des MSV Duisburg vor Selbstvertrauen. Auch Tyger Lobinger ist mit breiter Brust unterwegs.",
+   "bild": "https://img.sparknews.funkemedien.de/412881350/412881350_1786898666_v16_9_600.jpeg",
+   "datum": "2026-08-17T09:56:14.000Z",
+   "sortZeit": 1786888574000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
    ],
    "sportart": "Fußball",
    "ereignis": null,
