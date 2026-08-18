@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-18T11:41:44.984Z",
+ "aktualisiert": "2026-08-18T13:07:45.259Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,34 @@
  ],
  "artikel": [
   {
+   "id": "funke:412897971",
+   "titel": "GSC Moers verstärkt sich bei den Kobras für die neue Regionalliga-Saison",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412897971/gsc-moers-verstaerkt-sich-bei-den-kobras-fuer-die-neue-regionalliga-saison.html",
+   "teaser": "Der Kader der Black Tigers für die neue Spielzeit in der Eishockey-Regionalliga füllt sich. Der Moerser Angriff bekommt mehr Erfahrung.",
+   "bild": "https://img.sparknews.funkemedien.de/412897982/412897982_1787054647_v16_9_600.jpeg",
+   "datum": "2026-08-18T12:22:40.000Z",
+   "sortZeit": 1787055760000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "Black Tigers Moers"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412897220",
    "titel": "Tennis und soziales Engagement: TV Vennikel lädt wieder zum Nühlen-Cup ein",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412897220/tennis-und-soziales-engagement-tv-vennikel-laedt-wieder-zum-nuehlen-cup-ein.html",
@@ -635,7 +663,9 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -714,9 +744,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -786,6 +814,32 @@
     "TV Asberg 1897"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412894904",
+   "titel": "Vukasin Simic schwer verletzt – Europapokalgegner des ASCD stehen fest",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412894904/vukasin-simic-schwer-verletzt-europapokalgegner-des-ascd-stehen-fest.html",
+   "teaser": "Neuzugang Unai Lema kommt als U20-Vizeeuropameister nach Duisburg. Sein neues Team reist im Oktober im Euro Cup nach Griechenland.",
+   "bild": "https://img.sparknews.funkemedien.de/412897758/412897758_1787053782_v16_9_600.jpeg",
+   "datum": "2026-08-18T11:49:59.000Z",
+   "sortZeit": 1786981799000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
    "ereignis": null,
    "grund": "pfad"
   },
@@ -1015,9 +1069,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
