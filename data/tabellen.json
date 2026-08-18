@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-18T19:18:06.943Z",
+ "aktualisiert": "2026-08-18T21:59:02.190Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4456,15 +4456,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Dienstag, 18.08.2026 - 20:00 Uhr",
-     "wettbewerb": "Bezirksfreundschaftsspiele",
-     "heim": "SV Borussia Veen 1920",
-     "gast": "SSV Rheintreu Lüttingen",
-     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-ssv-rheintreu-luettingen/-/spiel/031OASD7OS000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 23.08.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
      "heim": "SSV Rheintreu Lüttingen",
@@ -4499,9 +4490,27 @@
      "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-sv-millingen/-/spiel/031H9RCF9S000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SSV Rheintreu Lüttingen",
+     "gast": "Rumelner TV",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-rumelner-tv/-/spiel/031H9RCD7K000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 18.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "SSV Rheintreu Lüttingen",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-ssv-rheintreu-luettingen/-/spiel/031OASD7OS000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Samstag, 08.08.2026 - 16:00 Uhr",
      "wettbewerb": "Bezirksfreundschaftsspiele",
@@ -4535,15 +4544,6 @@
      "heim": "GSV Moers II",
      "gast": "SSV Rheintreu Lüttingen",
      "url": "https://www.fussball.de/spiel/gsv-moers-ii-ssv-rheintreu-luettingen/-/spiel/02TSPTNU98000000VS5489BUVVJ8R9DS",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 31.05.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SSV Rheintreu Lüttingen",
-     "gast": "Büdericher SV",
-     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-buedericher-sv/-/spiel/02TSPTNUJC000000VS5489BUVVJ8R9DS",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4783,15 +4783,6 @@
    "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Dienstag, 18.08.2026 - 20:00 Uhr",
-     "wettbewerb": "Bezirksfreundschaftsspiele",
-     "heim": "SV Borussia Veen 1920",
-     "gast": "SSV Rheintreu Lüttingen",
-     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-ssv-rheintreu-luettingen/-/spiel/031OASD7OS000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Samstag, 22.08.2026 - 16:00 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "SV Borussia Veen 1920",
@@ -4826,9 +4817,27 @@
      "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-djk-rhede/-/spiel/031EO9MRU8000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "TuS Stenern",
+     "gast": "SV Borussia Veen 1920",
+     "url": "https://www.fussball.de/spiel/tus-stenern-sv-borussia-veen-1920/-/spiel/031EO9MR7O000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 18.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "SSV Rheintreu Lüttingen",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-ssv-rheintreu-luettingen/-/spiel/031OASD7OS000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -4862,15 +4871,6 @@
      "heim": "SC Rot-Weiß Oberhausen II",
      "gast": "SV Borussia Veen 1920",
      "url": "https://www.fussball.de/spiel/sc-rot-weiss-oberhausen-ii-sv-borussia-veen-1920/-/spiel/0318DLCELK000000VS5489BUVV628VP4",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Dienstag, 28.07.2026 - 19:30 Uhr",
-     "wettbewerb": "Bezirksfreundschaftsspiele",
-     "heim": "SV Borussia Veen 1920",
-     "gast": "SV Menzelen",
-     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-sv-menzelen/-/spiel/03179C2Q08000000VS5489BTVU7GTVLE",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -5219,15 +5219,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Dienstag, 18.08.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Millingen",
-     "gast": "TuS Baerl",
-     "url": "https://www.fussball.de/spiel/sv-millingen-tus-baerl/-/spiel/031MD9TVM8000000VS5489BUVVKNMR0J",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
      "heim": "SV Alemannia Kamp",
@@ -5262,9 +5253,27 @@
      "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-sv-millingen/-/spiel/031H9RCF9S000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "Büdericher SV",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/buedericher-sv-sv-millingen/-/spiel/031H9RCDEK000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 18.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Millingen",
+     "gast": "TuS Baerl",
+     "url": "https://www.fussball.de/spiel/sv-millingen-tus-baerl/-/spiel/031MD9TVM8000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Dienstag, 11.08.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
@@ -5300,15 +5309,6 @@
      "url": "https://www.fussball.de/spiel/sv-issum-sv-millingen/-/spiel/031CIASH9O000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 26.07.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Millingen",
-     "gast": "FC Moers-Meerfeld II",
-     "url": "https://www.fussball.de/spiel/sv-millingen-fc-moers-meerfeld-ii/-/spiel/031CMPDFDK000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
     }
    ]
   },
@@ -5818,15 +5818,6 @@
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Dienstag, 18.08.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Bislich II",
-     "gast": "SV Vynen-Marienbaum",
-     "url": "https://www.fussball.de/spiel/sv-bislich-ii-sv-vynen-marienbaum/-/spiel/031BSPPOBC000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "SV Vynen-Marienbaum",
@@ -5861,9 +5852,27 @@
      "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-1fc-lintfort-iii/-/spiel/031I6NEJUS000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 17:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Budberg IV",
+     "gast": "SV Vynen-Marienbaum",
+     "url": "https://www.fussball.de/spiel/sv-budberg-iv-sv-vynen-marienbaum/-/spiel/031I6NEHP4000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 18.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Bislich II",
+     "gast": "SV Vynen-Marienbaum",
+     "url": "https://www.fussball.de/spiel/sv-bislich-ii-sv-vynen-marienbaum/-/spiel/031BSPPOBC000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 09.08.2026 - 14:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
@@ -5897,15 +5906,6 @@
      "heim": "SG Kalkar / Hö-Nie",
      "gast": "SV Vynen-Marienbaum",
      "url": "https://www.fussball.de/spiel/sg-kalkar-hoe-nie-sv-vynen-marienbaum/-/spiel/031CHI5FDC000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 19.07.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Vynen-Marienbaum",
-     "gast": "VFR SW Warbeyen 1945 E.V.",
-     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-vfr-sw-warbeyen-1945-ev/-/spiel/031GM93HC0000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
