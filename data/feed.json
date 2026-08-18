@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-18T09:48:47.620Z",
+ "aktualisiert": "2026-08-18T10:47:07.546Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 26
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,34 @@
  ],
  "artikel": [
   {
+   "id": "funke:412884041",
+   "titel": "Niklas Köllges beim TV Kapellen in der Verantwortung: als Sportleiter und Torwart",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412884041/niklas-koellges-beim-tv-kapellen-in-der-verantwortung-als-sportleiter-und-torwart.html",
+   "teaser": "Verbandsligist TV Kapellen will bald wieder „oben angreifen“, erweitert seinen Vorstand künftig mit Henrik Bullermann und Daniel Feltgen.",
+   "bild": "https://img.sparknews.funkemedien.de/412884493/412884493_1787047734_v16_9_600.jpeg",
+   "datum": "2026-08-18T10:14:48.000Z",
+   "sortZeit": 1787048088000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TV Kapellen"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412894948",
    "titel": "Fußball-Kreisliga A: Zwei Aufsteiger für Kreis Moers erstmals seit langem möglich",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412894948/fussball-kreisliga-a-zwei-aufsteiger-fuer-kreis-moers-erstmals-seit-langem-moeglich.html",
@@ -636,6 +664,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
+    "NRZ Lokalsport Duisburg",
     "NRZ Lokalsport"
    ],
    "ort": "Kamp-Lintfort",
@@ -680,6 +709,87 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "funke:412835930",
+   "titel": "Endlos scrollen auf Instagram und Tiktok: So durchbricht man den Teufelskreis",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412835930/endlos-scrollen-auf-instagram-und-tiktok-so-durchbricht-man-den-teufelskreis.html",
+   "teaser": "Wenn das Handy stärker ist als der Wille: Eine Forscherin der Uni Duisburg-Essen erklärt, welche Prozesse im Gehirn zu Internetsucht führen – und was dagegen hilft.",
+   "bild": "https://img.sparknews.funkemedien.de/412895427/412895427_1787048994_v16_9_600.jpeg",
+   "datum": "2026-08-18T10:29:55.000Z",
+   "sortZeit": 1786976995000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412894547",
+   "titel": "KI hat den Sieg des VfB Homberg vorhergesagt",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412894547/ki-hat-den-sieg-des-vfb-homberg-vorhergesagt.html",
+   "teaser": "Ab der zweiten Halbzeit hatte der Oberliga-Absteiger die „Landesliga angenommen“. Am Ende sprang ein Last-Minute-Erfolg heraus.",
+   "bild": "https://img.sparknews.funkemedien.de/412896457/412896457_1787048491_v16_9_600.jpeg",
+   "datum": "2026-08-18T10:21:50.000Z",
+   "sortZeit": 1786976510000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/sommerinterview",
+   "titel": "Sommerinterview",
+   "url": "https://fuechse-duisburg.de/sommerinterview/",
+   "teaser": "Oliver Rättig hat unseren Geschäftsführer Tom Södler zum Start in die Vorbereitung zu aktuellen Themen, wie der Kadersituation oder dem Stand beim Hallenbau befragt.Viel Spaß beim Anschauen! 🎬 Wir sehen uns heute Abend zum öffentlichen Training! 🙌🦊 https://youtu.be/i8yzMWIrZes?si=99nX_KaBsa8d90QA",
+   "bild": "",
+   "datum": "2026-08-18T10:00:00.000Z",
+   "sortZeit": 1786975200000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
   },
   {
    "id": "fuechse-duisburg.de/sportler-des-jahres",
@@ -828,9 +938,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1411,8 +1519,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
