@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-18T08:54:08.287Z",
+ "aktualisiert": "2026-08-18T09:48:47.620Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,35 @@
  ],
  "artikel": [
   {
+   "id": "funke:412894948",
+   "titel": "Fußball-Kreisliga A: Zwei Aufsteiger für Kreis Moers erstmals seit langem möglich",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412894948/fussball-kreisliga-a-zwei-aufsteiger-fuer-kreis-moers-erstmals-seit-langem-moeglich.html",
+   "teaser": "Beim Kreistag der Fußballvereine wurden gleich drei Pokalrunden ausgelost. Landesligist 1. FC Lintfort bekommt einen pikanten Gegner.",
+   "bild": "https://img.sparknews.funkemedien.de/412895313/412895313_1787044222_v16_9_600.jpeg",
+   "datum": "2026-08-18T09:12:41.000Z",
+   "sortZeit": 1787044361000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "1. FC Lintfort"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412894368",
    "titel": "Flutlichtpanne bei Scherpenberg: Stadt Moers findet keinen Fehler, prüft aber neu",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412894368/flutlichtpanne-bei-scherpenberg-stadt-moers-findet-keinen-fehler-prueft-aber-neu.html",
@@ -827,9 +856,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
