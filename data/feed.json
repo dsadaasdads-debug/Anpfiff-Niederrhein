@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-18T16:49:06.975Z",
+ "aktualisiert": "2026-08-18T17:43:55.440Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -791,6 +791,32 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:153281719",
+   "titel": "Fußball in Rheinberg: SV Millingen lässt Mixed-Turnier wieder aufleben",
+   "url": "https://rp-online.de/nrw/staedte/rheinberg/sv-millingen-mixed-turnier-bringt-fussballer-zusammen_aid-153281719",
+   "teaser": "Beim SV Millingen kehrt eine Tradition zurück. Rund 40 Fußballer traten in gemischten Teams an. Der Turniersieg war dabei fast Nebensache – und dann kam die Eistonne.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/7/1/4/4/8/9/tok_638a012a99981800be33adcc5b8cbf80/w1200_h630_x1209_y806_DPA_bfunkdpa_5FAAD600D1502844-6d2770a941f6c3d3.jpg",
+   "datum": "2026-08-18T16:54:00.000Z",
+   "sortZeit": 1787043240000,
+   "punkte": 100,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Rheinberg",
+   "auchIn": [],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Millingen 1928"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "verein"
+  },
+  {
    "id": "funke:412894368",
    "titel": "Flutlichtpanne bei Scherpenberg: Stadt Moers findet keinen Fehler, prüft aber neu",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412894368/flutlichtpanne-bei-scherpenberg-stadt-moers-findet-keinen-fehler-prueft-aber-neu.html",
@@ -1547,8 +1573,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
