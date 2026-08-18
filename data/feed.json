@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-18T18:57:00.401Z",
+ "aktualisiert": "2026-08-18T19:41:21.910Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -870,6 +870,32 @@
    ],
    "zone": "umland",
    "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153330817",
+   "titel": "Nach Sieg in Verl: „Umso lauter, umso geiler“ – Sussek mit Liebeserklärung an die MSV-Fans",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-umso-lauter-umso-geiler-sussek-mit-liebeserklaerung-an-die-fans_aid-153330817",
+   "teaser": "Der Torschütze und Angreifer Lex-Tyger Lobinger betonen nach der Aufholjagd und dem 4:2-Sieg des MSV Duisburg beim SC Verl die besondere Rolle der Fans.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/8/2/4/3/6/3/tok_cb297d41dda3bdef11fdc62d6c197388/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB5320093A4FF36-f9f1eac447386d4e.jpg",
+   "datum": "2026-08-18T19:11:00.000Z",
+   "sortZeit": 1787008260000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
