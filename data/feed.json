@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-18T07:54:32.349Z",
+ "aktualisiert": "2026-08-18T08:54:08.287Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -623,6 +623,61 @@
   }
  ],
  "artikel": [
+  {
+   "id": "funke:412894368",
+   "titel": "Flutlichtpanne bei Scherpenberg: Stadt Moers findet keinen Fehler, prüft aber neu",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412894368/flutlichtpanne-bei-scherpenberg-stadt-moers-findet-keinen-fehler-prueft-aber-neu.html",
+   "teaser": "Anlage des TV Asberg wird nach Lichtausfall am Freitag unter die Lupe genommen. ETB-Protest läuft. Scherpenberg nun Sonntag in Sonsbeck",
+   "bild": "https://img.sparknews.funkemedien.de/412894617/412894617_1787041435_v16_9_600.jpeg",
+   "datum": "2026-08-18T08:26:42.000Z",
+   "sortZeit": 1787041602000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Sonsbeck"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TV Asberg 1897"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/sportler-des-jahres",
+   "titel": "Sportler des Jahres",
+   "url": "https://fuechse-duisburg.de/sportler-des-jahres/",
+   "teaser": "Die alljährlichen Abstimmungen zu Duisburgs Sportlerinnen und Sportlern des Jahres haben begonnen. Und völlig berechtigterweise ist auch ein Fuchs dabei: unser Wirbelwind Philippe Sanche ist in der Kategorie Sportler des Jahres nominiert! Am 13. November werden die Sieger gekürt, wobei je zu einem Drittel die Stimmen des Online-Votings, der Medienjury und der Expertenjury einfließen. Ihr […]",
+   "bild": "",
+   "datum": "2026-08-18T08:00:00.000Z",
+   "sortZeit": 1786968000000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
   {
    "id": "www.borussia-veen.de/post/danke-knutschi-danke-krolli",
    "titel": "Danke Knutschi, danke Krolli!",
@@ -1358,8 +1413,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": false,
