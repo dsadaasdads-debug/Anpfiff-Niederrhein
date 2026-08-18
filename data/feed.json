@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-18T10:47:07.546Z",
+ "aktualisiert": "2026-08-18T11:41:44.984Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 26
+   "eintraege": 27
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,85 @@
  ],
  "artikel": [
   {
+   "id": "funke:412897220",
+   "titel": "Tennis und soziales Engagement: TV Vennikel lädt wieder zum Nühlen-Cup ein",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412897220/tennis-und-soziales-engagement-tv-vennikel-laedt-wieder-zum-nuehlen-cup-ein.html",
+   "teaser": "Der Verein aus dem Moerser Süden verbindet den Tennissport mit seinem Sommerfest und einer Spendenaktion für das WDR2-Weihnachtswunder.",
+   "bild": "https://img.sparknews.funkemedien.de/409859065/409859065_1787052549_v16_9_600.jpeg",
+   "datum": "2026-08-18T11:38:58.000Z",
+   "sortZeit": 1787053138000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Tennis",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153317145",
+   "titel": "Ergebnisse der Arbeitstagung: Warum es plötzlich zwei Aufsteiger in der Kreisliga A Moers geben könnte",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussballkreis-moers-doppelaufstieg-und-reservepokal_aid-153317145",
+   "teaser": "Reserveteam-Pokal, Spesenbetrüge und Aufstiegs-Regel: Was die Arbeitstagung des Fußball-Kreises Moers für die Saison 2026/27 beschlossen hat.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/7/9/3/2/2/5/tok_2669465965c7b77acadb74e387f23b97/w1200_h630_x1796_y1376_RP_DSC_2132fff-2bacaa5775e26547.JPG",
+   "datum": "2026-08-18T11:21:00.000Z",
+   "sortZeit": 1787052060000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Xanten"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412896933",
+   "titel": "1:18-Debakel in Bottrop: Der VfL Repelen zieht auch einen Plan B in Betracht",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412896933/118-debakel-in-bottrop-der-vfl-repelen-zieht-auch-einen-plan-b-in-betracht.html",
+   "teaser": "In der Fußball-Bezirksliga scheint das Team von Trainer Martin Soblik aktuell, wie schon befürchtet, nicht konkurrenzfähig.",
+   "bild": "https://img.sparknews.funkemedien.de/412896788/412896788_1787049867_v16_9_600.jpeg",
+   "datum": "2026-08-18T11:06:00.000Z",
+   "sortZeit": 1787051160000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": false,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412884041",
    "titel": "Niklas Köllges beim TV Kapellen in der Verantwortung: als Sportleiter und Torwart",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412884041/niklas-koellges-beim-tv-kapellen-in-der-verantwortung-als-sportleiter-und-torwart.html",
@@ -711,6 +790,32 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412894538",
+   "titel": "Ex-GSG-Trainer Zgjim Dautaj coacht nun in der Kreisliga",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412894538/ex-gsg-trainer-zgjim-dautaj-coacht-nun-in-der-kreisliga.html",
+   "teaser": "Der Ex-Großenbaumer wagt einen Neustart. In seiner neuen Mannschaft spielt auch sein Sohn Luan Dautaj. So lief es zum Auftakt.",
+   "bild": "https://img.sparknews.funkemedien.de/412897342/412897342_1787052203_v16_9_600.jpeg",
+   "datum": "2026-08-18T11:27:30.000Z",
+   "sortZeit": 1786980450000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412835930",
    "titel": "Endlos scrollen auf Instagram und Tiktok: So durchbricht man den Teufelskreis",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412835930/endlos-scrollen-auf-instagram-und-tiktok-so-durchbricht-man-den-teufelskreis.html",
@@ -790,6 +895,32 @@
    "sportart": "Eishockey",
    "ereignis": null,
    "grund": "vereinsfeed"
+  },
+  {
+   "id": "rp:153314643",
+   "titel": "Top-Spieler ohne Einsatzminuten: Qualität des MSV Duisburg zeigt sich nicht nur auf dem Feld",
+   "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-hat-einige-namhafte-spieler-noch-gar-nicht-eingesetzt_aid-153314643",
+   "teaser": "Gegen Meppen und Verl gelingt dem MSV Duisburg mit zwei Siegen ein perfekter Start in die Dritte Liga. Dabei sind einige Top-Spieler noch gar nicht zum Einsatz gekommen. Für Trainer Dietmar Hirsch ergibt sich daraus ein Luxusproblem.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/7/8/7/6/8/3/tok_b33b7ff50bc24337df460eb6037cc8a2/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260514-935-1343176-v1-s2048-bf42a86b25ef95cc.jpeg",
+   "datum": "2026-08-18T09:52:00.000Z",
+   "sortZeit": 1786974720000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "fuechse-duisburg.de/sportler-des-jahres",
@@ -2686,8 +2817,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Alpen",
    "ortSicher": false,
@@ -2740,8 +2870,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Sport Wesel",
-    "RP Online Moers"
+    "RP Online Sport Wesel"
    ],
    "ort": "Xanten",
    "ortSicher": true,
@@ -4442,9 +4571,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
