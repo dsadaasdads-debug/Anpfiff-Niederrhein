@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-18T13:07:45.259Z",
+ "aktualisiert": "2026-08-18T13:57:01.520Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 27
+   "eintraege": 28
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -744,7 +744,9 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -812,6 +814,60 @@
    "zone": "kern",
    "vereine": [
     "TV Asberg 1897"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152589319",
+   "titel": "Samstag ab 15.30 Uhr: Der MSV im DFB-Pokal gegen die SV Elversberg im Liveticker",
+   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-duisburg-gegen-sv-elversberg-im-liveticker_aid-152589319",
+   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
+   "datum": "2026-08-18T13:33:00.000Z",
+   "sortZeit": 1786987980000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412881699",
+   "titel": "25:0! MSV-Amateure im Torrausch: Trainer Daniel Fischer über seine Rückkehr",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412881699/250-msv-amateure-im-torrausch-trainer-daniel-fischer-ueber-seine-rueckkehr.html",
+   "teaser": "Die zweite Mannschaft der Zebras feierte einen furiosen Saisonstart. Warum Trainer Fischer genau wie Dietmar Hirsch als Moderator gefragt ist.",
+   "bild": "https://img.sparknews.funkemedien.de/412881701/412881701_1786902315_v16_9_600.jpeg",
+   "datum": "2026-08-18T13:13:13.000Z",
+   "sortZeit": 1786986793000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
    ],
    "sportart": "Fußball",
    "ereignis": null,
@@ -908,8 +964,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
@@ -2114,32 +2169,6 @@
    "bild": "https://rp-online.de/imgs/32/2/7/7/5/1/5/5/5/5/tok_93ddba9fa5413aa98e11bfe0d7041fd6/w1200_h630_x1024_y683_DPA_dpa_urn_newsml_dpa.com_20090101_250524-99-959327-v5-s2048-f84708164fc6b8e3.jpeg",
    "datum": "2026-08-15T16:37:00.000Z",
    "sortZeit": 1786739820000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
-   "id": "rp:152589319",
-   "titel": "Sieg in der Liveticker-Nachlese: 4:2 nach 0:2 – MSV Duisburg gewinnt nach Rückstand in Verl",
-   "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-gewinnt-in-verl-spiel-in-der-liveticker-nachlese_aid-152589319",
-   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
-   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
-   "datum": "2026-08-15T16:27:00.000Z",
-   "sortZeit": 1786739220000,
    "punkte": 80,
    "paywall": false,
    "quelle": "RP Online",
