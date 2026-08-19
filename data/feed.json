@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T10:46:38.365Z",
+ "aktualisiert": "2026-08-19T11:40:53.180Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 23
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -757,6 +757,92 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "verein"
+  },
+  {
+   "id": "rp:153377239",
+   "titel": "Daniel Beine sorgt für Aufbruchstimmung: „Ich möchte mit dem VfB Homberg so schnell wie möglich in die Oberliga zurück“",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/vfb-homberg-will-mit-daniel-beine-zurueck-in-die-oberliga_aid-153377239",
+   "teaser": "Der Fußballtrainer aus Xanten hat nicht lange gebraucht, um beim Traditionsklub aus Duisburg richtig anzukommen. Der 38-Jährige spricht über die Ziele seines neuen Vereins, das Wiedersehen mit Viktoria Goch und potenzielle Verstärkungen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/9/2/7/5/0/3/tok_0a65ce292b7ebb31b359177dc394d373/w1200_h630_x1796_y1197_rp_Rheinberg_-_Klartext_Soccer_Fussball_Camp010-66f281f43371dd11.jpg",
+   "datum": "2026-08-19T11:19:18.000Z",
+   "sortZeit": 1787066358000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Sport Duisburg",
+    "RP Online Moers",
+    "RP Online Xanten",
+    "RP Online Duisburg"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg",
+    "Xanten"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412904796",
+   "titel": "Marcos da Silva aus Brasilien bringt beim SV Wanheim 1900 „immer 110 Prozent“",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412904796/marcos-da-silva-aus-brasilien-bringt-beim-sv-wanheim-1900-immer-110-prozent.html",
+   "teaser": "Der Mann aus dem Bundesstaat Rio de Janeiro wollte eigentlich nur mal den Schnee in Deutschland sehen. Dann ist er geblieben.",
+   "bild": "https://img.sparknews.funkemedien.de/412905724/412905724_1787137623_v16_9_600.jpeg",
+   "datum": "2026-08-19T11:10:44.000Z",
+   "sortZeit": 1787065844000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153351215",
+   "titel": "DFB-Pokalpartie in Duisburg: „Das erste Trikot war vom MSV“ – für Elversbergs Keidel wird es ein besonderes Spiel",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-fuer-elversbergs-keidel-wird-es-ein-besonderes-spiel_aid-153351215",
+   "teaser": "Er kann sich noch genau an die Geburt von Felix Keidel erinnern: MSV-Trainer Dietmar Hirsch spielte einst Seite an Seite mit Papa Ralf an der Wedau. Jetzt stehen Vater-Freund und Sohn im DFB-Pokal als direkte Gegner gegenüber. Was beide vor dem Duell sagen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/8/6/5/4/7/3/tok_83aeaf0d0265ad816cab18fe19451805/w1200_h630_x1402_y449_DPA_dpa_urn_newsml_dpa.com_20090101_251005-911-019283-v2-s2048-f1f57102dfa86dfb.jpeg",
+   "datum": "2026-08-19T11:07:00.000Z",
+   "sortZeit": 1787065620000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg",
+    "Regattabahn Duisburg"
+   ],
+   "sportart": "Rudern & Kanu",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412881699",
@@ -1690,9 +1776,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Xanten und Rheinberg",
-   "auchIn": [
-    "RP Online Xanten"
-   ],
+   "auchIn": [],
    "ort": "Xanten",
    "ortSicher": true,
    "orte": [
@@ -2628,8 +2712,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
@@ -4820,7 +4903,6 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
     "RP Online Sport Wesel"
    ],
    "ort": "Xanten",
