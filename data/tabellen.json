@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T16:04:33.606Z",
+ "aktualisiert": "2026-08-19T19:09:07.725Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -3332,71 +3332,6 @@
    ]
   },
   {
-   "verein": "1. FC Lintfort A-Jugend",
-   "heimatverein": "1. FC Lintfort",
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "sportart": "Fußball",
-   "mannschaft": "A-Junioren - 1.FC Lintfort",
-   "teamId": "023R4O6F1G000000VS548985VT5V9K59",
-   "teamUrl": "https://www.fussball.de/mannschaft/1fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/023R4O6F1G000000VS548985VT5V9K59",
-   "liga": null,
-   "spielklasse": null,
-   "platz": null,
-   "punkte": null,
-   "torverhaeltnis": null,
-   "staffelId": null,
-   "naechste": [
-    {
-     "datum": "Sonntag, 23.08.2026 - 11:00 Uhr",
-     "wettbewerb": "Landesfreundschaftsspiele",
-     "heim": "VFB Speldorf",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/vfb-speldorf-1fc-lintfort/-/spiel/031HI0GP84000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Samstag, 29.08.2026 - 17:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "TV Asberg I",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/tv-asberg-i-1fc-lintfort/-/spiel/031DMT23MC000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 30.08.2026 - 11:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SF Hamborn 07",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/sf-hamborn-07-1fc-lintfort/-/spiel/031NP7UT9S000000VS5489BUVT2M8LCU",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 30.08.2026 - 11:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "1.FC Lintfort",
-     "gast": "SF Hamborn 07",
-     "url": "https://www.fussball.de/spiel/1fc-lintfort-sf-hamborn-07/-/spiel/031ECV0D4S000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
-     "datum": "Dienstag, 01.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "1.FC Lintfort",
-     "gast": "SuS 09 Dinslaken",
-     "url": "https://www.fussball.de/spiel/1fc-lintfort-sus-09-dinslaken/-/spiel/031E6528E0000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    }
-   ],
-   "letzte": [],
-   "hinweis": "Liga für diese Saison noch nicht zugeteilt — bis dahin nur Freundschaftsspiele."
-  },
-  {
    "verein": "Concordia Rheinberg",
    "ort": "Rheinberg",
    "zone": "umland",
@@ -6709,5 +6644,10 @@
    ]
   }
  ],
- "fehler": []
+ "fehler": [
+  {
+   "verein": "1. FC Lintfort A-Jugend",
+   "fehler": "fetch failed"
+  }
+ ]
 }
