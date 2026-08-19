@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T07:54:23.693Z",
+ "aktualisiert": "2026-08-19T08:54:51.611Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -681,6 +681,32 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412866264",
+   "titel": "Die Abstimmung läuft: Wahl zu den Duisburger Sportlern des Jahres",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412866264/die-abstimmung-laeuft-wahl-zu-den-duisburger-sportlern-des-jahres.html",
+   "teaser": "Bis zum 13. September läuft Duisburgs Sportlerwahl in den gewohnten vier Kategorien. Die Ehrung erfolgt bei der Sportschau des Stadtsportbundes",
+   "bild": "https://img.sparknews.funkemedien.de/412881626/412881626_1786901972_v16_9_600.jpeg",
+   "datum": "2026-08-19T08:45:00.000Z",
+   "sortZeit": 1787057100000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412897971",
    "titel": "GSC Moers verstärkt sich bei den Kobras für die neue Regionalliga-Saison",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412897971/gsc-moers-verstaerkt-sich-bei-den-kobras-fuer-die-neue-regionalliga-saison.html",
@@ -707,6 +733,32 @@
    "sportart": "Eishockey",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:153330817",
+   "titel": "Nach Sieg in Verl: „Umso lauter, umso geiler“ – Sussek mit Liebeserklärung an die MSV-Fans",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-umso-lauter-umso-geiler-sussek-mit-liebeserklaerung-an-die-fans_aid-153330817",
+   "teaser": "Der Torschütze und Angreifer Lex-Tyger Lobinger betonen nach der Aufholjagd und dem 4:2-Sieg des MSV Duisburg beim SC Verl die besondere Rolle der Fans.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/8/2/4/3/6/3/tok_cb297d41dda3bdef11fdc62d6c197388/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB5320093A4FF36-f9f1eac447386d4e.jpg",
+   "datum": "2026-08-19T07:45:00.000Z",
+   "sortZeit": 1787053500000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412897220",
@@ -786,32 +838,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:153330817",
-   "titel": "Nach Sieg in Verl: „Umso lauter, umso geiler“ – Sussek mit Liebeserklärung an die MSV-Fans",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-umso-lauter-umso-geiler-sussek-mit-liebeserklaerung-an-die-fans_aid-153330817",
-   "teaser": "Der Torschütze und Angreifer Lex-Tyger Lobinger betonen nach der Aufholjagd und dem 4:2-Sieg des MSV Duisburg beim SC Verl die besondere Rolle der Fans.",
-   "bild": "https://rp-online.de/imgs/32/2/7/7/8/2/4/3/6/3/tok_cb297d41dda3bdef11fdc62d6c197388/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB5320093A4FF36-f9f1eac447386d4e.jpg",
-   "datum": "2026-08-19T06:50:00.000Z",
-   "sortZeit": 1787050200000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "funke:412884041",
@@ -1068,9 +1094,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
@@ -1788,32 +1812,6 @@
     "SV Budberg 1946"
    ],
    "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412866264",
-   "titel": "Die Abstimmung läuft: Wahl zu den Duisburger Sportlern des Jahres",
-   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412866264/die-abstimmung-laeuft-wahl-zu-den-duisburger-sportlern-des-jahres.html",
-   "teaser": "Bis zum 13. September läuft Duisburgs Sportlerwahl in den gewohnten vier Kategorien. Die Ehrung erfolgt bei der Sportschau des Stadtsportbundes",
-   "bild": "https://img.sparknews.funkemedien.de/412881626/412881626_1786901972_v16_9_600.jpeg",
-   "datum": "2026-08-16T21:59:00.000Z",
-   "sortZeit": 1786845540000,
-   "punkte": 40,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
    "ereignis": null,
    "grund": "pfad"
   },
