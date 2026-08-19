@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T03:59:21.169Z",
+ "aktualisiert": "2026-08-19T04:52:20.410Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 27
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -853,9 +853,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -1595,9 +1593,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Xanten und Rheinberg",
-   "auchIn": [
-    "RP Online Xanten"
-   ],
+   "auchIn": [],
    "ort": "Alpen",
    "ortSicher": false,
    "orte": [
