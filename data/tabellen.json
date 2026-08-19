@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T07:26:34.401Z",
+ "aktualisiert": "2026-08-19T10:05:12.220Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4465,7 +4465,7 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SSV Rheintreu Lüttingen",
      "gast": "SV Schwafheim",
@@ -5137,20 +5137,20 @@
      "hinweis": null
     },
     {
+     "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Menzelen",
+     "gast": "VFB Homberg",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-vfb-homberg/-/spiel/031QJDA418000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SpVgg. Rheurdt-Schaephuysen",
      "gast": "SV Menzelen",
      "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-sv-menzelen/-/spiel/031H9RCE94000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Freitag, 04.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Menzelen",
-     "gast": "SSV Rheintreu Lüttingen",
-     "url": "https://www.fussball.de/spiel/sv-menzelen-ssv-rheintreu-luettingen/-/spiel/031H9RCDLS000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -5609,7 +5609,7 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
+     "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SSV Rheintreu Lüttingen",
      "gast": "SV Schwafheim",
