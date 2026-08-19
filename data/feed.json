@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T07:05:45.264Z",
+ "aktualisiert": "2026-08-19T07:54:23.693Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,35 @@
  ],
  "artikel": [
   {
+   "id": "funke:412818622",
+   "titel": "Neues Team, neue Euphorie: TuS Lintfort will den „frühzeitigen Klassenerhalt“",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412818622/neues-team-neue-euphorie-tus-lintfort-will-den-fruehzeitigen-klassenerhalt.html",
+   "teaser": "Bettina Grenz-Klein, Trainerin der Zweitliga-Handballerinnen, freut sich über sechs Neuzugänge – acht Spielerinnen verließen den Verein.",
+   "bild": "https://img.sparknews.funkemedien.de/412894276/412894276_1787056265_v16_9_600.jpeg",
+   "datum": "2026-08-19T07:31:00.000Z",
+   "sortZeit": 1787124660000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412863906",
    "titel": "Großer Umbruch beim TV Kapellen: „Hier steht jedem die Tür offen“",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412863906/grosser-umbruch-beim-tv-kapellen-hier-steht-jedem-die-tuer-offen.html",
@@ -691,9 +720,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -759,6 +786,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:153330817",
+   "titel": "Nach Sieg in Verl: „Umso lauter, umso geiler“ – Sussek mit Liebeserklärung an die MSV-Fans",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-umso-lauter-umso-geiler-sussek-mit-liebeserklaerung-an-die-fans_aid-153330817",
+   "teaser": "Der Torschütze und Angreifer Lex-Tyger Lobinger betonen nach der Aufholjagd und dem 4:2-Sieg des MSV Duisburg beim SC Verl die besondere Rolle der Fans.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/8/2/4/3/6/3/tok_cb297d41dda3bdef11fdc62d6c197388/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB5320093A4FF36-f9f1eac447386d4e.jpg",
+   "datum": "2026-08-19T06:50:00.000Z",
+   "sortZeit": 1787050200000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412884041",
@@ -893,32 +946,6 @@
    ],
    "zone": "umland",
    "vereine": [],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
-   "id": "rp:153330817",
-   "titel": "Nach Sieg in Verl: „Umso lauter, umso geiler“ – Sussek mit Liebeserklärung an die MSV-Fans",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-umso-lauter-umso-geiler-sussek-mit-liebeserklaerung-an-die-fans_aid-153330817",
-   "teaser": "Der Torschütze und Angreifer Lex-Tyger Lobinger betonen nach der Aufholjagd und dem 4:2-Sieg des MSV Duisburg beim SC Verl die besondere Rolle der Fans.",
-   "bild": "https://rp-online.de/imgs/32/2/7/7/8/2/4/3/6/3/tok_cb297d41dda3bdef11fdc62d6c197388/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB5320093A4FF36-f9f1eac447386d4e.jpg",
-   "datum": "2026-08-18T19:11:00.000Z",
-   "sortZeit": 1787008260000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
