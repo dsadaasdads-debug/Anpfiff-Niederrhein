@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T13:09:18.091Z",
+ "aktualisiert": "2026-08-19T13:57:58.059Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -28,8 +28,11 @@
   {
    "id": "fc-neukirchen-vluyn",
    "name": "FC Neukirchen-Vluyn",
-   "status": "ok",
-   "eintraege": 9
+   "status": "fehler",
+   "fehler": "fetch failed",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-19T13:09:13.483Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "fuechse-duisburg",
@@ -59,7 +62,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -142,8 +145,11 @@
   {
    "id": "spvgg-rheurdt",
    "name": "SpVgg. Rheurdt-Schaephuysen",
-   "status": "ok",
-   "eintraege": 3
+   "status": "fehler",
+   "fehler": "fetch failed",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-19T13:09:13.742Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "sv-menzelen",
@@ -160,8 +166,11 @@
   {
    "id": "tus-borth",
    "name": "TuS Borth 71",
-   "status": "ok",
-   "eintraege": 10
+   "status": "fehler",
+   "fehler": "fetch failed",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-19T13:09:17.736Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "vfl-repelen",
@@ -679,6 +688,32 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:153388989",
+   "titel": "18 spannende Wettbewerbe: Deshalb wollen alle Springreiter zum Xantener Tünglerhof",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/springreiter-sorgen-fuer-spektakel-auf-dem-xantener-tuenglerhof_aid-153388989",
+   "teaser": "Das Interesse der Sportlerinnen und Sportler am Event ist so groß, dass die Gastgeber Stefan und Julia Miß kurzerhand einen vierten Turniertag anberaumt haben. Die Höhepunkte des Spektakels im Überblick.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/9/5/3/4/4/5/tok_4e8b76f016bd740b8134dde45f4c6f96/w1200_h630_x1399_y932_rp_20250823_J_04651-bb1a3ec186d6e8f9.jpg",
+   "datum": "2026-08-19T13:25:43.000Z",
+   "sortZeit": 1787117143000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Xanten und Rheinberg",
+   "auchIn": [
+    "RP Online Xanten"
+   ],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412907301",
    "titel": "Schwierige Vorbereitung, starker Start: Rhenania Hamborn kalkuliert Lehrgeld ein",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412907301/schwierige-vorbereitung-starker-start-rhenania-hamborn-kalkuliert-lehrgeld-ein.html",
@@ -816,6 +851,60 @@
    "grund": "verein"
   },
   {
+   "id": "funke:412908129",
+   "titel": "Das lange Warten des MSV hat ein Ende! Der BVB war der letzte Pokalgegner",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412908129/das-lange-warten-des-msv-hat-ein-ende-der-bvb-war-der-letzte-pokalgegner.html",
+   "teaser": "Im September 2020 verlor der MSV Duisburg vor 300 Zuschauern gegen Borussia Dortmund mit 0:5. Der letzte Sieg gelang gegen Greuther Fürth.",
+   "bild": "https://img.sparknews.funkemedien.de/412908642/412908642_1787144913_v16_9_600.jpeg",
+   "datum": "2026-08-19T13:36:54.000Z",
+   "sortZeit": 1787074614000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: Kann ein Ex-Duisburger den Rivalen Rot-Weiss Essen ärgern?",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-kann-ein-ex-duisburger-den-rivalen-rot-weiss-essen-aergern_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-19T13:20:00.000Z",
+   "sortZeit": 1787073600000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412900479",
    "titel": "Streifendienst 1902: Geschichte über Michael Tönnies gibt es bald als Hörbuch",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412900479/streifendienst-1902-geschichte-ueber-michael-toennies-gibt-es-bald-als-hoerbuch.html",
@@ -888,9 +977,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1296,32 +1383,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: Hätte, hätte, FC Bayern – Pokalaus für MSV-Frauen doppelt bitter",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-haette-haette-fc-bayern-pokalaus-fuer-msv-frauen-doppelt-bitter_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-18T14:40:00.000Z",
-   "sortZeit": 1786992000000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "rp:152589319",
@@ -4299,7 +4360,6 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
     "RP Online Sport Wesel"
    ],
    "ort": "Xanten",
@@ -5218,9 +5278,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
