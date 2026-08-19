@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T09:49:36.122Z",
+ "aktualisiert": "2026-08-19T10:46:38.365Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -707,6 +707,32 @@
    "grund": "pfad"
   },
   {
+   "id": "sv-menzelen1925.de/front/offenes-sportfest-und-sportabzeichentag-am-20-09-2026",
+   "titel": "Offenes Sportfest und Sportabzeichentag am 20.09.2026",
+   "url": "https://sv-menzelen1925.de/front/offenes-sportfest-und-sportabzeichentag-am-20-09-2026/",
+   "teaser": "Offenes Sportfest",
+   "bild": "",
+   "datum": "2026-08-19T10:17:18.000Z",
+   "sortZeit": 1787105838000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "SV Menzelen",
+   "quelleName": "SV Menzelen 1925",
+   "auchIn": [],
+   "ort": "Alpen",
+   "ortSicher": true,
+   "orte": [
+    "Alpen"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Menzelen 1925"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "rp:153374503",
    "titel": "Rheinberger Fußballfunktionär: DFB-Ehrenamtsurkunde für Rainer Lempert vom SV Millingen",
    "url": "https://rp-online.de/nrw/staedte/rheinberg/rheinberg-dfb-ehrenamtsurkunde-fuer-rainer-lempert-vom-sv-millingen_aid-153374503",
@@ -731,6 +757,34 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "verein"
+  },
+  {
+   "id": "funke:412881699",
+   "titel": "25:0! MSV-Amateure im Torrausch: Trainer Daniel Fischer über seine Rückkehr",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412881699/250-msv-amateure-im-torrausch-trainer-daniel-fischer-ueber-seine-rueckkehr.html",
+   "teaser": "Die zweite Mannschaft der Zebras feierte einen furiosen Saisonstart. Warum Trainer Fischer genau wie Dietmar Hirsch als Moderator gefragt ist.",
+   "bild": "https://img.sparknews.funkemedien.de/412881701/412881701_1786902315_v16_9_600.jpeg",
+   "datum": "2026-08-19T10:11:00.000Z",
+   "sortZeit": 1787062260000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "funke:412866264",
@@ -1025,6 +1079,32 @@
    "grund": "rubrik"
   },
   {
+   "id": "sv-menzelen1925.de/uncategorized/sportabzeichen-abnahme-am-17-08-26",
+   "titel": "Sportabzeichen Abnahme am 14.09.26",
+   "url": "https://sv-menzelen1925.de/uncategorized/sportabzeichen-abnahme-am-17-08-26/",
+   "teaser": "Von 17:30 Uhr bis 19:30 Uhr",
+   "bild": "",
+   "datum": "2026-08-18T14:07:43.000Z",
+   "sortZeit": 1787033263000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "SV Menzelen",
+   "quelleName": "SV Menzelen 1925",
+   "auchIn": [],
+   "ort": "Alpen",
+   "ortSicher": true,
+   "orte": [
+    "Alpen"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Menzelen 1925"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "rp:151856843",
    "titel": "Die Zebras im Liveblog: Hätte, hätte, FC Bayern – Pokalaus für MSV-Frauen doppelt bitter",
    "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-haette-haette-fc-bayern-pokalaus-fuer-msv-frauen-doppelt-bitter_aid-151856843",
@@ -1075,34 +1155,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
-  },
-  {
-   "id": "funke:412881699",
-   "titel": "25:0! MSV-Amateure im Torrausch: Trainer Daniel Fischer über seine Rückkehr",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article412881699/250-msv-amateure-im-torrausch-trainer-daniel-fischer-ueber-seine-rueckkehr.html",
-   "teaser": "Die zweite Mannschaft der Zebras feierte einen furiosen Saisonstart. Warum Trainer Fischer genau wie Dietmar Hirsch als Moderator gefragt ist.",
-   "bild": "https://img.sparknews.funkemedien.de/412881701/412881701_1786902315_v16_9_600.jpeg",
-   "datum": "2026-08-18T13:13:13.000Z",
-   "sortZeit": 1786986793000,
-   "punkte": 80,
-   "paywall": true,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   },
   {
    "id": "funke:412894904",
