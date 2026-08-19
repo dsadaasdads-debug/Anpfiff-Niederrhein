@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T13:57:58.059Z",
+ "aktualisiert": "2026-08-19T14:53:44.783Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -28,11 +28,8 @@
   {
    "id": "fc-neukirchen-vluyn",
    "name": "FC Neukirchen-Vluyn",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-19T13:09:13.483Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 9
   },
   {
    "id": "fuechse-duisburg",
@@ -145,11 +142,8 @@
   {
    "id": "spvgg-rheurdt",
    "name": "SpVgg. Rheurdt-Schaephuysen",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-19T13:09:13.742Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 3
   },
   {
    "id": "sv-menzelen",
@@ -166,11 +160,8 @@
   {
    "id": "tus-borth",
    "name": "TuS Borth 71",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-19T13:09:17.736Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "vfl-repelen",
@@ -782,9 +773,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -849,6 +838,33 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "verein"
+  },
+  {
+   "id": "funke:412909949",
+   "titel": "Zuletzt bei RWO, jetzt in Homberg: VfB holt ein Talent aus der Regionalliga",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412909949/zuletzt-bei-rwo-jetzt-in-homberg-vfb-holt-ein-talent-aus-der-regionalliga.html",
+   "teaser": "Der Landesliga-Absteiger hat seine personellen Planungen nun endlich abgeschlossen. Ein Angreifer kommt vom Ligakonkurrenten.",
+   "bild": "https://img.sparknews.funkemedien.de/412910066/412910066_1787150133_v16_9_600.jpeg",
+   "datum": "2026-08-19T14:38:02.000Z",
+   "sortZeit": 1787078282000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "funke:412908129",
@@ -2102,8 +2118,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Sonsbeck",
    "ortSicher": true,
