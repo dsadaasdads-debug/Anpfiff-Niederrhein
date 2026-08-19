@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T03:11:44.425Z",
+ "aktualisiert": "2026-08-19T03:59:21.169Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,34 @@
  ],
  "artikel": [
   {
+   "id": "funke:412863906",
+   "titel": "Großer Umbruch beim TV Kapellen: „Hier steht jedem die Tür offen“",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412863906/grosser-umbruch-beim-tv-kapellen-hier-steht-jedem-die-tuer-offen.html",
+   "teaser": "Fußball-B-Ligist TV Kapellen freut sich über neuen Kunstrasenplatz. Auch die Kabinen und das Vereinsheim sollen modernisiert werden.",
+   "bild": "https://img.sparknews.funkemedien.de/412865864/412865864_1786714819_v16_9_600.jpeg",
+   "datum": "2026-08-19T03:29:00.000Z",
+   "sortZeit": 1787110140000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TV Kapellen"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412897971",
    "titel": "GSC Moers verstärkt sich bei den Kobras für die neue Regionalliga-Saison",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412897971/gsc-moers-verstaerkt-sich-bei-den-kobras-fuer-die-neue-regionalliga-saison.html",
@@ -744,9 +772,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -773,8 +799,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
