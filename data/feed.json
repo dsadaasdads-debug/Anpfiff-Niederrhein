@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T14:53:44.783Z",
+ "aktualisiert": "2026-08-19T15:47:03.296Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -840,6 +840,60 @@
    "grund": "verein"
   },
   {
+   "id": "funke:412910640",
+   "titel": "MSV-Bezwinger zieht das große Pokallos – Diagnose bei Keeperin Rumohr steht fest",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412910640/msv-bezwinger-zieht-das-grosse-pokallos-diagnose-bei-keeperin-rumohr-steht-fest.html",
+   "teaser": "Die Duisburger Frauen hatten das Weiterkommen gegen Mönchengladbach knapp verpasst und können sich jetzt ein bisschen ärgern.",
+   "bild": "https://img.sparknews.funkemedien.de/412910818/412910818_1787153303_v16_9_600.jpeg",
+   "datum": "2026-08-19T15:36:22.000Z",
+   "sortZeit": 1787081782000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/unsere-jerseys-fuer-26-27",
+   "titel": "Unsere Jerseys für 26/27",
+   "url": "https://fuechse-duisburg.de/unsere-jerseys-fuer-26-27/",
+   "teaser": "Das sind unsere Trikots für die kommende Spielzeit – mit unserem neuen Brustsponsor, der ELMO Group! 🔴⚫️ Unser rot-schwarzes Heimtrikot, das unsere Vereinsfarben betont und Dynamik vermittelt.⚪️ Und unser weißes Away-Jersey, das mit seinen grauen Highlights auch schick daherkommt. Genau wie Nicklas und Luis finden wir: Das ist der letzte Schrei! 🤩 Wir danken in […]",
+   "bild": "",
+   "datum": "2026-08-19T15:00:00.000Z",
+   "sortZeit": 1787079600000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "funke:412909949",
    "titel": "Zuletzt bei RWO, jetzt in Homberg: VfB holt ein Talent aus der Regionalliga",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412909949/zuletzt-bei-rwo-jetzt-in-homberg-vfb-holt-ein-talent-aus-der-regionalliga.html",
@@ -932,9 +986,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
