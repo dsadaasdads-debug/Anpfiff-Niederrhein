@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T15:47:03.296Z",
+ "aktualisiert": "2026-08-19T16:47:14.376Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -716,9 +716,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
@@ -838,6 +836,34 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "verein"
+  },
+  {
+   "id": "funke:412910299",
+   "titel": "MSV-Dauerbrenner Joshua Bitter träumt von großen DFB-Pokal-Momenten",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412910299/msv-dauerbrenner-joshua-bitter-traeumt-von-grossen-dfb-pokal-momenten.html",
+   "teaser": "Joshua Bitter ist einer von zwei aktuellen MSV-Spielern, die für die Zebras im DFB-Pokal im Einsatz waren. Am Samstag gegen Elversberg.",
+   "bild": "https://img.sparknews.funkemedien.de/412910318/412910318_1787151074_v16_9_600.jpeg",
+   "datum": "2026-08-19T16:11:37.000Z",
+   "sortZeit": 1787083897000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "funke:412910640",
@@ -1698,9 +1724,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Xanten und Rheinberg",
-   "auchIn": [
-    "RP Online Xanten"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
@@ -2090,8 +2114,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
