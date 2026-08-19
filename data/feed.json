@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-19T08:54:51.611Z",
+ "aktualisiert": "2026-08-19T09:49:36.122Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 23
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,32 @@
  ],
  "artikel": [
   {
+   "id": "funke:412889883",
+   "titel": "„Schwer vergleichbare Einzelsituation“: Hat dieser Essener Protest eine Chance?",
+   "url": "https://www.nrz.de/sport/lokalsport/essen/article412889883/nach-flutlicht-panne-essener-protestieren-wie-hoch-ihre-erfolgschancen-sind.html",
+   "teaser": "Nach dem Flutlicht-Teilausfall bei seiner 3:5-Niederlage in Scherpenberg hat der ETB Essen Einspruch eingelegt. Wie wahrscheinlich eine Neuansetzung des Spiels ist.",
+   "bild": "https://img.sparknews.funkemedien.de/412870700/412870700_1787132273_v16_9_600.jpeg",
+   "datum": "2026-08-19T09:40:01.000Z",
+   "sortZeit": 1787132401000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412818622",
    "titel": "Neues Team, neue Euphorie: TuS Lintfort will den „frühzeitigen Klassenerhalt“",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412818622/neues-team-neue-euphorie-tus-lintfort-will-den-fruehzeitigen-klassenerhalt.html",
@@ -681,6 +707,32 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:153374503",
+   "titel": "Rheinberger Fußballfunktionär: DFB-Ehrenamtsurkunde für Rainer Lempert vom SV Millingen",
+   "url": "https://rp-online.de/nrw/staedte/rheinberg/rheinberg-dfb-ehrenamtsurkunde-fuer-rainer-lempert-vom-sv-millingen_aid-153374503",
+   "teaser": "Rainer Lempert war Spieler, Trainer und Abteilungsleiter beim SV Millingen. Jetzt ist er für seine Verdienste um den Fußball und den Verein vom Deutschen Fußballbund geehrt (DFB) worden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/9/2/2/6/7/3/tok_fddb62dee8455432133a92754cee02c8/w1200_h630_x1796_y1347_1000112313-d824109c72a61b72.jpg",
+   "datum": "2026-08-19T09:20:25.000Z",
+   "sortZeit": 1787102425000,
+   "punkte": 100,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Rheinberg",
+   "auchIn": [],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Millingen 1928"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "verein"
+  },
+  {
    "id": "funke:412866264",
    "titel": "Die Abstimmung läuft: Wahl zu den Duisburger Sportlern des Jahres",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412866264/die-abstimmung-laeuft-wahl-zu-den-duisburger-sportlern-des-jahres.html",
@@ -718,9 +770,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -825,9 +875,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": false,
    "orte": [
