@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T14:55:15.074Z",
+ "aktualisiert": "2026-08-20T15:49:30.299Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -774,9 +774,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
@@ -874,6 +872,34 @@
    "sportart": null,
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "funke:412919497",
+   "titel": "Liveticker: Rot-Weiss Essen gegen MSV Duisburg – behält die RWE-U19 ihren Lauf?",
+   "url": "https://www.nrz.de/sport/lokalsport/essen/article412919497/liveticker-rot-weiss-essen-gegen-msv-duisburg-u19.html",
+   "teaser": "Die U19 von Rot-Weiss Essen ist nach einem starken Saisonstart bereit für das Derby gegen den MSV Duisburg. Wir tickern das Spiel live.",
+   "bild": "https://img.sparknews.funkemedien.de/412920525/412920525_1787238030_v16_9_600.jpeg",
+   "datum": "2026-08-20T15:14:42.000Z",
+   "sortZeit": 1787166882000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "rp:153391825",
