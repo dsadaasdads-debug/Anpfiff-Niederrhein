@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T11:43:13.673Z",
+ "aktualisiert": "2026-08-20T13:11:31.569Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -664,9 +664,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -736,6 +734,62 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412916986",
+   "titel": "Neuland für Rheinland: Lange Fahrt zum ersten Auswärtsspiel in der Landesliga",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412916986/neuland-fuer-rheinland-lange-fahrt-zum-ersten-auswaertsspiel-in-der-landesliga.html",
+   "teaser": "Am Sonntag sind die Hamborner erstmals nach dem Aufstieg auswärts gefordert. Drei Spieler haben den Verein verlassen.",
+   "bild": "https://img.sparknews.funkemedien.de/412917052/412917052_1787226265_v16_9_600.jpeg",
+   "datum": "2026-08-20T11:53:19.000Z",
+   "sortZeit": 1787197999000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153398511",
+   "titel": "Pokal-Aus gegen Rot-Weiss Essen: Warum der SV Sonsbeck nach 90 Minuten Widerstand plötzlich kollabierte",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/niederrheinpokal-deshalb-kollabierte-sonsbeck-gegen-essen_aid-153398511",
+   "teaser": "90 Minuten auf Augenhöhe, dann fünf Gegentore in der Verlängerung: Ein genauer Blick auf das Niederrheinpokal-Aus des SV Sonsbeck gegen Rot-Weiss Essen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/9/7/7/6/3/1/tok_a30bd858daab9c128e35b64f9a282055/w1200_h630_x1350_y901_rp_20260816_J_1160-5406605930d10b3b.jpg",
+   "datum": "2026-08-20T11:45:00.000Z",
+   "sortZeit": 1787197500000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412915670",
    "titel": "Für den TuS Asterlagen hat sich das Nachsitzen nicht gelohnt",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412915670/fuer-den-tus-asterlagen-hat-sich-das-nachsitzen-nicht-gelohnt.html",
@@ -791,6 +845,63 @@
    "sportart": null,
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "funke:412916133",
+   "titel": "Wenn der Vater mit den Söhnen: Gelungener Saisonstart für Hombergs „Zweite“",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412916133/wenn-der-vater-mit-den-soehnen-gelungener-saisonstart-fuer-hombergs-zweite.html",
+   "teaser": "Bei der Bezirksliga-Reserve des VfB Homberg steht ein neuer Trainer in der Verantwortung. Der Start in die Saison hat geklappt.",
+   "bild": "https://img.sparknews.funkemedien.de/412917676/412917676_1787228007_v16_9_600.jpeg",
+   "datum": "2026-08-20T12:44:12.000Z",
+   "sortZeit": 1787157852000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:406808429",
+   "titel": "MSV Duisburg: Entspannte Personallage vor dem DFB-Pokalspiel gegen Elversberg",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
+   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
+   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
+   "datum": "2026-08-20T12:25:00.000Z",
+   "sortZeit": 1787156700000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "funke:412914322",
@@ -884,9 +995,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1381,32 +1490,6 @@
    "grund": "rubrik"
   },
   {
-   "id": "funke:406808429",
-   "titel": "MSV Duisburg vor dem DFB-Pokal – Japanische Schiedsrichter in der 3. Liga",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
-   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
-   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
-   "datum": "2026-08-19T11:56:00.000Z",
-   "sortZeit": 1787068560000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
    "id": "funke:412904796",
    "titel": "Marcos da Silva aus Brasilien bringt beim SV Wanheim 1900 „immer 110 Prozent“",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412904796/marcos-da-silva-aus-brasilien-bringt-beim-sv-wanheim-1900-immer-110-prozent.html",
@@ -1597,8 +1680,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Moers",
    "ortSicher": true,
@@ -1758,8 +1840,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Sonsbeck",
    "ortSicher": true,
@@ -8393,30 +8474,6 @@
    "sportart": "Eishockey",
    "ereignis": null,
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "funke:412634825",
-   "titel": "Nach Schusters Abschied: Fußballfrauen des GSV Moers haben neuen Cheftrainer",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412634825/nach-schusters-abschied-fussballfrauen-des-gsv-moers-haben-neuen-cheftrainer.html",
-   "teaser": "Bei den Fußballfrauen des GSV Moers geht es offenbar weiter. Spielplan für Niederrheinliga fix. Neue Mannschaft mit U17-Spielerinnen?",
-   "bild": "https://img.sparknews.funkemedien.de/412638887/412638887_1784637358_v16_9_600.jpeg",
-   "datum": "2026-07-21T12:39:03.000Z",
-   "sortZeit": 1784637543000,
-   "punkte": 110,
-   "paywall": true,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   },
   {
    "id": "rp:151842591",
