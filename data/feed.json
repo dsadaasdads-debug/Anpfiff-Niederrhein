@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T13:11:31.569Z",
+ "aktualisiert": "2026-08-20T14:00:13.912Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -847,6 +847,86 @@
    "grund": "rubrik"
   },
   {
+   "id": "funke:412917313",
+   "titel": "MSV-Gegner Elversberg in der Bundesliga – wie eine jamaikanische Bobmannschaft",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412917313/msv-gegner-elversberg-in-der-bundesliga-wie-eine-jamaikanische-bobmannschaft.html",
+   "teaser": "Der Elversberger Aufstiegstrainer Vincent Wagner arbeitete einst beim MSV Duisburg. Der 40-Jährige ist um flotte Sprüche nicht verlegen.",
+   "bild": "https://img.sparknews.funkemedien.de/412916873/412916873_1787232085_v16_9_600.jpeg",
+   "datum": "2026-08-20T13:49:12.000Z",
+   "sortZeit": 1787161752000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: MSV für Elversbergs Trainer „mit das Schwerste, was in der ersten Runde auf einen zukommen kann“",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-trainer-der-sv-elversberg-hat-vor-pokalspiel-grossen-respekt_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-20T13:42:00.000Z",
+   "sortZeit": 1787161320000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153453643",
+   "titel": "Trainer zeigt sich selbstbewusst: Was für einen Sieg des MSV Duisburg gegen Elversberg spricht",
+   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-so-will-der-msv-duisburg-gegen-die-sv-elversberg-weiterkommen_aid-153453643",
+   "teaser": "„Das ist kein Event, sondern ein Pflichtspiel“, sagt MSV-Trainer Dietmar Hirsch vor der DFB-Pokalpartie gegen die SV Elversberg. Schließlich erscheint eine Sensation möglich. Diese Faktoren sprechen dafür.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/1/0/3/0/2/3/tok_b33b7ff50bc24337df460eb6037cc8a2/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260514-935-1343176-v1-s2048-bf42a86b25ef95cc.jpeg",
+   "datum": "2026-08-20T13:21:55.000Z",
+   "sortZeit": 1787160115000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412916133",
    "titel": "Wenn der Vater mit den Söhnen: Gelungener Saisonstart für Hombergs „Zweite“",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412916133/wenn-der-vater-mit-den-soehnen-gelungener-saisonstart-fuer-hombergs-zweite.html",
@@ -941,9 +1021,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1405,32 +1483,6 @@
    "grund": "pfad"
   },
   {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: Kann ein Ex-Duisburger den Rivalen Rot-Weiss Essen ärgern?",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-kann-ein-ex-duisburger-den-rivalen-rot-weiss-essen-aergern_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-19T13:20:00.000Z",
-   "sortZeit": 1787073600000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
    "id": "funke:412900479",
    "titel": "Streifendienst 1902: Geschichte über Michael Tönnies gibt es bald als Hörbuch",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412900479/streifendienst-1902-geschichte-ueber-michael-toennies-gibt-es-bald-als-hoerbuch.html",
@@ -1679,8 +1731,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Moers",
    "ortSicher": true,
@@ -8501,31 +8552,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
-  },
-  {
-   "id": "funke:412639458",
-   "titel": "Rheurdt-Schaephuysen 2.0: Noch mehr Landesliga-Fußballer für die Kreisliga A",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412639458/rheurdt-schaephuysen-20-noch-mehr-landesliga-fussballer-fuer-die-kreisliga-a.html",
-   "teaser": "Der ambitionierte Fußball-A-Kreisligist nimmt einen neuen Anlauf. Diesmal soll alles besser werden. Das sagt Trainer Andreas Weinand.",
-   "bild": "https://img.sparknews.funkemedien.de/412639936/412639936_1784641146_v16_9_600.jpeg",
-   "datum": "2026-07-21T13:51:55.000Z",
-   "sortZeit": 1784613115000,
-   "punkte": 70,
-   "paywall": true,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Rheurdt",
-   "ortSicher": true,
-   "orte": [
-    "Rheurdt",
-    "Moers"
-   ],
-   "zone": "umland",
-   "vereine": [],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   }
  ]
 }
