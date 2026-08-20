@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T10:47:26.008Z",
+ "aktualisiert": "2026-08-20T11:43:13.673Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -694,9 +694,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Neukirchen-Vluyn",
    "ortSicher": true,
    "orte": [
@@ -738,6 +736,34 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412915670",
+   "titel": "Für den TuS Asterlagen hat sich das Nachsitzen nicht gelohnt",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412915670/fuer-den-tus-asterlagen-hat-sich-das-nachsitzen-nicht-gelohnt.html",
+   "teaser": "Auch im zweiten Anlauf bringt der Bezirksligist aus Sterkrade nichts Zählbares mit. Drei Neue für Ligakonkurrent Hamborn 07.",
+   "bild": "https://img.sparknews.funkemedien.de/412916655/412916655_1787224309_v16_9_600.jpeg",
+   "datum": "2026-08-20T11:31:28.000Z",
+   "sortZeit": 1787196688000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153398527",
    "titel": "Großes Tennisturnier: Orsoyer Open – 109 Meldungen und ein Titelverteidiger unter Druck",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/orsoyer-open-2026-109-starter-kaempfen-um-den-titel_aid-153398527",
@@ -765,6 +791,60 @@
    "sportart": null,
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "funke:412914322",
+   "titel": "Oberhausen-Derby: SW Alstaden und Sterkrade 06/07 wollen Fehlstart vermeiden",
+   "url": "https://www.nrz.de/sport/lokalsport/oberhausen/article412914322/oberhausen-derby-sw-alstaden-und-sterkrade-0607-wollen-fehlstart-vermeiden.html",
+   "teaser": "SW Alstaden verspielte gegen den VfB Homberg II zwei Führungen, Sterkrade 06/07 kassierte in der Nachspielzeit den Ausgleich. Jetzt geht es ins Derby.",
+   "bild": "https://img.sparknews.funkemedien.de/412916834/412916834_1787224977_v16_9_600.jpeg",
+   "datum": "2026-08-20T11:31:23.000Z",
+   "sortZeit": 1787153483000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412914685",
+   "titel": "„Viel Lehrgeld gezahlt“: Für MSV-Trainer Hirsch fing in Elversberg alles an",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412914685/viel-lehrgeld-gezahlt-fuer-msv-trainer-hirsch-fing-in-elversberg-alles-an.html",
+   "teaser": "In der Saison 2013/14 trat Dietmar Hirsch bei der SV 07 Elversberg seinen ersten Trainerjob im Profifußball an. Nun gibt es ein Wiedersehen.",
+   "bild": "https://img.sparknews.funkemedien.de/412915350/412915350_1787222761_v16_9_600.jpeg",
+   "datum": "2026-08-20T11:16:55.000Z",
+   "sortZeit": 1787152615000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "fuechse-duisburg.de/news/rueckblick-oeffentliches-training",
@@ -1070,9 +1150,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1177,7 +1255,8 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg"
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
    ],
    "ort": "Duisburg",
    "ortSicher": false,
@@ -5527,9 +5606,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
