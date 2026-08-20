@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T13:35:11.692Z",
+ "aktualisiert": "2026-08-20T16:06:23.761Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4365,6 +4365,15 @@
      "hinweis": "Absetzung"
     },
     {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TSV Bruckhausen",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/tsv-bruckhausen-spvgg-rheurdt-schaephuysen/-/spiel/031R9IR878000000VS5489BTVTPHHFPR",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SpVgg. Rheurdt-Schaephuysen",
@@ -4379,15 +4388,6 @@
      "heim": "Rumelner TV",
      "gast": "SpVgg. Rheurdt-Schaephuysen",
      "url": "https://www.fussball.de/spiel/rumelner-tv-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCDK0000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "ESV Hohenbudberg",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-esv-hohenbudberg/-/spiel/031H9RCFBS000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -5028,20 +5028,20 @@
      "hinweis": null
     },
     {
+     "datum": "Samstag, 12.09.2026 - 16:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Issum",
+     "gast": "SV BW Herongen II",
+     "url": "https://www.fussball.de/spiel/sv-issum-sv-bw-herongen-ii/-/spiel/031JH9A2D8000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Freitag, 18.09.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisliga B",
      "heim": "DJK Twisteden II",
      "gast": "SV Issum",
      "url": "https://www.fussball.de/spiel/djk-twisteden-ii-sv-issum/-/spiel/031JH9A1C4000000VS5489BUVVKNMR0J",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 27.09.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "SV Issum",
-     "gast": "TSV Nieukerk II",
-     "url": "https://www.fussball.de/spiel/sv-issum-tsv-nieukerk-ii/-/spiel/031JH9A180000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
