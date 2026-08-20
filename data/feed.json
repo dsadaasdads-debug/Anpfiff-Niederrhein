@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T05:46:49.555Z",
+ "aktualisiert": "2026-08-20T07:06:34.297Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -623,6 +623,32 @@
   }
  ],
  "artikel": [
+  {
+   "id": "funke:412912734",
+   "titel": "Arminia Klosterhardt: Mit Verbesserungsvisionen gegen den 1. FC Lintfort",
+   "url": "https://www.nrz.de/sport/lokalsport/oberhausen/article412912734/arminia-klosterhardt-mit-verbesserungsvisionen-gegen-den-1-fc-lintfort.html",
+   "teaser": "Trotz des Sieges gegen den VfB Bottrop zeigt sich Trainer Marcel Landers nicht vollends zufrieden mit seinem Team. Jetzt kommt der 1. FC Lintfort.",
+   "bild": "https://img.sparknews.funkemedien.de/412912742/412912742_1787207298_v16_9_600.jpeg",
+   "datum": "2026-08-20T06:28:25.000Z",
+   "sortZeit": 1787207305000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "1. FC Lintfort"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
   {
    "id": "funke:412889883",
    "titel": "„Schwer vergleichbare Einzelsituation“: Hat dieser Essener Protest eine Chance?",
