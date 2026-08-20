@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T14:00:13.912Z",
+ "aktualisiert": "2026-08-20T14:55:15.074Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,35 @@
  ],
  "artikel": [
   {
+   "id": "funke:412919295",
+   "titel": "Aus nach Spiel eins: Darum verlässt neuer Offensivkicker den 1. FC Lintfort",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412919295/aus-nach-spiel-eins-darum-verlaesst-neuer-offensivkicker-den-1-fc-lintfort.html",
+   "teaser": "Beim Fußball-Landesligisten gibt es vor dem Match beim Wiederaufsteiger Arminia Klosterhardt einen unerwarteten Personalwechsel.",
+   "bild": "https://img.sparknews.funkemedien.de/412682694/412682694_1787235165_v16_9_600.jpeg",
+   "datum": "2026-08-20T14:14:58.000Z",
+   "sortZeit": 1787235298000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "1. FC Lintfort"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412903065",
    "titel": "Knackige Generalprobe: TuS Lintfort will sich den letzten Feinschliff holen",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412903065/knackige-generalprobe-tus-lintfort-will-sich-den-letzten-feinschliff-holen.html",
@@ -635,9 +664,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
@@ -664,7 +691,9 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -841,6 +870,30 @@
     "Xanten"
    ],
    "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153391825",
+   "titel": "Stolpersteine in Krefeld und Duisburg: Diesen fünf Bundesligisten droht eine frühe Blamage im DFB-Pokal",
+   "url": "https://rp-online.de/sport/fussball/dfb-pokal/dfb-pokal-eintracht-koeln-hsv-diesen-bundesligisten-droht-eine-blamage_aid-153391825",
+   "teaser": "Seit 16 Jahren ist immer mindestens ein Erstligist an der ersten Pokalhürde gescheitert – meist waren es sogar mehr. Auch diesmal wackeln mehrere Favoriten, darunter Frankfurt, Elversberg und der HSV. Wer erlebt den nächsten Fehlstart bei einem Außenseiter?",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/9/6/0/1/9/9/tok_011d360e1b3d125bcc637a7edcfaebe8/w1200_h630_x1757_y1171_IMSP_imago_sp_0808_17010001_1080783458-8f84b3d5cc7ba041.jpg",
+   "datum": "2026-08-20T14:32:00.000Z",
+   "sortZeit": 1787164320000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
    "vereine": [],
    "sportart": null,
    "ereignis": null,
@@ -8525,33 +8578,6 @@
    "sportart": "Eishockey",
    "ereignis": null,
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "rp:151842591",
-   "titel": "Transfer-Offensive beim Fußball-A-Ligisten: SpVgg. Rheurdt-Schaephuysen – ein Dorfklub will hoch hinaus",
-   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-spvgg-rheurdt-schaephuysen-startet-transferoffensive_aid-151842591",
-   "teaser": "Mit der Verpflichtung namhafter Spieler ist die SpVgg. Rheurdt-Schaephuysen der große Bezirksliga-Aufstiegsanwärter. Trainer Andreas Weinand weiß um die Stärke des Kaders mit 14 Zugängen, bleibt aber bei der Zielsetzung demütig.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/4/9/4/2/2/3/tok_dd1c84300a5cb4d02dd1743d6aa17b9c/w1200_h630_x1005_y670_Weinand_1-a757ba5bccf57216.jpg",
-   "datum": "2026-07-21T14:33:00.000Z",
-   "sortZeit": 1784615580000,
-   "punkte": 110,
-   "paywall": true,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Sport Duisburg",
-   "auchIn": [],
-   "ort": "Rheurdt",
-   "ortSicher": true,
-   "orte": [
-    "Rheurdt",
-    "Xanten"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "SpVgg. Rheurdt-Schaephuysen"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   }
  ]
 }
