@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T10:07:10.843Z",
+ "aktualisiert": "2026-08-20T13:35:11.692Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4362,7 +4362,7 @@
      "gast": "TSV Bruckhausen",
      "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tsv-bruckhausen/-/spiel/031PLB9LN8000000VS5489BTVT8K11BC",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
