@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T07:56:48.077Z",
+ "aktualisiert": "2026-08-20T08:57:06.120Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,65 @@
  ],
  "artikel": [
   {
+   "id": "funke:412899787",
+   "titel": "Drei WM-Medaillen bei Weltreiterspielen - Bela Lehnen aus Moers: Unglaublich",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412899787/drei-wm-medaillen-bei-weltreiterspielen-bela-lehnen-aus-moers-unglaublich.html",
+   "teaser": "Bei seinem ersten Start bei den Senioren im Voltigieren gelingen dem 21-Jährigen in der Aachener Soers ganz starke Auftritte.",
+   "bild": "https://img.sparknews.funkemedien.de/412913453/412913453_1787212322_v16_9_600.jpeg",
+   "datum": "2026-08-20T08:22:24.000Z",
+   "sortZeit": 1787214144000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": {
+    "schluessel": "WM|—",
+    "name": "Weltmeisterschaft",
+    "ort": null
+   },
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412913309",
+   "titel": "FC Neukirchen-Vluyn vor Freitag-Derby gestärkt, aber Torjäger Rankl ist fraglich",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412913309/fc-neukirchen-vluyn-vor-freitag-derby-gestaerkt-aber-torjaeger-rankl-ist-fraglich.html",
+   "teaser": "Am Freitagabend steigt in der Fußball-Bezirksliga auch ein Duell der neuen Cheftrainer. Beide haben indes zum Saisonstart verloren.",
+   "bild": "https://img.sparknews.funkemedien.de/412913676/412913676_1787213623_v16_9_600.jpeg",
+   "datum": "2026-08-20T08:16:15.000Z",
+   "sortZeit": 1787213775000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Neukirchen-Vluyn",
+   "ortSicher": true,
+   "orte": [
+    "Neukirchen-Vluyn",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "FC Neukirchen-Vluyn"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412912734",
    "titel": "Arminia Klosterhardt: Mit Verbesserungsvisionen gegen den 1. FC Lintfort",
    "url": "https://www.nrz.de/sport/lokalsport/oberhausen/article412912734/arminia-klosterhardt-mit-verbesserungsvisionen-gegen-den-1-fc-lintfort.html",
@@ -650,6 +709,32 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412910904",
+   "titel": "Mammutmarsch Ruhrgebiet 2026 - alle Infos zum Mega-Event - Kosten, Strecke, Parken",
+   "url": "https://www.nrz.de/sport/lokalsport/essen/article412910904/mammutmarsch-ruhrgebiet-2026-alle-infos-zum-mega-event-kosten-strecke-parken.html",
+   "teaser": "Der Mammutmarsch startet erneut in Duisburg. Am 29. August geht es nachts vom Landschaftspark-Nord über Oberhausen nach Essen und Bottrop. Alle Infos.",
+   "bild": "https://img.sparknews.funkemedien.de/412913717/412913717_1787214270_v16_9_600.jpeg",
+   "datum": "2026-08-20T08:24:30.000Z",
+   "sortZeit": 1787142270000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412889883",
    "titel": "„Schwer vergleichbare Einzelsituation“: Hat dieser Essener Protest eine Chance?",
    "url": "https://www.nrz.de/sport/lokalsport/essen/article412889883/nach-flutlicht-panne-essener-protestieren-wie-hoch-ihre-erfolgschancen-sind.html",
@@ -661,9 +746,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -687,9 +770,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
@@ -984,9 +1065,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
