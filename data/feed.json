@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T16:51:07.871Z",
+ "aktualisiert": "2026-08-20T17:45:44.617Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -1228,9 +1228,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
