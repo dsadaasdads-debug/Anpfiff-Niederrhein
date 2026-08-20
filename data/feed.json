@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T08:57:06.120Z",
+ "aktualisiert": "2026-08-20T09:50:28.469Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 23
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -709,6 +709,61 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:153398527",
+   "titel": "Großes Tennisturnier: Orsoyer Open – 109 Meldungen und ein Titelverteidiger unter Druck",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/orsoyer-open-2026-109-starter-kaempfen-um-den-titel_aid-153398527",
+   "teaser": "Die 7. Orsoyer Open locken ab Freitag 109 Tennisspieler ans Netz. Titelverteidiger Hohendorff steht unter Druck. Alle Infos zu Favoriten, Terminen und Highlights.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/9/7/7/6/5/9/tok_5db4c8e5d27e5d0d5406c8374ecefa9b/w1200_h630_x1197_y898_rp_Orsoy_-_Offene_Tennismeisterschaft_003-3665319549dded6a.jpg",
+   "datum": "2026-08-20T09:46:00.000Z",
+   "sortZeit": 1787190360000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412914209",
+   "titel": "MSV Duisburg gegen die SV 07 Elversberg – das Pokalspiel im Liveticker",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412914209/msv-duisburg-gegen-die-sv-07-elversberg-das-pokalspiel-im-liveticker.html",
+   "teaser": "Der MSV Duisburg spielt am Samstag um 15.30 Uhr im DFB-Pokal gegen den Bundesligisten SV 07 Elversberg. Wir sind live dabei.",
+   "bild": "https://img.sparknews.funkemedien.de/412814774/412814774_1787216324_v16_9_600.jpeg",
+   "datum": "2026-08-20T09:01:17.000Z",
+   "sortZeit": 1787144477000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412910904",
    "titel": "Mammutmarsch Ruhrgebiet 2026 - alle Infos zum Mega-Event - Kosten, Strecke, Parken",
    "url": "https://www.nrz.de/sport/lokalsport/essen/article412910904/mammutmarsch-ruhrgebiet-2026-alle-infos-zum-mega-event-kosten-strecke-parken.html",
@@ -770,7 +825,9 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
@@ -984,9 +1041,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -999,6 +1054,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/unsere-jerseys-fuer-26-27",
+   "titel": "Unsere Jerseys für 26/27",
+   "url": "https://fuechse-duisburg.de/news/unsere-jerseys-fuer-26-27/",
+   "teaser": "Das sind unsere Trikots für die kommende Spielzeit – mit unserem neuen Brustsponsor, der ELMO Group! 🔴⚫️ Unser rot-schwarzes Heimtrikot, das unsere Vereinsfarben betont und Dynamik vermittelt.⚪️ Und unser weißes Away-Jersey, das mit seinen grauen Highlights auch schick daherkommt. Genau wie Nicklas und Luis finden wir: Das ist der letzte Schrei! 🤩 Wir danken in […]",
+   "bild": "",
+   "datum": "2026-08-19T15:00:00.000Z",
+   "sortZeit": 1787079600000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
   },
   {
    "id": "fuechse-duisburg.de/unsere-jerseys-fuer-26-27",
@@ -1712,6 +1793,32 @@
    "grund": "pfad"
   },
   {
+   "id": "fuechse-duisburg.de/news/sommerinterview",
+   "titel": "Sommerinterview",
+   "url": "https://fuechse-duisburg.de/news/sommerinterview/",
+   "teaser": "Oliver Rättig hat unseren Geschäftsführer Tom Södler zum Start in die Vorbereitung zu aktuellen Themen, wie der Kadersituation oder dem Stand beim Hallenbau befragt.Viel Spaß beim Anschauen! 🎬 Wir sehen uns heute Abend zum öffentlichen Training! 🙌🦊 https://youtu.be/i8yzMWIrZes?si=99nX_KaBsa8d90QA",
+   "bild": "",
+   "datum": "2026-08-18T10:00:00.000Z",
+   "sortZeit": 1786975200000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "fuechse-duisburg.de/sommerinterview",
    "titel": "Sommerinterview",
    "url": "https://fuechse-duisburg.de/sommerinterview/",
@@ -1762,6 +1869,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/sportler-des-jahres",
+   "titel": "Sportler des Jahres",
+   "url": "https://fuechse-duisburg.de/news/sportler-des-jahres/",
+   "teaser": "Die alljährlichen Abstimmungen zu Duisburgs Sportlerinnen und Sportlern des Jahres haben begonnen. Und völlig berechtigterweise ist auch ein Fuchs dabei: unser Wirbelwind Philippe Sanche ist in der Kategorie Sportler des Jahres nominiert! Am 13. November werden die Sieger gekürt, wobei je zu einem Drittel die Stimmen des Online-Votings, der Medienjury und der Expertenjury einfließen. Ihr […]",
+   "bild": "",
+   "datum": "2026-08-18T08:00:00.000Z",
+   "sortZeit": 1786968000000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
   },
   {
    "id": "fuechse-duisburg.de/sportler-des-jahres",
@@ -4080,6 +4213,32 @@
    "grund": "pfad"
   },
   {
+   "id": "fuechse-duisburg.de/news/neue-und-bekannte-unterstuetzung-im-club-1971",
+   "titel": "Neue und bekannte Unterstützung im Club 1971",
+   "url": "https://fuechse-duisburg.de/news/neue-und-bekannte-unterstuetzung-im-club-1971/",
+   "teaser": "Mit der Laufs GmbH und KL Technic dürfen wir uns über starke Unterstützung in unserem Club 1971 freuen. Während die Laufs GmbH neu zum Partnernetzwerk der Füchse hinzukommt, setzt KL Technic die bestehende Zusammenarbeit fort. Laufs GmbH wird neuer Silber Partner Mit der Laufs GmbH begrüßen wir einen neuen Silber Partner im Club 1971. Das […]",
+   "bild": "",
+   "datum": "2026-08-11T15:00:00.000Z",
+   "sortZeit": 1786388400000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "fuechse-duisburg.de/neue-und-bekannte-unterstuetzung-im-club-1971",
    "titel": "Neue und bekannte Unterstützung im Club 1971",
    "url": "https://fuechse-duisburg.de/neue-und-bekannte-unterstuetzung-im-club-1971/",
@@ -5663,6 +5822,32 @@
    "grund": "rubrik"
   },
   {
+   "id": "fuechse-duisburg.de/news/erstes-oeffentliches-training",
+   "titel": "Erstes öffentliches Training",
+   "url": "https://fuechse-duisburg.de/news/erstes-oeffentliches-training/",
+   "teaser": "Es ist bald wieder soweit…Der Klang von Kufen, die ihre Kerben ins Eis schlagen. Pucks, die ans Torgestänge klatschen. Krachende Checks gegen die Bande…Könnt ihr es schon hören? 🤩 🗓 18.08.2026⏰️ 18.00 Uhr Die Füchse starten am 18. August mit einem Training vor euch Fans in die Spielzeit.Ab 18 Uhr begrüßt euch Hallensprecher Justin Holland […]",
+   "bild": "",
+   "datum": "2026-08-06T15:00:00.000Z",
+   "sortZeit": 1785956400000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "fuechse-duisburg.de/erstes-oeffentliches-training",
    "titel": "Erstes öffentliches Training",
    "url": "https://fuechse-duisburg.de/erstes-oeffentliches-training/",
@@ -7001,6 +7186,32 @@
    "sportart": "American Football",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/tickets-und-summer-bundle-ab-sofort-erhaeltlich",
+   "titel": "Tickets und Summer Bundle ab sofort erhältlich",
+   "url": "https://fuechse-duisburg.de/news/tickets-und-summer-bundle-ab-sofort-erhaeltlich/",
+   "teaser": "Endlich wieder Eishockey! Ab sofort könnt ihr euch eure Tickets für unsere vier Testspiele sichern und euch auf die ersten Partien der neuen Saison freuen. 🦊 Für alle Testspiele gelten in sämtlichen Kategorien einheitliche Preise: Vollzahler: 10,00 Euro Ermäßigt: 8,00 Euro Jugend: 7,00 Euro Kinder auf Sitzplätzen: 6,00 Euro Kinder auf Stehplätzen: kostenlos Tickets bekommt […]",
+   "bild": "",
+   "datum": "2026-08-01T10:00:00.000Z",
+   "sortZeit": 1785506400000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
   },
   {
    "id": "fuechse-duisburg.de/tickets-und-summer-bundle-ab-sofort-erhaeltlich",
