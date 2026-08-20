@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T19:20:14.326Z",
+ "aktualisiert": "2026-08-20T22:03:29.153Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2611,317 +2611,6 @@
     }
    ]
   },
-  "nuliga.hnr.173320": {
-   "name": "Wesel - Regionsklasse Männer",
-   "sportart": "Handball",
-   "zeilen": [
-    {
-     "platz": 1,
-     "verein": "SV Friedrichsfeld II",
-     "teamId": "nuliga.hnr.1738661",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 2,
-     "verein": "TV Issum III",
-     "teamId": "nuliga.hnr.1739498",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 3,
-     "verein": "Kevelaerer SV II",
-     "teamId": "nuliga.hnr.1795101",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 4,
-     "verein": "TSV Bocholt II",
-     "teamId": "nuliga.hnr.1738412",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 5,
-     "verein": "HSG Wesel III",
-     "teamId": "nuliga.hnr.1738806",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 6,
-     "verein": "TV Schwafheim III",
-     "teamId": "nuliga.hnr.1738877",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 7,
-     "verein": "TSV Bocholt III",
-     "teamId": "nuliga.hnr.1796480",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 8,
-     "verein": "HSG Hiesfeld/Aldenrade IV",
-     "teamId": "nuliga.hnr.1738510",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 9,
-     "verein": "TV Kapellen III",
-     "teamId": "nuliga.hnr.1811555",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    }
-   ]
-  },
-  "nuliga.hnr.173263": {
-   "name": "Nordrhein - Oberliga Frauen",
-   "sportart": "Handball",
-   "zeilen": [
-    {
-     "platz": 1,
-     "verein": "TuS Lintfort II",
-     "teamId": "nuliga.hnr.1739510",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 2,
-     "verein": "TSV Kaldenkirchen",
-     "teamId": "nuliga.hnr.1738592",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 3,
-     "verein": "HC TV Rhede",
-     "teamId": "nuliga.hnr.1740988",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 4,
-     "verein": "HSG VeRuKa",
-     "teamId": "nuliga.hnr.1738796",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 5,
-     "verein": "VT Kempen",
-     "teamId": "nuliga.hnr.1740009",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 6,
-     "verein": "VfL Rheinhausen",
-     "teamId": "nuliga.hnr.1739910",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 7,
-     "verein": "TSV Bocholt",
-     "teamId": "nuliga.hnr.1738659",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 8,
-     "verein": "TV Ratingen",
-     "teamId": "nuliga.hnr.1738399",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 9,
-     "verein": "Fortuna Düsseldorf 1895 e.V.",
-     "teamId": "nuliga.hnr.1739063",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 10,
-     "verein": "SV Straelen",
-     "teamId": "nuliga.hnr.1739971",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 11,
-     "verein": "Tschft. St. Tönis",
-     "teamId": "nuliga.hnr.1740580",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 12,
-     "verein": "TV Borken",
-     "teamId": "nuliga.hnr.1740346",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 13,
-     "verein": "HSG Hiesfeld/Aldenrade",
-     "teamId": "nuliga.hnr.1738727",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 14,
-     "verein": "TD Lank II",
-     "teamId": "nuliga.hnr.1738922",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    }
-   ]
-  },
   "nuliga.hnr.173075": {
    "name": "Wesel - Regionsoberliga Frauen",
    "sportart": "Handball",
@@ -3584,15 +3273,6 @@
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Donnerstag, 20.08.2026 - 19:30 Uhr",
-     "wettbewerb": "Bezirksfreundschaftsspiele",
-     "heim": "VfL Repelen",
-     "gast": "FC Moers-Meerfeld",
-     "url": "https://www.fussball.de/spiel/vfl-repelen-fc-moers-meerfeld/-/spiel/031CPLLKBG000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 23.08.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
      "heim": "SV Spellen II",
@@ -3627,9 +3307,27 @@
      "url": "https://www.fussball.de/spiel/vfl-rheinhausen-ii-fc-moers-meerfeld/-/spiel/031HBDT878000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Viktoria Birten",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/sv-viktoria-birten-fc-moers-meerfeld/-/spiel/031HBDT65K000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 20.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Repelen",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-fc-moers-meerfeld/-/spiel/031CPLLKBG000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Samstag, 15.08.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
@@ -3663,15 +3361,6 @@
      "heim": "TSV Nieukerk",
      "gast": "FC Moers-Meerfeld",
      "url": "https://www.fussball.de/spiel/tsv-nieukerk-fc-moers-meerfeld/-/spiel/031BFDRGQG000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Freitag, 31.07.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "FC Moers-Meerfeld",
-     "gast": "FC Moers-Meerfeld II",
-     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-fc-moers-meerfeld-ii/-/spiel/031KJ8E6R0000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -6057,24 +5746,6 @@
    "letzte": []
   },
   {
-   "verein": "TuS Lintfort II",
-   "heimatverein": "TuS Lintfort",
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "sportart": "Handball",
-   "mannschaft": "TuS Lintfort II",
-   "teamId": "nuliga.hnr.1739510",
-   "teamUrl": "https://www.handball.net/mannschaften/nuliga.hnr.1739510/tabelle",
-   "liga": "Nordrhein - Oberliga Frauen",
-   "spielklasse": "Oberliga Frauen",
-   "platz": 1,
-   "punkte": 0,
-   "torverhaeltnis": "0:0",
-   "staffelId": "nuliga.hnr.173263",
-   "naechste": [],
-   "letzte": []
-  },
-  {
    "verein": "TuS Lintfort III",
    "heimatverein": "TuS Lintfort",
    "ort": "Kamp-Lintfort",
@@ -6401,24 +6072,6 @@
    "letzte": []
   },
   {
-   "verein": "TV Issum III",
-   "heimatverein": "TV Issum",
-   "ort": "Issum",
-   "zone": "umland",
-   "sportart": "Handball",
-   "mannschaft": "TV Issum III",
-   "teamId": "nuliga.hnr.1739498",
-   "teamUrl": "https://www.handball.net/mannschaften/nuliga.hnr.1739498/tabelle",
-   "liga": "Wesel - Regionsklasse Männer",
-   "spielklasse": "Regionsklasse Männer",
-   "platz": 2,
-   "punkte": 0,
-   "torverhaeltnis": "0:0",
-   "staffelId": "nuliga.hnr.173320",
-   "naechste": [],
-   "letzte": []
-  },
-  {
    "verein": "TV Kapellen",
    "ort": "Moers",
    "zone": "kern",
@@ -6582,24 +6235,6 @@
    "letzte": []
   },
   {
-   "verein": "TV Schwafheim III",
-   "heimatverein": "TV Schwafheim",
-   "ort": "Moers",
-   "zone": "kern",
-   "sportart": "Handball",
-   "mannschaft": "TV Schwafheim III",
-   "teamId": "nuliga.hnr.1738877",
-   "teamUrl": "https://www.handball.net/mannschaften/nuliga.hnr.1738877/tabelle",
-   "liga": "Wesel - Regionsklasse Männer",
-   "spielklasse": "Regionsklasse Männer",
-   "platz": 6,
-   "punkte": 0,
-   "torverhaeltnis": "0:0",
-   "staffelId": "nuliga.hnr.173320",
-   "naechste": [],
-   "letzte": []
-  },
-  {
    "verein": "VFL Repelen 08",
    "ort": "Moers",
    "zone": "kern",
@@ -6614,15 +6249,6 @@
    "torverhaeltnis": "1:18",
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
    "naechste": [
-    {
-     "datum": "Donnerstag, 20.08.2026 - 19:30 Uhr",
-     "wettbewerb": "Bezirksfreundschaftsspiele",
-     "heim": "VfL Repelen",
-     "gast": "FC Moers-Meerfeld",
-     "url": "https://www.fussball.de/spiel/vfl-repelen-fc-moers-meerfeld/-/spiel/031CPLLKBG000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -6658,9 +6284,27 @@
      "url": "https://www.fussball.de/spiel/spvgg-sterkrade-nord-vfl-repelen/-/spiel/031ENENHTG000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "VfL Repelen",
+     "gast": "Tus Asterlagen",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-tus-asterlagen/-/spiel/031ENENGSC000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 20.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Repelen",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-fc-moers-meerfeld/-/spiel/031CPLLKBG000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 16.08.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -6696,18 +6340,18 @@
      "url": "https://www.fussball.de/spiel/vfl-repelen-msv-moers/-/spiel/031CPMA2SC000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Donnerstag, 30.07.2026 - 19:30 Uhr",
-     "wettbewerb": "Bezirksfreundschaftsspiele",
-     "heim": "VfL Repelen",
-     "gast": "TSV Bockum 2",
-     "url": "https://www.fussball.de/spiel/vfl-repelen-tsv-bockum-2/-/spiel/031CPMLI9O000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   }
  ],
- "fehler": []
+ "fehler": [
+  {
+   "verein": "Wesel - Regionsklasse Männer",
+   "fehler": "HTTP 502 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173320/table"
+  },
+  {
+   "verein": "Nordrhein - Oberliga Frauen",
+   "fehler": "HTTP 502 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173263/table"
+  }
+ ]
 }
