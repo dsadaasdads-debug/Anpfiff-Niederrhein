@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-20T09:50:28.469Z",
+ "aktualisiert": "2026-08-20T10:47:26.008Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,35 @@
  ],
  "artikel": [
   {
+   "id": "funke:412903065",
+   "titel": "Knackige Generalprobe: TuS Lintfort will sich den letzten Feinschliff holen",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412903065/knackige-generalprobe-tus-lintfort-will-sich-den-letzten-feinschliff-holen.html",
+   "teaser": "Zweitliga-Handballerinnen um Trainerin Bettina Grenz-Klein nehmen Samstag am Dreierturnier des Ligakonkurrenten Bayer Leverkusen teil.",
+   "bild": "https://img.sparknews.funkemedien.de/412905390/412905390_1787221936_v16_9_600.jpeg",
+   "datum": "2026-08-20T10:38:06.000Z",
+   "sortZeit": 1787222286000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412899787",
    "titel": "Drei WM-Medaillen bei Weltreiterspielen - Bela Lehnen aus Moers: Unglaublich",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412899787/drei-wm-medaillen-bei-weltreiterspielen-bela-lehnen-aus-moers-unglaublich.html",
@@ -721,7 +750,9 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
@@ -734,6 +765,32 @@
    "sportart": null,
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/rueckblick-oeffentliches-training",
+   "titel": "Rückblick öffentliches Training",
+   "url": "https://fuechse-duisburg.de/news/rueckblick-oeffentliches-training/",
+   "teaser": "Am Dienstag konntet ihr unser Team für die kommende Spielzeit zum ersten Mal bestaunen – inklusive zahlreicher Talente unserer Kooperationspartner. Da war schon gut Tempo drin! 🔥 Mehr als 100 Fans waren gekommen, um wieder Eishockey-Feeling aufzusaugen. Im Anschluss gesellten sich Jungs bei Bratwurst und Kaltgetränken draußen noch zu den Fans für einen kurzen Plausch […]",
+   "bild": "",
+   "datum": "2026-08-20T10:00:00.000Z",
+   "sortZeit": 1787148000000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
   },
   {
    "id": "funke:412914209",
@@ -1120,8 +1177,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": false,
