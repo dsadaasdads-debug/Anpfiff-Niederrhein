@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T10:47:49.392Z",
+ "aktualisiert": "2026-08-21T11:42:42.278Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,33 @@
  ],
  "artikel": [
   {
+   "id": "funke:412925761",
+   "titel": "Borussia Veen klagt über einen ordentlichen Verlust an Erfahrung und Qualität",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412925761/borussia-veen-klagt-ueber-einen-ordentlichen-verlust-an-erfahrung-und-qualitaet.html",
+   "teaser": "In der Fußball-Bezirksliga ging der Start für das Team von Trainer Alexander Wisniewski voll daneben. Nun kommt Westfalia Anholt.",
+   "bild": "https://img.sparknews.funkemedien.de/410882849/410882849_1787309005_v16_9_600.jpeg",
+   "datum": "2026-08-21T10:44:27.000Z",
+   "sortZeit": 1787309067000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": false,
+   "orte": [
+    "Moers",
+    "Alpen"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412922521",
    "titel": "TV Schwafheim macht kurzen Prozess: Testspielgegner ist hoffnungslos überfordert",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412922521/tv-schwafheim-macht-kurzen-prozess-testspielgegner-ist-hoffnungslos-ueberfordert.html",
@@ -679,6 +706,60 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:153396131",
+   "titel": "Am 14. September 2020: Vor 300 Fans gegen eine 500-Millionen-Truppe – als der MSV letztmals DFB-Pokal spielte",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-gegen-borussia-dortmund-vor-300-fans-das-letzte-spiel-im-dfb-pokal_aid-153396131",
+   "teaser": "Fast sechs Jahre ist es her, dass Duisburg letztmals an der ersten Hauptrunde teilnehmen durfte. Das Spiel damals – ein skurriles Duell mitten in der Pandemie gegen ein Schwergewicht der Bundesliga. Mittendrin: zwei Superstars der Weltmeisterschaft 2026.",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/9/7/1/3/7/1/tok_dd48b3c60f6a1d0960b218eb96c854de/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FA25C007C960861-6c1bb342cfd4c4b6.jpg",
+   "datum": "2026-08-21T11:34:00.000Z",
+   "sortZeit": 1787240040000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412910430",
+   "titel": "MSV Duisburg gegen Elversberg im Pokal: Spielinfos und TV-Übertragung",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412910430/msv-duisburg-gegen-elversberg-im-pokal-spielinfos-und-tv-uebertragung.html",
+   "teaser": "Die Zebras möchten in die nächste Runde einziehen. Was die Fans rund um das Stadion, über die Ticketsituation und TV-Übertragung wissen müssen.",
+   "bild": "https://img.sparknews.funkemedien.de/412910398/412910398_1787151437_v16_9_600.jpeg",
+   "datum": "2026-08-21T10:46:26.000Z",
+   "sortZeit": 1787237186000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:406808429",
    "titel": "MSV Duisburg: Fans stimmen über Logo für das Jubiläumstrikot ab",
    "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
@@ -690,7 +771,9 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1039,9 +1122,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1067,9 +1148,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1122,8 +1201,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
@@ -1331,9 +1409,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Xanten und Rheinberg",
-   "auchIn": [
-    "RP Online Xanten"
-   ],
+   "auchIn": [],
    "ort": "Xanten",
    "ortSicher": true,
    "orte": [
@@ -8597,30 +8673,6 @@
     "TV Schwafheim"
    ],
    "sportart": "Handball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412647109",
-   "titel": "Moerser Familie sahnt ab: sechs deutsche Meistertitel in der Leichtathletik",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412647109/moerser-familie-sahnt-ab-sechs-deutsche-meistertitel-in-der-leichtathletik.html",
-   "teaser": "Bei den Masters-Meisterschaften in Mönchengladbach kann Senior Wolfgang Ritte gleich drei Titel aus dem Vorjahr verteidigen.",
-   "bild": "https://img.sparknews.funkemedien.de/412646953/412646953_1784719492_v16_9_600.jpeg",
-   "datum": "2026-07-22T11:37:32.000Z",
-   "sortZeit": 1784720252000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [],
-   "sportart": "Leichtathletik",
    "ereignis": null,
    "grund": "pfad"
   },
