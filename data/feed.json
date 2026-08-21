@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T13:58:39.349Z",
+ "aktualisiert": "2026-08-21T14:53:50.665Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,36 @@
  ],
  "artikel": [
   {
+   "id": "rp:153459747",
+   "titel": "Nach dramatischem Pokal-Aus: Jetzt wartet auf den SV Sonsbeck schon der nächste „heiße Tanz“",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-sonsbeck-nach-pokal-aus-wartet-das-derby-gegen-scherpenberg_aid-153459747",
+   "teaser": "Der SV Sonsbeck kämpfte gegen Rot-Weiss Essen, verlor aber 2:7. Jetzt steht das Kreisderby gegen Scherpenberg an. Trainer Losing sagt, sein Team sei bereit.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/1/1/8/3/9/5/tok_488b215b919bddaec87531049649a5d4/w1200_h630_x1350_y900_rp_20260531_J_0933-cb8eb3d95411d1dd.jpg",
+   "datum": "2026-08-21T14:19:00.000Z",
+   "sortZeit": 1787321940000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412926176",
    "titel": "Fußballfrauen des GSV Moers sagen FVN-Pokalspiel ab: Das sind die Gründe",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412926176/fussballfrauen-des-gsv-moers-sagen-fvn-pokalspiel-ab-das-sind-die-gruende.html",
@@ -635,7 +665,9 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -688,9 +720,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -769,9 +799,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
@@ -841,6 +869,88 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412929366",
+   "titel": "Ein Derby ist ein Derby: MSV-Junioren müssen in Essen ran",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412929366/ein-derby-ist-ein-derby-msv-junioren-muessen-in-essen-ran.html",
+   "teaser": "Um im Rhythmus zu bleiben, gab es ein Testspiel in Meppen. Derweil spielen die B-Junioren bereits am Samstagmorgen gegen den BVB.",
+   "bild": "https://img.sparknews.funkemedien.de/412929600/412929600_1787322635_v16_9_600.jpeg",
+   "datum": "2026-08-21T14:38:43.000Z",
+   "sortZeit": 1787251123000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412866264",
+   "titel": "Die Abstimmung läuft: Wahl zu den Duisburger Sportlern des Jahres",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412866264/die-abstimmung-laeuft-wahl-zu-den-duisburger-sportlern-des-jahres.html",
+   "teaser": "Bis zum 13. September läuft Duisburgs Sportlerwahl in den gewohnten vier Kategorien. Die Ehrung erfolgt bei der Sportschau des Stadtsportbundes",
+   "bild": "https://img.sparknews.funkemedien.de/412881626/412881626_1786901972_v16_9_600.jpeg",
+   "datum": "2026-08-21T14:35:00.000Z",
+   "sortZeit": 1787250900000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412925929",
+   "titel": "Mehr als ein Event: Das spricht gegen Elversberg für den MSV Duisburg",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412925929/mehr-als-ein-event-das-spricht-gegen-elversberg-fuer-den-msv-duisburg.html",
+   "teaser": "Der MSV Duisburg fordert am Samstag im DFB-Pokal den Bundesligisten SV Elversberg heraus. Gästetrainer Wagner zeigt Respekt.",
+   "bild": "https://img.sparknews.funkemedien.de/412928933/412928933_1787319730_v16_9_600.jpeg",
+   "datum": "2026-08-21T13:59:46.000Z",
+   "sortZeit": 1787248786000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412923054",
    "titel": "Rhein Fire: Trubel auf „Malle“ statt zweistelliger Kulisse in Florenz",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412923054/rhein-fire-trubel-auf-malle-statt-zweistelliger-kulisse-in-florenz.html",
@@ -852,9 +962,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -880,9 +988,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1991,8 +2097,7 @@
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
     "RP Online Sport Duisburg",
-    "RP Online Moers",
-    "RP Online Duisburg"
+    "RP Online Moers"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
@@ -2082,30 +2187,6 @@
     "MSV Duisburg"
    ],
    "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412866264",
-   "titel": "Die Abstimmung läuft: Wahl zu den Duisburger Sportlern des Jahres",
-   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412866264/die-abstimmung-laeuft-wahl-zu-den-duisburger-sportlern-des-jahres.html",
-   "teaser": "Bis zum 13. September läuft Duisburgs Sportlerwahl in den gewohnten vier Kategorien. Die Ehrung erfolgt bei der Sportschau des Stadtsportbundes",
-   "bild": "https://img.sparknews.funkemedien.de/412881626/412881626_1786901972_v16_9_600.jpeg",
-   "datum": "2026-08-19T08:45:00.000Z",
-   "sortZeit": 1787057100000,
-   "punkte": 40,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
    "ereignis": null,
    "grund": "pfad"
   },
