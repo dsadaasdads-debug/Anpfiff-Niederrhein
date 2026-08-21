@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T21:39:07.239Z",
+ "aktualisiert": "2026-08-21T22:42:13.481Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -9093,32 +9093,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "fuechse-duisburg.de/zurueck-aus-der-pause-mit-episode-21-und-einem-knall-%f0%9f%92%a5",
-   "titel": "Zurück aus der Pause mit Episode 21 und einem Knall 💥",
-   "url": "https://fuechse-duisburg.de/zurueck-aus-der-pause-mit-episode-21-und-einem-knall-%f0%9f%92%a5/",
-   "teaser": "Wir melden uns am Freitag um 17Uhr mit der neuesten Folge von Late Hit und beenden damit die Sommerpause!Und es geht fulminant in die neue Spielzeit!Wir verkünden gleich mal einen Neuzugang im Fuchsbau! 🥳Oliver Rättig wird unseren neuen Fuchs zu seinem Wechsel nach Duisburg und seinen Ambitionen befragen und mit ihm schon mal auf die […]",
-   "bild": "",
-   "datum": "2026-07-22T21:45:00.000Z",
-   "sortZeit": 1784684700000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "Füchse Duisburg",
-   "quelleName": "Füchse Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "Füchse Duisburg"
-   ],
-   "sportart": "Eishockey",
-   "ereignis": null,
-   "grund": "vereinsfeed"
   }
  ]
 }
