@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T11:42:42.278Z",
+ "aktualisiert": "2026-08-21T13:11:05.511Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,61 @@
  ],
  "artikel": [
   {
+   "id": "funke:412927149",
+   "titel": "SV Sonsbecks Fight mit RWE: Ein mentaler Vorteil für SV Scherpenberg im Derby?",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412927149/sv-sonsbecks-fight-mit-rwe-ein-mentaler-vorteil-fuer-sv-scherpenberg-im-derby.html",
+   "teaser": "Duell der Trainer-Freunde im Fußball-Oberliga-Derby. Scherpenberg und ETB geben Stellungnahme zum Flutlichtausfall-Spiel in Asberg ab.",
+   "bild": "https://img.sparknews.funkemedien.de/412927700/412927700_1787315123_v16_9_600.jpeg",
+   "datum": "2026-08-21T12:40:20.000Z",
+   "sortZeit": 1787316020000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Sonsbeck"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "SV Scherpenberg 1921"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412926541",
+   "titel": "GSC Moers angelt sich Jung-Fuchs, dafür geht ein Verteidiger zu Rivale Grefrath",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412926541/gsc-moers-angelt-sich-jung-fuchs-dafuer-geht-verteidiger-zu-rivale-grefrath.html",
+   "teaser": "Zwei Verteidiger des Eishockey-Regionalligisten wechseln zum Erzrivalen. Zwei Testspiele gegen ein Nordlicht stehen schon fest.",
+   "bild": "https://img.sparknews.funkemedien.de/412927028/412927028_1787312858_v16_9_600.jpeg",
+   "datum": "2026-08-21T11:48:27.000Z",
+   "sortZeit": 1787312907000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412925761",
    "titel": "Borussia Veen klagt über einen ordentlichen Verlust an Erfahrung und Qualität",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412925761/borussia-veen-klagt-ueber-einen-ordentlichen-verlust-an-erfahrung-und-qualitaet.html",
@@ -635,9 +690,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": false,
    "orte": [
@@ -662,9 +715,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -679,6 +730,64 @@
    "sportart": "Handball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "funke:412927610",
+   "titel": "Ofosu-Ayeh ist zurück: Zugänge sollen bei Hamborn 07 neue Qualität reinbringen",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412927610/ofosu-ayeh-ist-zurueck-zugaenge-sollen-bei-hamborn-07-neue-qualitaet-reinbringen.html",
+   "teaser": "Der Landesliga-Absteiger begrüßt am Sonntag einen noch punktlosen Aufsteiger zum Heimdebüt im Holtkamp. Trainer versprüht Optimismus.",
+   "bild": "https://img.sparknews.funkemedien.de/412927721/412927721_fc_1787315202_v16_9_600.jpeg",
+   "datum": "2026-08-21T12:46:44.000Z",
+   "sortZeit": 1787287604000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153459735",
+   "titel": "Dinslakener spielt jetzt beim SV Budberg: Warum Jannis Kipouros sein Schicksal selbst in die Hand genommen hat",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/kipouros-weg-zum-sv-budberg-eigeninitiative-zahlt-sich-aus_aid-153459735",
+   "teaser": "Jannis Kipouros nahm seinen Wechsel zum SV Budberg selbst in die Hand. Wie der Dinslakener sich auf einer neuen Position durchsetzt und was ihn antreibt.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/1/1/8/3/6/5/tok_bea51358b467e9be0ac0e6fd34457bca/w1200_h630_x1350_y901_rp_20260801_J_0469-94340485a94a6c22.jpg",
+   "datum": "2026-08-21T12:31:00.000Z",
+   "sortZeit": 1787286660000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412918202",
@@ -702,6 +811,63 @@
    "zone": "umland",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412926617",
+   "titel": "Derby zwischen „David und Goliath“: Favoritenrolle liegt klar beim VfB Homberg",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412926617/derby-zwischen-david-und-goliath-favoritenrolle-liegt-klar-beim-vfb-homberg.html",
+   "teaser": "Landesliga-Aufsteiger DFV 08 wartet noch immer auf das erste Pflichtspieltor der neuen Saison. Die Rückkehrer sollen es richten.",
+   "bild": "https://img.sparknews.funkemedien.de/412927251/412927251_1787313885_v16_9_600.jpeg",
+   "datum": "2026-08-21T12:19:20.000Z",
+   "sortZeit": 1787242760000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412924027",
+   "titel": "So gibt es Tickets für das MSV-Spiel bei Fortuna Düsseldorf",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412924027/so-gibt-es-tickets-fuer-das-msv-spiel-bei-fortuna-duesseldorf.html",
+   "teaser": "Am 12. September tritt der MSV Duisburg im Straßenbahnderby bei Fortuna Düsseldorf an. Am Dienstag beginnt der Kartenvorverkauf.",
+   "bild": "https://img.sparknews.funkemedien.de/412924611/412924611_1787304265_v16_9_600.jpeg",
+   "datum": "2026-08-21T12:18:05.000Z",
+   "sortZeit": 1787242685000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   },
@@ -771,9 +937,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -828,9 +992,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
@@ -5436,9 +5598,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -8647,32 +8807,6 @@
     "VFB Homberg"
    ],
    "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412647302",
-   "titel": "Keine Hallenzeiten in Moers: TV Schwafheim meldet Jugendhandballteams ab",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412647302/keine-hallenzeiten-in-moers-tv-schwafheim-meldet-jugendhandballteams-ab.html",
-   "teaser": "Hallenprobleme der Stadt immer größer. Offenbar Zuschuss für Sanierung an der Kirschenallee geplatzt. Kritik an Politik und Verwaltung.",
-   "bild": "https://img.sparknews.funkemedien.de/412647931/412647931_1784723700_v16_9_600.jpeg",
-   "datum": "2026-07-22T12:48:13.000Z",
-   "sortZeit": 1784724493000,
-   "punkte": 150,
-   "paywall": true,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "TV Schwafheim"
-   ],
-   "sportart": "Handball",
    "ereignis": null,
    "grund": "pfad"
   },
