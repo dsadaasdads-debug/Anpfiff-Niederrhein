@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T05:48:36.961Z",
+ "aktualisiert": "2026-08-21T07:07:50.013Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -623,6 +623,31 @@
   }
  ],
  "artikel": [
+  {
+   "id": "funke:412918202",
+   "titel": "SC 1920 Oberhausen erwartet „Reifeprüfung“ gegen den FSV Duisburg",
+   "url": "https://www.nrz.de/sport/lokalsport/oberhausen/article412918202/sc-1920-oberhausen-erwartet-reifepruefung-gegen-den-fsv-duisburg.html",
+   "teaser": "Nach dem 4:1 gegen Hamborn 07 geht es für den SC 20 am Sonntag zum FSV Duisburg. Sportchef Kilian Lang spricht von einem Spitzenspiel.",
+   "bild": "https://img.sparknews.funkemedien.de/412918908/412918908_1787232152_v16_9_600.jpeg",
+   "datum": "2026-08-21T06:00:00.000Z",
+   "sortZeit": 1787263200000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
   {
    "id": "funke:412919295",
    "titel": "Aus nach Spiel eins: Darum verlässt neuer Offensivkicker den 1. FC Lintfort",
