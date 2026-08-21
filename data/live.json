@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T20:44:28.863Z",
+ "aktualisiert": "2026-08-21T21:10:03.548Z",
  "tag": "21.08.",
  "datum": "2026-08-21",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,34 +29,9 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 224,
+   "seitAnpfiffMin": 250,
    "laeuft": false,
    "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "url": "https://www.fupa.net/match/sv-alemannia-kamp-m1-concordia-rheinberg-m2-260821",
-   "verein": "SV Alemannia Kamp",
-   "heimatverein": null,
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Testspiele",
-   "anpfiff": "2026-08-21T19:30:00+02:00",
-   "zeit": "17:30",
-   "heim": "SV Alemannia Kamp",
-   "gast": "Concordia Rheinberg II",
-   "tore": null,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "tickerAutor": null,
-   "hatTicker": false,
-   "abschnitt": "LIVE",
-   "hinweis": null,
-   "seitAnpfiffMin": 194,
-   "laeuft": true,
-   "abgeschlossen": false
   },
   {
    "quelle": "FuPa",
@@ -77,11 +52,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 220,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -168,7 +143,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
+   "seitAnpfiffMin": 220,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -212,7 +187,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 164,
+   "seitAnpfiffMin": 190,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -237,7 +212,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 164,
+   "seitAnpfiffMin": 190,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -341,7 +316,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 164,
+   "seitAnpfiffMin": 190,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -645,9 +620,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 104,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 130,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -670,7 +645,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 74,
+   "seitAnpfiffMin": 100,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -695,7 +670,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 74,
+   "seitAnpfiffMin": 100,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -720,7 +695,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 74,
+   "seitAnpfiffMin": 100,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -936,7 +911,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 44,
+   "seitAnpfiffMin": 70,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1174,7 +1149,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 44,
+   "seitAnpfiffMin": 70,
    "laeuft": true,
    "abgeschlossen": false
   }
