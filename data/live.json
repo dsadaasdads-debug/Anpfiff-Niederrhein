@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T18:01:41.693Z",
+ "aktualisiert": "2026-08-21T18:53:33.067Z",
  "tag": "21.08.",
  "datum": "2026-08-21",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 62,
+   "seitAnpfiffMin": 114,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 32,
+   "seitAnpfiffMin": 84,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -76,7 +76,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 32,
+   "seitAnpfiffMin": 84,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -93,15 +93,34 @@
    "zeit": "17:30",
    "heim": "SV Menzelen",
    "gast": "BSV Grün-Weiß Flüren",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 1,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 42,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Robin Brüggen",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-menzelen-m1-2026-27",
+     "clubSlug": "sv-menzelen"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 32,
+   "seitAnpfiffMin": 84,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -122,14 +141,30 @@
     "heim": 0,
     "gast": 0
    },
-   "ereignisse": [],
-   "zuschauer": null,
+   "ereignisse": [
+    {
+     "minute": 1,
+     "nachspielzeit": 0,
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": "Jesko Dezelak",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
+   "zuschauer": 180,
    "schiedsrichter": "Jan Lukas Kalter",
    "tickerAutor": "Jens Kröll",
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 2,
+   "seitAnpfiffMin": 54,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -154,7 +189,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 2,
+   "seitAnpfiffMin": 54,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -179,7 +214,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 2,
+   "seitAnpfiffMin": 54,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -204,7 +239,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -58,
+   "seitAnpfiffMin": -6,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -229,7 +264,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -88,
+   "seitAnpfiffMin": -36,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -254,7 +289,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -88,
+   "seitAnpfiffMin": -36,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -279,7 +314,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -88,
+   "seitAnpfiffMin": -36,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -304,7 +339,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -118,
+   "seitAnpfiffMin": -66,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -329,7 +364,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -118,
+   "seitAnpfiffMin": -66,
    "laeuft": false,
    "abgeschlossen": false
   }
