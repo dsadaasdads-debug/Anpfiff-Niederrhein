@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T13:11:05.511Z",
+ "aktualisiert": "2026-08-21T13:58:39.349Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,30 @@
  ],
  "artikel": [
   {
+   "id": "funke:412926176",
+   "titel": "Fußballfrauen des GSV Moers sagen FVN-Pokalspiel ab: Das sind die Gründe",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412926176/fussballfrauen-des-gsv-moers-sagen-fvn-pokalspiel-ab-das-sind-die-gruende.html",
+   "teaser": "Eigentlich hätte die neue Frauenmannschaft des GSV Moers am Sonntag in Mettmann ihr Comeback nach dem Regionalliga-Abstieg gegeben.",
+   "bild": "https://img.sparknews.funkemedien.de/412929060/412929060_1787320341_v16_9_600.jpeg",
+   "datum": "2026-08-21T13:54:19.000Z",
+   "sortZeit": 1787320459000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412927149",
    "titel": "SV Sonsbecks Fight mit RWE: Ein mentaler Vorteil für SV Scherpenberg im Derby?",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412927149/sv-sonsbecks-fight-mit-rwe-ein-mentaler-vorteil-fuer-sv-scherpenberg-im-derby.html",
@@ -715,7 +739,9 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -815,6 +841,88 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412923054",
+   "titel": "Rhein Fire: Trubel auf „Malle“ statt zweistelliger Kulisse in Florenz",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412923054/rhein-fire-trubel-auf-malle-statt-zweistelliger-kulisse-in-florenz.html",
+   "teaser": "Sportlich sind Duisburgs Footballer darauf bedacht, den Fokus zu wahren. An sich geht es der Liga aber darum, Aufmerksamkeit zu schaffen.",
+   "bild": "https://img.sparknews.funkemedien.de/412923485/412923485_1787300058_v16_9_600.jpeg",
+   "datum": "2026-08-21T13:28:50.000Z",
+   "sortZeit": 1787246930000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Rhein Fire"
+   ],
+   "sportart": "American Football",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:406808429",
+   "titel": "MSV Duisburg: Fans stimmen über Logo für das Jubiläumstrikot ab",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
+   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
+   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
+   "datum": "2026-08-21T13:10:00.000Z",
+   "sortZeit": 1787245800000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/foerderlizenzspieler-iserlohn-roosters",
+   "titel": "Förderlizenzspieler Iserlohn Roosters",
+   "url": "https://fuechse-duisburg.de/news/foerderlizenzspieler-iserlohn-roosters/",
+   "teaser": "Das sind unsere Talente des Roosters-Föli-Pools, die mit einer Spielberechtigung für die Füchse ausgestattet werden. Allen voran die uns gut bekannten Stürmer Daniel Geiger und Bence Farkas, die im letzten Jahr bereits im Fuchsbau aufliefen und auch kommende Saison regelmäßig im Kader stehen sollen. Dazu stehen uns im Angriff unter anderen mit Maximilian Strauß (DEL-Vertrag) […]",
+   "bild": "",
+   "datum": "2026-08-21T13:00:00.000Z",
+   "sortZeit": 1787245200000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "funke:412926617",
    "titel": "Derby zwischen „David und Goliath“: Favoritenrolle liegt klar beim VfB Homberg",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412926617/derby-zwischen-david-und-goliath-favoritenrolle-liegt-klar-beim-vfb-homberg.html",
@@ -855,9 +963,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -905,34 +1011,6 @@
    "bild": "https://img.sparknews.funkemedien.de/412910398/412910398_1787151437_v16_9_600.jpeg",
    "datum": "2026-08-21T10:46:26.000Z",
    "sortZeit": 1787237186000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:406808429",
-   "titel": "MSV Duisburg: Fans stimmen über Logo für das Jubiläumstrikot ab",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
-   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
-   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
-   "datum": "2026-08-21T10:30:00.000Z",
-   "sortZeit": 1787236200000,
    "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
