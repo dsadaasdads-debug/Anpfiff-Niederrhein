@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T10:07:39.080Z",
+ "aktualisiert": "2026-08-21T13:33:53.296Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4470,7 +4470,7 @@
      "gast": "SV Schwafheim",
      "url": "https://www.fussball.de/spiel/sc-wacker-dinslaken-sv-schwafheim/-/spiel/031LPJ2OKS000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
@@ -5324,31 +5324,31 @@
  "fehler": [
   {
    "verein": "Nordrhein - Verbandsliga Männer",
-   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+   "fehler": "HTTP 404 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173163/table"
   },
   {
    "verein": "Wesel - Regionsoberliga Männer",
-   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+   "fehler": "HTTP 404 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173296/table"
   },
   {
    "verein": "Wesel - Regionsliga Männer",
-   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+   "fehler": "HTTP 404 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173322/table"
   },
   {
    "verein": "Wesel - Regionsklasse Männer",
-   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+   "fehler": "HTTP 404 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173320/table"
   },
   {
    "verein": "Nordrhein - Oberliga Frauen",
-   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+   "fehler": "HTTP 404 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173263/table"
   },
   {
    "verein": "Wesel - Regionsoberliga Frauen",
-   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+   "fehler": "HTTP 404 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173075/table"
   },
   {
    "verein": "Wesel - Regionsliga Frauen",
-   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+   "fehler": "HTTP 404 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173179/table"
   }
  ]
 }
