@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T09:52:54.431Z",
+ "aktualisiert": "2026-08-21T10:47:49.392Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -679,6 +679,32 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:406808429",
+   "titel": "MSV Duisburg: Fans stimmen über Logo für das Jubiläumstrikot ab",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
+   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
+   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
+   "datum": "2026-08-21T10:30:00.000Z",
+   "sortZeit": 1787236200000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412919295",
    "titel": "Aus nach Spiel eins: Darum verlässt neuer Offensivkicker den 1. FC Lintfort",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412919295/aus-nach-spiel-eins-darum-verlaesst-neuer-offensivkicker-den-1-fc-lintfort.html",
@@ -822,9 +848,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -1109,32 +1133,6 @@
    "zone": "duisburg",
    "vereine": [
     "VFB Homberg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:406808429",
-   "titel": "MSV Duisburg: Entspannte Personallage vor dem DFB-Pokalspiel gegen Elversberg",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
-   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
-   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
-   "datum": "2026-08-20T12:25:00.000Z",
-   "sortZeit": 1787156700000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
    ],
    "sportart": "Fußball",
    "ereignis": null,
@@ -8623,32 +8621,6 @@
    "zone": "kern",
    "vereine": [],
    "sportart": "Leichtathletik",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412645076",
-   "titel": "Mit über 40 Jahren auf dem Eis: Duo soll junge Cracks beim GSC Moers führen",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412645076/mit-ueber-40-jahren-auf-dem-eis-duo-soll-junge-cracks-beim-gsc-moers-fuehren.html",
-   "teaser": "Für die neue Saison in der Eishockey-Regionalliga können die Black Tigers auf zwei Routiniers in der Abwehr und im Angriff bauen.",
-   "bild": "https://img.sparknews.funkemedien.de/412646298/412646298_1784716885_v16_9_600.jpeg",
-   "datum": "2026-07-22T10:44:20.000Z",
-   "sortZeit": 1784717060000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "Black Tigers Moers"
-   ],
-   "sportart": "Eishockey",
    "ereignis": null,
    "grund": "pfad"
   },
