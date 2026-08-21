@@ -1,10 +1,444 @@
 {
- "aktualisiert": "2026-08-21T21:39:25.651Z",
+ "aktualisiert": "2026-08-21T21:59:53.652Z",
  "tag": "21.08.",
  "datum": "2026-08-21",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
  "hinweisNamen": "Spielernamen stammen von FuPa, wo die Vereine selbst tickern – dort sind sie offen veröffentlicht. Partien ohne FuPa-Ticker kommen von fussball.de: dort gibt es Minute und Ereignisart, aber keine Namen.",
  "partien": [
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/sv-orsoy-m1-tus-borth-m1-260821",
+   "verein": "SV Orsoy 1919",
+   "heimatverein": null,
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "KL C Gruppe 1",
+   "wettbewerb": "Kreispokal Moers",
+   "anpfiff": "2026-08-21T19:00:00+02:00",
+   "zeit": "17:00",
+   "heim": "SV Orsoy",
+   "gast": "TuS Borth",
+   "tore": {
+    "heim": 0,
+    "gast": 12
+   },
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 300,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/tus-borth-m1-spvgg-rheurdt-schaephuysen-m1-260821",
+   "verein": "TuS Borth 71",
+   "heimatverein": null,
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "Kreisliga B",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-21T19:30:00+02:00",
+   "zeit": "17:30",
+   "heim": "TuS Borth",
+   "gast": "SpVgg Rheurdt-Schaephuysen",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 270,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/sv-menzelen-m1-bsv-gruen-weiss-flueren-m1-260821",
+   "verein": "SV Menzelen 1925",
+   "heimatverein": null,
+   "ort": "Alpen",
+   "zone": "umland",
+   "liga": "Kreisliga A",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-21T19:30:00+02:00",
+   "zeit": "17:30",
+   "heim": "SV Menzelen",
+   "gast": "BSV Grün-Weiß Flüren",
+   "tore": {
+    "heim": 6,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 42,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Robin Brüggen",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-menzelen-m1-2026-27",
+     "clubSlug": "sv-menzelen"
+    },
+    {
+     "minute": 48,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Niclas Kolkenbrock",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "sv-menzelen-m1-2026-27",
+     "clubSlug": "sv-menzelen"
+    },
+    {
+     "minute": 62,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Miguel Ernst",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "sv-menzelen-m1-2026-27",
+     "clubSlug": "sv-menzelen"
+    },
+    {
+     "minute": 64,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Niclas Kolkenbrock",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "sv-menzelen-m1-2026-27",
+     "clubSlug": "sv-menzelen"
+    }
+   ],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 270,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/sv-alemannia-kamp-m1-sv-hamborn-90-m1-260821",
+   "verein": "SV Alemannia Kamp",
+   "heimatverein": null,
+   "ort": "Kamp-Lintfort",
+   "zone": "kern",
+   "liga": "Kreisliga B",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-21T19:30:00+02:00",
+   "zeit": "17:30",
+   "heim": "SV Alemannia Kamp",
+   "gast": "SV Hamborn 90",
+   "tore": {
+    "heim": 6,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 18,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Timo Samusch",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 33,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marvin Wesel",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 61,
+     "nachspielzeit": 0,
+     "art": "goal_free_kick",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Haydar Alas",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 67,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Julian Steinitz",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 83,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Christopher Jordan",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 2,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ricardo Schiff",
+     "fuer": null,
+     "stand": {
+      "heim": 6,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    }
+   ],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 270,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/fc-neukirchen-vluyn-0921-m1-gsv-moers-m1-260821",
+   "verein": "FC Neukirchen-Vluyn",
+   "heimatverein": null,
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "liga": "Bezirksliga Gruppe 5",
+   "wettbewerb": "Bezirksliga Niederrhein, Gruppe 5",
+   "anpfiff": "2026-08-21T20:00:00+02:00",
+   "zeit": "18:00",
+   "heim": "FC Neukirchen-Vluyn 09/21",
+   "gast": "GSV Moers",
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 1,
+     "nachspielzeit": 0,
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": "Jesko Dezelak",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
+   "zuschauer": 300,
+   "schiedsrichter": "Jan Lukas Kalter",
+   "tickerAutor": "Jens Kröll",
+   "hatTicker": true,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 240,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/gsv-moers-m2-fc-aldekerk-m2-260821",
+   "verein": "Grafschafter SV 1910 Moers",
+   "heimatverein": null,
+   "ort": "Moers",
+   "zone": "kern",
+   "liga": "Bezirksliga Gruppe 5",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-21T20:00:00+02:00",
+   "zeit": "18:00",
+   "heim": "GSV Moers II",
+   "gast": "FC Aldekerk II",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 240,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/djk-germania-hoisten-m1-fc-neukirchen-vluyn-0921-m2-260821",
+   "verein": "FC Neukirchen-Vluyn",
+   "heimatverein": null,
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "liga": "Bezirksliga Gruppe 5",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-21T20:00:00+02:00",
+   "zeit": "18:00",
+   "heim": "DJK Germania Hoisten",
+   "gast": "FC Neukirchen-Vluyn 09/21 II",
+   "tore": {
+    "heim": 0,
+    "gast": 5
+   },
+   "ereignisse": [
+    {
+     "minute": 31,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Almin Muminovic",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 33,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Paul Reetz",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 37,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jonathan Hendricks",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 3
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Almin Muminovic",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 4
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 89,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Arian Linßen",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 5
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 240,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
   {
    "quelle": "fussball.de",
    "url": "https://www.fussball.de/spiel/sv-orsoy-tus-borth/-/spiel/031FVRL5SG000000VS5489BTVVG7L386",
@@ -305,7 +739,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 159,
+   "seitAnpfiffMin": 180,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -330,7 +764,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 129,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -355,7 +789,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 129,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -380,7 +814,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 129,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -596,7 +1030,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 99,
+   "seitAnpfiffMin": 120,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -834,7 +1268,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 99,
+   "seitAnpfiffMin": 120,
    "laeuft": true,
    "abgeschlossen": false
   }
