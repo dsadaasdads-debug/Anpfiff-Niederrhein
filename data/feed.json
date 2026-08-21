@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T14:53:50.665Z",
+ "aktualisiert": "2026-08-21T15:48:54.804Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -769,9 +769,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -784,6 +782,33 @@
     "TV Schwafheim"
    ],
    "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412929588",
+   "titel": "Neuland für Budberg: An niederländischer Grenze wartet ein unbekannter Gegner",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412929588/neuland-fuer-budberg-an-niederlaendischer-grenze-wartet-ein-unbekannter-gegner.html",
+   "teaser": "Das Duell mit Union Nettetal gab es bisher noch nicht. Trainer Tim Wilke will die Spannung hoch halten und schließt Änderungen nicht aus.",
+   "bild": "https://img.sparknews.funkemedien.de/412929610/412929610_1787322684_v16_9_600.jpeg",
+   "datum": "2026-08-21T15:03:22.000Z",
+   "sortZeit": 1787295802000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Moers"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
    "ereignis": null,
    "grund": "pfad"
   },
@@ -869,6 +894,56 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412929835",
+   "titel": "Füchse-Kapitän Mannes erklärt die Mannschaftsdynamik",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412929835/fuechse-kapitaen-mannes-erklaert-die-mannschaftsdynamik.html",
+   "teaser": "Ein Stürmerkandidat trainiert mit dem Eishockey-Oberligisten. Am Sonntag stehen Saisoneröffnung und das erste Testspiel auf dem Plan.",
+   "bild": "https://img.sparknews.funkemedien.de/412930134/412930134_1787325425_v16_9_600.jpeg",
+   "datum": "2026-08-21T15:28:35.000Z",
+   "sortZeit": 1787254115000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153391825",
+   "titel": "Stolpersteine in Krefeld und Duisburg: Diesen fünf Bundesligisten droht eine frühe Blamage im DFB-Pokal",
+   "url": "https://rp-online.de/sport/fussball/dfb-pokal/dfb-pokal-eintracht-koeln-hsv-diesen-bundesligisten-droht-eine-blamage_aid-153391825",
+   "teaser": "Seit 16 Jahren ist immer mindestens ein Erstligist an der ersten Pokalhürde gescheitert – meist waren es sogar mehr. Auch diesmal wackeln mehrere Favoriten, darunter Frankfurt, Elversberg und der HSV. Wer erlebt den nächsten Fehlstart bei einem Außenseiter?",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/9/6/0/1/9/9/tok_011d360e1b3d125bcc637a7edcfaebe8/w1200_h630_x1757_y1171_IMSP_imago_sp_0808_17010001_1080783458-8f84b3d5cc7ba041.jpg",
+   "datum": "2026-08-21T14:53:00.000Z",
+   "sortZeit": 1787251980000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412929366",
    "titel": "Ein Derby ist ein Derby: MSV-Junioren müssen in Essen ran",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412929366/ein-derby-ist-ein-derby-msv-junioren-muessen-in-essen-ran.html",
@@ -934,9 +1009,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1041,8 +1114,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
@@ -1187,30 +1259,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:153391825",
-   "titel": "Stolpersteine in Krefeld und Duisburg: Diesen fünf Bundesligisten droht eine frühe Blamage im DFB-Pokal",
-   "url": "https://rp-online.de/sport/fussball/dfb-pokal/dfb-pokal-eintracht-koeln-hsv-diesen-bundesligisten-droht-eine-blamage_aid-153391825",
-   "teaser": "Seit 16 Jahren ist immer mindestens ein Erstligist an der ersten Pokalhürde gescheitert – meist waren es sogar mehr. Auch diesmal wackeln mehrere Favoriten, darunter Frankfurt, Elversberg und der HSV. Wer erlebt den nächsten Fehlstart bei einem Außenseiter?",
-   "bild": "https://rp-online.de/imgs/32/2/7/7/9/6/0/1/9/9/tok_011d360e1b3d125bcc637a7edcfaebe8/w1200_h630_x1757_y1171_IMSP_imago_sp_0808_17010001_1080783458-8f84b3d5cc7ba041.jpg",
-   "datum": "2026-08-21T07:26:00.000Z",
-   "sortZeit": 1787225160000,
-   "punkte": 40,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "funke:412903065",
@@ -2096,8 +2144,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Sport Duisburg",
-    "RP Online Moers"
+    "RP Online Sport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
