@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T17:31:07.790Z",
+ "aktualisiert": "2026-08-21T18:01:41.693Z",
  "tag": "21.08.",
  "datum": "2026-08-21",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 31,
+   "seitAnpfiffMin": 62,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -49,10 +49,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 1,
-   "laeuft": false,
+   "seitAnpfiffMin": 32,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -74,10 +74,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 1,
-   "laeuft": false,
+   "seitAnpfiffMin": 32,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -97,12 +97,12 @@
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
-   "tickerAutor": "Tim Lange",
-   "hatTicker": true,
-   "abschnitt": "PRE",
+   "tickerAutor": null,
+   "hatTicker": false,
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 1,
-   "laeuft": false,
+   "seitAnpfiffMin": 32,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -118,16 +118,19 @@
    "zeit": "18:00",
    "heim": "FC Neukirchen-Vluyn 09/21",
    "gast": "GSV Moers",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": "Jan Lukas Kalter",
    "tickerAutor": "Jens Kröll",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -29,
-   "laeuft": false,
+   "seitAnpfiffMin": 2,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -149,10 +152,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -29,
-   "laeuft": false,
+   "seitAnpfiffMin": 2,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -174,10 +177,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -29,
-   "laeuft": false,
+   "seitAnpfiffMin": 2,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -201,7 +204,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -89,
+   "seitAnpfiffMin": -58,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -226,7 +229,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -119,
+   "seitAnpfiffMin": -88,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -251,7 +254,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -119,
+   "seitAnpfiffMin": -88,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -276,7 +279,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -119,
+   "seitAnpfiffMin": -88,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -301,7 +304,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -149,
+   "seitAnpfiffMin": -118,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -326,7 +329,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -149,
+   "seitAnpfiffMin": -118,
    "laeuft": false,
    "abgeschlossen": false
   }
