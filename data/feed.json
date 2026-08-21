@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T07:57:38.559Z",
+ "aktualisiert": "2026-08-21T08:58:48.834Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,8 +40,11 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "ok",
-   "eintraege": 10
+   "status": "fehler",
+   "fehler": "HTTP 415",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-21T07:57:35.263Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "moerser-sc",
@@ -624,6 +627,36 @@
  ],
  "artikel": [
   {
+   "id": "funke:412922521",
+   "titel": "TV Schwafheim macht kurzen Prozess: Testspielgegner ist hoffnungslos überfordert",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412922521/tv-schwafheim-macht-kurzen-prozess-testspielgegner-ist-hoffnungslos-ueberfordert.html",
+   "teaser": "Verbandsligist zeigt dem Regionsoberligisten VfB Homberg beim 31:11-Kantersieg die Grenzen auf. Test am Samstag gegen Lobberich fällt aus.",
+   "bild": "https://img.sparknews.funkemedien.de/412922879/412922879_1787301084_v16_9_600.jpeg",
+   "datum": "2026-08-21T08:40:53.000Z",
+   "sortZeit": 1787301653000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Duisburg"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "VFB Homberg",
+    "TV Schwafheim"
+   ],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412918202",
    "titel": "SC 1920 Oberhausen erwartet „Reifeprüfung“ gegen den FSV Duisburg",
    "url": "https://www.nrz.de/sport/lokalsport/oberhausen/article412918202/sc-1920-oberhausen-erwartet-reifepruefung-gegen-den-fsv-duisburg.html",
@@ -673,6 +706,32 @@
    "vereine": [
     "1. FC Lintfort"
    ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412923535",
+   "titel": "Quali-Chaos vor dem Ende: FVN will neue Lösung",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412923535/quali-chaos-vor-dem-ende-fvn-vor-neuer-loesung.html",
+   "teaser": "Die für September geplanten Nachholspiele in der Relegation zur Landesliga sollen abgesetzt werden. Verbandsvorstand muss noch zustimmen.",
+   "bild": "https://img.sparknews.funkemedien.de/412923886/412923886_1787301387_v16_9_600.jpeg",
+   "datum": "2026-08-21T08:36:47.000Z",
+   "sortZeit": 1787229407000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
@@ -904,8 +963,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Sonsbeck",
    "ortSicher": true,
@@ -1071,9 +1129,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1626,7 +1682,6 @@
     "RP Online Sport Xanten und Rheinberg",
     "RP Online Sport Duisburg",
     "RP Online Moers",
-    "RP Online Xanten",
     "RP Online Duisburg"
    ],
    "ort": "Duisburg",
