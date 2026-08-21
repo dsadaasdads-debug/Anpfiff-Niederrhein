@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T02:14:23.534Z",
+ "aktualisiert": "2026-08-21T04:24:27.304Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2137,330 +2137,6 @@
      "punkte": 0
     }
    ]
-  },
-  "nuliga.hnr.173296": {
-   "name": "Wesel - Regionsoberliga Männer",
-   "sportart": "Handball",
-   "zeilen": [
-    {
-     "platz": 1,
-     "verein": "TV Issum II",
-     "teamId": "nuliga.hnr.1740215",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 2,
-     "verein": "MTV Rheinw Dinslaken II",
-     "teamId": "nuliga.hnr.1739110",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 3,
-     "verein": "Kevelaerer SV",
-     "teamId": "nuliga.hnr.1739712",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 4,
-     "verein": "HC TV Rhede II",
-     "teamId": "nuliga.hnr.1738699",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 5,
-     "verein": "SV Friedrichsfeld",
-     "teamId": "nuliga.hnr.1740017",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 6,
-     "verein": "TSV Bocholt",
-     "teamId": "nuliga.hnr.1740523",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 7,
-     "verein": "HSG Hald/Mehrh/Isselb",
-     "teamId": "nuliga.hnr.1738674",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 8,
-     "verein": "SV Schermbeck",
-     "teamId": "nuliga.hnr.1739359",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 9,
-     "verein": "TuS Lintfort II",
-     "teamId": "nuliga.hnr.1739656",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 10,
-     "verein": "TV Kapellen II",
-     "teamId": "nuliga.hnr.1739836",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 11,
-     "verein": "HSG Hiesfeld/Aldenrade III",
-     "teamId": "nuliga.hnr.1740933",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 12,
-     "verein": "SV Neukirchen II",
-     "teamId": "nuliga.hnr.1739705",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    }
-   ]
-  },
-  "nuliga.hnr.173179": {
-   "name": "Wesel - Regionsliga Frauen",
-   "sportart": "Handball",
-   "zeilen": [
-    {
-     "platz": 1,
-     "verein": "TuS Xanten",
-     "teamId": "nuliga.hnr.1740439",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 2,
-     "verein": "Uedemer TuS",
-     "teamId": "nuliga.hnr.1739340",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 3,
-     "verein": "SV Blau Weiß Dingden II",
-     "teamId": "nuliga.hnr.1789433",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 4,
-     "verein": "SV Friedrichsfeld",
-     "teamId": "nuliga.hnr.1740204",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 5,
-     "verein": "SV Friedrichsfeld II",
-     "teamId": "nuliga.hnr.1787903",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 6,
-     "verein": "TSV Bocholt II",
-     "teamId": "nuliga.hnr.1796481",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 7,
-     "verein": "TV Schwafheim",
-     "teamId": "nuliga.hnr.1739859",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 8,
-     "verein": "HSG Wesel",
-     "teamId": "nuliga.hnr.1740066",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 9,
-     "verein": "TV Issum II",
-     "teamId": "nuliga.hnr.1739746",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 10,
-     "verein": "HC TV Rhede III",
-     "teamId": "nuliga.hnr.1739797",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 11,
-     "verein": "HSG Hiesfeld/Aldenrade IV",
-     "teamId": "nuliga.hnr.1740005",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    },
-    {
-     "platz": 12,
-     "verein": "HSG Wesel II",
-     "teamId": "nuliga.hnr.1794243",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0,
-     "punkteText": "0:0"
-    }
-   ]
   }
  },
  "mannschaften": [
@@ -4555,24 +4231,6 @@
    ]
   },
   {
-   "verein": "SV Neukirchen II",
-   "heimatverein": "SV Neukirchen",
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "sportart": "Handball",
-   "mannschaft": "SV Neukirchen II",
-   "teamId": "nuliga.hnr.1739705",
-   "teamUrl": "https://www.handball.net/mannschaften/nuliga.hnr.1739705/tabelle",
-   "liga": "Wesel - Regionsoberliga Männer",
-   "spielklasse": "Regionsoberliga Männer",
-   "platz": 12,
-   "punkte": 0,
-   "torverhaeltnis": "0:0",
-   "staffelId": "nuliga.hnr.173296",
-   "naechste": [],
-   "letzte": []
-  },
-  {
    "verein": "SV Orsoy 1919",
    "ort": "Rheinberg",
    "zone": "umland",
@@ -5227,42 +4885,6 @@
    ]
   },
   {
-   "verein": "TuS Lintfort II",
-   "heimatverein": "TuS Lintfort",
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "sportart": "Handball",
-   "mannschaft": "TuS Lintfort II",
-   "teamId": "nuliga.hnr.1739656",
-   "teamUrl": "https://www.handball.net/mannschaften/nuliga.hnr.1739656/tabelle",
-   "liga": "Wesel - Regionsoberliga Männer",
-   "spielklasse": "Regionsoberliga Männer",
-   "platz": 9,
-   "punkte": 0,
-   "torverhaeltnis": "0:0",
-   "staffelId": "nuliga.hnr.173296",
-   "naechste": [],
-   "letzte": []
-  },
-  {
-   "verein": "TuS Xanten",
-   "heimatverein": "TuS Xanten",
-   "ort": "Xanten",
-   "zone": "umland",
-   "sportart": "Handball",
-   "mannschaft": "TuS Xanten",
-   "teamId": "nuliga.hnr.1740439",
-   "teamUrl": "https://www.handball.net/mannschaften/nuliga.hnr.1740439/tabelle",
-   "liga": "Wesel - Regionsliga Frauen",
-   "spielklasse": "Regionsliga Frauen",
-   "platz": 1,
-   "punkte": 0,
-   "torverhaeltnis": "0:0",
-   "staffelId": "nuliga.hnr.173179",
-   "naechste": [],
-   "letzte": []
-  },
-  {
    "verein": "TUS Xanten 05/22",
    "ort": "Xanten",
    "zone": "umland",
@@ -5481,42 +5103,6 @@
    ]
   },
   {
-   "verein": "TV Issum II",
-   "heimatverein": "TV Issum",
-   "ort": "Issum",
-   "zone": "umland",
-   "sportart": "Handball",
-   "mannschaft": "TV Issum II",
-   "teamId": "nuliga.hnr.1740215",
-   "teamUrl": "https://www.handball.net/mannschaften/nuliga.hnr.1740215/tabelle",
-   "liga": "Wesel - Regionsoberliga Männer",
-   "spielklasse": "Regionsoberliga Männer",
-   "platz": 1,
-   "punkte": 0,
-   "torverhaeltnis": "0:0",
-   "staffelId": "nuliga.hnr.173296",
-   "naechste": [],
-   "letzte": []
-  },
-  {
-   "verein": "TV Issum II",
-   "heimatverein": "TV Issum",
-   "ort": "Issum",
-   "zone": "umland",
-   "sportart": "Handball",
-   "mannschaft": "TV Issum II",
-   "teamId": "nuliga.hnr.1739746",
-   "teamUrl": "https://www.handball.net/mannschaften/nuliga.hnr.1739746/tabelle",
-   "liga": "Wesel - Regionsliga Frauen",
-   "spielklasse": "Regionsliga Frauen",
-   "platz": 9,
-   "punkte": 0,
-   "torverhaeltnis": "0:0",
-   "staffelId": "nuliga.hnr.173179",
-   "naechste": [],
-   "letzte": []
-  },
-  {
    "verein": "TV Kapellen",
    "ort": "Moers",
    "zone": "kern",
@@ -5624,24 +5210,6 @@
      "hinweis": null
     }
    ]
-  },
-  {
-   "verein": "TV Schwafheim",
-   "heimatverein": "TV Schwafheim",
-   "ort": "Moers",
-   "zone": "kern",
-   "sportart": "Handball",
-   "mannschaft": "TV Schwafheim",
-   "teamId": "nuliga.hnr.1739859",
-   "teamUrl": "https://www.handball.net/mannschaften/nuliga.hnr.1739859/tabelle",
-   "liga": "Wesel - Regionsliga Frauen",
-   "spielklasse": "Regionsliga Frauen",
-   "platz": 7,
-   "punkte": 0,
-   "torverhaeltnis": "0:0",
-   "staffelId": "nuliga.hnr.173179",
-   "naechste": [],
-   "letzte": []
   },
   {
    "verein": "VFL Repelen 08",
@@ -5756,23 +5324,31 @@
  "fehler": [
   {
    "verein": "Nordrhein - Verbandsliga Männer",
-   "fehler": "HTTP 502 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173163/table"
+   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+  },
+  {
+   "verein": "Wesel - Regionsoberliga Männer",
+   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   {
    "verein": "Wesel - Regionsliga Männer",
-   "fehler": "HTTP 502 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173322/table"
+   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   {
    "verein": "Wesel - Regionsklasse Männer",
-   "fehler": "HTTP 502 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173320/table"
+   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   {
    "verein": "Nordrhein - Oberliga Frauen",
-   "fehler": "HTTP 502 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173263/table"
+   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   {
    "verein": "Wesel - Regionsoberliga Frauen",
-   "fehler": "HTTP 502 bei https://www.handball.net/a/sportdata/1/tournaments/nuliga.hnr.173075/table"
+   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+  },
+  {
+   "verein": "Wesel - Regionsliga Frauen",
+   "fehler": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   }
  ]
 }
