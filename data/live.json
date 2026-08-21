@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T19:27:27.823Z",
+ "aktualisiert": "2026-08-21T19:50:07.124Z",
  "tag": "21.08.",
  "datum": "2026-08-21",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 147,
+   "seitAnpfiffMin": 170,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -54,7 +54,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 117,
+   "seitAnpfiffMin": 140,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -79,7 +79,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 117,
+   "seitAnpfiffMin": 140,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -97,7 +97,7 @@
    "heim": "SV Menzelen",
    "gast": "BSV Grün-Weiß Flüren",
    "tore": {
-    "heim": 5,
+    "heim": 6,
     "gast": 0
    },
    "ereignisse": [
@@ -166,11 +166,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 117,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 140,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -212,7 +212,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 87,
+   "seitAnpfiffMin": 110,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -237,7 +237,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 87,
+   "seitAnpfiffMin": 110,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -262,7 +262,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 87,
+   "seitAnpfiffMin": 110,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -566,7 +566,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 27,
+   "seitAnpfiffMin": 50,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -591,8 +591,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -3,
-   "laeuft": false,
+   "seitAnpfiffMin": 20,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -616,8 +616,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -3,
-   "laeuft": false,
+   "seitAnpfiffMin": 20,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -641,8 +641,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -3,
-   "laeuft": false,
+   "seitAnpfiffMin": 20,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -666,7 +666,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -33,
+   "seitAnpfiffMin": -10,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -691,7 +691,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -33,
+   "seitAnpfiffMin": -10,
    "laeuft": false,
    "abgeschlossen": false
   }
