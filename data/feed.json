@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T04:54:46.146Z",
+ "aktualisiert": "2026-08-21T05:48:36.961Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -680,6 +680,32 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:153453643",
+   "titel": "Trainer zeigt sich selbstbewusst: Was für einen Sieg des MSV Duisburg gegen Elversberg spricht",
+   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-so-will-der-msv-duisburg-gegen-die-sv-elversberg-weiterkommen_aid-153453643",
+   "teaser": "„Das ist kein Event, sondern ein Pflichtspiel“, sagt MSV-Trainer Dietmar Hirsch vor der DFB-Pokalpartie gegen die SV Elversberg. Schließlich erscheint eine Sensation möglich. Diese Faktoren sprechen dafür.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/1/0/3/0/2/3/tok_b33b7ff50bc24337df460eb6037cc8a2/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260514-935-1343176-v1-s2048-bf42a86b25ef95cc.jpeg",
+   "datum": "2026-08-21T05:30:00.000Z",
+   "sortZeit": 1787218200000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412899787",
    "titel": "Drei WM-Medaillen bei Weltreiterspielen - Bela Lehnen aus Moers: Unglaublich",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412899787/drei-wm-medaillen-bei-weltreiterspielen-bela-lehnen-aus-moers-unglaublich.html",
@@ -961,32 +987,6 @@
    "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
    "datum": "2026-08-20T13:42:00.000Z",
    "sortZeit": 1787161320000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
-   "id": "rp:153453643",
-   "titel": "Trainer zeigt sich selbstbewusst: Was für einen Sieg des MSV Duisburg gegen Elversberg spricht",
-   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-so-will-der-msv-duisburg-gegen-die-sv-elversberg-weiterkommen_aid-153453643",
-   "teaser": "„Das ist kein Event, sondern ein Pflichtspiel“, sagt MSV-Trainer Dietmar Hirsch vor der DFB-Pokalpartie gegen die SV Elversberg. Schließlich erscheint eine Sensation möglich. Diese Faktoren sprechen dafür.",
-   "bild": "https://rp-online.de/imgs/32/2/7/8/1/0/3/0/2/3/tok_b33b7ff50bc24337df460eb6037cc8a2/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260514-935-1343176-v1-s2048-bf42a86b25ef95cc.jpeg",
-   "datum": "2026-08-20T13:21:55.000Z",
-   "sortZeit": 1787160115000,
    "punkte": 80,
    "paywall": false,
    "quelle": "RP Online",
@@ -1967,8 +1967,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Sonsbeck",
    "ortSicher": true,
