@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T16:51:41.527Z",
+ "aktualisiert": "2026-08-21T17:45:31.630Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -892,6 +892,32 @@
    "zone": "umland",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153515163",
+   "titel": "Amateurklub gegen Profis: 1. FC Wülfrath empfängt den MSV Duisburg zum Pokal-Highlight",
+   "url": "https://rp-online.de/nrw/staedte/mettmann/sport/1-fc-wuelfrath-gegen-msv-duisburg-das-grosse-pokalspiel_aid-153515163",
+   "teaser": "Weil der eigene Sportpark die Sicherheitsauflagen nicht erfüllt, zieht der 1. FCW für das MSV-Spiel in die IMS Arena nach Velbert um. Wird der Abend zum Familienfest?",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/2/4/2/7/4/7/tok_3be4cadb133af8b09e8e01c0e3ab1d31/w1200_h630_x1771_y1196_IMSP_imago_sp_0816_09550001_1081138647-a45184ba9decb001.jpg",
+   "datum": "2026-08-21T17:15:00.000Z",
+   "sortZeit": 1787260500000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   },
