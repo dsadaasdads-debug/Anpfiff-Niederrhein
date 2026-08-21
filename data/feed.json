@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T07:07:50.013Z",
+ "aktualisiert": "2026-08-21T07:57:38.559Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -678,6 +678,30 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:153391825",
+   "titel": "Stolpersteine in Krefeld und Duisburg: Diesen fünf Bundesligisten droht eine frühe Blamage im DFB-Pokal",
+   "url": "https://rp-online.de/sport/fussball/dfb-pokal/dfb-pokal-eintracht-koeln-hsv-diesen-bundesligisten-droht-eine-blamage_aid-153391825",
+   "teaser": "Seit 16 Jahren ist immer mindestens ein Erstligist an der ersten Pokalhürde gescheitert – meist waren es sogar mehr. Auch diesmal wackeln mehrere Favoriten, darunter Frankfurt, Elversberg und der HSV. Wer erlebt den nächsten Fehlstart bei einem Außenseiter?",
+   "bild": "https://rp-online.de/imgs/32/2/7/7/9/6/0/1/9/9/tok_011d360e1b3d125bcc637a7edcfaebe8/w1200_h630_x1757_y1171_IMSP_imago_sp_0808_17010001_1080783458-8f84b3d5cc7ba041.jpg",
+   "datum": "2026-08-21T07:26:00.000Z",
+   "sortZeit": 1787225160000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412903065",
    "titel": "Knackige Generalprobe: TuS Lintfort will sich den letzten Feinschliff holen",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412903065/knackige-generalprobe-tus-lintfort-will-sich-den-letzten-feinschliff-holen.html",
@@ -951,30 +975,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:153391825",
-   "titel": "Stolpersteine in Krefeld und Duisburg: Diesen fünf Bundesligisten droht eine frühe Blamage im DFB-Pokal",
-   "url": "https://rp-online.de/sport/fussball/dfb-pokal/dfb-pokal-eintracht-koeln-hsv-diesen-bundesligisten-droht-eine-blamage_aid-153391825",
-   "teaser": "Seit 16 Jahren ist immer mindestens ein Erstligist an der ersten Pokalhürde gescheitert – meist waren es sogar mehr. Auch diesmal wackeln mehrere Favoriten, darunter Frankfurt, Elversberg und der HSV. Wer erlebt den nächsten Fehlstart bei einem Außenseiter?",
-   "bild": "https://rp-online.de/imgs/32/2/7/7/9/6/0/1/9/9/tok_011d360e1b3d125bcc637a7edcfaebe8/w1200_h630_x1757_y1171_IMSP_imago_sp_0808_17010001_1080783458-8f84b3d5cc7ba041.jpg",
-   "datum": "2026-08-20T14:32:00.000Z",
-   "sortZeit": 1787164320000,
-   "punkte": 40,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "funke:412917313",
