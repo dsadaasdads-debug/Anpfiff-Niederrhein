@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T19:37:43.125Z",
+ "aktualisiert": "2026-08-21T20:41:49.982Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,35 @@
  ],
  "artikel": [
   {
+   "id": "funke:412930692",
+   "titel": "Derby-Rekord: Rote Karte gegen FC Neukirchen-Vluyn nach nur 45 Sekunden",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412930692/derby-rekord-rote-karte-gegen-fc-neukirchen-vluyn-nach-nur-45-sekunden.html",
+   "teaser": "In der Fußball-Bezirksliga sehen knapp 300 Zuschauer ein hitziges Duell mit GSV Moers. Die favorisierten Gastgeber ärgern sich am Ende.",
+   "bild": "https://img.sparknews.funkemedien.de/412931429/412931429_1787344097_v16_9_600.jpeg",
+   "datum": "2026-08-21T20:33:07.000Z",
+   "sortZeit": 1787344387000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Neukirchen-Vluyn",
+   "ortSicher": true,
+   "orte": [
+    "Neukirchen-Vluyn",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "FC Neukirchen-Vluyn"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153459747",
    "titel": "Nach dramatischem Pokal-Aus: Jetzt wartet auf den SV Sonsbeck schon der nächste „heiße Tanz“",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-sonsbeck-nach-pokal-aus-wartet-das-derby-gegen-scherpenberg_aid-153459747",
@@ -691,9 +720,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -769,9 +796,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
