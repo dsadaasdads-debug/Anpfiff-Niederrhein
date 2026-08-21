@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T01:57:44.383Z",
+ "aktualisiert": "2026-08-21T03:16:37.870Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,11 +40,8 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "fehler",
-   "fehler": "HTTP 415",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-20T23:40:43.562Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "moerser-sc",
