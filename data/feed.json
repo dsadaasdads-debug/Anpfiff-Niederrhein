@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T15:48:54.804Z",
+ "aktualisiert": "2026-08-21T16:51:41.527Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -769,7 +769,9 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -888,6 +890,33 @@
     "Duisburg"
    ],
    "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412930528",
+   "titel": "FVN gibt Einteilung der Jugendfußball-Ligen bekannt",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412930528/fvn-gibt-einteilung-der-jugendfussball-ligen-bekannt.html",
+   "teaser": "Noch ist die Entscheidung um die umstrittene Qualifikation bei den C-Junioren nicht amtlich. Dennoch stehen die Gruppen bereits fest.",
+   "bild": "https://img.sparknews.funkemedien.de/412752430/412752430_1785757148_v16_9_600.jpeg",
+   "datum": "2026-08-21T16:26:41.000Z",
+   "sortZeit": 1787257601000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
    "vereine": [],
    "sportart": null,
    "ereignis": null,
@@ -1219,9 +1248,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
