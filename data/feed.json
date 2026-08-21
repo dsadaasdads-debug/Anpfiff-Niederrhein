@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-21T08:58:48.834Z",
+ "aktualisiert": "2026-08-21T09:52:54.431Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,11 +40,8 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "fehler",
-   "fehler": "HTTP 415",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-21T07:57:35.263Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "moerser-sc",
@@ -923,7 +920,7 @@
   },
   {
    "id": "rp:153398511",
-   "titel": "Pokal-Aus gegen Rot-Weiss Essen: Warum der SV Sonsbeck nach 90 Minuten Widerstand plötzlich kollabierte",
+   "titel": "Pokal-Aus gegen Rot-Weiss Essen: Warum der SV Sonsbeck nach 90 Minuten Widerstand plötzlich einbrach",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/niederrheinpokal-deshalb-kollabierte-sonsbeck-gegen-essen_aid-153398511",
    "teaser": "90 Minuten auf Augenhöhe, dann fünf Gegentore in der Verlängerung: Ein genauer Blick auf das Niederrheinpokal-Aus des SV Sonsbeck gegen Rot-Weiss Essen.",
    "bild": "https://rp-online.de/imgs/32/2/7/7/9/7/7/6/3/1/tok_a30bd858daab9c128e35b64f9a282055/w1200_h630_x1350_y901_rp_20260816_J_1160-5406605930d10b3b.jpg",
@@ -1389,8 +1386,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Xanten",
    "ortSicher": true,
