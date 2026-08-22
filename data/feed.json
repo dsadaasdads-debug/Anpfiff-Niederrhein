@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T14:38:27.922Z",
+ "aktualisiert": "2026-08-22T15:35:22.049Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 23
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -682,13 +682,41 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412929200",
+   "titel": "Symalla und Safi vergeben – MSV verpasst Pokalüberraschung gegen Elversberg",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412929200/symalla-und-safi-vergeben-msv-verpasst-pokalueberraschung-gegen-elversberg.html",
+   "teaser": "Der MSV Duisburg verliert in der ersten Runde des DFB-Pokals gegen Bundesliga-Aufsteiger SV Elversberg mit 1:3. Lobinger trifft für die Zebras.",
+   "bild": "https://img.sparknews.funkemedien.de/412935183/412935183_1787412335_v16_9_600.jpeg",
+   "datum": "2026-08-22T15:29:37.000Z",
+   "sortZeit": 1787340577000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:152589319",
-   "titel": "DFB-Pokal im Liveticker: 0:1 – Duisburg geht mit einem Rückstand gegen Elversberg in die Pause",
+   "titel": "DFB-Pokal im Liveticker: 1:3 – Elversberg macht gegen Duisburg den Deckel drauf",
    "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-duisburg-gegen-sv-elversberg-hier-im-liveticker_aid-152589319",
    "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
    "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
-   "datum": "2026-08-22T14:19:00.000Z",
-   "sortZeit": 1787336340000,
+   "datum": "2026-08-22T15:17:00.000Z",
+   "sortZeit": 1787339820000,
    "punkte": 80,
    "paywall": false,
    "quelle": "RP Online",
@@ -706,6 +734,34 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "funke:412914209",
+   "titel": "1:3! Elversberg schockt den MSV Duisburg: Onyeka macht alles klar",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412914209/msv-duisburg-gegen-die-sv-07-elversberg-das-pokalspiel-im-liveticker.html",
+   "teaser": "Der MSV Duisburg spielt am Samstag um 15.30 Uhr im DFB-Pokal gegen den Bundesligisten SV 07 Elversberg. Wir sind live dabei.",
+   "bild": "https://img.sparknews.funkemedien.de/412814774/412814774_1787216324_v16_9_600.jpeg",
+   "datum": "2026-08-22T14:48:00.000Z",
+   "sortZeit": 1787338080000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "fuechse-duisburg.de/news/foerderlizenzspieler-koelner-haie",
@@ -732,34 +788,6 @@
    "sportart": "Eishockey",
    "ereignis": null,
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "funke:412914209",
-   "titel": "0:1! Emotionen kochen hoch beim MSV – Schnellbacher trifft für Elversberg",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article412914209/msv-duisburg-gegen-die-sv-07-elversberg-das-pokalspiel-im-liveticker.html",
-   "teaser": "Der MSV Duisburg spielt am Samstag um 15.30 Uhr im DFB-Pokal gegen den Bundesligisten SV 07 Elversberg. Wir sind live dabei.",
-   "bild": "https://img.sparknews.funkemedien.de/412814774/412814774_1787216324_v16_9_600.jpeg",
-   "datum": "2026-08-22T13:30:00.000Z",
-   "sortZeit": 1787333400000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   },
   {
    "id": "rp:153459747",
@@ -957,9 +985,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
@@ -984,9 +1010,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
@@ -1170,9 +1194,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
