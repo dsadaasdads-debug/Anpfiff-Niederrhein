@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T15:36:00.400Z",
+ "aktualisiert": "2026-08-22T15:52:31.448Z",
  "tag": "22.08.",
  "datum": "2026-08-22",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 276,
+   "seitAnpfiffMin": 293,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 156,
+   "seitAnpfiffMin": 173,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -125,7 +125,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 96,
+   "seitAnpfiffMin": 113,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -150,7 +150,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 96,
+   "seitAnpfiffMin": 113,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -175,7 +175,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -24,
+   "seitAnpfiffMin": -7,
    "laeuft": false,
    "abgeschlossen": false
   }
