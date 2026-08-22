@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T04:49:56.936Z",
+ "aktualisiert": "2026-08-22T05:43:10.372Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,11 +40,8 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "fehler",
-   "fehler": "HTTP 415",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-22T03:56:46.027Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "moerser-sc",
@@ -1933,8 +1930,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Xanten",
    "ortSicher": true,
