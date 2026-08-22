@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T10:00:39.285Z",
+ "aktualisiert": "2026-08-22T13:20:08.800Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4028,15 +4028,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "MTV Union Hamborn",
-     "gast": "SV Menzelen",
-     "url": "https://www.fussball.de/spiel/mtv-union-hamborn-sv-menzelen/-/spiel/031JPUVJVS000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
      "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "SV Menzelen",
@@ -4069,6 +4060,15 @@
      "heim": "SV Budberg III",
      "gast": "SV Menzelen",
      "url": "https://www.fussball.de/spiel/sv-budberg-iii-sv-menzelen/-/spiel/031H9RCFG0000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 15.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "FC Viktoria Alpen",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-menzelen/-/spiel/031H9RCD24000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4464,15 +4464,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SC Wacker Dinslaken",
-     "gast": "SV Schwafheim",
-     "url": "https://www.fussball.de/spiel/sc-wacker-dinslaken-sv-schwafheim/-/spiel/031LPJ2OKS000000VS5489BUVVKNMR0J",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
      "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SSV Rheintreu Lüttingen",
@@ -4505,6 +4496,15 @@
      "heim": "FC Neukirchen-Vluyn II",
      "gast": "SV Schwafheim",
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-ii-sv-schwafheim/-/spiel/031H9RCDI8000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Schwafheim",
+     "gast": "GSV Moers II",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-gsv-moers-ii/-/spiel/031H9RCCMG000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
