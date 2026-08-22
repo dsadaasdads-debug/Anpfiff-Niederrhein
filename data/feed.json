@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T16:41:19.088Z",
+ "aktualisiert": "2026-08-22T17:35:47.456Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 23
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -653,6 +653,62 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412935766",
+   "titel": "MSV-Trainer Dietmar Hirsch ärgert sich über die Qualität des Rasens",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412935766/msv-trainer-dietmar-hirsch-aergert-sich-ueber-die-qualitaet-des-rasens.html",
+   "teaser": "Die Länge der Halme sorgt für Diskussionsstoff im Anschluss an die 1:3-Niederlage des MSV Duisburg im Pokal gegen den Bundesligisten Elversberg.",
+   "bild": "https://img.sparknews.funkemedien.de/412935803/412935803_1787418070_v16_9_600.jpeg",
+   "datum": "2026-08-22T17:10:43.000Z",
+   "sortZeit": 1787346643000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412935802",
+   "titel": "MSV U17: Acht-Tore-Spektakel und Helmer-Wahnsinn!",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412935802/msv-u17-acht-tore-spektakel-und-helmer-wahnsinn.html",
+   "teaser": "Ein Tor, das keines war. Ein Elfmeter, der dem Gegner half. Zwischen dem MSV und dem BVB wurde es kurios. Das passierte in Meiderich.",
+   "bild": "https://img.sparknews.funkemedien.de/412935821/412935821_1787418510_v16_9_600.jpeg",
+   "datum": "2026-08-22T17:08:39.000Z",
+   "sortZeit": 1787346519000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "American Football",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412930692",
    "titel": "Derby-Rekord: Rote Karte gegen FC Neukirchen-Vluyn nach nur 45 Sekunden",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412930692/derby-rekord-rote-karte-gegen-fc-neukirchen-vluyn-nach-nur-45-sekunden.html",
@@ -745,9 +801,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -799,9 +853,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
