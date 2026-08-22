@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T15:13:08.736Z",
+ "aktualisiert": "2026-08-22T15:36:00.400Z",
  "tag": "22.08.",
  "datum": "2026-08-22",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 253,
+   "seitAnpfiffMin": 276,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 133,
+   "seitAnpfiffMin": 156,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -70,7 +70,7 @@
    "gast": "Westfalia Anholt",
    "tore": {
     "heim": 1,
-    "gast": 1
+    "gast": 2
    },
    "ereignisse": [
     {
@@ -102,6 +102,21 @@
      },
      "teamSlug": "westfalia-anholt-m1-2026-27",
      "clubSlug": "westfalia-anholt"
+    },
+    {
+     "minute": 58,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kelvin Higeist",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "westfalia-anholt-m1-2026-27",
+     "clubSlug": "westfalia-anholt"
     }
    ],
    "zuschauer": null,
@@ -110,7 +125,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 73,
+   "seitAnpfiffMin": 96,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -135,7 +150,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 73,
+   "seitAnpfiffMin": 96,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -160,7 +175,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -47,
+   "seitAnpfiffMin": -24,
    "laeuft": false,
    "abgeschlossen": false
   }
