@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T13:56:52.541Z",
+ "aktualisiert": "2026-08-22T14:14:58.562Z",
  "tag": "22.08.",
  "datum": "2026-08-22",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 177,
+   "seitAnpfiffMin": 195,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 57,
+   "seitAnpfiffMin": 75,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -68,16 +68,50 @@
    "zeit": "14:00",
    "heim": "Borussia Veen",
    "gast": "Westfalia Anholt",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 1,
+    "gast": 1
+   },
+   "ereignisse": [
+    {
+     "minute": 5,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marc Balonier",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "borussia-veen-m1-2026-27",
+     "clubSlug": "borussia-veen"
+    },
+    {
+     "minute": 10,
+     "nachspielzeit": 0,
+     "art": "goal_free_kick",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Elfadin Maksuti",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "westfalia-anholt-m1-2026-27",
+     "clubSlug": "westfalia-anholt"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": "Niclas Bruns",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -3,
-   "laeuft": false,
+   "seitAnpfiffMin": 15,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -99,10 +133,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -3,
-   "laeuft": false,
+   "seitAnpfiffMin": 15,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -126,7 +160,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -123,
+   "seitAnpfiffMin": -105,
    "laeuft": false,
    "abgeschlossen": false
   }
