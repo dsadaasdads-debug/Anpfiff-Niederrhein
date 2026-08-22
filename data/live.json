@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T12:18:26.481Z",
+ "aktualisiert": "2026-08-22T13:04:03.175Z",
  "tag": "22.08.",
  "datum": "2026-08-22",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 78,
+   "seitAnpfiffMin": 124,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -49,10 +49,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -42,
-   "laeuft": false,
+   "seitAnpfiffMin": 4,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -76,7 +76,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -102,
+   "seitAnpfiffMin": -56,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -101,7 +101,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -102,
+   "seitAnpfiffMin": -56,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -126,7 +126,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -222,
+   "seitAnpfiffMin": -176,
    "laeuft": false,
    "abgeschlossen": false
   }
