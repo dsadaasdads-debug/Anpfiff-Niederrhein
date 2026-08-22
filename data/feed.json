@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T13:01:08.054Z",
+ "aktualisiert": "2026-08-22T13:44:43.038Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -683,12 +683,12 @@
   },
   {
    "id": "funke:412914209",
-   "titel": "LIVE! Zieht der MSV in die zweite Pokalrunde ein? Bundesligist Elversberg zu Gast",
+   "titel": "0:0! Zieht der MSV in die zweite Pokalrunde ein? Bundesligist Elversberg zu Gast",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412914209/msv-duisburg-gegen-die-sv-07-elversberg-das-pokalspiel-im-liveticker.html",
    "teaser": "Der MSV Duisburg spielt am Samstag um 15.30 Uhr im DFB-Pokal gegen den Bundesligisten SV 07 Elversberg. Wir sind live dabei.",
    "bild": "https://img.sparknews.funkemedien.de/412814774/412814774_1787216324_v16_9_600.jpeg",
-   "datum": "2026-08-22T11:09:00.000Z",
-   "sortZeit": 1787324940000,
+   "datum": "2026-08-22T13:30:00.000Z",
+   "sortZeit": 1787333400000,
    "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
@@ -708,6 +708,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:152589319",
+   "titel": "Duisburg empfängt die SVE: Der MSV im DFB-Pokal gegen Elversberg jetzt hier im Liveticker",
+   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-duisburg-gegen-sv-elversberg-hier-im-liveticker_aid-152589319",
+   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
+   "datum": "2026-08-22T13:20:00.000Z",
+   "sortZeit": 1787332800000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "rp:153459747",
@@ -2655,32 +2681,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "rp:152589319",
-   "titel": "Samstag ab 15.30 Uhr: Der MSV im DFB-Pokal gegen die SV Elversberg im Liveticker",
-   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-duisburg-gegen-sv-elversberg-im-liveticker_aid-152589319",
-   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
-   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
-   "datum": "2026-08-18T13:33:00.000Z",
-   "sortZeit": 1786987980000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "funke:412894904",
@@ -9094,32 +9094,6 @@
    "sportart": "Eishockey",
    "ereignis": null,
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "funke:412657410",
-   "titel": "SV Scherpenberg überzeugt im Testspiel gegen künftigen Ligakonkurrenten",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412657410/sv-scherpenberg-ueberzeugt-im-testspiel-gegen-kuenftigen-ligakonkurrenten.html",
-   "teaser": "Demnächst geht‘s gegen den TSV Meerbusch um Punkte für den Oberliga-Neuling. Das Duell in Freundschaft war eine klare Sache.",
-   "bild": "https://img.sparknews.funkemedien.de/412658058/412658058_1784812377_v16_9_600.jpeg",
-   "datum": "2026-07-23T13:15:42.000Z",
-   "sortZeit": 1784812542000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "SV Scherpenberg 1921"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   }
  ]
 }
