@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T14:14:58.562Z",
+ "aktualisiert": "2026-08-22T14:39:42.627Z",
  "tag": "22.08.",
  "datum": "2026-08-22",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -24,11 +24,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 195,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 220,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 75,
+   "seitAnpfiffMin": 100,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -105,12 +105,12 @@
     }
    ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Marco Becker",
    "tickerAutor": "Niclas Bruns",
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 15,
+   "seitAnpfiffMin": 40,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -135,7 +135,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 15,
+   "seitAnpfiffMin": 40,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -160,7 +160,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -105,
+   "seitAnpfiffMin": -80,
    "laeuft": false,
    "abgeschlossen": false
   }
