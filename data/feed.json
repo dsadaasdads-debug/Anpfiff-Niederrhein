@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T07:45:59.450Z",
+ "aktualisiert": "2026-08-22T08:47:50.865Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,35 @@
  ],
  "artikel": [
   {
+   "id": "funke:412931508",
+   "titel": "Hitziges Bezirksliga-Derby: 30 Bilder von FC Neukirchen-Vluyn gegen GSV Moers",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412931508/hitziges-bezirksliga-derby-30-bilder-von-fc-neukirchen-vluyn-gegen-gsv-moers.html",
+   "teaser": "Die Bilder der ersten Halbzeit im Fußball-Bezirksligaspiel zwischen dem FC Neukirchen-Vluyn und dem GSV Moers vor über 300 Zuschauern.",
+   "bild": "https://img.sparknews.funkemedien.de/412931523/412931523_1787384659_v16_9_600.jpeg",
+   "datum": "2026-08-22T07:44:21.000Z",
+   "sortZeit": 1787384661000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Neukirchen-Vluyn",
+   "ortSicher": true,
+   "orte": [
+    "Neukirchen-Vluyn",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "FC Neukirchen-Vluyn"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412930692",
    "titel": "Derby-Rekord: Rote Karte gegen FC Neukirchen-Vluyn nach nur 45 Sekunden",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412930692/derby-rekord-rote-karte-gegen-fc-neukirchen-vluyn-nach-nur-45-sekunden.html",
@@ -694,9 +723,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
