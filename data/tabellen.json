@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T15:58:14.654Z",
+ "aktualisiert": "2026-08-22T19:05:05.831Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1082,6 +1082,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SSVg Velbert 02",
+     "teamId": "011MIEI1Q8000000VTVG0001VTR8C1K7",
+     "spiele": 2,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "5:1",
+     "differenz": 4,
+     "punkte": 6
+    },
+    {
+     "platz": 2,
      "verein": "SpVg Schonnebeck",
      "teamId": "011MID3NIC000000VTVG0001VTR8C1K7",
      "spiele": 2,
@@ -1093,7 +1105,7 @@
      "punkte": 4
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "Krefelder FC Uerdingen",
      "teamId": "011MIA4KF4000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1105,7 +1117,7 @@
      "punkte": 3
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "BW Dingden",
      "teamId": "011MIDCROO000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1117,7 +1129,7 @@
      "punkte": 3
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "Fortuna Düsseldorf U23",
      "teamId": "011MI96NBO000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1129,7 +1141,7 @@
      "punkte": 3
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "SV Scherpenberg",
      "teamId": "011MIB5RU0000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1141,7 +1153,7 @@
      "punkte": 3
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "SC St. Tönis 11/20",
      "teamId": "011MIC7T0S000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1149,18 +1161,6 @@
      "unentschieden": 0,
      "niederlagen": 0,
      "tore": "3:2",
-     "differenz": 1,
-     "punkte": 3
-    },
-    {
-     "platz": 7,
-     "verein": "SSVg Velbert 02",
-     "teamId": "011MIEI1Q8000000VTVG0001VTR8C1K7",
-     "spiele": 1,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "1:0",
      "differenz": 1,
      "punkte": 3
     },
@@ -1238,18 +1238,6 @@
     },
     {
      "platz": 14,
-     "verein": "ETB SW Essen",
-     "teamId": "011MIBKRU0000000VTVG0001VTR8C1K7",
-     "spiele": 1,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "3:5",
-     "differenz": -2,
-     "punkte": 0
-    },
-    {
-     "platz": 15,
      "verein": "Wuppertaler SV",
      "teamId": "011MIB4F8S000000VTVG0001VTR8C1K7",
      "spiele": 2,
@@ -1261,7 +1249,7 @@
      "punkte": 0
     },
     {
-     "platz": 16,
+     "platz": 15,
      "verein": "TSV Meerbusch",
      "teamId": "01OSKP4IVO000000VV0AG811VSQ2DN07",
      "spiele": 1,
@@ -1273,7 +1261,7 @@
      "punkte": 0
     },
     {
-     "platz": 16,
+     "platz": 15,
      "verein": "VfL Viktoria Jüchen-Garzweiler",
      "teamId": "011MICDOHK000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1285,7 +1273,7 @@
      "punkte": 0
     },
     {
-     "platz": 18,
+     "platz": 17,
      "verein": "Holzheimer SG",
      "teamId": "011MIDAP84000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1294,6 +1282,18 @@
      "niederlagen": 1,
      "tore": "1:5",
      "differenz": -4,
+     "punkte": 0
+    },
+    {
+     "platz": 18,
+     "verein": "ETB SW Essen",
+     "teamId": "011MIBKRU0000000VTVG0001VTR8C1K7",
+     "spiele": 2,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "tore": "4:9",
+     "differenz": -5,
      "punkte": 0
     }
    ]
@@ -1304,6 +1304,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SuS 09 Dinslaken",
+     "teamId": "011MIAE2VS000000VTVG0001VTR8C1K7",
+     "spiele": 2,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "6:0",
+     "differenz": 6,
+     "punkte": 6
+    },
+    {
+     "platz": 2,
      "verein": "SV 08/29 Friedrichsfeld",
      "teamId": "011MICLEFK000000VTVG0001VTR8C1K7",
      "spiele": 2,
@@ -1315,7 +1327,7 @@
      "punkte": 6
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "SV 1926 Rindern",
      "teamId": "011MIDAPGO000000VTVG0001VTR8C1K7",
      "spiele": 2,
@@ -1327,7 +1339,7 @@
      "punkte": 4
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "BW Dingden II",
      "teamId": "011MIC7T8S000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1339,7 +1351,7 @@
      "punkte": 3
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "VfB Rheingold Emmerich",
      "teamId": "011MICUVNG000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1351,27 +1363,15 @@
      "punkte": 3
     },
     {
-     "platz": 5,
-     "verein": "SuS 09 Dinslaken",
-     "teamId": "011MIAE2VS000000VTVG0001VTR8C1K7",
-     "spiele": 1,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "5:0",
-     "differenz": 5,
-     "punkte": 3
-    },
-    {
      "platz": 6,
      "verein": "DJK Rhede",
      "teamId": "011MIAJ0L4000000VTVG0001VTR8C1K7",
-     "spiele": 1,
+     "spiele": 2,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "3:1",
-     "differenz": 2,
+     "niederlagen": 1,
+     "tore": "3:2",
+     "differenz": 1,
      "punkte": 3
     },
     {
@@ -1400,6 +1400,18 @@
     },
     {
      "platz": 9,
+     "verein": "Westfalia Anholt",
+     "teamId": "011MI9I9NC000000VTVG0001VTR8C1K7",
+     "spiele": 2,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "2:2",
+     "differenz": 0,
+     "punkte": 3
+    },
+    {
+     "platz": 10,
      "verein": "Kevelaerer SV",
      "teamId": "011MI9I8B0000000VTVG0001VTR8C1K7",
      "spiele": 2,
@@ -1411,7 +1423,7 @@
      "punkte": 3
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "TSV Weeze",
      "teamId": "011MIAE41S000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1423,7 +1435,7 @@
      "punkte": 1
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "Alemannia Pfalzdorf",
      "teamId": "011MIC2OH0000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1431,18 +1443,6 @@
      "unentschieden": 0,
      "niederlagen": 1,
      "tore": "1:2",
-     "differenz": -1,
-     "punkte": 0
-    },
-    {
-     "platz": 12,
-     "verein": "Westfalia Anholt",
-     "teamId": "011MI9I9NC000000VTVG0001VTR8C1K7",
-     "spiele": 1,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "0:1",
      "differenz": -1,
      "punkte": 0
     },
@@ -1495,19 +1495,7 @@
      "punkte": 0
     },
     {
-     "platz": 16,
-     "verein": "SV Borussia Veen 1920",
-     "teamId": "011MIBNBS0000000VTVG0001VTR8C1K7",
-     "spiele": 1,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "1:6",
-     "differenz": -5,
-     "punkte": 0
-    },
-    {
-     "platz": 18,
+     "platz": 17,
      "verein": "SV Budberg II",
      "teamId": "011MIEFG78000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1516,6 +1504,18 @@
      "niederlagen": 1,
      "tore": "0:5",
      "differenz": -5,
+     "punkte": 0
+    },
+    {
+     "platz": 18,
+     "verein": "SV Borussia Veen 1920",
+     "teamId": "011MIBNBS0000000VTVG0001VTR8C1K7",
+     "spiele": 2,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "tore": "2:8",
+     "differenz": -6,
      "punkte": 0
     }
    ]
@@ -3695,20 +3695,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-borussia-veen-1920-sv-borussia-veen-1920-niederrhein/-/saison/2627/team-id/011MIBNBS0000000VTVG0001VTR8C1K7",
    "liga": "Bezirksliga Gruppe 4",
    "spielklasse": "Bezirksliga",
-   "platz": 16,
+   "platz": 18,
    "punkte": 0,
-   "torverhaeltnis": "1:6",
+   "torverhaeltnis": "2:8",
    "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
    "naechste": [
-    {
-     "datum": "Samstag, 22.08.2026 - 16:00 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "SV Borussia Veen 1920",
-     "gast": "Westfalia Anholt",
-     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-westfalia-anholt/-/spiel/031EO9MTFO000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Freitag, 28.08.2026 - 19:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -3744,9 +3735,27 @@
      "url": "https://www.fussball.de/spiel/tus-stenern-sv-borussia-veen-1920/-/spiel/031EO9MR7O000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "PSV Wesel-Lackhausen",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-psv-wesel-lackhausen/-/spiel/031EO9MQVK000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 22.08.2026 - 16:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "Westfalia Anholt",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-westfalia-anholt/-/spiel/031EO9MTFO000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Dienstag, 18.08.2026 - 20:00 Uhr",
      "wettbewerb": "Bezirksfreundschaftsspiele",
@@ -3780,15 +3789,6 @@
      "heim": "Viktoria Winnekendonk",
      "gast": "SV Borussia Veen 1920",
      "url": "https://www.fussball.de/spiel/viktoria-winnekendonk-sv-borussia-veen-1920/-/spiel/031CHM1QTS000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SC Rot-Weiß Oberhausen II",
-     "gast": "SV Borussia Veen 1920",
-     "url": "https://www.fussball.de/spiel/sc-rot-weiss-oberhausen-ii-sv-borussia-veen-1920/-/spiel/0318DLCELK000000VS5489BUVV628VP4",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4349,7 +4349,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-scherpenberg-sv-scherpenberg-1921-niederrhein/-/saison/2627/team-id/011MIB5RU0000000VTVG0001VTR8C1K7",
    "liga": "Oberliga Niederrhein",
    "spielklasse": "Oberliga Niederrhein",
-   "platz": 5,
+   "platz": 6,
    "punkte": 3,
    "torverhaeltnis": "5:3",
    "staffelId": "0311F9LVPS00000FVS5489BUVVARDA0V-G",
