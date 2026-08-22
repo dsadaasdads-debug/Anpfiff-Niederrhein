@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T13:44:43.038Z",
+ "aktualisiert": "2026-08-22T14:38:27.922Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -682,8 +682,60 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:152589319",
+   "titel": "DFB-Pokal im Liveticker: 0:1 – Duisburg geht mit einem Rückstand gegen Elversberg in die Pause",
+   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-duisburg-gegen-sv-elversberg-hier-im-liveticker_aid-152589319",
+   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
+   "datum": "2026-08-22T14:19:00.000Z",
+   "sortZeit": 1787336340000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/foerderlizenzspieler-koelner-haie",
+   "titel": "Förderlizenzspieler Kölner Haie",
+   "url": "https://fuechse-duisburg.de/news/foerderlizenzspieler-koelner-haie/",
+   "teaser": "Hier präsentieren wir euch die Kölner Talente, die dem Haie-Föli-Pool angehören. Wie bereits verkündet, freuen wir uns über 4 Haie-Akteure, die fest im Kader eingeplant sind:Tobin Brandt, letztjährig noch im DNL-Kader der Junghaie mit zum Einsatz gekommen, soll bei den Füchsen dieses Jahr eine zentrale Rolle einnehmen und den nächsten Schritt in der Karriereleiter erklimmen. […]",
+   "bild": "",
+   "datum": "2026-08-22T14:00:00.000Z",
+   "sortZeit": 1787335200000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "funke:412914209",
-   "titel": "0:0! Zieht der MSV in die zweite Pokalrunde ein? Bundesligist Elversberg zu Gast",
+   "titel": "0:1! Emotionen kochen hoch beim MSV – Schnellbacher trifft für Elversberg",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412914209/msv-duisburg-gegen-die-sv-07-elversberg-das-pokalspiel-im-liveticker.html",
    "teaser": "Der MSV Duisburg spielt am Samstag um 15.30 Uhr im DFB-Pokal gegen den Bundesligisten SV 07 Elversberg. Wir sind live dabei.",
    "bild": "https://img.sparknews.funkemedien.de/412814774/412814774_1787216324_v16_9_600.jpeg",
@@ -708,32 +760,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:152589319",
-   "titel": "Duisburg empfängt die SVE: Der MSV im DFB-Pokal gegen Elversberg jetzt hier im Liveticker",
-   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-duisburg-gegen-sv-elversberg-hier-im-liveticker_aid-152589319",
-   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
-   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
-   "datum": "2026-08-22T13:20:00.000Z",
-   "sortZeit": 1787332800000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "rp:153459747",
@@ -2221,8 +2247,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": false,
