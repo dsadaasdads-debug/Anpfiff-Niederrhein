@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T19:35:09.873Z",
+ "aktualisiert": "2026-08-22T20:39:59.550Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 23
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -654,12 +654,38 @@
   },
   {
    "id": "rp:153569257",
-   "titel": "Elversbergs Trainer wünscht MSV den Aufstieg: „...also haben wir wie ein Bundesligist gespielt“",
+   "titel": "Elversbergs Trainer wünscht MSV den Aufstieg: „Also haben wir wie ein Bundesligist gespielt“",
    "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-elversbergs-trainer-vincent-wagner-wuenscht-msv-den-aufstieg_aid-153569257",
    "teaser": "Nach dem 3:1-Erfolg in der ersten DFB-Pokalrunde zollte vor allem Elversbergs Trainer Vincent Wagner dem MSV Duisburg großen Respekt. Auch den Treffer von Lex-Tyger Lobinger bezeichnete er als „wirklich geil“.",
    "bild": "https://rp-online.de/imgs/32/2/7/8/3/5/6/1/3/3/tok_7a25593ef814eda0957e73147cde8bf6/w1200_h630_x1796_y1189_DPA_dpa_xi75sqt75d-v1-ax-ms6144-c3e3fa05bf4463e7.jpeg",
-   "datum": "2026-08-22T19:02:39.000Z",
-   "sortZeit": 1787353359000,
+   "datum": "2026-08-22T19:40:00.000Z",
+   "sortZeit": 1787355600000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: Ens in der Startelf, MSV-Kapitän Alexander Hahn auch im DFB-Pokal nicht im Kader",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-alexander-hahn-steht-auch-gegen-elversberg-nicht-im-kader_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-22T19:17:00.000Z",
+   "sortZeit": 1787354220000,
    "punkte": 80,
    "paywall": false,
    "quelle": "RP Online",
@@ -1274,9 +1300,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
@@ -1917,32 +1941,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: MSV für Elversbergs Trainer „mit das Schwerste, was in der ersten Runde auf einen zukommen kann“",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-trainer-der-sv-elversberg-hat-vor-pokalspiel-grossen-respekt_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-20T13:42:00.000Z",
-   "sortZeit": 1787161320000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "funke:412916133",
