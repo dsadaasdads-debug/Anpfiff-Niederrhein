@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T10:40:31.343Z",
+ "aktualisiert": "2026-08-22T11:35:25.865Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -682,6 +682,34 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412914209",
+   "titel": "LIVE! Zieht der MSV in die zweite Pokalrunde ein? Bundesligist Elversberg zu Gast",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412914209/msv-duisburg-gegen-die-sv-07-elversberg-das-pokalspiel-im-liveticker.html",
+   "teaser": "Der MSV Duisburg spielt am Samstag um 15.30 Uhr im DFB-Pokal gegen den Bundesligisten SV 07 Elversberg. Wir sind live dabei.",
+   "bild": "https://img.sparknews.funkemedien.de/412814774/412814774_1787216324_v16_9_600.jpeg",
+   "datum": "2026-08-22T11:09:00.000Z",
+   "sortZeit": 1787324940000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153459747",
    "titel": "Nach dramatischem Pokal-Aus: Jetzt wartet auf den SV Sonsbeck schon der nächste „heiße Tanz“",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-sonsbeck-nach-pokal-aus-wartet-das-derby-gegen-scherpenberg_aid-153459747",
@@ -1118,9 +1146,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1819,32 +1845,6 @@
    "sportart": "Eishockey",
    "ereignis": null,
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "funke:412914209",
-   "titel": "MSV Duisburg gegen die SV 07 Elversberg – das Pokalspiel im Liveticker",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article412914209/msv-duisburg-gegen-die-sv-07-elversberg-das-pokalspiel-im-liveticker.html",
-   "teaser": "Der MSV Duisburg spielt am Samstag um 15.30 Uhr im DFB-Pokal gegen den Bundesligisten SV 07 Elversberg. Wir sind live dabei.",
-   "bild": "https://img.sparknews.funkemedien.de/412814774/412814774_1787216324_v16_9_600.jpeg",
-   "datum": "2026-08-20T09:01:17.000Z",
-   "sortZeit": 1787144477000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   },
   {
    "id": "funke:412910904",
@@ -9116,32 +9116,6 @@
    "zone": "kern",
    "vereine": [
     "SV Scherpenberg 1921"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412655910",
-   "titel": "Auch auf dem Zahnfleisch läuft‘s: Offensive des VfB Homberg trifft zuverlässig",
-   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412655910/auch-auf-dem-zahnfleisch-laeuftE28098s-offensive-des-vfb-homberg-trifft-zuverlaessig.html",
-   "teaser": "Ohne Trainer und mit drei Spielern aus der Reserve gewinnt der Landesligist den Test in Obercastrop deutlich. Harter Brocken am Samstag.",
-   "bild": "https://img.sparknews.funkemedien.de/412656254/412656254_1784806014_v16_9_600.jpeg",
-   "datum": "2026-07-23T11:34:16.000Z",
-   "sortZeit": 1784734456000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "VFB Homberg"
    ],
    "sportart": "Fußball",
    "ereignis": null,
