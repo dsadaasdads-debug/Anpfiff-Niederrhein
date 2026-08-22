@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T16:12:01.520Z",
+ "aktualisiert": "2026-08-22T16:42:42.803Z",
  "tag": "22.08.",
  "datum": "2026-08-22",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 312,
+   "seitAnpfiffMin": 343,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -49,11 +49,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 192,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 223,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -125,7 +125,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 132,
+   "seitAnpfiffMin": 163,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -150,7 +150,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 132,
+   "seitAnpfiffMin": 163,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -167,15 +167,173 @@
    "zeit": "16:00",
    "heim": "SV Borussia Veen 1920",
    "gast": "Westfalia Anholt",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 1,
+    "gast": 2
+   },
+   "ereignisse": [
+    {
+     "minute": 5,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 10,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 54,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 57,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 60,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 60,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 66,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 73,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 77,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 78,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 81,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 12,
+   "seitAnpfiffMin": 43,
    "laeuft": true,
    "abgeschlossen": false
   }
