@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T17:00:45.799Z",
+ "aktualisiert": "2026-08-22T17:31:02.998Z",
  "tag": "22.08.",
  "datum": "2026-08-22",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 361,
+   "seitAnpfiffMin": 391,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 241,
+   "seitAnpfiffMin": 271,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -125,7 +125,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 181,
+   "seitAnpfiffMin": 211,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -148,11 +148,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 181,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 211,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -333,7 +333,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 61,
+   "seitAnpfiffMin": 91,
    "laeuft": true,
    "abgeschlossen": false
   }
