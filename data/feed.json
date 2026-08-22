@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T17:35:47.456Z",
+ "aktualisiert": "2026-08-22T18:49:00.982Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -653,6 +653,32 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:153566019",
+   "titel": "Nach packendem Pokalfight: MSV Duisburg unterliegt Bundesliga-Aufsteiger Elversberg erst spät",
+   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-duisburg-unterliegt-der-sv-elversberg-mit-1-3_aid-153566019",
+   "teaser": "Lange hielten die Zebras gegen den Bundesliga-Aufsteiger gut mit, hatten sogar Torchancen für den Sieg. Am Ende verlor die Elf von Trainer Dietmar Hirsch unglücklich mit 1:3.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/3/5/2/6/3/7/tok_34282c89609dd5721c8f8d634620ff3d/w1200_h630_x1901_y933_wyi3wr64bv-v1-ax-ms6144-fb24b9f3af1763e0.jpeg",
+   "datum": "2026-08-22T17:57:00.000Z",
+   "sortZeit": 1787349420000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "American Football",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412935766",
    "titel": "MSV-Trainer Dietmar Hirsch ärgert sich über die Qualität des Rasens",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412935766/msv-trainer-dietmar-hirsch-aergert-sich-ueber-die-qualitaet-des-rasens.html",
@@ -764,32 +790,6 @@
    "grund": "vereinsfeed"
   },
   {
-   "id": "rp:153566019",
-   "titel": "Nach packendem Pokalfight: MSV Duisburg unterliegt Bundesliga-Aufsteiger Elversberg erst spät",
-   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-duisburg-unterliegt-der-sv-elversberg-mit-1-3_aid-153566019",
-   "teaser": "Lange hielten die Zebras gegen den Bundesliga-Aufsteiger gut mit, hatten sogar Torchancen für den Sieg. Am Ende verlor die Elf von Trainer Dietmar Hirsch unglücklich mit 1:3.",
-   "bild": "https://rp-online.de/imgs/32/2/7/8/3/5/2/6/3/7/tok_34282c89609dd5721c8f8d634620ff3d/w1200_h630_x1901_y933_wyi3wr64bv-v1-ax-ms6144-fb24b9f3af1763e0.jpeg",
-   "datum": "2026-08-22T15:45:00.000Z",
-   "sortZeit": 1787341500000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "American Football",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
    "id": "funke:412929200",
    "titel": "Symalla und Safi vergeben – MSV verpasst Pokalüberraschung gegen Elversberg",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412929200/symalla-und-safi-vergeben-msv-verpasst-pokalueberraschung-gegen-elversberg.html",
@@ -817,7 +817,7 @@
   },
   {
    "id": "rp:152589319",
-   "titel": "Liveticker zum Nachlesen: 1:3 – Elversberg gewinnt gegen Duisburg im DFB-Pokal",
+   "titel": "1:3 in Runde eins: Duisburg muss sich Elversberg im DFB-Pokal erst spät beugen – Liveticker zum Nachlesen",
    "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-elversberg-gewinnt-gegen-duisburg-liveticker-zum-nachlesen_aid-152589319",
    "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
    "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
