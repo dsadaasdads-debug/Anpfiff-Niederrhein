@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-22T20:39:59.550Z",
+ "aktualisiert": "2026-08-22T21:35:46.671Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -649,6 +649,34 @@
     "FC Neukirchen-Vluyn"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412936795",
+   "titel": "Rhein Fire: Endlich Spannung, doch Jonathan Scott verletzt",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412936795/rhein-fire-endlich-spannung-doch-jonathan-scott-verletzt.html",
+   "teaser": "Auf Mallorca ringen die Duisburger Footballer die London Warriors nieder. Doch drei Minuten vor dem Ende gibt es eine Hiobsbotschaft.",
+   "bild": "https://img.sparknews.funkemedien.de/412936884/412936884_1787432334_v16_9_600.jpeg",
+   "datum": "2026-08-22T21:20:29.000Z",
+   "sortZeit": 1787361629000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Rhein Fire"
+   ],
+   "sportart": "American Football",
    "ereignis": null,
    "grund": "pfad"
   },
