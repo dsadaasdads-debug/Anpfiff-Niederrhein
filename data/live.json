@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T15:38:07.852Z",
+ "aktualisiert": "2026-08-23T15:54:55.353Z",
  "tag": "23.08.",
  "datum": "2026-08-23",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 488,
+   "seitAnpfiffMin": 505,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -175,7 +175,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 398,
+   "seitAnpfiffMin": 415,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -279,7 +279,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 338,
+   "seitAnpfiffMin": 355,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -296,15 +296,64 @@
    "zeit": "10:30",
    "heim": "TuS Borth II",
    "gast": "SV Schwafheim III",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 4,
+    "gast": 3
+   },
+   "ereignisse": [
+    {
+     "minute": 9,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Luca Costanza",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "sv-schwafheim-m3-2026-27",
+     "clubSlug": "sv-schwafheim"
+    },
+    {
+     "minute": 12,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jakob Linus Nitzsche",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "sv-schwafheim-m3-2026-27",
+     "clubSlug": "sv-schwafheim"
+    },
+    {
+     "minute": 15,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Niklas Ukowski",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 3
+     },
+     "teamSlug": "sv-schwafheim-m3-2026-27",
+     "clubSlug": "sv-schwafheim"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 308,
+   "seitAnpfiffMin": 325,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -408,7 +457,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 278,
+   "seitAnpfiffMin": 295,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -509,7 +558,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 278,
+   "seitAnpfiffMin": 295,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -598,7 +647,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 248,
+   "seitAnpfiffMin": 265,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -623,7 +672,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 218,
+   "seitAnpfiffMin": 235,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -648,7 +697,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 158,
+   "seitAnpfiffMin": 175,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -812,7 +861,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 158,
+   "seitAnpfiffMin": 175,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -901,7 +950,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 158,
+   "seitAnpfiffMin": 175,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -926,7 +975,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 158,
+   "seitAnpfiffMin": 175,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1015,7 +1064,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 158,
+   "seitAnpfiffMin": 175,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1043,7 +1092,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 158,
+   "seitAnpfiffMin": 175,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1068,7 +1117,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 158,
+   "seitAnpfiffMin": 175,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1085,228 +1134,15 @@
    "zeit": "13:00",
    "heim": "TV Asberg II",
    "gast": "FC Rot-Weiß Moers",
-   "tore": {
-    "heim": 2,
-    "gast": 3
-   },
-   "ereignisse": [
-    {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 22,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 32,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 45,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 50,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 89,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "yellow-red-card",
-     "name": "Gelb-Rote Karte",
-     "zeichen": "🟨🟥",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "red-card",
-     "name": "Rote Karte",
-     "zeichen": "🟥",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "red-card",
-     "name": "Rote Karte",
-     "zeichen": "🟥",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    }
-   ],
+   "tore": null,
+   "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 158,
+   "seitAnpfiffMin": 175,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1588,7 +1424,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 98,
+   "seitAnpfiffMin": 115,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1738,7 +1574,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 38,
+   "seitAnpfiffMin": 55,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1998,7 +1834,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 38,
+   "seitAnpfiffMin": 55,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -2258,7 +2094,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 38,
+   "seitAnpfiffMin": 55,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -2474,7 +2310,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 38,
+   "seitAnpfiffMin": 55,
    "laeuft": true,
    "abgeschlossen": false
   }
