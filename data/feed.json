@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T05:46:00.391Z",
+ "aktualisiert": "2026-08-23T07:01:42.221Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,11 +40,8 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-23T04:52:14.458Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "moerser-sc",
@@ -626,6 +623,32 @@
   }
  ],
  "artikel": [
+  {
+   "id": "fuechse-duisburg.de/news/fuechse-eroeffnen-gegen-heilbronn-die-neue-saison",
+   "titel": "Füchse eröffnen gegen Heilbronn die neue Saison",
+   "url": "https://fuechse-duisburg.de/news/fuechse-eroeffnen-gegen-heilbronn-die-neue-saison/",
+   "teaser": "Der Saisonauftakt wird präsentiert von alleato – wir begleiten Sie in die sichere Zukunft. Füchse eröffnen gegen Heilbronn die neue Saison Endlich wieder Bullies, Checks, Schüsse, Tempo, Tore! 💥Im Rahmen unserer Saisoneröffnung empfangen wir die Heilbronner Falken zum ersten Test der Vorbereitung. 🗓️ Pre Season 26/27 – Spiel 1🏒 Heilbronner Falken 📍 alleato Arena – […]",
+   "bild": "",
+   "datum": "2026-08-23T06:00:00.000Z",
+   "sortZeit": 1787392800000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
   {
    "id": "funke:412931508",
    "titel": "Hitziges Bezirksliga-Derby: 30 Bilder von FC Neukirchen-Vluyn gegen GSV Moers",
