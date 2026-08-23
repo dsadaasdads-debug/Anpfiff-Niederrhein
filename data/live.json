@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T13:40:55.941Z",
+ "aktualisiert": "2026-08-23T14:01:47.477Z",
  "tag": "23.08.",
  "datum": "2026-08-23",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 392,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -43,7 +43,10 @@
    "zeit": "09:00",
    "heim": "JSG Aldekerk/Nieukerk",
    "gast": "FC Neukirchen-Vluyn 09/21",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 7
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
@@ -51,7 +54,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 281,
+   "seitAnpfiffMin": 302,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -155,7 +158,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 242,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -178,11 +181,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 191,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 212,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -284,7 +287,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 182,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -307,36 +310,6 @@
    },
    "ereignisse": [
     {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Nils Binder",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "rumelner-tv-m2-2026-27",
-     "clubSlug": "rumelner-tv"
-    },
-    {
-     "minute": 0,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ben Hampel",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 2
-     },
-     "teamSlug": "rumelner-tv-m2-2026-27",
-     "clubSlug": "rumelner-tv"
-    },
-    {
      "minute": 14,
      "nachspielzeit": 0,
      "art": "goal_shoot",
@@ -350,6 +323,21 @@
      },
      "teamSlug": "gsv-moers-m2-2026-27",
      "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 65,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nils Binder",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "rumelner-tv-m2-2026-27",
+     "clubSlug": "rumelner-tv"
     },
     {
      "minute": 75,
@@ -377,15 +365,30 @@
      },
      "teamSlug": "gsv-moers-m2-2026-27",
      "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 1,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ben Hampel",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "rumelner-tv-m2-2026-27",
+     "clubSlug": "rumelner-tv"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 30,
    "schiedsrichter": "Sebastian Connor",
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 182,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -410,7 +413,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 101,
+   "seitAnpfiffMin": 122,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -435,7 +438,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 41,
+   "seitAnpfiffMin": 62,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -454,7 +457,7 @@
    "gast": "TV Kapellen",
    "tore": {
     "heim": 0,
-    "gast": 1
+    "gast": 2
    },
    "ereignisse": [
     {
@@ -471,6 +474,21 @@
      },
      "teamSlug": "tv-kapellen-m1-2026-27",
      "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 45,
+     "nachspielzeit": 1,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jan-Niklas Block",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
     }
    ],
    "zuschauer": null,
@@ -479,7 +497,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 41,
+   "seitAnpfiffMin": 62,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -497,7 +515,7 @@
    "heim": "TuS Stenern",
    "gast": "TuS Xanten",
    "tore": {
-    "heim": 1,
+    "heim": 2,
     "gast": 1
    },
    "ereignisse": [
@@ -530,6 +548,21 @@
      },
      "teamSlug": "tus-stenern-m1-2026-27",
      "clubSlug": "tus-stenern"
+    },
+    {
+     "minute": 45,
+     "nachspielzeit": 1,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kai-Philipp Ridder",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "tus-stenern-m1-2026-27",
+     "clubSlug": "tus-stenern"
     }
    ],
    "zuschauer": null,
@@ -538,7 +571,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 41,
+   "seitAnpfiffMin": 62,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -563,7 +596,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 41,
+   "seitAnpfiffMin": 62,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -591,7 +624,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 41,
+   "seitAnpfiffMin": 62,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -616,7 +649,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 41,
+   "seitAnpfiffMin": 62,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -644,7 +677,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 41,
+   "seitAnpfiffMin": 62,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -882,7 +915,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 41,
+   "seitAnpfiffMin": 62,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -907,8 +940,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -19,
-   "laeuft": false,
+   "seitAnpfiffMin": 2,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -932,7 +965,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -79,
+   "seitAnpfiffMin": -58,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -957,7 +990,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -79,
+   "seitAnpfiffMin": -58,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -982,7 +1015,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -79,
+   "seitAnpfiffMin": -58,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1007,7 +1040,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -79,
+   "seitAnpfiffMin": -58,
    "laeuft": false,
    "abgeschlossen": false
   }
