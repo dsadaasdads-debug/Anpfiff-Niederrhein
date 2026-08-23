@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T09:43:12.033Z",
+ "aktualisiert": "2026-08-23T10:40:56.075Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,34 @@
  ],
  "artikel": [
   {
+   "id": "funke:412934639",
+   "titel": "Test gegen Oberliga-Nachbar Veruka: Auf TV Kapellen wartet noch viel Arbeit",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412934639/test-gegen-oberliga-nachbar-veruka-auf-tv-kapellen-wartet-noch-viel-arbeit.html",
+   "teaser": "Auch Handball-Verbandsligist TV Kapellen ist nun in die Testphase eingestiegen. Fünf Neuzugänge standen in der Startformation.",
+   "bild": "https://img.sparknews.funkemedien.de/412939130/412939130_1787479334_v16_9_600.jpeg",
+   "datum": "2026-08-23T10:09:45.000Z",
+   "sortZeit": 1787479785000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TV Kapellen"
+   ],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412935506",
    "titel": "TuS Lintfort: Sonderlob für Neuzugang nach „halb geglückter Generalprobe“",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412935506/tus-lintfort-sonderlob-fuer-neuzugang-nach-halb-geglueckter-generalprobe.html",
@@ -683,12 +711,12 @@
   },
   {
    "id": "funke:412919497",
-   "titel": "Jetzt live: Rot-Weiss Essen gegen MSV Duisburg – behält die RWE-U19 ihren Lauf?",
+   "titel": "Jetzt live: Rot-Weiss Essen gegen MSV Duisburg – U19-Teams im offenen Schlagabtausch",
    "url": "https://www.nrz.de/sport/lokalsport/essen/article412919497/liveticker-rot-weiss-essen-gegen-msv-duisburg-u19.html",
    "teaser": "Die U19 von Rot-Weiss Essen ist nach einem starken Saisonstart bereit für das Derby gegen den MSV Duisburg. Wir tickern das Spiel live.",
    "bild": "https://img.sparknews.funkemedien.de/412920525/412920525_1787238030_v16_9_600.jpeg",
-   "datum": "2026-08-23T09:00:15.000Z",
-   "sortZeit": 1787403615000,
+   "datum": "2026-08-23T10:07:06.000Z",
+   "sortZeit": 1787407626000,
    "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
@@ -708,6 +736,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:153577975",
+   "titel": "Nach Beschwerde von Elversbergs Wagner: Ärger um den Rasen! MSV-Trainer Hirsch mit deutlichen Worten",
+   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-trainer-dietmar-hirsch-aergert-sich-ueber-rasen-in-der-slr-arena_aid-153577975",
+   "teaser": "Es gibt vieles, worauf der MSV Duisburg nach der 1:3-Niederlage im DFB-Pokal gegen die SV Elversberg stolz sein könnte. Doch ein Punkt erhitzte die Gemüter nach dem Spiel gewaltig.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/3/6/5/9/1/3/tok_d8a3b737557632d4248781c6f56469ef/w1200_h630_x1796_y1244_3pveqpdnus-v1-ax-ms6144-dcf4dd15028797fc.jpeg",
+   "datum": "2026-08-23T10:00:00.000Z",
+   "sortZeit": 1787407200000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "fuechse-duisburg.de/news/fuechse-eroeffnen-gegen-heilbronn-die-neue-saison",
@@ -938,9 +992,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Neukirchen-Vluyn",
    "ortSicher": true,
    "orte": [
@@ -9301,34 +9353,6 @@
     "name": "Turnen-DM",
     "ort": null
    },
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412662901",
-   "titel": "Nach Blockade im Knie: Routinier des 1. FC Lintfort meldet sich zurück",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412662901/nach-blockade-im-knie-routinier-des-1-fc-lintfort-meldet-sich-zurueck.html",
-   "teaser": "Neuer Lintforter Verteidiger fehlt mit Rückenschmerzen. SV Scherpenberg testet Sonntag bei Sezen-Brüdern. Die Spiele in der Übersicht.",
-   "bild": "https://img.sparknews.funkemedien.de/412663938/412663938_1784885162_v16_9_600.jpeg",
-   "datum": "2026-07-24T09:46:02.000Z",
-   "sortZeit": 1784886362000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers",
-    "Kamp-Lintfort"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "1. FC Lintfort",
-    "SV Scherpenberg 1921"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
    "grund": "pfad"
   },
   {
