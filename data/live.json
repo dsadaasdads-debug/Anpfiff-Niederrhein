@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T14:34:06.642Z",
+ "aktualisiert": "2026-08-23T14:54:55.590Z",
  "tag": "23.08.",
  "datum": "2026-08-23",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 424,
+   "seitAnpfiffMin": 445,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -175,7 +175,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 334,
+   "seitAnpfiffMin": 355,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -279,7 +279,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 274,
+   "seitAnpfiffMin": 295,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -304,7 +304,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 244,
+   "seitAnpfiffMin": 265,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -408,7 +408,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 214,
+   "seitAnpfiffMin": 235,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -509,7 +509,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 214,
+   "seitAnpfiffMin": 235,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -598,7 +598,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 184,
+   "seitAnpfiffMin": 205,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -623,7 +623,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 154,
+   "seitAnpfiffMin": 175,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -648,7 +648,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 94,
+   "seitAnpfiffMin": 115,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -667,7 +667,7 @@
    "gast": "TV Kapellen",
    "tore": {
     "heim": 2,
-    "gast": 3
+    "gast": 6
    },
    "ereignisse": [
     {
@@ -744,17 +744,77 @@
      },
      "teamSlug": "tv-kapellen-m1-2026-27",
      "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 79,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Schönwetter",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 4
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 81,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Schönwetter",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 5
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 89,
+     "nachspielzeit": 0,
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": "Louis Beier",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 5
+     },
+     "teamSlug": "sus-rayen-m1-2026-27",
+     "clubSlug": "sus-rayen"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nick Holger Kunnes",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 6
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
     }
    ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": "Steffen Kinner-Alsen",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 94,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 115,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -770,7 +830,7 @@
    "heim": "TuS Stenern",
    "gast": "TuS Xanten",
    "tore": {
-    "heim": 2,
+    "heim": 3,
     "gast": 1
    },
    "ereignisse": [
@@ -818,6 +878,21 @@
      },
      "teamSlug": "tus-stenern-m1-2026-27",
      "clubSlug": "tus-stenern"
+    },
+    {
+     "minute": 73,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "tus-stenern-m1-2026-27",
+     "clubSlug": "tus-stenern"
     }
    ],
    "zuschauer": null,
@@ -826,7 +901,7 @@
    "hatTicker": true,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 94,
+   "seitAnpfiffMin": 115,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -851,7 +926,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 94,
+   "seitAnpfiffMin": 115,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -869,8 +944,8 @@
    "heim": "FC Viktoria Alpen 1911 e.V.",
    "gast": "TuS Viktoria Buchholz II",
    "tore": {
-    "heim": 0,
-    "gast": 1
+    "heim": 2,
+    "gast": 2
    },
    "ereignisse": [
     {
@@ -887,17 +962,62 @@
      },
      "teamSlug": "tus-viktoria-buchholz-m2-2026-27",
      "clubSlug": "tus-viktoria-buchholz"
+    },
+    {
+     "minute": 83,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Niels Kuhlmann",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "fc-viktoria-alpen-1911-ev-m1-2026-27",
+     "clubSlug": "fc-viktoria-alpen-1911-ev"
+    },
+    {
+     "minute": 85,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kai Hense",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "fc-viktoria-alpen-1911-ev-m1-2026-27",
+     "clubSlug": "fc-viktoria-alpen-1911-ev"
+    },
+    {
+     "minute": 89,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Leander Abraham",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "tus-viktoria-buchholz-m2-2026-27",
+     "clubSlug": "tus-viktoria-buchholz"
     }
    ],
    "zuschauer": null,
    "schiedsrichter": "Tommy Thielen",
    "tickerAutor": "Kevin Kremer",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 94,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 115,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -923,7 +1043,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 94,
+   "seitAnpfiffMin": 115,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -948,7 +1068,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 94,
+   "seitAnpfiffMin": 115,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1186,7 +1306,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 94,
+   "seitAnpfiffMin": 115,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1468,7 +1588,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 34,
+   "seitAnpfiffMin": 55,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1493,7 +1613,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -26,
+   "seitAnpfiffMin": -5,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1518,7 +1638,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -26,
+   "seitAnpfiffMin": -5,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1543,7 +1663,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -26,
+   "seitAnpfiffMin": -5,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1568,7 +1688,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -26,
+   "seitAnpfiffMin": -5,
    "laeuft": false,
    "abgeschlossen": false
   }
