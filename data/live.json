@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T17:48:00.737Z",
+ "aktualisiert": "2026-08-23T17:59:50.264Z",
  "tag": "23.08.",
  "datum": "2026-08-23",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 528,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -103,7 +103,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 438,
+   "seitAnpfiffMin": 450,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -252,7 +252,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 408,
+   "seitAnpfiffMin": 420,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -277,7 +277,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 408,
+   "seitAnpfiffMin": 420,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -381,7 +381,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 408,
+   "seitAnpfiffMin": 420,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -406,7 +406,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 393,
+   "seitAnpfiffMin": 405,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -431,7 +431,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 348,
+   "seitAnpfiffMin": 360,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -520,7 +520,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 288,
+   "seitAnpfiffMin": 300,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -654,7 +654,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 288,
+   "seitAnpfiffMin": 300,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -818,7 +818,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 288,
+   "seitAnpfiffMin": 300,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -922,7 +922,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 288,
+   "seitAnpfiffMin": 300,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -947,7 +947,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 288,
+   "seitAnpfiffMin": 300,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -972,7 +972,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 288,
+   "seitAnpfiffMin": 300,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -997,7 +997,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 288,
+   "seitAnpfiffMin": 300,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1035,7 +1035,7 @@
      "clubSlug": "sv-sonsbeck"
     },
     {
-     "minute": 16,
+     "minute": 10,
      "nachspielzeit": 0,
      "art": "goal_free_kick",
      "name": "Tor",
@@ -1113,7 +1113,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 288,
+   "seitAnpfiffMin": 300,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1202,7 +1202,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 288,
+   "seitAnpfiffMin": 300,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1321,7 +1321,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 258,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1635,7 +1635,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 258,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1785,7 +1785,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 168,
+   "seitAnpfiffMin": 180,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1810,7 +1810,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 168,
+   "seitAnpfiffMin": 180,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2070,7 +2070,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 168,
+   "seitAnpfiffMin": 180,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2242,7 +2242,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 168,
+   "seitAnpfiffMin": 180,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2502,7 +2502,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 168,
+   "seitAnpfiffMin": 180,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2762,7 +2762,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 168,
+   "seitAnpfiffMin": 180,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2787,7 +2787,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 153,
+   "seitAnpfiffMin": 165,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -3014,7 +3014,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 138,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3164,7 +3164,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 138,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3189,7 +3189,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 138,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   }
