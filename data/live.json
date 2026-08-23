@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T17:59:50.264Z",
+ "aktualisiert": "2026-08-23T18:31:45.936Z",
  "tag": "23.08.",
  "datum": "2026-08-23",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 540,
+   "seitAnpfiffMin": 572,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -103,7 +103,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 450,
+   "seitAnpfiffMin": 482,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -252,7 +252,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 420,
+   "seitAnpfiffMin": 452,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -277,7 +277,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 420,
+   "seitAnpfiffMin": 452,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -381,7 +381,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 420,
+   "seitAnpfiffMin": 452,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -406,7 +406,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 405,
+   "seitAnpfiffMin": 437,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -431,7 +431,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 360,
+   "seitAnpfiffMin": 392,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -520,7 +520,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 300,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -654,7 +654,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 300,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -818,7 +818,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 300,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -922,7 +922,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 300,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -947,7 +947,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 300,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -972,7 +972,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 300,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -989,15 +989,94 @@
    "zeit": "13:00",
    "heim": "VfL Rheinhausen",
    "gast": "SV Schwafheim II",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 5,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 17,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kim Weickart",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "vfl-rheinhausen-m1-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 18,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Niklas Tersteegen",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "vfl-rheinhausen-m1-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 39,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marco Koske",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "vfl-rheinhausen-m1-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 44,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kim Weickart",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "vfl-rheinhausen-m1-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 65,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mika Krappe",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 0
+     },
+     "teamSlug": "vfl-rheinhausen-m1-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 300,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1113,7 +1192,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 300,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1202,7 +1281,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 300,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1321,7 +1400,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 302,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1635,7 +1714,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 302,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1785,7 +1864,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 180,
+   "seitAnpfiffMin": 212,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1810,7 +1889,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 180,
+   "seitAnpfiffMin": 212,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2070,7 +2149,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 180,
+   "seitAnpfiffMin": 212,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2242,7 +2321,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 180,
+   "seitAnpfiffMin": 212,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2502,7 +2581,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 180,
+   "seitAnpfiffMin": 212,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2762,7 +2841,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 180,
+   "seitAnpfiffMin": 212,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2787,7 +2866,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 165,
+   "seitAnpfiffMin": 197,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -3014,7 +3093,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 150,
+   "seitAnpfiffMin": 182,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3164,7 +3243,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 150,
+   "seitAnpfiffMin": 182,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3189,7 +3268,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 150,
+   "seitAnpfiffMin": 182,
    "laeuft": false,
    "abgeschlossen": true
   }
