@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T16:13:45.895Z",
+ "aktualisiert": "2026-08-23T16:44:33.654Z",
  "tag": "23.08.",
  "datum": "2026-08-23",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 434,
+   "seitAnpfiffMin": 465,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -103,7 +103,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 344,
+   "seitAnpfiffMin": 375,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -252,7 +252,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 314,
+   "seitAnpfiffMin": 345,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -277,7 +277,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 314,
+   "seitAnpfiffMin": 345,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -381,7 +381,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 314,
+   "seitAnpfiffMin": 345,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -406,7 +406,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 299,
+   "seitAnpfiffMin": 330,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -431,7 +431,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 254,
+   "seitAnpfiffMin": 285,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -520,7 +520,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
+   "seitAnpfiffMin": 225,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -543,11 +543,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 225,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -709,7 +709,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
+   "seitAnpfiffMin": 225,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -813,7 +813,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
+   "seitAnpfiffMin": 225,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -836,11 +836,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 225,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -861,11 +861,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 225,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -886,11 +886,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 225,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -977,7 +977,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
+   "seitAnpfiffMin": 225,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1081,7 +1081,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 194,
+   "seitAnpfiffMin": 225,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1103,6 +1103,21 @@
     "gast": 1
    },
    "ereignisse": [
+    {
+     "minute": 18,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Rafael Vizuete Mora",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "1-fc-lintfort-m1-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    },
     {
      "minute": 30,
      "nachspielzeit": 0,
@@ -1185,7 +1200,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 164,
+   "seitAnpfiffMin": 195,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1303,7 +1318,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Berkan Sonbahar",
      "fuer": null,
      "stand": {
       "heim": 1,
@@ -1493,13 +1508,13 @@
      "clubSlug": "sus-21-oberhausen"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 80,
    "schiedsrichter": "Bekir Durmus",
    "tickerAutor": "Robin Peters",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 164,
+   "seitAnpfiffMin": 195,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1649,7 +1664,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 74,
+   "seitAnpfiffMin": 105,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1674,7 +1689,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 74,
+   "seitAnpfiffMin": 105,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -1934,7 +1949,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 74,
+   "seitAnpfiffMin": 105,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -2106,7 +2121,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 74,
+   "seitAnpfiffMin": 105,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -2366,7 +2381,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 74,
+   "seitAnpfiffMin": 105,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -2626,7 +2641,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 74,
+   "seitAnpfiffMin": 105,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -2651,7 +2666,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 59,
+   "seitAnpfiffMin": 90,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -2878,7 +2893,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 44,
+   "seitAnpfiffMin": 75,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -3028,7 +3043,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 44,
+   "seitAnpfiffMin": 75,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -3398,7 +3413,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 44,
+   "seitAnpfiffMin": 75,
    "laeuft": true,
    "abgeschlossen": false
   }
