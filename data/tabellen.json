@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T07:21:41.938Z",
+ "aktualisiert": "2026-08-23T10:01:09.897Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4028,6 +4028,15 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
+     "datum": "Sonntag, 23.08.2026 - 12:15 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Menzelen II",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-ii-sv-menzelen/-/spiel/031S6IKH04000000VS5489BTVTPHHFPR",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "SV Menzelen",
@@ -4060,15 +4069,6 @@
      "heim": "SV Budberg III",
      "gast": "SV Menzelen",
      "url": "https://www.fussball.de/spiel/sv-budberg-iii-sv-menzelen/-/spiel/031H9RCFG0000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Dienstag, 15.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "FC Viktoria Alpen",
-     "gast": "SV Menzelen",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-menzelen/-/spiel/031H9RCD24000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4364,6 +4364,15 @@
      "hinweis": null
     },
     {
+     "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "SV Scherpenberg",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/sv-scherpenberg-sv-19-sevelen/-/spiel/031S6S8C10000000VS5489BUVVE0O1R6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
      "wettbewerb": "Oberliga Niederrhein",
      "heim": "SV Scherpenberg",
@@ -4387,15 +4396,6 @@
      "heim": "SV Scherpenberg",
      "gast": "1. Spvg. Solingen-Wald",
      "url": "https://www.fussball.de/spiel/sv-scherpenberg-1-spvg-solingen-wald/-/spiel/031EE4OBU8000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 20.09.2026 - 15:00 Uhr",
-     "wettbewerb": "Oberliga Niederrhein",
-     "heim": "VfL Viktoria Jüchen-Garzweiler",
-     "gast": "SV Scherpenberg",
-     "url": "https://www.fussball.de/spiel/vfl-viktoria-juechen-garzweiler-sv-scherpenberg/-/spiel/031EE4OB4S000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4582,6 +4582,15 @@
      "hinweis": null
     },
     {
+     "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "SV Scherpenberg",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/sv-scherpenberg-sv-19-sevelen/-/spiel/031S6S8C10000000VS5489BUVVE0O1R6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV 19 Sevelen",
@@ -4605,15 +4614,6 @@
      "heim": "SV 19 Sevelen",
      "gast": "SV Straelen",
      "url": "https://www.fussball.de/spiel/sv-19-sevelen-sv-straelen/-/spiel/031JH224GS000000VS5489BUVVKNMR0J",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 20.09.2026 - 15:15 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "Uedemer SV",
-     "gast": "SV 19 Sevelen",
-     "url": "https://www.fussball.de/spiel/uedemer-sv-sv-19-sevelen/-/spiel/031JH223PK000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
