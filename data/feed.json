@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T10:40:56.075Z",
+ "aktualisiert": "2026-08-23T11:35:07.610Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 23
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -625,7 +625,7 @@
  "artikel": [
   {
    "id": "funke:412934639",
-   "titel": "Test gegen Oberliga-Nachbar Veruka: Auf TV Kapellen wartet noch viel Arbeit",
+   "titel": "Test gegen Oberliga-Nachbar VeRuKa: Auf TV Kapellen wartet noch viel Arbeit",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412934639/test-gegen-oberliga-nachbar-veruka-auf-tv-kapellen-wartet-noch-viel-arbeit.html",
    "teaser": "Auch Handball-Verbandsligist TV Kapellen ist nun in die Testphase eingestiegen. Fünf Neuzugänge standen in der Startformation.",
    "bild": "https://img.sparknews.funkemedien.de/412939130/412939130_1787479334_v16_9_600.jpeg",
@@ -711,12 +711,40 @@
   },
   {
    "id": "funke:412919497",
-   "titel": "Jetzt live: Rot-Weiss Essen gegen MSV Duisburg – U19-Teams im offenen Schlagabtausch",
+   "titel": "Bitter! Rot-Weiss Essen gegen MSV Duisburg: RWE-U19 geht böse unter",
    "url": "https://www.nrz.de/sport/lokalsport/essen/article412919497/liveticker-rot-weiss-essen-gegen-msv-duisburg-u19.html",
    "teaser": "Die U19 von Rot-Weiss Essen ist nach einem starken Saisonstart bereit für das Derby gegen den MSV Duisburg. Wir tickern das Spiel live.",
    "bild": "https://img.sparknews.funkemedien.de/412920525/412920525_1787238030_v16_9_600.jpeg",
-   "datum": "2026-08-23T10:07:06.000Z",
-   "sortZeit": 1787407626000,
+   "datum": "2026-08-23T11:29:14.000Z",
+   "sortZeit": 1787412554000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:406808429",
+   "titel": "MSV Duisburg: Nach dem DFB-Pokal steht der Landespokal im Fokus",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
+   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
+   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
+   "datum": "2026-08-23T10:35:00.000Z",
+   "sortZeit": 1787409300000,
    "punkte": 80,
    "paywall": false,
    "quelle": "NRZ",
@@ -936,9 +964,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -964,9 +990,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1631,32 +1655,6 @@
    "grund": "pfad"
   },
   {
-   "id": "funke:406808429",
-   "titel": "MSV Duisburg: Fans stimmen über Logo für das Jubiläumstrikot ab",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
-   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
-   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
-   "datum": "2026-08-21T13:10:00.000Z",
-   "sortZeit": 1787245800000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
    "id": "fuechse-duisburg.de/news/foerderlizenzspieler-iserlohn-roosters",
    "titel": "Förderlizenzspieler Iserlohn Roosters",
    "url": "https://fuechse-duisburg.de/news/foerderlizenzspieler-iserlohn-roosters/",
@@ -2225,9 +2223,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -9296,63 +9292,6 @@
    ],
    "sportart": "Fußball",
    "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412662632",
-   "titel": "Handballfrauen des TuS Lintfort siegen wieder - Trainerin: Das tut allen so gut",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412662632/handballfrauen-des-tus-lintfort-siegen-wieder-trainerin-das-tut-allen-so-gut.html",
-   "teaser": "Im ersten Test der Vorbereitung auf die neue Saison in der 2. Handball-Bundesliga verbucht Bettina Grenz-Klein einige positive Aspekte.",
-   "bild": "https://img.sparknews.funkemedien.de/412662640/412662640_1784879833_v16_9_600.jpeg",
-   "datum": "2026-07-24T11:30:52.000Z",
-   "sortZeit": 1784892652000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Kamp-Lintfort",
-   "ortSicher": true,
-   "orte": [
-    "Kamp-Lintfort",
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "TuS Lintfort"
-   ],
-   "sportart": "Handball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412664773",
-   "titel": "Zweimal Gold, zweimal Bronze: Der Moerser TV glänzt bei der Masters-DM",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412664773/zweimal-gold-zweimal-bronze-der-moerser-tv-glaenzt-bei-der-masters-dm.html",
-   "teaser": "Die Leichtathletik-Senioren des Moerser TV sind bei den Deutschen Meisterschaften prächtig drauf. Sprinterin holt gleich drei Medaillen.",
-   "bild": "https://img.sparknews.funkemedien.de/412665483/412665483_1784890632_v16_9_600.jpeg",
-   "datum": "2026-07-24T11:02:51.000Z",
-   "sortZeit": 1784890971000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "Moerser TV"
-   ],
-   "sportart": "Turnen",
-   "ereignis": {
-    "schluessel": "DM|Turnen",
-    "name": "Turnen-DM",
-    "ort": null
-   },
    "grund": "pfad"
   },
   {
