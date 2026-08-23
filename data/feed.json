@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T07:47:34.248Z",
+ "aktualisiert": "2026-08-23T08:49:09.219Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,35 @@
  ],
  "artikel": [
   {
+   "id": "funke:412935506",
+   "titel": "TuS Lintfort: Sonderlob für Neuzugang nach „halb geglückter Generalprobe“",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412935506/tus-lintfort-sonderlob-fuer-neuzugang-nach-halb-geglueckter-generalprobe.html",
+   "teaser": "Handballfrauen des Zweitligisten TuS Lintfort beim Turnier in Leverkusen mit Licht und Schatten. Samstag startet Saison mit Heimspiel.",
+   "bild": "https://img.sparknews.funkemedien.de/412935505/412935505_1787472711_v16_9_600.jpeg",
+   "datum": "2026-08-23T08:23:28.000Z",
+   "sortZeit": 1787473408000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "fuechse-duisburg.de/news/fuechse-eroeffnen-gegen-heilbronn-die-neue-saison",
    "titel": "Füchse eröffnen gegen Heilbronn die neue Saison",
    "url": "https://fuechse-duisburg.de/news/fuechse-eroeffnen-gegen-heilbronn-die-neue-saison/",
@@ -760,8 +789,8 @@
   },
   {
    "id": "rp:153566019",
-   "titel": "Nach packendem Pokalfight: MSV Duisburg unterliegt Bundesliga-Aufsteiger Elversberg erst spät",
-   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-duisburg-unterliegt-der-sv-elversberg-mit-1-3_aid-153566019",
+   "titel": "Nach packendem Pokalfight: MSV unterliegt Elversberg erst spät - Lobingers spektakuläres Ausgleichstor im Video",
+   "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-unterliegt-elversberg-erst-spaet-lobingers-spektakulaeres-ausgleichstor-im-video_aid-153566019",
    "teaser": "Lange hielten die Zebras gegen den Bundesliga-Aufsteiger gut mit, hatten sogar Torchancen für den Sieg. Am Ende verlor die Elf von Trainer Dietmar Hirsch unglücklich mit 1:3.",
    "bild": "https://rp-online.de/imgs/32/2/7/8/3/5/2/6/3/7/tok_34282c89609dd5721c8f8d634620ff3d/w1200_h630_x1901_y933_wyi3wr64bv-v1-ax-ms6144-fb24b9f3af1763e0.jpeg",
    "datum": "2026-08-22T17:57:00.000Z",
