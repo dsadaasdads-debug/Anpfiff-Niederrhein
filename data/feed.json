@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T13:02:35.305Z",
+ "aktualisiert": "2026-08-23T13:46:31.997Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -715,8 +715,8 @@
    "url": "https://rp-online.de/nrw/staedte/mettmann/sport/1-fc-wuelfrath-verliert-0-1-im-topspiel-beim-sv-burgaltendorf_aid-153585241",
    "teaser": "Beim SV Burgaltendorf ist der 1. FCW spielerisch überlegen, verliert aber mit 0:1. Jetzt kommt im Niederrheinpokal Drittligist Duisburg – eine attraktive Herausforderung.",
    "bild": "https://rp-online.de/imgs/32/2/7/8/3/7/9/7/5/5/tok_fc53dc321d799007078c8832076a1682/w1200_h630_x1796_y1150_rp_230726abzl1-a4539ebc13638a68.jpg",
-   "datum": "2026-08-23T13:00:00.000Z",
-   "sortZeit": 1787418000000,
+   "datum": "2026-08-23T13:20:00.000Z",
+   "sortZeit": 1787419200000,
    "punkte": 80,
    "paywall": false,
    "quelle": "RP Online",
@@ -734,6 +734,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:153570143",
+   "titel": "Nach vermeintlichem Foulspiel: „Kleines Scharmützel“ – MSV-Coach Hirsch zofft sich mit Ex-Fortuna-Sportdirektor Weber",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-trainer-hirsch-zofft-sich-mit-ex-fortuna-sportdirektor-christian-weber_aid-153570143",
+   "teaser": "Mitte der zweiten Halbzeit kam es beim DFB-Pokalspiel zwischen dem MSV Duisburg und der SV Elversberg zu einem hitzigen Wortgefecht. Im Mittelpunkt: der Trainer der Hausherren und der frühere Kaderplaner der Düsseldorfer.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/3/5/7/0/3/1/tok_16b21a1208f5505a01d7ad65c7de20e4/w1200_h630_x1796_y1197_heortaranh-v1-ax-ms6144-c944ddb03140f5f7.jpeg",
+   "datum": "2026-08-23T13:08:00.000Z",
+   "sortZeit": 1787418480000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412941207",
@@ -2144,8 +2170,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
