@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T08:49:09.219Z",
+ "aktualisiert": "2026-08-23T09:43:12.033Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 23
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -649,6 +649,63 @@
     "TuS Lintfort"
    ],
    "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153498957",
+   "titel": "Ken Klemmer hört auf: Borussia Veen bekommt neuen Fußball-Obmann",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/borussia-veen-ken-klemmer-hoert-auf-neuer-fussball-obmann-kommt_aid-153498957",
+   "teaser": "Bezirksligist Borussia Veen verliert das erste Saison-Heimspiel gegen Westfalia Anholt mit 1:2. Vor der Partie gab Ken Klemmer seinen Abschied als Fußball-Obmann bekannt. Das sind die Gründe, das ist der Nachfolger.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/2/0/7/1/5/3/tok_7db7fc045f496ecd4ed5a4647eb10472/w1200_h630_x1350_y900_rp_20260329_J_1637-ee12cd65b3bb23d8.jpg",
+   "datum": "2026-08-23T08:24:00.000Z",
+   "sortZeit": 1787444640000,
+   "punkte": 70,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Alpen",
+   "ortSicher": false,
+   "orte": [
+    "Alpen",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412919497",
+   "titel": "Jetzt live: Rot-Weiss Essen gegen MSV Duisburg – behält die RWE-U19 ihren Lauf?",
+   "url": "https://www.nrz.de/sport/lokalsport/essen/article412919497/liveticker-rot-weiss-essen-gegen-msv-duisburg-u19.html",
+   "teaser": "Die U19 von Rot-Weiss Essen ist nach einem starken Saisonstart bereit für das Derby gegen den MSV Duisburg. Wir tickern das Spiel live.",
+   "bild": "https://img.sparknews.funkemedien.de/412920525/412920525_1787238030_v16_9_600.jpeg",
+   "datum": "2026-08-23T09:00:15.000Z",
+   "sortZeit": 1787403615000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   },
@@ -1903,8 +1960,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Sonsbeck",
    "ortSicher": true,
@@ -1972,32 +2028,6 @@
    "sportart": null,
    "ereignis": null,
    "grund": "rubrik"
-  },
-  {
-   "id": "funke:412919497",
-   "titel": "Liveticker: Rot-Weiss Essen gegen MSV Duisburg – behält die RWE-U19 ihren Lauf?",
-   "url": "https://www.nrz.de/sport/lokalsport/essen/article412919497/liveticker-rot-weiss-essen-gegen-msv-duisburg-u19.html",
-   "teaser": "Die U19 von Rot-Weiss Essen ist nach einem starken Saisonstart bereit für das Derby gegen den MSV Duisburg. Wir tickern das Spiel live.",
-   "bild": "https://img.sparknews.funkemedien.de/412920525/412920525_1787238030_v16_9_600.jpeg",
-   "datum": "2026-08-20T15:14:42.000Z",
-   "sortZeit": 1787166882000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   },
   {
    "id": "funke:412917313",
@@ -5207,9 +5237,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Xanten",
    "ortSicher": true,
    "orte": [
@@ -9300,30 +9328,6 @@
     "SV Scherpenberg 1921"
    ],
    "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412663364",
-   "titel": "In Iserlohn ausgebildet: GSC Moers angelt sich einen jungen Verteidiger",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412663364/in-iserlohn-ausgebildet-gsc-moers-angelt-sich-einen-jungen-verteidiger.html",
-   "teaser": "Der Eishockey-Regionalligist verstärkt die Abwehr für die neue Saison. Der 21-Jährige hat schon reichlich Erfahrung gesammelt.",
-   "bild": "https://img.sparknews.funkemedien.de/412663477/412663477_1784883390_v16_9_600.jpeg",
-   "datum": "2026-07-24T08:57:04.000Z",
-   "sortZeit": 1784883424000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [],
-   "sportart": "Eishockey",
    "ereignis": null,
    "grund": "pfad"
   },
