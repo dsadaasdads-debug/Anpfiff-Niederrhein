@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T12:19:17.858Z",
+ "aktualisiert": "2026-08-23T13:06:19.018Z",
  "tag": "23.08.",
  "datum": "2026-08-23",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 289,
+   "seitAnpfiffMin": 336,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -49,11 +49,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 199,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 246,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -79,7 +79,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 199,
+   "seitAnpfiffMin": 246,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -102,11 +102,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 199,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 246,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -129,7 +129,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 139,
+   "seitAnpfiffMin": 186,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -146,17 +146,96 @@
    "zeit": "10:00",
    "heim": "VfL Tönisberg",
    "gast": "FC Neukirchen-Vluyn 09/21 III",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 4,
+    "gast": 2
+   },
+   "ereignisse": [
+    {
+     "minute": 3,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Leonie Korol",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "vfl-toenisberg-w1-2026-27",
+     "clubSlug": "vfl-toenisberg"
+    },
+    {
+     "minute": 14,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nisa Simsek",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "vfl-toenisberg-w1-2026-27",
+     "clubSlug": "vfl-toenisberg"
+    },
+    {
+     "minute": 37,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nisa Simsek",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "vfl-toenisberg-w1-2026-27",
+     "clubSlug": "vfl-toenisberg"
+    },
+    {
+     "minute": 69,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nina Berns",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 4
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-w3-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nina Berns",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 4
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-w3-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Serkan Chassanoglu",
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 139,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 186,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -179,7 +258,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 109,
+   "seitAnpfiffMin": 156,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -326,11 +405,11 @@
    "schiedsrichter": null,
    "tickerAutor": "Niclas Kolkenbrock",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 126,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -353,7 +432,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
+   "seitAnpfiffMin": 126,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -378,7 +457,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
+   "seitAnpfiffMin": 126,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -397,7 +476,7 @@
    "gast": "FC Rot-Weiß Moers",
    "tore": {
     "heim": 2,
-    "gast": 2
+    "gast": 3
    },
    "ereignisse": [
     {
@@ -459,17 +538,32 @@
      },
      "teamSlug": "fc-rot-weiss-moers-m1-2026-27",
      "clubSlug": "fc-rot-weiss-moers"
+    },
+    {
+     "minute": 88,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 3
+     },
+     "teamSlug": "fc-rot-weiss-moers-m1-2026-27",
+     "clubSlug": "fc-rot-weiss-moers"
     }
    ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": "Norman Seifert",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 126,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -484,17 +578,20 @@
    "zeit": "11:00",
    "heim": "Rumelner TV II",
    "gast": "GSV Moers II",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": "Sebastian Connor",
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 126,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -509,17 +606,20 @@
    "zeit": "11:00",
    "heim": "SV Spellen II",
    "gast": "FC Moers-Meerfeld",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 5
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": "Thomas Lohn",
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 126,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -542,7 +642,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
+   "seitAnpfiffMin": 126,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -567,7 +667,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 79,
+   "seitAnpfiffMin": 126,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -783,9 +883,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 79,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 126,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -808,7 +908,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 64,
+   "seitAnpfiffMin": 111,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -833,7 +933,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 64,
+   "seitAnpfiffMin": 111,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -858,7 +958,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 19,
+   "seitAnpfiffMin": 66,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -875,15 +975,129 @@
    "zeit": "12:15",
    "heim": "SV Menzelen II",
    "gast": "SV Menzelen",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 2,
+    "gast": 6
+   },
+   "ereignisse": [
+    {
+     "minute": 13,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 16,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 34,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 51,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 67,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 69,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 73,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 76,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 4,
+   "seitAnpfiffMin": 51,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -900,16 +1114,19 @@
    "zeit": "13:00",
    "heim": "SV Sonsbeck",
    "gast": "SV Scherpenberg",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": "Davide Zeisberg",
    "tickerAutor": "Jens Kröll",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -931,10 +1148,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -950,16 +1167,19 @@
    "zeit": "13:00",
    "heim": "SuS Rayen",
    "gast": "TV Kapellen",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": "Steffen Kinner-Alsen",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -978,13 +1198,13 @@
    "tore": null,
    "ereignisse": [],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Ömer Celik",
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1003,13 +1223,13 @@
    "tore": null,
    "ereignisse": [],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Fynn Tonscheidt",
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1033,7 +1253,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
+   "seitAnpfiffMin": 6,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1054,11 +1274,11 @@
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
-   "tickerAutor": null,
+   "tickerAutor": "Niklas Heimberg",
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
+   "seitAnpfiffMin": 6,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1083,7 +1303,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
+   "seitAnpfiffMin": 6,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1106,10 +1326,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1133,7 +1353,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
+   "seitAnpfiffMin": 6,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1156,10 +1376,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1181,10 +1401,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1200,16 +1420,19 @@
    "zeit": "13:00",
    "heim": "FC Viktoria Alpen 1911 e.V.",
    "gast": "TuS Viktoria Buchholz II",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": "Kevin Kremer",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1225,16 +1448,19 @@
    "zeit": "13:00",
    "heim": "TuS Borth",
    "gast": "SV Sonsbeck II",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": "Daniel Spolders",
-   "tickerAutor": null,
-   "hatTicker": false,
-   "abschnitt": "PRE",
+   "tickerAutor": "Patrick Mader",
+   "hatTicker": true,
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1256,10 +1482,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1281,10 +1507,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1309,10 +1535,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1328,16 +1554,229 @@
    "zeit": "13:00",
    "heim": "SV Spellen II",
    "gast": "FC Moers-Meerfeld",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 1,
+    "gast": 5
+   },
+   "ereignisse": [
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 17,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 20,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 34,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 43,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 47,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 50,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 52,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 88,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1361,8 +1800,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1386,8 +1825,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -41,
-   "laeuft": false,
+   "seitAnpfiffMin": 6,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -1411,7 +1850,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -56,
+   "seitAnpfiffMin": -9,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1436,7 +1875,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -71,
+   "seitAnpfiffMin": -24,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1461,7 +1900,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -71,
+   "seitAnpfiffMin": -24,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1486,7 +1925,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -71,
+   "seitAnpfiffMin": -24,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1511,7 +1950,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -101,
+   "seitAnpfiffMin": -54,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1536,7 +1975,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -114,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1561,7 +2000,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -114,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1586,7 +2025,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -114,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1611,7 +2050,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -114,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1636,7 +2075,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -114,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1661,7 +2100,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -114,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1686,7 +2125,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -114,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1711,7 +2150,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -114,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1736,7 +2175,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -161,
+   "seitAnpfiffMin": -114,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1761,7 +2200,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -176,
+   "seitAnpfiffMin": -129,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1786,7 +2225,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -191,
+   "seitAnpfiffMin": -144,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1811,7 +2250,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -191,
+   "seitAnpfiffMin": -144,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1836,7 +2275,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -191,
+   "seitAnpfiffMin": -144,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1861,7 +2300,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -191,
+   "seitAnpfiffMin": -144,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -1886,7 +2325,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -191,
+   "seitAnpfiffMin": -144,
    "laeuft": false,
    "abgeschlossen": false
   }
