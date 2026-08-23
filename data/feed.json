@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T17:34:54.068Z",
+ "aktualisiert": "2026-08-23T18:48:53.579Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -764,6 +764,35 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412944050",
+   "titel": "SV Budberg II feiert ersten Sieg, Rätselraten bei VfL Repelen um Endergebnis",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412944050/sv-budberg-ii-feiert-ersten-sieg-raetselraten-bei-vfl-repelen-um-endergebnis.html",
+   "teaser": "In der Fußball-Bezirksliga freut sich der Aufsteiger über fünf Treffer. Veener Sportleiter gibt Posten ab. Verwirrung in Repelen.",
+   "bild": "https://img.sparknews.funkemedien.de/412944402/412944402_1787507126_v16_9_600.jpeg",
+   "datum": "2026-08-23T17:48:19.000Z",
+   "sortZeit": 1787478499000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Moers"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412943325",
    "titel": "Chancenwucher, rote Karte und ein Abseitstor: SV Budberg schiebt Frust",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412943325/chancenwucher-rote-karte-und-ein-abseitstor-sv-budberg-schiebt-frust.html",
@@ -775,9 +804,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
@@ -2011,8 +2038,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": false,
