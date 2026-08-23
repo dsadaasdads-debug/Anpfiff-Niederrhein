@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T14:39:42.569Z",
+ "aktualisiert": "2026-08-23T15:37:25.027Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,8 +40,11 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "ok",
-   "eintraege": 10
+   "status": "fehler",
+   "fehler": "HTTP 415",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-23T14:39:38.760Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "moerser-sc",
@@ -52,8 +55,11 @@
   {
    "id": "msv-moers",
    "name": "Meerbecker SV Moers 13/20",
-   "status": "ok",
-   "eintraege": 6
+   "status": "fehler",
+   "fehler": "fetch failed",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-23T14:39:39.536Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "nrz-lokalsport",
@@ -166,8 +172,11 @@
   {
    "id": "vfl-repelen",
    "name": "VfL Repelen 08",
-   "status": "ok",
-   "eintraege": 4
+   "status": "fehler",
+   "fehler": "fetch failed",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-23T14:39:38.651Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "viktoria-alpen",
@@ -710,6 +719,34 @@
    "grund": "rubrik"
   },
   {
+   "id": "funke:412942452",
+   "titel": "Der MSV Duisburg nimmt viel aus dem Pokalspiel gegen die SV Elversberg mit",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412942452/der-msv-duisburg-nimmt-viel-aus-dem-pokalspiel-gegen-die-sv-elversberg-mit.html",
+   "teaser": "Die Partie zwischen dem MSV und Elversberg hätte mehr Zuschauer verdient gehabt. Das Team kann von Lerneffekten profitieren. Ein Kommentar.",
+   "bild": "https://img.sparknews.funkemedien.de/412942854/412942854_1787497816_v16_9_600.jpeg",
+   "datum": "2026-08-23T15:25:11.000Z",
+   "sortZeit": 1787426711000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412941310",
    "titel": "„Wie Bundesliga!“ – MSV-Trainer Hirsch freut sich über ein verstecktes Lob",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412941310/wie-bundesliga-msv-trainer-hirsch-freut-sich-ueber-ein-verstecktes-lob.html",
@@ -829,9 +866,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -9424,32 +9459,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "fuechse-duisburg.de/enrico-saccomani-verstaerkt-den-fuechse-angriff",
-   "titel": "Enrico Saccomani verstärkt den Füchse-Angriff",
-   "url": "https://fuechse-duisburg.de/enrico-saccomani-verstaerkt-den-fuechse-angriff/",
-   "teaser": "Mit Enrico Saccomani präsentieren wir einen Neuzugang im Sturm, der nicht nur Einiges an Offensivpower mitbringt, sondern auch auf alte Weggefährten trifft.Der 31-jährige gebürtige Potsdamer machte über sein Jugendteam, dem EHC Freiburg, den Sprung in den Profibereich.So absolvierte er auch drei Spielzeiten in der DEL2, in denen ihm 23 Tore und 22 Assists gelangen.Die letzten […]",
-   "bild": "",
-   "datum": "2026-07-24T15:00:00.000Z",
-   "sortZeit": 1784833200000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "Füchse Duisburg",
-   "quelleName": "Füchse Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "Füchse Duisburg"
-   ],
-   "sportart": "Eishockey",
-   "ereignis": null,
-   "grund": "vereinsfeed"
   }
  ]
 }
