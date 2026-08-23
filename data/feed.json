@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T16:43:40.883Z",
+ "aktualisiert": "2026-08-23T17:34:54.068Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,64 @@
  ],
  "artikel": [
   {
+   "id": "funke:412942907",
+   "titel": "Arminia Klosterhardt: Erst mit Glück, dann mit Karate-Kid und Können",
+   "url": "https://www.nrz.de/sport/lokalsport/oberhausen/article412942907/arminia-klosterhardt-erst-mit-glueck-dann-mit-karate-kid-und-koennen.html",
+   "teaser": "Landesliga-Rückkehrer Arminia Klosterhardt feiert vor über 200 Zuschauern im Estadio gegen den 1. FC Lintfort ein bemerkenswertes Comeback",
+   "bild": "https://img.sparknews.funkemedien.de/412943932/412943932_1787504026_v16_9_600.jpeg",
+   "datum": "2026-08-23T16:54:40.000Z",
+   "sortZeit": 1787504080000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "1. FC Lintfort"
+   ],
+   "sportart": "Kampfsport",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153498891",
+   "titel": "Remis beim SV Sonsbeck: Rückkehrer Mehmedovic wird zum Derby-Helden",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-oberliga-sv-sonsbeck-und-sv-scherpenberg-trennen-sich-1-1_aid-153498891",
+   "teaser": "Obwohl der SV Sonsbeck gegen Oberliga-Aufsteiger SV Scherpenberg lange in Überzahl spielt, endet das Kreis-Derby ohne Sieger. Linus Krajac vergibt kurz vor Schluss einen Foulelfmeter. Gäste-Trainer Sven Schützek trauert „zwei verlorenen Punkten“ hinterher.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/2/0/7/0/4/3/tok_e1565dc655f5e772586381d222a3aa7d/w1200_h630_x1350_y901_rp_20260823_J_0349-42346f83d55f0339.jpg",
+   "datum": "2026-08-23T16:39:00.000Z",
+   "sortZeit": 1787503140000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "SV Scherpenberg 1921"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412938965",
    "titel": "Elfmeter-Drama in Sonsbeck: Großer Kampf des SV Scherpenberg nach Roter Karte",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412938965/elfmeter-drama-in-sonsbeck-grosser-kampf-des-sv-scherpenberg-nach-roter-karte.html",
@@ -635,9 +693,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -664,9 +720,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
@@ -883,6 +937,91 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "funke:412943616",
+   "titel": "Nach dem Wechsel wird das Derby zwischen dem DSV 1900 und Asterlagen deutlich",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412943616/nach-dem-wechsel-wird-das-derby-zwischen-dem-dsv-1900-und-asterlagen-deutlich.html",
+   "teaser": "Gelungener Saisonstart auf der einen Seite, noch immer kein Punkt und kein Tor auf der anderen. Die Gastgeber bleiben auf dem Teppich.",
+   "bild": "https://img.sparknews.funkemedien.de/412944065/412944065_fc_1787505040_v16_9_600.jpeg",
+   "datum": "2026-08-23T17:10:46.000Z",
+   "sortZeit": 1787433046000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153585843",
+   "titel": "Zwischen WM und Wedau: Maradona 1986, Lobinger 2026 – wie der Samstag zwei Welten zusammenführte",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-maradona-1986-lobinger-2026-wie-der-pokal-zwei-welten-zusammenfuehrte_aid-153585843",
+   "teaser": "Die Legende und den MSV-Stürmer in einem Atemzug nennen? Ein Fall der Unmöglichkeit. Doch mit Blick auf das Pokalspiel der Duisburger öffnete der Fußball eine Tür zwischen beiden Biografien für einen kurzen Moment. Eine Einladung, augenzwinkernd hindurch zu gehen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/3/8/1/1/3/5/tok_1d1d0bdc0eaf4e452d79352a7fdf418c/w1200_h630_x1796_y1137_iPad-34423c4c0b1b141b.jpg",
+   "datum": "2026-08-23T17:06:00.000Z",
+   "sortZeit": 1787432760000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg",
+    "Regattabahn Duisburg"
+   ],
+   "sportart": "Rudern & Kanu",
+   "ereignis": {
+    "schluessel": "WM|Rudern & Kanu",
+    "name": "Rudern & Kanu-WM",
+    "ort": null
+   },
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412943712",
+   "titel": "Duisburg 08 feiert den Derbysieg – Katerstimmung in Homberg",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412943712/duisburg-08-feiert-den-derbysieg-katerstimmung-in-homberg.html",
+   "teaser": "In der vergangenen Saison trennten beide Teams noch zwei Spielklasse. Nun fahren die Hochfelder einen verdienten Erfolg ein.",
+   "bild": "https://img.sparknews.funkemedien.de/412943874/412943874_1787503514_v16_9_600.jpeg",
+   "datum": "2026-08-23T16:49:36.000Z",
+   "sortZeit": 1787431776000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "funke:412942047",
@@ -1792,8 +1931,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
@@ -5380,9 +5518,7 @@
    "paywall": true,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Alpen",
    "ortSicher": false,
    "orte": [
@@ -6412,10 +6548,8 @@
    "punkte": 70,
    "paywall": false,
    "quelle": "RP Online",
-   "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Wesel"
-   ],
+   "quelleName": "RP Online Sport Wesel",
+   "auchIn": [],
    "ort": "Xanten",
    "ortSicher": false,
    "orte": [
