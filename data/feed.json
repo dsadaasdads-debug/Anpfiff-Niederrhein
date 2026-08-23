@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T13:46:31.997Z",
+ "aktualisiert": "2026-08-23T14:39:42.569Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -710,6 +710,34 @@
    "grund": "rubrik"
   },
   {
+   "id": "funke:412941310",
+   "titel": "„Wie Bundesliga!“ – MSV-Trainer Hirsch freut sich über ein verstecktes Lob",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412941310/wie-bundesliga-msv-trainer-hirsch-freut-sich-ueber-ein-verstecktes-lob.html",
+   "teaser": "Der MSV Duisburg verkauft sich bei der 1:3-Pokalniederlage gegen die SV Elversberg teuer. Gästecoach Wagner drückt den Zebras die Daumen",
+   "bild": "https://img.sparknews.funkemedien.de/412942139/412942139_1787493071_v16_9_600.jpeg",
+   "datum": "2026-08-23T14:08:01.000Z",
+   "sortZeit": 1787422081000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153585241",
    "titel": "Top-Gegner wartet schon: 1. FC Wülfrath hadert vor dem Pokalduell mit MSV Duisburg",
    "url": "https://rp-online.de/nrw/staedte/mettmann/sport/1-fc-wuelfrath-verliert-0-1-im-topspiel-beim-sv-burgaltendorf_aid-153585241",
@@ -829,9 +857,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
