@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T17:30:09.957Z",
+ "aktualisiert": "2026-08-23T17:48:00.737Z",
  "tag": "23.08.",
  "datum": "2026-08-23",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 510,
+   "seitAnpfiffMin": 528,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -103,7 +103,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 420,
+   "seitAnpfiffMin": 438,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -252,7 +252,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 390,
+   "seitAnpfiffMin": 408,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -277,7 +277,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 390,
+   "seitAnpfiffMin": 408,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -381,7 +381,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 390,
+   "seitAnpfiffMin": 408,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -406,7 +406,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 375,
+   "seitAnpfiffMin": 393,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -431,7 +431,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 330,
+   "seitAnpfiffMin": 348,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -520,7 +520,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 288,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -654,7 +654,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 288,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -818,7 +818,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 288,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -922,7 +922,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 288,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -947,7 +947,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 288,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -972,7 +972,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 288,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -997,7 +997,123 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 288,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "url": "https://www.fupa.net/match/tus-borth-m1-sv-sonsbeck-m2-260823",
+   "verein": "TuS Borth 71",
+   "heimatverein": null,
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "Kreisliga B",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-08-23T15:00:00+02:00",
+   "zeit": "13:00",
+   "heim": "TuS Borth",
+   "gast": "SV Sonsbeck II",
+   "tore": {
+    "heim": 2,
+    "gast": 3
+   },
+   "ereignisse": [
+    {
+     "minute": 6,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Sven Lehmkuhl",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "sv-sonsbeck-m2-2026-27",
+     "clubSlug": "sv-sonsbeck"
+    },
+    {
+     "minute": 16,
+     "nachspielzeit": 0,
+     "art": "goal_free_kick",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nils Hoffacker",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 27,
+     "nachspielzeit": 0,
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": "Jannis Terheerd",
+     "fuer": null,
+     "stand": null,
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 55,
+     "nachspielzeit": 0,
+     "art": "goal_free_kick",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Tim-Luca Reuters",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "sv-sonsbeck-m2-2026-27",
+     "clubSlug": "sv-sonsbeck"
+    },
+    {
+     "minute": 76,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Martin Hirsch Weiser",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 82,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Moritz Lemkens",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 3
+     },
+     "teamSlug": "sv-sonsbeck-m2-2026-27",
+     "clubSlug": "sv-sonsbeck"
+    }
+   ],
+   "zuschauer": 40,
+   "schiedsrichter": "Daniel Spolders",
+   "tickerAutor": "Patrick Mader",
+   "hatTicker": true,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 288,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1086,111 +1202,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "url": "https://www.fupa.net/match/tus-borth-m1-sv-sonsbeck-m2-260823",
-   "verein": "TuS Borth 71",
-   "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Testspiele",
-   "anpfiff": "2026-08-23T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "TuS Borth",
-   "gast": "SV Sonsbeck II",
-   "tore": {
-    "heim": 2,
-    "gast": 3
-   },
-   "ereignisse": [
-    {
-     "minute": 6,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Sven Lehmkuhl",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "sv-sonsbeck-m2-2026-27",
-     "clubSlug": "sv-sonsbeck"
-    },
-    {
-     "minute": 16,
-     "nachspielzeit": 0,
-     "art": "goal_free_kick",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Nils Hoffacker",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "tus-borth-m1-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 55,
-     "nachspielzeit": 0,
-     "art": "goal_free_kick",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Tim-Luca Reuters",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 2
-     },
-     "teamSlug": "sv-sonsbeck-m2-2026-27",
-     "clubSlug": "sv-sonsbeck"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Martin Hirsch Weiser",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 2
-     },
-     "teamSlug": "tus-borth-m1-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 82,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Moritz Lemkens",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 3
-     },
-     "teamSlug": "sv-sonsbeck-m2-2026-27",
-     "clubSlug": "sv-sonsbeck"
-    }
-   ],
-   "zuschauer": 40,
-   "schiedsrichter": "Daniel Spolders",
-   "tickerAutor": "Patrick Mader",
-   "hatTicker": true,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 288,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1309,7 +1321,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 240,
+   "seitAnpfiffMin": 258,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1623,7 +1635,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 240,
+   "seitAnpfiffMin": 258,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1773,7 +1785,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 150,
+   "seitAnpfiffMin": 168,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1798,7 +1810,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 150,
+   "seitAnpfiffMin": 168,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2058,7 +2070,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 150,
+   "seitAnpfiffMin": 168,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2230,7 +2242,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 150,
+   "seitAnpfiffMin": 168,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2490,7 +2502,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 150,
+   "seitAnpfiffMin": 168,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2750,7 +2762,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 150,
+   "seitAnpfiffMin": 168,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2775,7 +2787,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 135,
+   "seitAnpfiffMin": 153,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -3002,9 +3014,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 120,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 138,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -3152,9 +3164,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 120,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 138,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -3169,362 +3181,17 @@
    "zeit": "15:30",
    "heim": "VfL Repelen",
    "gast": "SuS 21 Oberhausen",
-   "tore": {
-    "heim": 1,
-    "gast": 16
-   },
-   "ereignisse": [
-    {
-     "minute": 1,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 12,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 22,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 25,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 27,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 29,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 44,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 45,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 51,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 51,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 53,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 55,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 61,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 63,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 67,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 67,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 67,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 69,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 69,
-     "nachspielzeit": 0,
-     "art": "red-card",
-     "name": "Rote Karte",
-     "zeichen": "🟥",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 69,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 71,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 74,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 75,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 77,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 78,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 79,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 80,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 87,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 87,
-     "nachspielzeit": 0,
-     "art": "yellow-red-card",
-     "name": "Gelb-Rote Karte",
-     "zeichen": "🟨🟥",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 87,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 89,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    }
-   ],
+   "tore": null,
+   "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 120,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 138,
+   "laeuft": false,
+   "abgeschlossen": true
   }
  ]
 }
