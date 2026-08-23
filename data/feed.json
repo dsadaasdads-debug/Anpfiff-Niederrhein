@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T15:37:25.027Z",
+ "aktualisiert": "2026-08-23T16:43:40.883Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,11 +40,8 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "fehler",
-   "fehler": "HTTP 415",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-23T14:39:38.760Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "moerser-sc",
@@ -55,17 +52,14 @@
   {
    "id": "msv-moers",
    "name": "Meerbecker SV Moers 13/20",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-23T14:39:39.536Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 6
   },
   {
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 27
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -172,11 +166,8 @@
   {
    "id": "vfl-repelen",
    "name": "VfL Repelen 08",
-   "status": "fehler",
-   "fehler": "fetch failed",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-23T14:39:38.651Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 4
   },
   {
    "id": "viktoria-alpen",
@@ -633,6 +624,64 @@
  ],
  "artikel": [
   {
+   "id": "funke:412938965",
+   "titel": "Elfmeter-Drama in Sonsbeck: Großer Kampf des SV Scherpenberg nach Roter Karte",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412938965/elfmeter-drama-in-sonsbeck-grosser-kampf-des-sv-scherpenberg-nach-roter-karte.html",
+   "teaser": "Kreis-Derby der Fußball-Oberliga nichts für schwache Nerven. Aufsteiger gelingt Zauber-Eckball. Doch Sonsbeck hat RWE-Torschütze Binn.",
+   "bild": "https://img.sparknews.funkemedien.de/412943323/412943323_1787501135_v16_9_600.jpeg",
+   "datum": "2026-08-23T16:11:42.000Z",
+   "sortZeit": 1787501502000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Sonsbeck"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "SV Scherpenberg 1921"
+   ],
+   "sportart": "American Football",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412943246",
+   "titel": "Führung beim Aufsteiger – doch dann fällt der 1. FC Lintfort auseinander",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412943246/fuehrung-beim-aufsteiger-doch-dann-faellt-der-1-fc-lintfort-auseinander.html",
+   "teaser": "Das hatte sich der Fußball-Landesligist ganz anders vorgestellt. Starke Anfangsphase bringt in Klosterhardt nichts Zählbares ein.",
+   "bild": "https://img.sparknews.funkemedien.de/412943316/412943316_1787500987_v16_9_600.jpeg",
+   "datum": "2026-08-23T16:03:34.000Z",
+   "sortZeit": 1787501014000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "1. FC Lintfort"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412934639",
    "titel": "Test gegen Oberliga-Nachbar VeRuKa: Auf TV Kapellen wartet noch viel Arbeit",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412934639/test-gegen-oberliga-nachbar-veruka-auf-tv-kapellen-wartet-noch-viel-arbeit.html",
@@ -657,6 +706,35 @@
     "TV Kapellen"
    ],
    "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412943325",
+   "titel": "Chancenwucher, rote Karte und ein Abseitstor: SV Budberg schiebt Frust",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412943325/chancenwucher-rote-karte-und-ein-abseitstor-sv-budberg-schiebt-frust.html",
+   "teaser": "Das erste Auswärtsspiel der Saison beschert dem Fußball-Landesligisten auch die erste Niederlage. Wirbel wegen „Diskriminierung“.",
+   "bild": "https://img.sparknews.funkemedien.de/411590675/411590675_1774801285_v16_9_600.jpeg",
+   "datum": "2026-08-23T16:26:19.000Z",
+   "sortZeit": 1787473579000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Moers"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   },
@@ -690,6 +768,94 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412943367",
+   "titel": "Trotz Eigentor: Rheinland Hamborn verbucht zweiten Sieg im zweiten Spiel",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412943367/trotz-eigentor-rheinland-hamborn-verbucht-zweiten-sieg-im-zweiten-spiel.html",
+   "teaser": "Der Landesliga-Aufsteiger aus dem Duisburger Norden präsentiert sich in Schwalmtal in guter Verfassung. Sadiklar macht es unnötig spannend.",
+   "bild": "https://img.sparknews.funkemedien.de/412943426/412943426_1787501715_v16_9_600.jpeg",
+   "datum": "2026-08-23T16:20:00.000Z",
+   "sortZeit": 1787473200000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153498993",
+   "titel": "0:1 bei Union Nettetal: Budbergs Trainer Tim Wilke sieht Rote Karte",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-verliert-in-nettetal-0-1-trainer-wilke-sieht-rote-karte_aid-153498993",
+   "teaser": "Das erste Auswärtsspiel des SV Budberg in der neuen Landesliga-Saison bei Union Nettetal liefert viel Gesprächsstoff. Beim 0:1 zeigt der Schiri Trainer Tim Wilke glatt Rot. Warum der Coach von einem skandalösen Platzverweis spricht.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/2/0/7/2/1/3/tok_b7eda18fcbb995121c5791254ada1539/w1200_h630_x1350_y902_rp_20260430_J_0559-952230c331821f82.jpg",
+   "datum": "2026-08-23T16:08:00.000Z",
+   "sortZeit": 1787472480000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153499045",
+   "titel": "1:3-Pleite in Stenern: Fehlstart perfekt – TuS Xanten fehlt die Galligkeit",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-bezirksliga-tus-xanten-verliert-beim-tus-stenern-1-3_aid-153499045",
+   "teaser": "Fußball-Bezirksligist TuS Xanten legt wie in der vergangenen Saison einen Stotterstart hin. Bei der 1:3-Niederlage gegen den TuS Stenern sieht Trainer Mirco Dietrich einen mutlosen Auftritt. Wer die beiden Unglücksraben sind.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/2/0/7/2/9/5/tok_7f38d0c3137a077dac5c3d22d5fd757d/w1200_h630_x1350_y900_rp_20260801_J_0167-91b53fe08176c907.jpg",
+   "datum": "2026-08-23T15:51:00.000Z",
+   "sortZeit": 1787471460000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "TUS Xanten 05/22"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "rp:153498957",
    "titel": "Ken Klemmer hört auf: Borussia Veen bekommt neuen Fußball-Obmann",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/borussia-veen-ken-klemmer-hoert-auf-neuer-fussball-obmann-kommt_aid-153498957",
@@ -717,6 +883,60 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "funke:412942047",
+   "titel": "Füchse Duisburg: Testspielserie beginnt mit Sieg gegen die Heilbronner Falken",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412942047/fuechse-duisburg-testspielserie-beginnt-mit-sieg-gegen-die-heilbronner-falken.html",
+   "teaser": "Iserlohner Youngster hinterlassen zum Auftakt der Vorbereitung einen starken Eindruck beim Eishockey-Oberligisten EV Duisburg.",
+   "bild": "https://img.sparknews.funkemedien.de/412942859/412942859_1787497909_v16_9_600.jpeg",
+   "datum": "2026-08-23T16:21:04.000Z",
+   "sortZeit": 1787430064000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/fuechse-feiern-gelungenen-saisonauftakt",
+   "titel": "Füchse feiern gelungenen Saisonauftakt!",
+   "url": "https://fuechse-duisburg.de/news/fuechse-feiern-gelungenen-saisonauftakt/",
+   "teaser": "Die Füchse gewinnen ihr erstes Vorbereitungsspiel gegen die Heilbronner Falken nach regulärer Spielzeit mit 4:3. Da sich beide Teams noch in der Vorbereitung befinden, wurde bereits im Vorfeld vereinbart, unabhängig vom Spielstand nach der regulären Spielzeit zu Trainingszwecken zusätzlich eine Verlängerung sowie ein Penaltyschießen auszutragen. Nachdem die Overtime torlos blieb, sicherten sich die Füchse durch […]",
+   "bild": "",
+   "datum": "2026-08-23T15:53:47.000Z",
+   "sortZeit": 1787428427000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
   },
   {
    "id": "funke:412942452",
@@ -758,9 +978,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -996,9 +1214,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Neukirchen-Vluyn",
    "ortSicher": true,
    "orte": [
@@ -2176,8 +2392,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Sonsbeck",
    "ortSicher": true,
@@ -5218,7 +5433,6 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
     "RP Online Sport Wesel"
    ],
    "ort": "Xanten",
@@ -5422,9 +5636,7 @@
    "paywall": true,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
@@ -5585,9 +5797,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -6882,10 +7092,8 @@
    "punkte": 110,
    "paywall": false,
    "quelle": "RP Online",
-   "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Wesel"
-   ],
+   "quelleName": "RP Online Sport Wesel",
+   "auchIn": [],
    "ort": "Xanten",
    "ortSicher": true,
    "orte": [
