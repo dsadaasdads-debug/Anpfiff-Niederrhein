@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T19:42:57.148Z",
+ "aktualisiert": "2026-08-23T19:58:15.121Z",
  "tag": "23.08.",
  "datum": "2026-08-23",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 733,
+   "seitAnpfiffMin": 748,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 643,
+   "seitAnpfiffMin": 658,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -79,7 +79,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 643,
+   "seitAnpfiffMin": 658,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -228,7 +228,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 643,
+   "seitAnpfiffMin": 658,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -253,7 +253,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 583,
+   "seitAnpfiffMin": 598,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -357,7 +357,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 583,
+   "seitAnpfiffMin": 598,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -431,7 +431,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 553,
+   "seitAnpfiffMin": 568,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -580,7 +580,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 523,
+   "seitAnpfiffMin": 538,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -605,7 +605,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 523,
+   "seitAnpfiffMin": 538,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -709,7 +709,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 523,
+   "seitAnpfiffMin": 538,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -813,7 +813,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 523,
+   "seitAnpfiffMin": 538,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -914,7 +914,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 523,
+   "seitAnpfiffMin": 538,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1033,7 +1033,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 523,
+   "seitAnpfiffMin": 538,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1167,7 +1167,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 523,
+   "seitAnpfiffMin": 538,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1256,7 +1256,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 523,
+   "seitAnpfiffMin": 538,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1281,7 +1281,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 508,
+   "seitAnpfiffMin": 523,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1298,15 +1298,169 @@
    "zeit": "11:15",
    "heim": "VfB Homberg III",
    "gast": "SpVgg Rheurdt-Schaephuysen II",
-   "tore": null,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "tore": {
+    "heim": 3,
+    "gast": 7
+   },
+   "ereignisse": [
+    {
+     "minute": 3,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Salim Riad",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 12,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Sven Kamps",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "vfb-homberg-m3-2026-27",
+     "clubSlug": "vfb-homberg"
+    },
+    {
+     "minute": 40,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Sven Kamps",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "vfb-homberg-m3-2026-27",
+     "clubSlug": "vfb-homberg"
+    },
+    {
+     "minute": 42,
+     "nachspielzeit": 0,
+     "art": "goal_free_kick",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Samir Jabri",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 62,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Matthias Gatz",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 2
+     },
+     "teamSlug": "vfb-homberg-m3-2026-27",
+     "clubSlug": "vfb-homberg"
+    },
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Kahlen",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 3
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Kahlen",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 4
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 88,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Kahlen",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 5
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Kahlen",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 6
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Kahlen",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 7
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    }
+   ],
+   "zuschauer": 53,
+   "schiedsrichter": "Kurt Hanz",
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 508,
+   "seitAnpfiffMin": 523,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1395,7 +1549,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 493,
+   "seitAnpfiffMin": 508,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1412,15 +1566,94 @@
    "zeit": "12:00",
    "heim": "TV Asberg",
    "gast": "VfL Rheinhausen II",
-   "tore": null,
-   "ereignisse": [],
-   "zuschauer": null,
+   "tore": {
+    "heim": 5,
+    "gast": 2
+   },
+   "ereignisse": [
+    {
+     "minute": 9,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Enes Sener",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "tv-asberg-m1-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 39,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Enes Sener",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "tv-asberg-m1-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 75,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Rigo Tannous",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "tv-asberg-m1-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 78,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Arber Arifi",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 1
+     },
+     "teamSlug": "tv-asberg-m1-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kevin Mpuna Matinu",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 1
+     },
+     "teamSlug": "tv-asberg-m1-2026-27",
+     "clubSlug": "tv-asberg"
+    }
+   ],
+   "zuschauer": 50,
    "schiedsrichter": "Deniz Kocak",
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 463,
+   "seitAnpfiffMin": 478,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1509,7 +1742,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1643,7 +1876,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1807,7 +2040,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1926,7 +2159,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2015,7 +2248,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2164,7 +2397,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2268,7 +2501,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2293,7 +2526,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2318,7 +2551,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2392,7 +2625,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2417,7 +2650,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2521,7 +2754,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2640,7 +2873,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2756,7 +2989,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2845,7 +3078,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2873,7 +3106,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 403,
+   "seitAnpfiffMin": 418,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2898,7 +3131,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 388,
+   "seitAnpfiffMin": 403,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3017,7 +3250,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 373,
+   "seitAnpfiffMin": 388,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3061,7 +3294,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 373,
+   "seitAnpfiffMin": 388,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3375,7 +3608,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 373,
+   "seitAnpfiffMin": 388,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3400,7 +3633,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 268,
+   "seitAnpfiffMin": 283,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3579,7 +3812,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 253,
+   "seitAnpfiffMin": 268,
    "laeuft": false,
    "abgeschlossen": true
   }
