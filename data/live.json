@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-23T17:02:29.700Z",
+ "aktualisiert": "2026-08-23T17:30:09.957Z",
  "tag": "23.08.",
  "datum": "2026-08-23",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 482,
+   "seitAnpfiffMin": 510,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -103,7 +103,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 392,
+   "seitAnpfiffMin": 420,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -252,7 +252,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 362,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -277,7 +277,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 362,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -381,7 +381,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 362,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -406,7 +406,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 347,
+   "seitAnpfiffMin": 375,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -431,7 +431,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 302,
+   "seitAnpfiffMin": 330,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -520,7 +520,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -537,15 +537,124 @@
    "zeit": "13:00",
    "heim": "SV Vynen-Marienbaum",
    "gast": "SC Rheinkamp",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 6,
+    "gast": 5
+   },
+   "ereignisse": [
+    {
+     "minute": 30,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ben Noah Schroeder",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-vynen-marienbaum-m1-2026-27",
+     "clubSlug": "sv-vynen-marienbaum"
+    },
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sc-rheinkamp-m1-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 95,
+     "nachspielzeit": 0,
+     "art": "penalty_shootout",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Tobias Alefs",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "sv-vynen-marienbaum-m1-2026-27",
+     "clubSlug": "sv-vynen-marienbaum"
+    },
+    {
+     "minute": 95,
+     "nachspielzeit": 0,
+     "art": "penalty_shootout",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Matthias Otto",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 2
+     },
+     "teamSlug": "sv-vynen-marienbaum-m1-2026-27",
+     "clubSlug": "sv-vynen-marienbaum"
+    },
+    {
+     "minute": 95,
+     "nachspielzeit": 0,
+     "art": "penalty_shootout",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Florian Pauwen",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 3
+     },
+     "teamSlug": "sv-vynen-marienbaum-m1-2026-27",
+     "clubSlug": "sv-vynen-marienbaum"
+    },
+    {
+     "minute": 95,
+     "nachspielzeit": 0,
+     "art": "penalty_shootout",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ben Noah Schroeder",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 4
+     },
+     "teamSlug": "sv-vynen-marienbaum-m1-2026-27",
+     "clubSlug": "sv-vynen-marienbaum"
+    },
+    {
+     "minute": 95,
+     "nachspielzeit": 0,
+     "art": "penalty_shootout",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Alexander Breloh",
+     "fuer": null,
+     "stand": {
+      "heim": 6,
+      "gast": 5
+     },
+     "teamSlug": "sv-vynen-marienbaum-m1-2026-27",
+     "clubSlug": "sv-vynen-marienbaum"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -709,7 +818,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -813,7 +922,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -838,7 +947,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -863,7 +972,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -888,7 +997,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -977,7 +1086,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1075,13 +1184,13 @@
      "clubSlug": "sv-sonsbeck"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 40,
    "schiedsrichter": "Daniel Spolders",
    "tickerAutor": "Patrick Mader",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1200,7 +1309,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 212,
+   "seitAnpfiffMin": 240,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1514,7 +1623,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 212,
+   "seitAnpfiffMin": 240,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1664,7 +1773,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 122,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1689,7 +1798,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 122,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1949,7 +2058,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 122,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2121,7 +2230,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 122,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2381,7 +2490,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 122,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2641,7 +2750,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 122,
+   "seitAnpfiffMin": 150,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2666,7 +2775,7 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 107,
+   "seitAnpfiffMin": 135,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -2893,7 +3002,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 92,
+   "seitAnpfiffMin": 120,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -3043,7 +3152,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 92,
+   "seitAnpfiffMin": 120,
    "laeuft": true,
    "abgeschlossen": false
   },
@@ -3413,7 +3522,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 92,
+   "seitAnpfiffMin": 120,
    "laeuft": true,
    "abgeschlossen": false
   }
