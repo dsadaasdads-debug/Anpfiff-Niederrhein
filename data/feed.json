@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-24T15:56:37.682Z",
+ "aktualisiert": "2026-08-24T16:55:57.082Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -1382,8 +1382,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Alpen",
    "ortSicher": false,
