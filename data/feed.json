@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-24T17:47:22.056Z",
+ "aktualisiert": "2026-08-24T18:59:51.908Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -650,6 +650,30 @@
    "grund": "vereinsfeed"
   },
   {
+   "id": "rp:153666407",
+   "titel": "DFB-Pokal am Montagabend: Köln quält sich in Würzburg weiter – Wolfsburg wendet Blamage ab",
+   "url": "https://rp-online.de/sport/fussball/dfb-pokal/dfb-pokal-koeln-quaelt-sich-in-wuerzburg-weiter-wolfsburg-wendet-blamage-ab_aid-153666407",
+   "teaser": "Der Hamburger SV gewinnt souverän beim Drittligisten SC Verl und übersteht die erste Runde. Der FC muss lange zittern, beim VfL ist die Überraschung sogar noch näher.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/5/5/9/1/8/5/tok_27e5ed5751a019ffa7c600a32a9962b2/w1200_h630_x1506_y611_DPA_dpa_s75qajwklh-v1-ax-ms6144-d47841965b0ec912.jpeg",
+   "datum": "2026-08-24T18:54:00.000Z",
+   "sortZeit": 1787568840000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "rp:153650585",
    "titel": "Beim Landesliga-Spiel in Nettetal: Budberg-Trainer Wilke wehrt sich gegen Diskriminierungsvorwurf",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-trainer-tim-wilke-wehrt-sich-gegen-diskriminierungsvorwurf-in-nettetal_aid-153650585",
@@ -824,6 +848,34 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412941548",
+   "titel": "MSV Duisburg beim 1. FC Wülfrath: Alle Informationen zu Anreise und Tickets",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412941548/msv-duisburg-beim-1-fc-wuelfrath-alle-informationen-zu-anreise-und-tickets.html",
+   "teaser": "Der Titelverteidiger will seiner Favoritenrolle im Niederrheinpokal gerecht werden. Wo das Spiel übertragen wird und wo es noch Tickets gibt.",
+   "bild": "https://img.sparknews.funkemedien.de/412941551/412941551_1787488593_v16_9_600.jpeg",
+   "datum": "2026-08-24T18:34:34.000Z",
+   "sortZeit": 1787524474000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412944984",
    "titel": "Auftakt im Niederrheinpokal! MSV Duisburg beim 1. FC Wülfrath im Liveticker",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412944984/auftakt-im-niederrheinpokal-msv-duisburg-beim-1-fc-wuelfrath-im-liveticker.html",
@@ -891,9 +943,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
