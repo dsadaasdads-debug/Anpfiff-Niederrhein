@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-24T10:04:38.076Z",
+ "aktualisiert": "2026-08-24T10:53:59.981Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,30 @@
  ],
  "artikel": [
   {
+   "id": "rp:153638763",
+   "titel": "Konzern bestätigt Berichte: Milliardär und Ex-HSV-Investor Klaus-Michael Kühne ist gestorben",
+   "url": "https://rp-online.de/wirtschaft/hsv-lufthansa-klaus-michael-kuehne-ist-tot_aid-153638763",
+   "teaser": "Aus der mittelständischen Transportfirma Kühne+Nagel hat er einen Weltkonzern geformt. Seine Heimat Hamburg profitierte stark von ihm. Nun ist der Unternehmer und Mäzen Klaus-Michael Kühne gestorben.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/4/9/2/8/1/7/tok_cb2484f6b75f679f38185b5c69bb5836/w1200_h630_x1796_y1225_m2ipphacfp-v3-ax-ms6144-bec2db38d604f66a.jpeg",
+   "datum": "2026-08-24T08:51:00.000Z",
+   "sortZeit": 1787532660000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "rp:153593301",
    "titel": "Springturnier in Xanten: Terhoeven-Urselmans kommt im anspruchsvollen Parcours am besten klar",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/turnier-auf-dem-tuenglerhof-kai-terhoeven-urselmans-gewinnt-s-springen-in-xanten_aid-153593301",
@@ -759,6 +783,30 @@
    "vereine": [
     "1. FC Lintfort"
    ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412947088",
+   "titel": "Achterbahnfahrt in der Bezirksliga: SC 20 erkämpft sich Punkt bei FSV Duisburg",
+   "url": "https://www.nrz.de/sport/lokalsport/oberhausen/article412947088/achterbahnfahrt-in-der-bezirksliga-sc-20-erkaempft-sich-punkt-bei-fsv-duisburg.html",
+   "teaser": "Der SC 20 Oberhausen hat sich ein 4:4 beim FSV Duisburg erkämpft. In der Schlussphase verpassten beide Teams den Siegtreffer.",
+   "bild": "https://img.sparknews.funkemedien.de/412949662/412949662_1787567638_v16_9_600.jpeg",
+   "datum": "2026-08-24T10:33:58.000Z",
+   "sortZeit": 1787495638000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
