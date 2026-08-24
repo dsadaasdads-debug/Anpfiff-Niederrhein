@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-24T13:13:19.628Z",
+ "aktualisiert": "2026-08-24T14:03:55.867Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 26
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -650,6 +650,37 @@
    "grund": "vereinsfeed"
   },
   {
+   "id": "rp:153650585",
+   "titel": "Beim Landesliga-Spiel in Nettetal: Budberg-Trainer Wilke wehrt sich gegen Diskriminierungsvorwurf",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-trainer-tim-wilke-wehrt-sich-gegen-diskriminierungsvorwurf-in-nettetal_aid-153650585",
+   "teaser": "Die 0:1-Niederlage in der Fußball-Landesliga bei Union Nettetal rückt beim SV Budberg in den Hintergrund. Gesprächsthema Nummer eins ist die Rote Karte für Tim Wilke. Das sagen Trainer und Verein, das hat der Schiri in den Spielbericht eingetragen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/5/1/9/9/3/1/tok_ac99ff38a88f16949c5f7a83dda0fa42/w1200_h630_x1796_y1197__69I2369-91ed50345b8deeb2.JPG",
+   "datum": "2026-08-24T13:55:00.000Z",
+   "sortZeit": 1787550900000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412949318",
    "titel": "VfB Homberg: „Comeback“ nach zehn Jahren",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412949318/vfb-homberg-comeback-nach-zehn-jahren.html",
@@ -793,6 +824,34 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412951365",
+   "titel": "Darf Ali Hahn den MSV als Kapitän auf den Platz führen?",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412951365/darf-ali-hahn-den-msv-als-kapitaen-auf-den-platz-fuehren.html",
+   "teaser": "Nach dem Aus im DFB-Pokal fängt der MSV Duisburg am Dienstag beim 1. FC Wülfrath im Niederrheinpokal wieder ganz unten an.",
+   "bild": "https://img.sparknews.funkemedien.de/412952981/412952981_1787578315_v16_9_600.jpeg",
+   "datum": "2026-08-24T13:35:49.000Z",
+   "sortZeit": 1787506549000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412942907",
    "titel": "Arminia Klosterhardt: Erst mit Glück, dann mit Karate-Kid und Können",
    "url": "https://www.nrz.de/sport/lokalsport/oberhausen/article412942907/arminia-klosterhardt-erst-mit-glueck-dann-mit-karate-kid-und-koennen.html",
@@ -916,9 +975,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -4562,9 +4619,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
