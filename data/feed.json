@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-24T10:53:59.981Z",
+ "aktualisiert": "2026-08-24T11:44:14.519Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,31 @@
  ],
  "artikel": [
   {
+   "id": "funke:412944928",
+   "titel": "Kartenhagel, Tritt ins Gesicht - Spielabbruch bei Hamborn 07 gegen RWS Lohberg",
+   "url": "https://www.nrz.de/sport/lokalsport/dinslaken-huenxe-voerde/article412944928/kartenhagel-tritt-ins-gesicht-spielabbruch-bei-hamborn-07-gegen-rws-lohberg.html",
+   "teaser": "Die Lohberger beklagen die Leistung des Schiedsrichters, während dieser aus Sorge den Platz verlässt. RWS-Trainer bezieht Stellung.",
+   "bild": "https://img.sparknews.funkemedien.de/412948985/412948985_1787565659_v16_9_600.jpeg",
+   "datum": "2026-08-24T11:39:29.000Z",
+   "sortZeit": 1787542769000,
+   "punkte": 70,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153638763",
    "titel": "Konzern bestätigt Berichte: Milliardär und Ex-HSV-Investor Klaus-Michael Kühne ist gestorben",
    "url": "https://rp-online.de/wirtschaft/hsv-lufthansa-klaus-michael-kuehne-ist-tot_aid-153638763",
@@ -786,6 +811,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: Ticketverkauf für Düsseldorf startet – rund 8000 MSV-Fans können dabei sein",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-ticketverkauf-fuer-duesseldorf-startet-rund-8000-msv-fans-koennen-dabei-sein_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-24T11:22:00.000Z",
+   "sortZeit": 1787498520000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412947088",
@@ -1570,32 +1621,6 @@
    "grund": "rubrik"
   },
   {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: Ens in der Startelf, MSV-Kapitän Alexander Hahn auch im DFB-Pokal nicht im Kader",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-alexander-hahn-steht-auch-gegen-elversberg-nicht-im-kader_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-22T19:17:00.000Z",
-   "sortZeit": 1787354220000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
    "id": "rp:153566019",
    "titel": "Nach packendem Pokalfight: MSV unterliegt Elversberg erst spät - Lobingers spektakuläres Ausgleichstor im Video",
    "url": "https://rp-online.de/sport/fussball/msv/dfb-pokal-msv-unterliegt-elversberg-erst-spaet-lobingers-spektakulaeres-ausgleichstor-im-video_aid-153566019",
@@ -1818,8 +1843,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Moers",
    "ortSicher": true,
@@ -5973,9 +5997,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
