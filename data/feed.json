@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-24T20:48:56.828Z",
+ "aktualisiert": "2026-08-24T21:44:04.850Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,30 @@
  ],
  "artikel": [
   {
+   "id": "rp:153666407",
+   "titel": "DFB-Pokal am Montagabend: Schalke gewinnt nach 120 Minuten in Halle – Köln und Wolfsburg quälen sich weiter",
+   "url": "https://rp-online.de/sport/fussball/dfb-pokal/dfb-pokal-schalke-gewinnt-in-halle-koeln-und-wolfsburg-quaelen-sich-weiter_aid-153666407",
+   "teaser": "Der Hamburger SV gewinnt souverän beim Drittligisten SC Verl und übersteht die erste Runde. Der FC muss lange zittern, beim VfL ist die Überraschung sogar noch näher.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/5/5/9/1/8/5/tok_27e5ed5751a019ffa7c600a32a9962b2/w1200_h630_x1506_y611_DPA_dpa_s75qajwklh-v1-ax-ms6144-d47841965b0ec912.jpeg",
+   "datum": "2026-08-24T21:17:00.000Z",
+   "sortZeit": 1787577420000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "fc-nv.de/20-jahre-damen-und-maedchenfussball-beim-fcnv-bzw-svn-und-tus-preussen-09",
    "titel": "20 Jahre Damen- und Mädchenfußball beim FCNV bzw. SVN und TuS Preußen 09",
    "url": "https://fc-nv.de/20-jahre-damen-und-maedchenfussball-beim-fcnv-bzw-svn-und-tus-preussen-09/",
@@ -648,30 +672,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "rp:153666407",
-   "titel": "DFB-Pokal am Montagabend: Köln quält sich in Würzburg weiter – Wolfsburg wendet Blamage ab",
-   "url": "https://rp-online.de/sport/fussball/dfb-pokal/dfb-pokal-koeln-quaelt-sich-in-wuerzburg-weiter-wolfsburg-wendet-blamage-ab_aid-153666407",
-   "teaser": "Der Hamburger SV gewinnt souverän beim Drittligisten SC Verl und übersteht die erste Runde. Der FC muss lange zittern, beim VfL ist die Überraschung sogar noch näher.",
-   "bild": "https://rp-online.de/imgs/32/2/7/8/5/5/9/1/8/5/tok_27e5ed5751a019ffa7c600a32a9962b2/w1200_h630_x1506_y611_DPA_dpa_s75qajwklh-v1-ax-ms6144-d47841965b0ec912.jpeg",
-   "datum": "2026-08-24T18:54:00.000Z",
-   "sortZeit": 1787568840000,
-   "punkte": 70,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Sonsbeck",
-   "ortSicher": true,
-   "orte": [
-    "Sonsbeck"
-   ],
-   "zone": "umland",
-   "vereine": [],
-   "sportart": null,
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "rp:153650585",
