@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-24T11:44:14.519Z",
+ "aktualisiert": "2026-08-24T13:13:19.628Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 26
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,63 @@
  ],
  "artikel": [
   {
+   "id": "fc-nv.de/20-jahre-damen-und-maedchenfussball-beim-fcnv-bzw-svn-und-tus-preussen-09",
+   "titel": "20 Jahre Damen- und Mädchenfußball beim FCNV bzw. SVN und TuS Preußen 09",
+   "url": "https://fc-nv.de/20-jahre-damen-und-maedchenfussball-beim-fcnv-bzw-svn-und-tus-preussen-09/",
+   "teaser": "Es begann eigentlich schon Anfang der 90er Jahre beim SV Neukirchen 21 bzw TuS Preußen Vluyn 09. Da blühten die ersten zarten Bemühungen im Bereich Damen und Mädchenfußball, diesen fest zu installieren. Der Durchbruch fand aber erst nach dem Sommermärchen 2006 mit der Fußball-WM der Männer in Deutschland statt. 18 begeisterte Mädchen voller Neugier und […]",
+   "bild": "",
+   "datum": "2026-08-24T11:47:11.000Z",
+   "sortZeit": 1787572031000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "FC Neukirchen-Vluyn",
+   "quelleName": "FC Neukirchen-Vluyn",
+   "auchIn": [],
+   "ort": "Neukirchen-Vluyn",
+   "ortSicher": true,
+   "orte": [
+    "Neukirchen-Vluyn"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "FC Neukirchen-Vluyn"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
+   "id": "funke:412949318",
+   "titel": "VfB Homberg: „Comeback“ nach zehn Jahren",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412949318/vfb-homberg-comeback-nach-zehn-jahren.html",
+   "teaser": "Nach der Derbypleite muss sich Fußball-Landesligist VfB Homberg im Kreispokal beim A-Ligisten SV Menzelen beweisen.",
+   "bild": "https://img.sparknews.funkemedien.de/412952447/412952447_1787576616_v16_9_600.jpeg",
+   "datum": "2026-08-24T13:04:08.000Z",
+   "sortZeit": 1787547848000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Alpen",
+   "ortSicher": true,
+   "orte": [
+    "Alpen",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "VFB Homberg",
+    "SV Menzelen 1925"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412944928",
    "titel": "Kartenhagel, Tritt ins Gesicht - Spielabbruch bei Hamborn 07 gegen RWS Lohberg",
    "url": "https://www.nrz.de/sport/lokalsport/dinslaken-huenxe-voerde/article412944928/kartenhagel-tritt-ins-gesicht-spielabbruch-bei-hamborn-07-gegen-rws-lohberg.html",
@@ -635,7 +692,9 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
@@ -647,6 +706,41 @@
    "sportart": null,
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:153593349",
+   "titel": "SV Menzelen empfängt VfB Homberg: Pokalkracher als Härtetest vor dem Meisterschaftsstart",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-kreispokal-sv-menzelen-trifft-auf-den-vfb-homberg_aid-153593349",
+   "teaser": "Der SV Menzelen trifft schon am Dienstagabend im Fußball-Kreispokal auf Oberliga-Absteiger VfB Homberg. Warum neben Co-Trainer Jesse Weißenfels auch ein Schützenkönig im Mittelpunkt stehen wird.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/4/0/0/6/0/7/tok_13bd54be68d119f77696d329da97f770/w1200_h630_x1798_y1202_Bild_atf_doc7lshlki5pnm1czygvb5k-f2ddad3dbeeec8eb.jpg",
+   "datum": "2026-08-24T11:36:00.000Z",
+   "sortZeit": 1787542560000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Sport Duisburg",
+    "RP Online Moers",
+    "RP Online Xanten",
+    "RP Online Duisburg"
+   ],
+   "ort": "Alpen",
+   "ortSicher": true,
+   "orte": [
+    "Alpen",
+    "Duisburg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "VFB Homberg",
+    "SV Menzelen 1925"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "rp:153638763",
@@ -725,6 +819,34 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412949325",
+   "titel": "MSV-Frauen siegen zur Regionalliga-Premiere",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412949325/msv-frauen-siegen-zur-regionalliga-premiere.html",
+   "teaser": "Zum Auftakt fahren die Meidericherinnen gegen Rhade einen verdienten Sieg ein, haben dabei aber auch das nötige Quäntchen Glück.",
+   "bild": "https://img.sparknews.funkemedien.de/412952121/412952121_1787575515_v16_9_600.jpeg",
+   "datum": "2026-08-24T12:49:46.000Z",
+   "sortZeit": 1787503786000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153498891",
    "titel": "Remis beim SV Sonsbeck: Rückkehrer Mehmedovic wird zum Derby-Helden",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-oberliga-sv-sonsbeck-und-sv-scherpenberg-trennen-sich-1-1_aid-153498891",
@@ -755,6 +877,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "funke:412949334",
+   "titel": "Zehn Ausfälle stoppen die HSG VeRuKa nicht",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412949334/zehn-ausfaelle-stoppen-die-hsg-veruka-nicht.html",
+   "teaser": "Der Handball-Oberligist zeigt im Test gegen Kapellen eine starke Angriffsleistung. Schon am Dienstag und Donnerstag geht es weiter.",
+   "bild": "https://img.sparknews.funkemedien.de/412108749/412108749_1787574988_v16_9_600.jpeg",
+   "datum": "2026-08-24T12:36:52.000Z",
+   "sortZeit": 1787503012000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "funke:412938965",
@@ -1035,9 +1183,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
@@ -1291,9 +1437,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -2075,8 +2219,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
@@ -5170,9 +5313,7 @@
    "paywall": true,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
