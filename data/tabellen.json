@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-24T13:38:48.196Z",
+ "aktualisiert": "2026-08-24T16:17:51.345Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4691,15 +4691,6 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 06.09.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SV Vynen-Marienbaum",
-     "gast": "SV Sonsbeck III",
-     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-sonsbeck-iii/-/spiel/031I6NEIBO000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga C",
      "heim": "SV Vynen-Marienbaum",
@@ -4714,6 +4705,15 @@
      "heim": "SV Budberg IV",
      "gast": "SV Vynen-Marienbaum",
      "url": "https://www.fussball.de/spiel/sv-budberg-iv-sv-vynen-marienbaum/-/spiel/031I6NEHP4000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 17.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "SV Sonsbeck III",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-sonsbeck-iii/-/spiel/031I6NEIBO000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
