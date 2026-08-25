@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T09:52:05.620Z",
+ "aktualisiert": "2026-08-25T10:49:56.904Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -651,6 +651,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/impressionen-des-saisoneroeffnungsspiel",
+   "titel": "Impressionen des Saisoneröffnungsspiel",
+   "url": "https://fuechse-duisburg.de/news/impressionen-des-saisoneroeffnungsspiel/",
+   "teaser": "Impressionen des Saisoneröffnungsspiel gegen die Heilbronner Falken. 📷 Maren J. Otto | Jude Cortiula | Justin Herschfeld",
+   "bild": "",
+   "datum": "2026-08-25T10:00:00.000Z",
+   "sortZeit": 1787580000000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
   },
   {
    "id": "funke:412910904",
