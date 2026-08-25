@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T19:19:27.431Z",
+ "aktualisiert": "2026-08-25T22:01:19.962Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4178,15 +4178,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SV Menzelen",
-     "gast": "VFB Homberg",
-     "url": "https://www.fussball.de/spiel/sv-menzelen-vfb-homberg/-/spiel/031QJDA418000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SpVgg. Rheurdt-Schaephuysen",
@@ -4221,9 +4212,27 @@
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-menzelen/-/spiel/031H9RCD24000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Menzelen",
+     "gast": "FC Neukirchen-Vluyn II",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-fc-neukirchen-vluyn-ii/-/spiel/031H9RCCKO000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Menzelen",
+     "gast": "VFB Homberg",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-vfb-homberg/-/spiel/031QJDA418000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 23.08.2026 - 12:15 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
@@ -4259,15 +4268,6 @@
      "url": "https://www.fussball.de/spiel/tus-gahlen-ii-sv-menzelen/-/spiel/031F59F14K000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 09.08.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Menzelen",
-     "gast": "FC Sterkrade 72 I",
-     "url": "https://www.fussball.de/spiel/sv-menzelen-fc-sterkrade-72-i/-/spiel/031HHO5G30000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
     }
    ]
   },
@@ -4396,15 +4396,6 @@
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Dienstag, 25.08.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Orsoy",
-     "gast": "SV Schwafheim",
-     "url": "https://www.fussball.de/spiel/sv-orsoy-sv-schwafheim/-/spiel/031S7DMLQO000000VS5489BTVTPHHFPR",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 30.08.2026 - 12:15 Uhr",
      "wettbewerb": "Kreisliga C",
      "heim": "SpVgg. Rheurdt-Schaephuysen II",
@@ -4439,9 +4430,27 @@
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-ii-sv-orsoy/-/spiel/031I6NEHIG000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 20.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Viktoria Birten II",
+     "gast": "SV Orsoy",
+     "url": "https://www.fussball.de/spiel/sv-viktoria-birten-ii-sv-orsoy/-/spiel/031I6NEH4C000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 25.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Orsoy",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-sv-schwafheim/-/spiel/031S7DMLQO000000VS5489BTVTPHHFPR",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Freitag, 21.08.2026 - 19:00 Uhr",
      "wettbewerb": "Kreispokal",
@@ -4477,15 +4486,6 @@
      "url": "https://www.fussball.de/spiel/sv-orsoy-concordia-rheinberg/-/spiel/031F91HMG0000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": "Absetzung"
-    },
-    {
-     "datum": "Sonntag, 01.03.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "SV Orsoy zg.",
-     "gast": "SV Budberg III",
-     "url": "https://www.fussball.de/spiel/sv-orsoy-sv-budberg-iii/-/spiel/02TSQPDPU4000000VS5489BTVTHCTAHT",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -4504,15 +4504,6 @@
    "torverhaeltnis": "6:4",
    "staffelId": "0311F9LVPS00000FVS5489BUVVARDA0V-G",
    "naechste": [
-    {
-     "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
-     "wettbewerb": "Landesfreundschaftsspiele",
-     "heim": "SV Scherpenberg",
-     "gast": "SV 19 Sevelen",
-     "url": "https://www.fussball.de/spiel/sv-scherpenberg-sv-19-sevelen/-/spiel/031S6S8C10000000VS5489BUVVE0O1R6",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 30.08.2026 - 15:00 Uhr",
      "wettbewerb": "Oberliga Niederrhein",
@@ -4548,9 +4539,27 @@
      "url": "https://www.fussball.de/spiel/vfl-viktoria-juechen-garzweiler-sv-scherpenberg/-/spiel/031EE4OB4S000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Freitag, 25.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Oberliga Niederrhein",
+     "heim": "SV Scherpenberg",
+     "gast": "1. FC Monheim",
+     "url": "https://www.fussball.de/spiel/sv-scherpenberg-1-fc-monheim/-/spiel/031EE4OB00000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "SV Scherpenberg",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/sv-scherpenberg-sv-19-sevelen/-/spiel/031S6S8C10000000VS5489BUVVE0O1R6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
      "wettbewerb": "Oberliga Niederrhein",
@@ -4586,15 +4595,6 @@
      "url": "https://www.fussball.de/spiel/fc-kray-sv-scherpenberg/-/spiel/031K62J0DG000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 02.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Bezirksfreundschaftsspiele",
-     "heim": "Anadolu- Türkspor Krefeld",
-     "gast": "SV Scherpenberg",
-     "url": "https://www.fussball.de/spiel/anadolu-tuerkspor-krefeld-sv-scherpenberg/-/spiel/031B9K4J1G000000VS5489BTVSK8S3O6",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -4613,15 +4613,6 @@
    "torverhaeltnis": "0:0",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Dienstag, 25.08.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Orsoy",
-     "gast": "SV Schwafheim",
-     "url": "https://www.fussball.de/spiel/sv-orsoy-sv-schwafheim/-/spiel/031S7DMLQO000000VS5489BTVTPHHFPR",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4657,9 +4648,27 @@
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-ii-sv-schwafheim/-/spiel/031H9RCDI8000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Schwafheim",
+     "gast": "GSV Moers II",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-gsv-moers-ii/-/spiel/031H9RCCMG000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 25.08.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Orsoy",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-sv-schwafheim/-/spiel/031S7DMLQO000000VS5489BTVTPHHFPR",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
@@ -4695,15 +4704,6 @@
      "url": "https://www.fussball.de/spiel/sv-duissern-sv-schwafheim/-/spiel/031KABJH44000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 26.07.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "GSG Duisburg",
-     "gast": "SV Schwafheim",
-     "url": "https://www.fussball.de/spiel/gsg-duisburg-sv-schwafheim/-/spiel/031F1T7FR8000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -4722,15 +4722,6 @@
    "torverhaeltnis": "4:3",
    "staffelId": "031B925F1400000AVS5489BUVV628VP4-G",
    "naechste": [
-    {
-     "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
-     "wettbewerb": "Landesfreundschaftsspiele",
-     "heim": "SV Scherpenberg",
-     "gast": "SV 19 Sevelen",
-     "url": "https://www.fussball.de/spiel/sv-scherpenberg-sv-19-sevelen/-/spiel/031S6S8C10000000VS5489BUVVE0O1R6",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4766,9 +4757,27 @@
      "url": "https://www.fussball.de/spiel/uedemer-sv-sv-19-sevelen/-/spiel/031JH223PK000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 27.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV 19 Sevelen",
+     "gast": "SV 1934 Veert",
+     "url": "https://www.fussball.de/spiel/sv-19-sevelen-sv-1934-veert/-/spiel/031JH223HS000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 25.08.2026 - 20:00 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "SV Scherpenberg",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/sv-scherpenberg-sv-19-sevelen/-/spiel/031S6S8C10000000VS5489BUVVE0O1R6",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4804,15 +4813,6 @@
      "url": "https://www.fussball.de/spiel/tsv-nieukerk-sv-19-sevelen/-/spiel/031FON8HGK000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 09.08.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "GSV Moers II",
-     "gast": "SV 19 Sevelen",
-     "url": "https://www.fussball.de/spiel/gsv-moers-ii-sv-19-sevelen/-/spiel/0317VC02K0000000VS5489BUVSBBVPEU",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
     }
    ]
   },
