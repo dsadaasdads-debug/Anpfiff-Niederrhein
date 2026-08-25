@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T16:55:54.982Z",
+ "aktualisiert": "2026-08-25T17:45:48.780Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -766,6 +766,60 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412944984",
+   "titel": "LIVE! MSV Duisburg gegen Wülfrath: Hahn nicht im Kader, Remmert darf beginnen",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412944984/auftakt-im-niederrheinpokal-msv-duisburg-beim-1-fc-wuelfrath-im-liveticker.html",
+   "teaser": "Die Zebras treffen in der ersten Runde auf den Bezirksligisten aus Wülfrath. Bleibt der Titelverteidiger souverän? Der Liveticker aus IMS Arena.",
+   "bild": "https://img.sparknews.funkemedien.de/412944987/412944987_1787512685_v16_9_600.jpeg",
+   "datum": "2026-08-25T17:10:00.000Z",
+   "sortZeit": 1787605800000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152589319",
+   "titel": "Dienstag ab 19.30 Uhr: Nach dem Pokal ist vor dem Pokal – MSV gegen Wülfrath im Liveticker",
+   "url": "https://rp-online.de/sport/fussball/msv/niederrheinpokal-1-fc-wuelfrath-gegen-msv-duisburg-im-liveticker_aid-152589319",
+   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
+   "datum": "2026-08-25T17:00:00.000Z",
+   "sortZeit": 1787605200000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412963773",
    "titel": "Termin für den 44. Rhein-Ruhr-Marathon steht fest",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412963773/termin-fuer-den-44-rhein-ruhr-marathon-steht-fest.html",
@@ -788,34 +842,6 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Leichtathletik",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412944984",
-   "titel": "LIVE! MSV Duisburg gegen Wülfrath: Hahn nicht im Kader, Remmert darf beginnen",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article412944984/auftakt-im-niederrheinpokal-msv-duisburg-beim-1-fc-wuelfrath-im-liveticker.html",
-   "teaser": "Die Zebras treffen in der ersten Runde auf den Bezirksligisten aus Wülfrath. Bleibt der Titelverteidiger souverän? Der Liveticker aus IMS Arena.",
-   "bild": "https://img.sparknews.funkemedien.de/412944987/412944987_1787512685_v16_9_600.jpeg",
-   "datum": "2026-08-25T14:39:00.000Z",
-   "sortZeit": 1787596740000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   },
@@ -1586,32 +1612,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:152589319",
-   "titel": "Dienstag ab 19.30 Uhr: Nach dem Pokal ist vor dem Pokal – MSV gegen Wülfrath im Liveticker",
-   "url": "https://rp-online.de/sport/fussball/msv/niederrheinpokal-1-fc-wuelfrath-gegen-msv-duisburg-im-liveticker_aid-152589319",
-   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
-   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
-   "datum": "2026-08-24T08:03:00.000Z",
-   "sortZeit": 1787486580000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "fuechse-duisburg.de/news/fuechse-mit-gelungenem-saisonstart",
@@ -10465,30 +10465,6 @@
    "sportart": "Eishockey",
    "ereignis": null,
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "funke:412682894",
-   "titel": "Intensive Saisonvorbereitung des GSV Moers „Wir liegen gut im Zeitplan“",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412682894/intensive-saisonvorbereitung-des-gsv-moers-wir-liegen-gut-im-zeitplan.html",
-   "teaser": "Trainer Andreas Oerschkes ist mit der Entwicklung seines Teams zufrieden. Bis zum Fußball-Bezirksliga-Start gibt es Verbesserungsbedarf.",
-   "bild": "https://img.sparknews.funkemedien.de/412683015/412683015_1785084967_v16_9_600.jpeg",
-   "datum": "2026-07-26T16:58:37.000Z",
-   "sortZeit": 1785085117000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   }
  ]
 }
