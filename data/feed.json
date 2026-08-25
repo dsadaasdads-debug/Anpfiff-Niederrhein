@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T15:05:59.382Z",
+ "aktualisiert": "2026-08-25T16:00:59.676Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,8 +40,11 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "ok",
-   "eintraege": 10
+   "status": "fehler",
+   "fehler": "HTTP 415",
+   "eintraege": 0,
+   "letzterErfolg": "2026-08-25T15:05:55.590Z",
+   "ausfaelleInFolge": 1
   },
   {
    "id": "moerser-sc",
@@ -624,6 +627,34 @@
  ],
  "artikel": [
   {
+   "id": "funke:412962120",
+   "titel": "Debüt im neuen Job: Thomaz Santos hat erstmals beim Moerser SC das Sagen",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412962120/debuet-im-neuen-job-thomaz-santos-hat-erstmals-beim-moerser-sc-das-sagen.html",
+   "teaser": "Der Volleyball-Drittligist feiert am Mittwochabend mit dem Testspiel gegen Schüttorf seine Heimpremiere in dieser Saison.",
+   "bild": "https://img.sparknews.funkemedien.de/412963991/412963991_1787669404_v16_9_600.jpeg",
+   "datum": "2026-08-25T15:05:47.000Z",
+   "sortZeit": 1787670347000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "Moerser SC"
+   ],
+   "sportart": "Volleyball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412962805",
    "titel": "Ging Repelen mit 1:15 oder 1:16 baden? FVN hat sich festgelegt",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412962805/ging-repelen-mit-115-oder-116-baden-fvn-hat-sich-festgelegt.html",
@@ -738,6 +769,32 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412963773",
+   "titel": "Termin für den 44. Rhein-Ruhr-Marathon steht fest",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412963773/termin-fuer-den-44-rhein-ruhr-marathon-steht-fest.html",
+   "teaser": "Der Stadtsportbund bietet einen „Early-Bird-Rabatt“ für schnellentschlossene Dauerläufer an. 10.000-Teilnehmer-Marke wird angepeilt.",
+   "bild": "https://img.sparknews.funkemedien.de/412963996/412963996_1787669450_v16_9_600.jpeg",
+   "datum": "2026-08-25T15:05:04.000Z",
+   "sortZeit": 1787598304000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Leichtathletik",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412944984",
    "titel": "Auftakt im Niederrheinpokal! MSV Duisburg beim 1. FC Wülfrath im Liveticker",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412944984/auftakt-im-niederrheinpokal-msv-duisburg-beim-1-fc-wuelfrath-im-liveticker.html",
@@ -749,7 +806,9 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -825,9 +884,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
@@ -877,9 +934,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -906,9 +961,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1144,8 +1197,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Alpen",
    "ortSicher": true,
@@ -1796,8 +1848,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Alpen",
    "ortSicher": false,
