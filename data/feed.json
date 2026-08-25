@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T09:00:35.390Z",
+ "aktualisiert": "2026-08-25T09:52:05.620Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -653,6 +653,30 @@
    "grund": "rubrik"
   },
   {
+   "id": "funke:412910904",
+   "titel": "Mammutmarsch Ruhrgebiet 2026 - alle Infos zum Mega-Event - Kosten, Strecke, Parken",
+   "url": "https://www.nrz.de/sport/lokalsport/essen/article412910904/mammutmarsch-ruhrgebiet-2026-alle-infos-zum-mega-event-kosten-strecke-parken.html",
+   "teaser": "Der Mammutmarsch startet erneut in Duisburg. Am 29. August geht es nachts vom Landschaftspark-Nord über Oberhausen nach Essen und Bottrop. Alle Infos.",
+   "bild": "https://img.sparknews.funkemedien.de/412913717/412913717_1787214270_v16_9_600.jpeg",
+   "datum": "2026-08-25T09:42:04.000Z",
+   "sortZeit": 1787578924000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153666407",
    "titel": "DFB-Pokal am Montagabend: Schalke gewinnt nach 120 Minuten in Halle – Köln und Wolfsburg quälen sich weiter",
    "url": "https://rp-online.de/sport/fussball/dfb-pokal/dfb-pokal-schalke-gewinnt-in-halle-koeln-und-wolfsburg-quaelen-sich-weiter_aid-153666407",
@@ -688,7 +712,9 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -699,6 +725,32 @@
    "sportart": null,
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: Nackenschlag in Minute 90+1 – Ex-Duisburger zwingt Schalke in die Verlängerung",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-ex-duisburger-niclas-stierlin-zwingt-schalke-mit-halle-in-die-verlaengerung_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-25T08:48:00.000Z",
+   "sortZeit": 1787575680000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "fc-nv.de/20-jahre-damen-und-maedchenfussball-beim-fcnv-bzw-svn-und-tus-preussen-09",
@@ -994,9 +1046,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1197,32 +1247,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: Ticketverkauf für Düsseldorf startet – rund 8000 MSV-Fans können dabei sein",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-ticketverkauf-fuer-duesseldorf-startet-rund-8000-msv-fans-koennen-dabei-sein_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-24T11:22:00.000Z",
-   "sortZeit": 1787498520000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "funke:412947088",
@@ -2531,9 +2555,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
@@ -3249,30 +3271,6 @@
    "sportart": "Eishockey",
    "ereignis": null,
    "grund": "vereinsfeed"
-  },
-  {
-   "id": "funke:412910904",
-   "titel": "Mammutmarsch Ruhrgebiet 2026 - alle Infos zum Mega-Event - Kosten, Strecke, Parken",
-   "url": "https://www.nrz.de/sport/lokalsport/essen/article412910904/mammutmarsch-ruhrgebiet-2026-alle-infos-zum-mega-event-kosten-strecke-parken.html",
-   "teaser": "Der Mammutmarsch startet erneut in Duisburg. Am 29. August geht es nachts vom Landschaftspark-Nord über Oberhausen nach Essen und Bottrop. Alle Infos.",
-   "bild": "https://img.sparknews.funkemedien.de/412913717/412913717_1787214270_v16_9_600.jpeg",
-   "datum": "2026-08-20T08:24:30.000Z",
-   "sortZeit": 1787142270000,
-   "punkte": 40,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
-   "ereignis": null,
-   "grund": "pfad"
   },
   {
    "id": "funke:412889883",
