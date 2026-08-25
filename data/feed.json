@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T13:11:50.634Z",
+ "aktualisiert": "2026-08-25T14:04:35.451Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,34 @@
  ],
  "artikel": [
   {
+   "id": "funke:412961111",
+   "titel": "SV Scherpenberg: Hiobsbotschaft nach gelungenem Start in die Oberliga",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412961111/sv-scherpenberg-hiobsbotschaft-nach-gelungenem-start-in-die-oberliga.html",
+   "teaser": "Der Moerser Oberliga-Aufsteiger muss in den kommenden Wochen auf einen Leistungsträger verzichten. Vorn schaut ein Neuzugang noch zu.",
+   "bild": "https://img.sparknews.funkemedien.de/412961202/412961202_1787661747_v16_9_600.jpeg",
+   "datum": "2026-08-25T13:18:52.000Z",
+   "sortZeit": 1787663932000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "SV Scherpenberg 1921"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153599029",
    "titel": "Katastrophaler Saison-Start: 2:33 Tore – Warum der VfL Repelen nicht die Reißleine zieht",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/vfl-repelen-trainer-martin-soblik-zum-katrasophalen-start-in-der-bezirksliga_aid-153599029",
@@ -681,6 +709,58 @@
     "name": "Leichtathletik-DM",
     "ort": null
    },
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153707219",
+   "titel": "Zebras schon früh in Top-Form: Wer soll diesen MSV Duisburg denn bitte aufhalten!?",
+   "url": "https://rp-online.de/sport/fussball/msv/3-liga-der-msv-duisburg-in-dieser-form-ist-nicht-aufzuhalten_aid-153707219",
+   "teaser": "Die Meidericher haben mit zwei Siegen zum Start und einem Top-Auftritt im DFB-Pokal für ordentlich Euphorie gesorgt. Schon jetzt ist ersichtlich, dass die Fans viel Spaß haben werden. Höchste Zeit also für eine Überreaktion auf den Saisonstart.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/6/5/4/3/8/9/tok_011d360e1b3d125bcc637a7edcfaebe8/w1200_h630_x1757_y1171_IMSP_imago_sp_0808_17010001_1080783458-8f84b3d5cc7ba041.jpg",
+   "datum": "2026-08-25T13:37:00.000Z",
+   "sortZeit": 1787593020000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412961165",
+   "titel": "Neue Ligen, neues Konzept: Das ändert sich für die EVD-Jungfüchse",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412961165/neue-ligen-neues-konzept-das-aendert-sich-fuer-die-evd-jungfuechse.html",
+   "teaser": "Der DEB führt neue Vorgaben für die Nachwuchsligen ein. Jungfüchse-Sportchef Galonska erklärt die Vorgaben. Trainerteam verändert sich.",
+   "bild": "https://img.sparknews.funkemedien.de/412962253/412962253_1787663302_v16_9_600.jpeg",
+   "datum": "2026-08-25T13:16:08.000Z",
+   "sortZeit": 1787591768000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
    "grund": "pfad"
   },
   {
@@ -1696,8 +1776,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": false,
@@ -5881,9 +5960,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
