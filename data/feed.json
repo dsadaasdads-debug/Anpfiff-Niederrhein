@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T07:58:34.611Z",
+ "aktualisiert": "2026-08-25T09:00:35.390Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -675,6 +675,30 @@
    "sportart": null,
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "funke:412948649",
+   "titel": "Bühne im Wasser und Ibiza-Gefühl: Beliebte Duisburger Party an neuer Location",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412948649/buehne-im-wasser-und-ibiza-gefuehl-beliebte-duisburger-party-an-neuer-location.html",
+   "teaser": "Die Summer Night Lounge startet mit neuem Konzept und erstmals im Duisburger Süden. Veranstalter Mirco Hering verrät schon jetzt Details.",
+   "bild": "https://img.sparknews.funkemedien.de/412947619/412947619_1787648075_v16_9_600.jpeg",
+   "datum": "2026-08-25T08:54:35.000Z",
+   "sortZeit": 1787576075000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "fc-nv.de/20-jahre-damen-und-maedchenfussball-beim-fcnv-bzw-svn-und-tus-preussen-09",
