@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T07:09:40.450Z",
+ "aktualisiert": "2026-08-25T07:58:34.611Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -623,6 +623,35 @@
   }
  ],
  "artikel": [
+  {
+   "id": "rp:153599029",
+   "titel": "Katastrophaler Saison-Start: 2:33 Tore – Warum der VfL Repelen nicht die Reißleine zieht",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/vfl-repelen-trainer-martin-soblik-zum-katrasophalen-start-in-der-bezirksliga_aid-153599029",
+   "teaser": "Nach zwei zweistelligen Klatschen steht der VfL Repelen in der Fußball-Bezirksliga auf dem letzten Tabellenplatz. Trainer Martin Soblik redet Klartext. Warum er entspannt bleibt und sogar Fortschritte sieht.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/4/1/2/9/4/7/tok_9dbff921e12245277ca7728b6503bc13/w1200_h630_x1350_y900_rp_20251130_J_0088-990ce7ead0f72fea.jpg",
+   "datum": "2026-08-25T07:20:51.000Z",
+   "sortZeit": 1787642451000,
+   "punkte": 110,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Xanten"
+   ],
+   "zone": "kern",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
   {
    "id": "rp:153666407",
    "titel": "DFB-Pokal am Montagabend: Schalke gewinnt nach 120 Minuten in Halle – Köln und Wolfsburg quälen sich weiter",
@@ -4663,9 +4692,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
