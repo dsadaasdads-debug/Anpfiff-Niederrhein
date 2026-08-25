@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T18:57:18.543Z",
+ "aktualisiert": "2026-08-25T19:46:11.684Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -766,8 +766,114 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412965305",
+   "titel": "MSV-Hammer: Alexander Hahn will laut Trainer Dietmar Hirsch den Verein verlassen",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412965305/msv-hammer-alexander-hahn-will-laut-trainer-dietmar-hirsch-den-verein-verlassen.html",
+   "teaser": "Der Kapitän des MSV Duisburg steht offenbar vor dem Absprung. Laut Hirsch ist der 33-Jährige mit seiner Situation unzufrieden.",
+   "bild": "https://img.sparknews.funkemedien.de/412965328/412965328_1787686717_v16_9_600.jpeg",
+   "datum": "2026-08-25T19:42:20.000Z",
+   "sortZeit": 1787614940000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152589319",
+   "titel": "Samstag ab 14 Uhr: MSV Duisburg gegen die Würzburger Kickers im Liveticker",
+   "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-gegen-die-wuerzburger-kickers-im-liveticker_aid-152589319",
+   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
+   "datum": "2026-08-25T19:21:00.000Z",
+   "sortZeit": 1787613660000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153722249",
+   "titel": "Einzug in die nächste Runde: MSV siegt im Niederrheinpokal – Hahn auch hier nicht im Kader",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-sieg-im-niederrheinpokal-kapitaen-hahn-auch-hier-nicht-im-kader_aid-153722249",
+   "teaser": "Beim Bezirksligisten 1. FC Wülfrath zünden die Zebras kein Feuerwerk, kommen aber am Ende souverän weiter. Trainer Dietmar Hirsch gibt mehreren Spielern ihre ersten Startelf-Einsätze – doch der Kapitän darf wieder nicht ran.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/6/9/4/5/6/1/tok_09e2bf4efcb097bb992436e6582762fb/w1200_h630_x1796_y1197_107078519-0af725548b561be6.jpg",
+   "datum": "2026-08-25T19:17:00.000Z",
+   "sortZeit": 1787613420000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412960736",
+   "titel": "5:1! MSV Duisburg siegt nach Anlaufschwierigkeiten gegen Wülfrath souverän",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412960736/51-msv-duisburg-siegt-nach-anlaufschwierigkeiten-gegen-wuelfrath-souveraen.html",
+   "teaser": "Kapitän Alexander Hahn auch im Landespokal gegen Bezirksligist Wülfrath nicht im Kader des MSV. Dennis Borkowski erleidet einen Rückschlag.",
+   "bild": "https://img.sparknews.funkemedien.de/412965141/412965141_1787682274_v16_9_600.jpeg",
+   "datum": "2026-08-25T19:16:09.000Z",
+   "sortZeit": 1787613369000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412944984",
-   "titel": "3:0! MSV Duisburg legt gegen starke Wülfrather nach: Symalla mit dem Doppelpack",
+   "titel": "5:1! MSV jetzt deutlich gegen Wülfrath in Front – Symalla mit dem Doppelpack",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412944984/auftakt-im-niederrheinpokal-msv-duisburg-beim-1-fc-wuelfrath-im-liveticker.html",
    "teaser": "Die Zebras treffen in der ersten Runde auf den Bezirksligisten aus Wülfrath. Bleibt der Titelverteidiger souverän? Der Liveticker aus IMS Arena.",
    "bild": "https://img.sparknews.funkemedien.de/412944987/412944987_1787512685_v16_9_600.jpeg",
@@ -794,32 +900,6 @@
    "grund": "pfad"
   },
   {
-   "id": "rp:152589319",
-   "titel": "Jetzt im Liveticker: MSV führt zur Pause im Niederrheinpokal in Wülfrath",
-   "url": "https://rp-online.de/sport/fussball/msv/niederrheinpokal-1-fc-wuelfrath-gegen-msv-duisburg-im-liveticker_aid-152589319",
-   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
-   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
-   "datum": "2026-08-25T18:26:00.000Z",
-   "sortZeit": 1787610360000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
    "id": "funke:412963773",
    "titel": "Termin für den 44. Rhein-Ruhr-Marathon steht fest",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412963773/termin-fuer-den-44-rhein-ruhr-marathon-steht-fest.html",
@@ -831,9 +911,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
