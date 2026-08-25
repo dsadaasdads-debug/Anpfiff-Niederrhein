@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T16:00:59.676Z",
+ "aktualisiert": "2026-08-25T16:55:54.982Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -40,11 +40,8 @@
   {
    "id": "gsv-moers",
    "name": "Grafschafter SV 1910 Moers",
-   "status": "fehler",
-   "fehler": "HTTP 415",
-   "eintraege": 0,
-   "letzterErfolg": "2026-08-25T15:05:55.590Z",
-   "ausfaelleInFolge": 1
+   "status": "ok",
+   "eintraege": 10
   },
   {
    "id": "moerser-sc",
@@ -796,7 +793,7 @@
   },
   {
    "id": "funke:412944984",
-   "titel": "Auftakt im Niederrheinpokal! MSV Duisburg beim 1. FC Wülfrath im Liveticker",
+   "titel": "LIVE! MSV Duisburg gegen Wülfrath: Hahn nicht im Kader, Remmert darf beginnen",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412944984/auftakt-im-niederrheinpokal-msv-duisburg-beim-1-fc-wuelfrath-im-liveticker.html",
    "teaser": "Die Zebras treffen in der ersten Runde auf den Bezirksligisten aus Wülfrath. Bleibt der Titelverteidiger souverän? Der Liveticker aus IMS Arena.",
    "bild": "https://img.sparknews.funkemedien.de/412944987/412944987_1787512685_v16_9_600.jpeg",
@@ -1819,8 +1816,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Xanten",
    "ortSicher": true,
@@ -10490,86 +10486,6 @@
    ],
    "zone": "kern",
    "vereine": [],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412678736",
-   "titel": "Teures Testspiel: Zwei Verletzte beim SV Scherpenberg, nächster Neuzugang weg",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412678736/teures-testspiel-zwei-verletzte-beim-sv-scherpenberg-naechster-neuzugang-weg.html",
-   "teaser": "Fußball-Oberliga-Aufsteiger verliert nach Noah Herrmann zweiten Sommerzugang. Mäßige erste Halbzeit beim 3:0 über Schwarz-Weiß Alstaden.",
-   "bild": "https://img.sparknews.funkemedien.de/411775970/411775970_1785083479_v16_9_600.jpeg",
-   "datum": "2026-07-26T16:40:29.000Z",
-   "sortZeit": 1785084029000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "SV Scherpenberg 1921"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412682538",
-   "titel": "1. FC Lintfort: Acht Tore im Testspiel und ein schönes Comeback",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412682538/1-fc-lintfort-acht-tore-im-testspiel-und-ein-schoenes-comeback.html",
-   "teaser": "Fußball-Landesligist legt gegen SV Rindern im Testspiel nach. Erster Treffer für neuen Mittelstürmer. Cakir verwandelt Ecke direkt.",
-   "bild": "https://img.sparknews.funkemedien.de/412682694/412682694_1785081591_v16_9_600.jpeg",
-   "datum": "2026-07-26T16:01:33.000Z",
-   "sortZeit": 1785081693000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Kamp-Lintfort",
-   "ortSicher": true,
-   "orte": [
-    "Kamp-Lintfort",
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "1. FC Lintfort"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412682691",
-   "titel": "Wieder eine Niederlage – aber der SV Budberg steigert sich im dritten Test",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412682691/wieder-eine-niederlage-aber-der-sv-budberg-steigert-sich-im-dritten-test.html",
-   "teaser": "In Kapellen läuft es für den Landesligisten immerhin schon deutlich besser als in der Vorwoche. Oliver Nowak gelingt ein Kunststück.",
-   "bild": "https://img.sparknews.funkemedien.de/412682760/412682760_1785082502_v16_9_600.jpeg",
-   "datum": "2026-07-26T16:15:02.000Z",
-   "sortZeit": 1785053702000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Rheinberg",
-   "ortSicher": true,
-   "orte": [
-    "Rheinberg",
-    "Moers"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "SV Budberg 1946"
-   ],
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
