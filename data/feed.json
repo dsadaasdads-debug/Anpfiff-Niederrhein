@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-25T01:52:45.164Z",
+ "aktualisiert": "2026-08-25T03:13:23.723Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 25
+   "eintraege": 26
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -672,6 +672,32 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "vereinsfeed"
+  },
+  {
+   "id": "funke:412950896",
+   "titel": "So viele Rückzüge wie noch nie: So reagiert der Fußballkreis Mülheim/Duisburg",
+   "url": "https://www.nrz.de/sport/lokalsport/muelheim/article412950896/so-viele-rueckzuege-wie-noch-nie-so-reagiert-der-fussballkreis-muelheimduisburg.html",
+   "teaser": "So viele Teams wie noch nie zogen in Mülheim und Duisburg schon vor der Saison zurück. Jetzt äußert sich der Kreis zu der Problematik - und möglichen Lösungen.",
+   "bild": "https://img.sparknews.funkemedien.de/412950828/412950828_1787578315_v16_9_600.jpeg",
+   "datum": "2026-08-25T02:30:00.000Z",
+   "sortZeit": 1787553000000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
   },
   {
    "id": "rp:153650585",
