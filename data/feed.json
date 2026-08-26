@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T10:51:58.099Z",
+ "aktualisiert": "2026-08-26T11:45:30.147Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 23
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,15 +624,15 @@
  ],
  "artikel": [
   {
-   "id": "funke:412962120",
-   "titel": "Debüt im neuen Job: Thomaz Santos hat erstmals beim Moerser SC das Sagen",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412962120/debuet-im-neuen-job-thomaz-santos-hat-erstmals-beim-moerser-sc-das-sagen.html",
-   "teaser": "Der Volleyball-Drittligist feiert am Mittwochabend mit dem Testspiel gegen Schüttorf seine Heimpremiere in dieser Saison.",
-   "bild": "https://img.sparknews.funkemedien.de/412963991/412963991_1787669404_v16_9_600.jpeg",
-   "datum": "2026-08-25T15:05:47.000Z",
-   "sortZeit": 1787670347000,
+   "id": "funke:412956649",
+   "titel": "Neuer Trainer, neues Team, neues Image: TV Kapellen will nun wieder angreifen",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412956649/neuer-trainer-neues-team-neues-image-tv-kapellen-will-nun-wieder-angreifen.html",
+   "teaser": "Benno Schupe heißt der neue „Chef“ des Verbandsligisten. Die Blau-Weißen wollen auf einen einstelligen Tabellenplatz.",
+   "bild": "https://img.sparknews.funkemedien.de/412939708/412939708_1787743634_v16_9_600.jpeg",
+   "datum": "2026-08-26T11:28:36.000Z",
+   "sortZeit": 1787743716000,
    "punkte": 150,
-   "paywall": false,
+   "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
@@ -645,9 +645,148 @@
    ],
    "zone": "kern",
    "vereine": [
+    "TV Kapellen"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:406808429",
+   "titel": "Gegen wen spielt der MSV in der zweiten Runde? Auslosung am 1. September",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
+   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
+   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
+   "datum": "2026-08-26T11:25:00.000Z",
+   "sortZeit": 1787671500000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412965305",
+   "titel": "MSV-Hammer: Alexander Hahn will laut Trainer Dietmar Hirsch den Verein verlassen",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412965305/msv-hammer-alexander-hahn-will-laut-trainer-dietmar-hirsch-den-verein-verlassen.html",
+   "teaser": "Der Kapitän des MSV Duisburg steht offenbar vor dem Absprung. Laut Hirsch ist der 33-Jährige mit seiner Situation unzufrieden.",
+   "bild": "https://img.sparknews.funkemedien.de/412965328/412965328_1787686717_v16_9_600.jpeg",
+   "datum": "2026-08-26T11:10:00.000Z",
+   "sortZeit": 1787670600000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412968683",
+   "titel": "Nach einem schwachen Start ins Testspiel kommt die HSG VeRuKa in die Gänge",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412968683/nach-einem-schwachen-start-ins-testspiel-kommt-die-hsg-veruka-in-die-gaenge.html",
+   "teaser": "Mit dem Unentschieden gegen klassentiefere Gäste zeigt sich der Rumelner Spielertrainer Mirko Szymanowicz zufrieden.",
+   "bild": "https://img.sparknews.funkemedien.de/412969433/412969433_fc_1787742153_v16_9_600.jpeg",
+   "datum": "2026-08-26T11:07:03.000Z",
+   "sortZeit": 1787670423000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412962120",
+   "titel": "Debüt im neuen Job: Thomaz Santos hat erstmals beim Moerser SC das Sagen",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412962120/debuet-im-neuen-job-thomaz-santos-hat-erstmals-beim-moerser-sc-das-sagen.html",
+   "teaser": "Der Volleyball-Drittligist feiert am Mittwochabend mit dem Testspiel gegen Schüttorf seine Heimpremiere in dieser Saison.",
+   "bild": "https://img.sparknews.funkemedien.de/412963991/412963991_1787669404_v16_9_600.jpeg",
+   "datum": "2026-08-25T15:05:47.000Z",
+   "sortZeit": 1787670347000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
     "Moerser SC"
    ],
    "sportart": "Volleyball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412968729",
+   "titel": "Schöne Atmosphäre, klarer Sieg: VfB Homberg erlebt lockeres Kreispokal-Comeback",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412968729/schoene-atmosphaere-klarer-sieg-vfb-homberg-erlebt-lockeres-kreispokal-comeback.html",
+   "teaser": "Personell umgekrempeltes Team des Landesligisten löst die Aufgabe in Menzelen ohne Probleme. Neuzugang schnürt Doppelpack.",
+   "bild": "https://img.sparknews.funkemedien.de/412968863/412968863_1787740028_v16_9_600.jpeg",
+   "datum": "2026-08-26T10:56:02.000Z",
+   "sortZeit": 1787669762000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg",
+    "Alpen"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
+   ],
+   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   },
@@ -818,34 +957,6 @@
    "grund": "rubrik"
   },
   {
-   "id": "funke:412965305",
-   "titel": "MSV-Hammer: Alexander Hahn will laut Trainer Dietmar Hirsch den Verein verlassen",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article412965305/msv-hammer-alexander-hahn-will-laut-trainer-dietmar-hirsch-den-verein-verlassen.html",
-   "teaser": "Der Kapitän des MSV Duisburg steht offenbar vor dem Absprung. Laut Hirsch ist der 33-Jährige mit seiner Situation unzufrieden.",
-   "bild": "https://img.sparknews.funkemedien.de/412965328/412965328_1787686717_v16_9_600.jpeg",
-   "datum": "2026-08-25T19:50:00.000Z",
-   "sortZeit": 1787615400000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
    "id": "rp:152589319",
    "titel": "Samstag ab 14 Uhr: MSV Duisburg gegen die Würzburger Kickers im Liveticker",
    "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-gegen-die-wuerzburger-kickers-im-liveticker_aid-152589319",
@@ -911,9 +1022,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1073,32 +1182,6 @@
    "vereine": [
     "Duisburger FV 08",
     "VFB Homberg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:406808429",
-   "titel": "MSV: Auswärtstickets für Düsseldorf ausverkauft – Fans hoffen auf Nachschlag",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
-   "teaser": "Rund 2000 Fans begleiten den MSV Duisburg am Samstag zum Spiel nach Verl. Im Fanshop gibt es noch ein paar Restkarten. Der MSV-Blog.",
-   "bild": "https://img.sparknews.funkemedien.de/412853042/412853042_1786620725_v16_9_600.jpeg",
-   "datum": "2026-08-25T11:50:00.000Z",
-   "sortZeit": 1787586600000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
    ],
    "sportart": "Fußball",
    "ereignis": null,
@@ -1437,9 +1520,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Xanten und Rheinberg",
-   "auchIn": [
-    "RP Online Xanten"
-   ],
+   "auchIn": [],
    "ort": "Xanten",
    "ortSicher": true,
    "orte": [
@@ -2939,7 +3020,9 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport Duisburg"
+   ],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
@@ -6461,10 +6544,8 @@
    "punkte": 110,
    "paywall": true,
    "quelle": "RP Online",
-   "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Wesel"
-   ],
+   "quelleName": "RP Online Sport Wesel",
+   "auchIn": [],
    "ort": "Xanten",
    "ortSicher": true,
    "orte": [
