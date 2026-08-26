@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T13:16:54.664Z",
+ "aktualisiert": "2026-08-26T14:08:16.704Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,36 @@
  ],
  "artikel": [
   {
+   "id": "funke:412971221",
+   "titel": "SV Scherpenberg: Klare Sache im Testspiel gegen einen mutigen Gegner",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412971221/sv-scherpenberg-klare-sache-im-testspiel-gegen-einen-mutigen-gegner.html",
+   "teaser": "A-Ligist SV Sevelen bietet den Hausherren stark Paroli. Sven Schützek probiert seine Alternativen auf verschiedenen Positionen aus.",
+   "bild": "https://img.sparknews.funkemedien.de/412971745/412971745_1787749987_v16_9_600.jpeg",
+   "datum": "2026-08-26T13:16:57.000Z",
+   "sortZeit": 1787750217000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers",
+    "Issum"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "SV Scherpenberg 1921",
+    "SV Sevelen 1919"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412956649",
    "titel": "Neuer Trainer, neues Team, neues Image: TV Kapellen will nun wieder angreifen",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412956649/neuer-trainer-neues-team-neues-image-tv-kapellen-will-nun-wieder-angreifen.html",
@@ -650,6 +680,41 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
+  },
+  {
+   "id": "rp:153708819",
+   "titel": "David gegen Goliath im Kreispokal: Der kleine SV Menzelen gegen den großen VfB Homberg",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-kreispokal-sv-menzelen-vfb-homberg_aid-153708819",
+   "teaser": "Der Fußball-A-Ligist verlässt nach einer 0:4-Niederlage gegen den Landesligisten hoch erhobenen Hauptes den Platz, auf dem sich in jüngster Zeit einiges getan hat. So haben die Trainer Dominik Seemann und Daniel Beine den Flutlicht-Abend erlebt.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/6/5/8/4/8/7/tok_f94a741573338da5af275cc602f715a4/w1200_h630_x1796_y1197_rp_AST09551_Kopie-a672ea34576a00cf.jpg",
+   "datum": "2026-08-26T13:34:44.000Z",
+   "sortZeit": 1787722484000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Sport Duisburg",
+    "RP Online Moers",
+    "RP Online Xanten",
+    "RP Online Duisburg"
+   ],
+   "ort": "Alpen",
+   "ortSicher": true,
+   "orte": [
+    "Alpen",
+    "Duisburg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "VFB Homberg",
+    "SV Menzelen 1925"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
   },
   {
    "id": "funke:412970880",
@@ -855,8 +920,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": false,
@@ -1481,8 +1545,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
@@ -1778,8 +1841,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Moers",
    "ortSicher": true,
@@ -4423,9 +4485,7 @@
    "paywall": true,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
