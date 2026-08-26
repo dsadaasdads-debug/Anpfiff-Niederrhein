@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T11:45:30.147Z",
+ "aktualisiert": "2026-08-26T13:16:54.664Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 23
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -652,6 +652,143 @@
    "grund": "pfad"
   },
   {
+   "id": "funke:412970880",
+   "titel": "Zwei Duisburger Nachbarschaftsderbys in Runde zwei des Kreispokals",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412970880/zwei-duisburger-nachbarschaftsderbys-in-runde-zwei-des-kreispokals.html",
+   "teaser": "Jetzt greifen auch die A-Kreisligisten in den Wettbewerb ein. C-Ligist Hertha Hamborn empfängt den Nachbarn Gelb-Weiß.",
+   "bild": "https://img.sparknews.funkemedien.de/412970954/412970954_1787747482_v16_9_600.jpeg",
+   "datum": "2026-08-26T12:39:57.000Z",
+   "sortZeit": 1787719197000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153709099",
+   "titel": "Trainer spricht Klartext: Beim SV Sonsbeck II weht jetzt ein besonders frischer Wind",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/beim-sv-sonsbeck-ii-weht-jetzt-ein-sehr-frischer-wind_aid-153709099",
+   "teaser": "Mit sieben jungen Neuzugängen aus der A-Jugend will der SV Sonsbeck II nach Rang zwölf nun einen einstelligen Tabellenplatz erreichen. Der Stand der Dinge.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/6/5/9/2/9/7/tok_d9b62d4e34f26d120b9c92efc27d86b0/w1200_h630_x1233_y758_sv-sonsbeckII-cddd35a5fdeb2593.jpg",
+   "datum": "2026-08-26T12:36:00.000Z",
+   "sortZeit": 1787718960000,
+   "punkte": 70,
+   "paywall": true,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412970873",
+   "titel": "Die Rasenpfleger des MSV Duisburg erklären den Langhaarschnitt",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412970873/die-rasenpfleger-des-msv-duisburg-erklaeren-den-langhaarschnitt.html",
+   "teaser": "Nach Kritik an der Halmlänge stellt der Vermieter klar, warum die Halme im Pokalspiel des MSV länger waren, als es den Trainern lieb war.",
+   "bild": "https://img.sparknews.funkemedien.de/412971109/412971109_1787748005_v16_9_600.jpeg",
+   "datum": "2026-08-26T12:49:25.000Z",
+   "sortZeit": 1787676565000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412970248",
+   "titel": "Baustellen beim TuS Asterlagen – Testspiel-Tore sorgen für Lichtblick",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412970248/baustellen-beim-tus-asterlagen-testspiel-tore-sorgen-fuer-lichtblick.html",
+   "teaser": "Der Duisburger Bezirksligist steht in der Meisterschaft noch ohne Punkt und eigenen Treffer da. Trainer ist trotz Platzsituation optimistisch.",
+   "bild": "https://img.sparknews.funkemedien.de/412970357/412970357_1787745124_v16_9_600.jpeg",
+   "datum": "2026-08-26T11:58:19.000Z",
+   "sortZeit": 1787673499000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: „Wenn ein Spieler weg möchte, muss er einen Verein bringen“ – Hirsch erklärt den Stand bei Alex Hahn",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-wenn-einer-weg-moechte-muss-er-einen-verein-bringen-dietmar-hirsch-ueber-alex-hahn_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-26T11:43:00.000Z",
+   "sortZeit": 1787672580000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:406808429",
    "titel": "Gegen wen spielt der MSV in der zweiten Runde? Auslosung am 1. September",
    "url": "https://www.nrz.de/sport/msv-duisburg/article406808429/msv-duisburg-alle-news-im-blog.html",
@@ -691,9 +828,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -773,8 +908,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
@@ -854,9 +988,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -994,9 +1126,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1288,32 +1418,6 @@
    "grund": "pfad"
   },
   {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: Nackenschlag in Minute 90+1 – Ex-Duisburger zwingt Schalke in die Verlängerung",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-ex-duisburger-niclas-stierlin-zwingt-schalke-mit-halle-in-die-verlaengerung_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-25T08:48:00.000Z",
-   "sortZeit": 1787575680000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
    "id": "fc-nv.de/20-jahre-damen-und-maedchenfussball-beim-fcnv-bzw-svn-und-tus-preussen-09",
    "titel": "20 Jahre Damen- und Mädchenfußball beim FCNV bzw. SVN und TuS Preußen 09",
    "url": "https://fc-nv.de/20-jahre-damen-und-maedchenfussball-beim-fcnv-bzw-svn-und-tus-preussen-09/",
@@ -1465,7 +1569,6 @@
     "RP Online Sport Xanten und Rheinberg",
     "RP Online Sport Duisburg",
     "RP Online Moers",
-    "RP Online Xanten",
     "RP Online Duisburg"
    ],
    "ort": "Alpen",
@@ -1966,8 +2069,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
@@ -1996,8 +2098,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Xanten",
    "ortSicher": true,
