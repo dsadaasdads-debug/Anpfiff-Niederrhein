@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T14:08:16.704Z",
+ "aktualisiert": "2026-08-26T15:54:15.814Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -728,9 +728,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
@@ -773,6 +771,90 @@
    "grund": "rubrik"
   },
   {
+   "id": "funke:412973994",
+   "titel": "Drei Minuten fehlten: MSV-Talente schrammen am großen Coup gegen den BVB vorbei",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412973994/drei-minuten-fehlten-msv-talente-schrammen-am-grossen-coup-gegen-den-bvb-vorbei.html",
+   "teaser": "Das U-19-Team der Zebras hat den großen Favoriten am Rand einer Niederlage. Nächstes Highlight am Sonntag: DFB-Pokal gegen Cottbus.",
+   "bild": "https://img.sparknews.funkemedien.de/412974127/412974127_1787759143_v16_9_600.jpeg",
+   "datum": "2026-08-26T15:47:52.000Z",
+   "sortZeit": 1787687272000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412973032",
+   "titel": "MSV Duisburg: Die Moderation hat im Fall Ali Hahn nicht funktioniert",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412973032/msv-duisburg-die-moderation-hat-im-fall-ali-hahn-nicht-funktioniert.html",
+   "teaser": "Diesen Konflikt hätte sich der MSV Duisburg ersparen müssen. Aus sportlicher Sicht ist die Sachlage derweil klar. Ein Kommentar.",
+   "bild": "https://img.sparknews.funkemedien.de/412973740/412973740_1787756989_v16_9_600.jpeg",
+   "datum": "2026-08-26T15:16:50.000Z",
+   "sortZeit": 1787685410000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412967799",
+   "titel": "Ali Hahn will den MSV verlassen – das sagt Sportdirektor Chris Schmoldt",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412967799/ali-hahn-will-den-msv-verlassen-das-sagt-sportdirektor-chris-schmoldt.html",
+   "teaser": "MSV-Sportchef Chris Schmoldt bemüht sich, die Schärfe aus der Sache herauszunehmen. Trainer Dietmar Hirsch will den Fall zu den Akten legen.",
+   "bild": "https://img.sparknews.funkemedien.de/412090319/412090319_1787751105_v16_9_600.jpeg",
+   "datum": "2026-08-26T14:08:02.000Z",
+   "sortZeit": 1787681282000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412970873",
    "titel": "Die Rasenpfleger des MSV Duisburg erklären den Langhaarschnitt",
    "url": "https://www.nrz.de/sport/msv-duisburg/article412970873/die-rasenpfleger-des-msv-duisburg-erklaeren-den-langhaarschnitt.html",
@@ -784,9 +866,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -865,9 +945,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1080,8 +1158,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Moers",
    "ortSicher": true,
@@ -1631,7 +1708,6 @@
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
     "RP Online Sport Duisburg",
-    "RP Online Moers",
     "RP Online Duisburg"
    ],
    "ort": "Alpen",
@@ -10752,32 +10828,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "fuechse-duisburg.de/saisoneroeffnung-2026-2027",
-   "titel": "Saisoneröffnung 2026/2027",
-   "url": "https://fuechse-duisburg.de/saisoneroeffnung-2026-2027/",
-   "teaser": "Am 23. August starten wir gemeinsam mit euch in die neue Saison. Ab 11 Uhr wartet ein abwechslungsreicher Tag mit jeder Menge Füchse Feeling auf euch! 🦊 Auf der Bühne lernt ihr unsere Mannschaft und das Trainerteam noch einmal näher kennen. Freut euch auf lockere Gespräche mit den Spielern, Einblicke in die neue Saison und […]",
-   "bild": "",
-   "datum": "2026-07-27T15:00:00.000Z",
-   "sortZeit": 1785092400000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "Füchse Duisburg",
-   "quelleName": "Füchse Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "Füchse Duisburg"
-   ],
-   "sportart": "Eishockey",
-   "ereignis": null,
-   "grund": "vereinsfeed"
   }
  ]
 }
