@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T08:00:14.501Z",
+ "aktualisiert": "2026-08-26T09:02:49.130Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -1242,9 +1242,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1863,8 +1861,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers",
-    "RP Online Xanten"
+    "RP Online Moers"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
@@ -10488,33 +10485,6 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412684782",
-   "titel": "TuS Lintfort: Training in Leverkusen – gute Ansätze, aber auch Luft nach oben",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412684782/tus-lintfort-training-in-leverkusen-gute-ansaetze-aber-auch-luft-nach-oben.html",
-   "teaser": "Zweitliga-Handballerinnen des TuS Lintfort schlagen Ligarivalen Bayer Leverkusen, verlieren aber gegen den Drittligisten TSG Leihgestern.",
-   "bild": "https://img.sparknews.funkemedien.de/412684890/412684890_1785140662_v16_9_600.jpeg",
-   "datum": "2026-07-27T08:27:32.000Z",
-   "sortZeit": 1785140852000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Kamp-Lintfort",
-   "ortSicher": true,
-   "orte": [
-    "Kamp-Lintfort",
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "TuS Lintfort"
-   ],
-   "sportart": "Handball",
    "ereignis": null,
    "grund": "pfad"
   },
