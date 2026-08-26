@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T04:56:07.793Z",
+ "aktualisiert": "2026-08-26T05:50:55.453Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 23
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -937,7 +937,9 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
