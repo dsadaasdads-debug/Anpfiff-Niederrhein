@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T16:39:54.778Z",
+ "aktualisiert": "2026-08-26T21:15:53.928Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1676,6 +1676,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SV BW Herongen II",
+     "teamId": "011MIBT35O000000VTVG0001VTR8C1K7",
+     "spiele": 3,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "11:4",
+     "differenz": 7,
+     "punkte": 7
+    },
+    {
+     "platz": 2,
      "verein": "SV Union Wetten",
      "teamId": "011MIE0RGG000000VTVG0001VTR8C1K7",
      "spiele": 2,
@@ -1687,7 +1699,7 @@
      "punkte": 6
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "SV 1913 Walbeck II",
      "teamId": "011MI9UEAC000000VTVG0001VTR8C1K7",
      "spiele": 2,
@@ -1699,21 +1711,9 @@
      "punkte": 4
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "SV 19 Sevelen II",
      "teamId": "011MICDOKO000000VTVG0001VTR8C1K7",
-     "spiele": 2,
-     "siege": 1,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "7:3",
-     "differenz": 4,
-     "punkte": 4
-    },
-    {
-     "platz": 3,
-     "verein": "SV BW Herongen II",
-     "teamId": "011MIBT35O000000VTVG0001VTR8C1K7",
      "spiele": 2,
      "siege": 1,
      "unentschieden": 1,
@@ -1750,12 +1750,12 @@
      "platz": 7,
      "verein": "SV BW Herongen",
      "teamId": "011MIAE71G000000VTVG0001VTR8C1K7",
-     "spiele": 2,
+     "spiele": 3,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "6:5",
-     "differenz": 1,
+     "niederlagen": 2,
+     "tore": "7:9",
+     "differenz": -2,
      "punkte": 3
     },
     {
