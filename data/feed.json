@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T15:54:15.814Z",
+ "aktualisiert": "2026-08-26T16:59:50.874Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -771,6 +771,58 @@
    "grund": "rubrik"
   },
   {
+   "id": "rp:153771505",
+   "titel": "Außenseiter gegen Favorit: 1. FC Wülfrath erlebt attraktiven Pokalabend gegen den MSV Duisburg",
+   "url": "https://rp-online.de/nrw/staedte/mettmann/sport/1-fc-wuelfrath-verliert-im-pokal-gegen-msv-duisburg-mit-1-5_aid-153771505",
+   "teaser": "Die Besucher in der IMS Arena in Velbert erfahren einen lauten MSV-Anhang und sehen mutige Gastgeber. Die FCW-Fußballer verlieren deutlich, doch mit einem strammen Schuss setzt Hasan Ülker noch ein Ausrufezeichen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/8/1/1/0/6/9/tok_f2056434d428ec1bc03ba88b1b5e969e/w1200_h630_x1796_y1279_rp_260826abzl6-556342f5b0bbcab1.jpg",
+   "datum": "2026-08-26T16:42:00.000Z",
+   "sortZeit": 1787690520000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153775487",
+   "titel": "Stimmen zum Topduell:  Pokalaus? Für Wülfrath war der MSV trotzdem ein Volltreffer",
+   "url": "https://rp-online.de/nrw/staedte/mettmann/sport/pokalaus-fuer-wuelfrath-war-der-msv-duisburg-trotzdem-ein-volltreffer_aid-153775487",
+   "teaser": "Der 1. FC Wülfrath scheidet gegen den MSV Duisburg aus und nimmt trotzdem viel mit. Leistung und Atmosphäre stimmen – der Abend bleibt in Erinnerung.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/8/2/1/0/1/5/tok_13fcf31f99162abb85ff7aa59360d99b/w1200_h630_x1796_y1197_rp_260826abzl1-cea1db4b33b92969.jpg",
+   "datum": "2026-08-26T16:40:00.000Z",
+   "sortZeit": 1787690400000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412973994",
    "titel": "Drei Minuten fehlten: MSV-Talente schrammen am großen Coup gegen den BVB vorbei",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412973994/drei-minuten-fehlten-msv-talente-schrammen-am-grossen-coup-gegen-den-bvb-vorbei.html",
@@ -1184,9 +1236,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Xanten und Rheinberg",
-   "auchIn": [
-    "RP Online Xanten"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
