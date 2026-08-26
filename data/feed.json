@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T09:57:32.246Z",
+ "aktualisiert": "2026-08-26T10:51:58.099Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 23
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -678,6 +678,32 @@
    "grund": "pfad"
   },
   {
+   "id": "fuechse-duisburg.de/news/auf-eine-gute-saison-fuechse-podcast",
+   "titel": "Auf eine gute Saison – Füchse Podcast",
+   "url": "https://fuechse-duisburg.de/news/auf-eine-gute-saison-fuechse-podcast/",
+   "teaser": "Eine neue Folge von „Late Hit“ geht heute um 18.00Uhr online und wir schauen nach der gelungenen Saisoneröffnung auf die neue Spielzeit. Nach einem Rückblick auf den Sonntag äußert sich Tom Södler ausführlich zu Fragen zur alten Halle und zur Übergangsspielstätte. Des weiteren erläutert unser Geschäftsführer das sportliche Konzept der Füchse, wie es mit offenen […]",
+   "bild": "",
+   "datum": "2026-08-26T10:00:00.000Z",
+   "sortZeit": 1787666400000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "funke:412961111",
    "titel": "SV Scherpenberg: Hiobsbotschaft nach gelungenem Start in die Oberliga",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412961111/sv-scherpenberg-hiobsbotschaft-nach-gelungenem-start-in-die-oberliga.html",
@@ -987,9 +1013,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
