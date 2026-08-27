@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T23:33:18.518Z",
+ "aktualisiert": "2026-08-27T09:49:27.202Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 23
+   "eintraege": 24
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,66 @@
  ],
  "artikel": [
   {
+   "id": "rp:153807113",
+   "titel": "Jugendfußballer starten am 30. August: Saisoneröffnung mit „Mister SV Budberg“",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/jugendfussball-beim-sv-budberg-wilhelm-barnowski-wird-bei-saisoneroeffnung-geehrt_aid-153807113",
+   "teaser": "Am 30. August steigt beim SV Budberg die offizielle Saisoneröffnung der Jugendfußballer. Am Sonntag steht nicht allein der Sport im Mittelpunkt. „Mister SV Budberg“ erhält eine besondere Urkunde.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/8/9/0/5/7/1/tok_198a27ee1f0bb32e11f7f88fb6e883a8/w1200_h630_x1796_y1197_rp_20260628_J_0198-bbf9565319d0f02c.jpg",
+   "datum": "2026-08-27T09:43:00.000Z",
+   "sortZeit": 1787794980000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153709441",
+   "titel": "Zehn Rennen am 11. September: Was sich beim 31. Xantener Citylauf ändert",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/citylauf-xanten-am-11-september-neuerungen-infos-startzeiten_aid-153709441",
+   "teaser": "Beim 31. Enni- Citylauf des TuS Xanten am 11. September gibt’s einige Änderungen. Das hat auch finanzielle Gründe. Erstmals stehen Anna-Lina-Dahlbeck und Christoph Verhalen an der Spitze des Orgateams.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/6/6/0/1/6/3/tok_416ac3c190975f46ec2667c06100d163/w1200_h630_x1796_y1197_rp_20250912_J_178-95520183771aa930.jpg",
+   "datum": "2026-08-27T06:36:56.000Z",
+   "sortZeit": 1787783816000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Xanten",
+   "ortSicher": true,
+   "orte": [
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "TUS Xanten 05/22"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "funke:412971221",
    "titel": "SV Scherpenberg: Klare Sache im Testspiel gegen einen mutigen Gegner",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412971221/sv-scherpenberg-klare-sache-im-testspiel-gegen-einen-mutigen-gegner.html",
@@ -650,6 +710,60 @@
     "SV Sevelen 1919"
    ],
    "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412978074",
+   "titel": "MSV Duisburg gegen die Würzburger Kickers im Liveticker",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412978074/msv-duisburg-gegen-die-wuerzburger-kickers-im-liveticker.html",
+   "teaser": "Der MSV Duisburg trifft am Samstag um 14 Uhr in der Schauinslandreisen-Arena auf Aufsteiger Würzburger Kickers. Wir sind mit einem Liveticker dabei.",
+   "bild": "https://img.sparknews.funkemedien.de/412978171/412978171_1787820962_v16_9_600.jpeg",
+   "datum": "2026-08-27T08:58:34.000Z",
+   "sortZeit": 1787749114000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412977554",
+   "titel": "„Kein Pfützentanz“: Katharina Wehr siegt erneut beim Duisburger Firmenlauf",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412977554/kein-pfuetzentanz-katharina-wehr-siegt-erneut-beim-duisburger-firmenlauf.html",
+   "teaser": "Die Vorjahressieger setzen sich erneut beim Firmenlauf in der Duisburger City durch. 30.000 Euro für den guten Zweck.",
+   "bild": "https://img.sparknews.funkemedien.de/412977487/412977487_1787819312_v16_9_600.jpeg",
+   "datum": "2026-08-27T08:37:46.000Z",
+   "sortZeit": 1787747866000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
    "ereignis": null,
    "grund": "pfad"
   },
@@ -825,7 +939,7 @@
   {
    "id": "funke:412973994",
    "titel": "Drei Minuten fehlten: MSV-Talente schrammen am großen Coup gegen den BVB vorbei",
-   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412973994/drei-minuten-fehlten-msv-talente-schrammen-am-grossen-coup-gegen-den-bvb-vorbei.html",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412973994/drei-minuten-fehlten-msv-talente-schrammen-am-grossen-coup-gegen-den-bvb-vorbei.html",
    "teaser": "Das U-19-Team der Zebras hat den großen Favoriten am Rand einer Niederlage. Nächstes Highlight am Sonntag: DFB-Pokal gegen Cottbus.",
    "bild": "https://img.sparknews.funkemedien.de/412974127/412974127_1787759143_v16_9_600.jpeg",
    "datum": "2026-08-26T15:47:52.000Z",
@@ -1126,9 +1240,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -1542,9 +1654,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -4425,7 +4535,6 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
     "RP Online Sport Duisburg"
    ],
    "ort": "Duisburg",
@@ -4764,9 +4873,7 @@
    "paywall": false,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Sonsbeck",
    "ortSicher": true,
    "orte": [
@@ -5668,9 +5775,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -5696,9 +5801,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport Duisburg"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": false,
    "orte": [
