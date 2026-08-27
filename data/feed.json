@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-27T09:49:27.202Z",
+ "aktualisiert": "2026-08-27T20:30:51.860Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 24
+   "eintraege": 25
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,148 @@
  ],
  "artikel": [
   {
+   "id": "funke:412983628",
+   "titel": "Eine gelungene Premiere für den neuen Trainer des Moerser SC",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412983628/eine-gelungene-premiere-fuer-den-neuen-trainer-des-moerser-sc.html",
+   "teaser": "Thomaz Santos steht beim Volleyball-Drittligisten erstmals in der Verantwortung. Knapper Sieg vor erstaunlicher Kulisse.",
+   "bild": "https://img.sparknews.funkemedien.de/412983966/412983966_1787840695_v16_9_600.jpeg",
+   "datum": "2026-08-27T14:28:26.000Z",
+   "sortZeit": 1787840906000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "Moerser SC"
+   ],
+   "sportart": "Volleyball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412982742",
+   "titel": "Flutlichtausfall gegen ETB: SV Scherpenberg hat nun Gewissheit",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412982742/flutlichtausfall-gegen-etb-sv-scherpenberg-hat-nun-gewissheit.html",
+   "teaser": "Das Sportgericht des Fußballverbandes Niederrhein hat seine beabsichtigte Entscheidung in dem Fall mitgeteilt. Sperre für Akbel steht auch fest.",
+   "bild": "https://img.sparknews.funkemedien.de/412983319/412983319_1787838328_v16_9_600.jpeg",
+   "datum": "2026-08-27T13:46:14.000Z",
+   "sortZeit": 1787838374000,
+   "punkte": 150,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Moers",
+   "ortSicher": true,
+   "orte": [
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "SV Scherpenberg 1921"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412966040",
+   "titel": "Prestige und Emotionalität zum Auftakt: TuS Lintfort empfängt alten Rivalen",
+   "url": "https://www.nrz.de/sport/lokalsport/moers/article412966040/prestige-und-emotionalitaet-zum-auftakt-tus-lintfort-empfaengt-alten-rivalen.html",
+   "teaser": "Für die Zweitliga-Handballerinnen des TuS Lintfort erfolgt am Samstag der Startschuss zur Saison 2026/27. Der HSV Solingen-Gräfrath kommt.",
+   "bild": "https://img.sparknews.funkemedien.de/412966159/412966159_1787834454_v16_9_600.jpeg",
+   "datum": "2026-08-27T12:42:24.000Z",
+   "sortZeit": 1787834544000,
+   "punkte": 150,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Kamp-Lintfort",
+   "ortSicher": true,
+   "orte": [
+    "Kamp-Lintfort",
+    "Moers"
+   ],
+   "zone": "kern",
+   "vereine": [
+    "TuS Lintfort"
+   ],
+   "sportart": "Handball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412980885",
+   "titel": "Hamborn 07 ist noch ohne Punkt: Zwei Spieler fehlen gesperrt, zwei kehren zurück",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412980885/hamborn-07-ist-noch-ohne-punkt-zwei-spieler-fehlen-gesperrt-zwei-kehren-zurueck.html",
+   "teaser": "Die Löwen sind mit zwei Niederlagen in die Bezirksliga gestartet. Am Freitagabend wartet in Bottrop erneut keine leichte Aufgabe.",
+   "bild": "https://img.sparknews.funkemedien.de/412980957/412980957_1787831058_v16_9_600.jpeg",
+   "datum": "2026-08-27T11:47:30.000Z",
+   "sortZeit": 1787802450000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck",
+    "Duisburg"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153807097",
+   "titel": "Heimspiel gegen Aufsteiger Duisburg 08: Beim SV Budberg rückt das Sportliche wieder in den Vordergrund",
+   "url": "https://rp-online.de/nrw/staedte/xanten/sport/sv-budberg-heimspiel-gegen-duisburg-08-strafe-fuer-wilke-noch-unbekannt_aid-153807097",
+   "teaser": "Nach einer aufregenden Woche geht’s für den SV Budberg in der Fußball-Landesliga gegen einen offensivstarken Gegner mit großer Vergangenheit weiter. Trainer Tim Wilke schließt Veränderungen in der Startelf nicht aus.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/8/9/0/5/5/5/tok_414c21dfa097e5c3ee7486df04a70d6c/w1200_h630_x1350_y900_rp_20260816_J_0656-1b792775c3a1e1e2.jpg",
+   "datum": "2026-08-27T10:31:00.000Z",
+   "sortZeit": 1787797860000,
+   "punkte": 110,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Moers",
+   "auchIn": [
+    "RP Online Sport Xanten und Rheinberg",
+    "RP Online Moers",
+    "RP Online Xanten"
+   ],
+   "ort": "Rheinberg",
+   "ortSicher": true,
+   "orte": [
+    "Rheinberg",
+    "Duisburg",
+    "Xanten"
+   ],
+   "zone": "umland",
+   "vereine": [
+    "SV Budberg 1946"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
    "id": "rp:153807113",
    "titel": "Jugendfußballer starten am 30. August: Saisoneröffnung mit „Mister SV Budberg“",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/jugendfussball-beim-sv-budberg-wilhelm-barnowski-wird-bei-saisoneroeffnung-geehrt_aid-153807113",
@@ -637,7 +779,8 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Moers",
+    "RP Online Xanten"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
@@ -684,6 +827,273 @@
    "grund": "rubrik"
   },
   {
+   "id": "fuechse-duisburg.de/news/ausblick-auf-das-wochenende",
+   "titel": "Ausblick auf das Wochenende",
+   "url": "https://fuechse-duisburg.de/news/ausblick-auf-das-wochenende/",
+   "teaser": "Am ersten kompletten Wochenende der neuen Spielzeit testen die Füchse gleich zwei Mal gegen einen Oberliga-Konkurrenten.Am Freitag daheim um 19.30Uhr und am Sonntag auswärts ab 16.30Uhr geht es gegen die Ice Dragons Herford. Der Gegner In der letzten Saison gewannen die Füchse 3 von 4 Begegnungen gegen die Mannen um Coach Henry Thom. Der letztjährige […]",
+   "bild": "",
+   "datum": "2026-08-27T17:00:00.000Z",
+   "sortZeit": 1787778000000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
+   "id": "funke:412978316",
+   "titel": "MSV und Würzburg: Relegations-Blues, ein Assistenzhund und ein Trainer-Comeback",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412978316/msv-und-wuerzburg-relegations-blues-ein-assistenzhund-und-ein-trainer-comeback.html",
+   "teaser": "Viel Tradition ist nicht im Spiel, wenn der MSV Duisburg am Samstag auf die Würzburger Kickers trifft. Der Blick zurück ist trotzdem interessant.",
+   "bild": "https://img.sparknews.funkemedien.de/412984024/412984024_1787840857_v16_9_600.jpeg",
+   "datum": "2026-08-27T14:53:05.000Z",
+   "sortZeit": 1787770385000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:153828543",
+   "titel": "Zuletzt viermal nicht im Kader: MSV-Coach Hirsch spricht über die Zukunft seines Kapitäns",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-hirsch-bestaetigt-alexander-hahn-will-den-klub-verlassen_aid-153828543",
+   "teaser": "In den ersten vier Pflichtspielen der neuen Saison stand Kapitän Alexander Hahn kein einziges Mal im Kader des MSV Duisburg. Nun hat sich Trainer Dietmar Hirsch klar zu dessen Situation geäußert.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/9/3/9/0/1/7/tok_d74485c568a2c6fd47402e37f49c41b4/w1200_h630_x1796_y1197_IMSP_imago_sp_0823_21170001_1065469022-b0f694c0727e8c8a.jpg",
+   "datum": "2026-08-27T14:00:54.000Z",
+   "sortZeit": 1787767254000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153711309",
+   "titel": "Event am 5. September: In eigener Sache – RP-Redakteur Stefan Janssen in die Jury der AFLE Awards berufen",
+   "url": "https://rp-online.de/sport/football/rhein-fire/football-rhein-fire-reporter-stefan-janssen-fuer-rheinische-post-in-jury-der-afle-awards-berufen_aid-153711309",
+   "teaser": "Wenn am Tag vor dem Finale in Duisburg die besten Spieler und Trainer dieser Footballsaison gekürt werden, hat auch die Rheinische Post mitabgestimmt. Die Liga würdigt mit der Berufung unseres Rhein-Fire-Reporters dessen Arbeit.",
+   "bild": "https://rp-online.de/imgs/32/2/7/8/6/6/4/6/5/5/tok_d9bcb4fdf4451f83e373e7226abd4801/w1200_h630_x1087_y612_RF__Firenze_by_MaksimStamenic_423-b5b8c43686927c22.jpg",
+   "datum": "2026-08-27T13:46:00.000Z",
+   "sortZeit": 1787766360000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Sport Duisburg",
+   "auchIn": [
+    "RP Online Duisburg"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412981763",
+   "titel": "Köln statt Iserlohn: Füchse testen diesmal in anderer Konstellation",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412981763/koeln-statt-iserlohn-fuechse-testen-diesmal-in-anderer-konstellation.html",
+   "teaser": "Nachdem die Iserlohner Förderlizenzspieler beim Sieg gegen Heilbronn überzeugen konnten, präsentieren sich diesmal die Youngster aus Köln.",
+   "bild": "https://img.sparknews.funkemedien.de/412982220/412982220_1787834776_v16_9_600.jpeg",
+   "datum": "2026-08-27T13:07:04.000Z",
+   "sortZeit": 1787764024000,
+   "punkte": 40,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": false,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412972264",
+   "titel": "Streifendienst 1902: MSV-Kapitän Alexander Hahn strebt Wechsel an – und jetzt?",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412972264/streifendienst-1902-msv-kapitaen-alexander-hahn-strebt-wechsel-an-und-jetzt.html",
+   "teaser": "Im MSV-Talk sprechen Tim Gißke und David Müller über die beiden Pokalspiele der Zebras – und den Wechselwunsch des Kapitäns.",
+   "bild": "https://img.sparknews.funkemedien.de/412722215/412722215_1787821817_v16_9_600.jpeg",
+   "datum": "2026-08-27T13:06:25.000Z",
+   "sortZeit": 1787763985000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412982151",
+   "titel": "MSV Duisburg: Das ist der Plan, wenn ein Wechsel von Ali Hahn platzt",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412982151/msv-duisburg-das-ist-der-plan-wenn-ein-wechsel-von-ali-hahn-platzt.html",
+   "teaser": "MSV-Trainer Dietmar Hirsch bemüht sich um Normalität. Er würdigt den noch amtierenden Kapitän der Zebras: „Ich habe eine sehr hohe Meinung.“",
+   "bild": "https://img.sparknews.funkemedien.de/412982206/412982206_1787834720_v16_9_600.jpeg",
+   "datum": "2026-08-27T12:59:47.000Z",
+   "sortZeit": 1787763587000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412980684",
+   "titel": "Spielerkarussell dreht sich weiter: Wechsel vom VfB Homberg zu Rheinland Hamborn",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412980684/spielerkarussell-dreht-sich-weiter-wechsel-vom-vfb-homberg-zu-rheinland-hamborn.html",
+   "teaser": "Erst kürzlich war Joel Preuß innerhalb der Landesliga auf die linke Rheinseite gewechselt. Ein VfB-Kicker geht den umgekehrten Weg.",
+   "bild": "https://img.sparknews.funkemedien.de/412980807/412980807_1787830534_v16_9_600.jpeg",
+   "datum": "2026-08-27T11:39:03.000Z",
+   "sortZeit": 1787758743000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Moers",
+   "auchIn": [
+    "NRZ Lokalsport Duisburg"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg",
+    "Sonsbeck"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "VFB Homberg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/hauptsaison-laedt-ueber-350-dauerkarten-sind-schon-dabei",
+   "titel": "Hauptsaison lädt… über 350 Dauerkarten sind schon dabei!",
+   "url": "https://fuechse-duisburg.de/news/hauptsaison-laedt-ueber-350-dauerkarten-sind-schon-dabei/",
+   "teaser": "Mehr als 350 Füchse Fans haben sich bereits ihre Dauerkarte für die Saison 2026/27 gesichert. Damit haben wir die Zahl unserer Dauerkarten seit der Saison 2023/24 mehr als verdoppelt. 🦊 Für dieses Vertrauen möchten wir euch von Herzen Danke sagen. Diese Entwicklung ist für uns ein starkes Zeichen, dass der Weg, den wir gemeinsam gehen, […]",
+   "bild": "",
+   "datum": "2026-08-27T11:00:00.000Z",
+   "sortZeit": 1787756400000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
+   "id": "funke:412979377",
+   "titel": "SuS 09 Dinslaken II startet in die Saison: Was Trainer Dunkel jetzt erwartet",
+   "url": "https://www.nrz.de/sport/lokalsport/dinslaken-huenxe-voerde/article412979377/sus-09-dinslaken-ii-startet-in-die-saison-was-trainer-dunkel-jetzt-erwartet.html",
+   "teaser": "Nach langer und intensiver Vorbereitung startet der SuS 09 Dinslaken II in die neue Kreisliga-A-Saison. Zum Auftakt kommt Eintracht Walsum.",
+   "bild": "https://img.sparknews.funkemedien.de/412596370/412596370_1784204970_v16_9_600.jpeg",
+   "datum": "2026-08-27T10:59:24.000Z",
+   "sortZeit": 1787756364000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Eintracht Walsum 19/20 e. V."
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412971221",
    "titel": "SV Scherpenberg: Klare Sache im Testspiel gegen einen mutigen Gegner",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412971221/sv-scherpenberg-klare-sache-im-testspiel-gegen-einen-mutigen-gegner.html",
@@ -695,9 +1105,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -725,9 +1133,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -753,9 +1159,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -779,9 +1183,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Moers",
    "ortSicher": true,
    "orte": [
@@ -948,9 +1350,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1055,8 +1455,7 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg",
-    "NRZ Lokalsport"
+    "NRZ Lokalsport Duisburg"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
@@ -1777,8 +2176,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Rheinberg",
    "ortSicher": true,
@@ -1863,8 +2261,7 @@
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
     "RP Online Sport Xanten und Rheinberg",
-    "RP Online Sport Duisburg",
-    "RP Online Duisburg"
+    "RP Online Sport Duisburg"
    ],
    "ort": "Alpen",
    "ortSicher": true,
@@ -4246,9 +4643,7 @@
    "paywall": true,
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
-   "auchIn": [
-    "RP Online Sport Xanten und Rheinberg"
-   ],
+   "auchIn": [],
    "ort": "Xanten",
    "ortSicher": true,
    "orte": [
@@ -10849,132 +11244,6 @@
     "TV Issum"
    ],
    "sportart": "Handball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "rp:152158777",
-   "titel": "B-Liga startet mit Abendspiel: Die Kreisliga-Spielpläne sind fertig",
-   "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-kreis-moers-spielplaene-der-a-liga-b-liga-und-c-ligen-veroeffentlicht_aid-152158777",
-   "teaser": "Die vier Spielpläne der Männer-Teams im Fußball-Kreis Moers sind seit Dienstagnachmittag freigegeben. Die A-Liga beginnt mit einem Duisburger Duell. So steigen die B-Ligisten und C-Ligisten in die Saison 2026/27 ein.",
-   "bild": "https://rp-online.de/imgs/32/2/7/5/1/8/6/7/5/5/tok_2c57b52ea5043335f408ab58bd845101/w1200_h630_x1350_y900_rp_20251208_J_0219-ee542de58a9465a7.jpg",
-   "datum": "2026-07-28T14:13:00.000Z",
-   "sortZeit": 1785247980000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Sport Duisburg",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers",
-    "Duisburg",
-    "Xanten"
-   ],
-   "zone": "kern",
-   "vereine": [],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
-   "id": "funke:412701451",
-   "titel": "Spieltermine sind fix: So kicken die Kreisliga-Vereine im Fußballkreis Moers",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412701451/spieltermine-sind-fix-so-kicken-die-kreisliga-vereine-im-fussballkreis-moers.html",
-   "teaser": "Auch die Teams des Fußballkreises Moers in den Kreisligen A bis C wissen nun, wie in die Saison gestartet wird. Die ersten Spieltermine.",
-   "bild": "https://img.sparknews.funkemedien.de/412701525/412701525_1785246038_v16_9_600.jpeg",
-   "datum": "2026-07-28T13:45:35.000Z",
-   "sortZeit": 1785246335000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412698044",
-   "titel": "14 Tore in zwei Spielen: Doch beim 1. FC Lintfort gibt es auch Kritik",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412698044/14-tore-in-zwei-spielen-doch-beim-1-fc-lintfort-gibt-es-auch-kritik.html",
-   "teaser": "Landesliga-Fußballer des 1. FC Lintfort testen am Mittwochabend in Sonsbeck. Trainer Meik Bodden ist wieder da. Und spricht Klartext.",
-   "bild": "https://img.sparknews.funkemedien.de/412698730/412698730_1785236522_v16_9_600.jpeg",
-   "datum": "2026-07-28T11:05:24.000Z",
-   "sortZeit": 1785236724000,
-   "punkte": 150,
-   "paywall": true,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Kamp-Lintfort",
-   "ortSicher": true,
-   "orte": [
-    "Kamp-Lintfort",
-    "Sonsbeck",
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "1. FC Lintfort"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412679941",
-   "titel": "Weltmeisterschaft der Reiter: Doppelte Medaillenchance für Moerser in Aachen",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412679941/weltmeisterschaft-der-reiter-doppelte-medaillenchance-fuer-moerser-in-aachen.html",
-   "teaser": "An die Aachener Sörs hat Bela Lehnen gute Erinnerungen. 2015 war er erstmals vor Ort. Warum ausgerechnet sein Opa ein Glücksbringer ist.",
-   "bild": "https://img.sparknews.funkemedien.de/412697680/412697680_1785233471_v16_9_600.jpeg",
-   "datum": "2026-07-28T10:21:00.000Z",
-   "sortZeit": 1785234060000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [],
-   "sportart": null,
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412697552",
-   "titel": "Warnschuss zur richtigen Zeit? Beine sucht nach Gründen für mageren VfB-Auftritt",
-   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412697552/warnschuss-zur-richtigen-zeit-beine-sucht-nach-gruenden-fuer-mageren-vfb-auftritt.html",
-   "teaser": "Nach dem 1:6 in Solingen wollen die Homberger Landesliga-Kicker zurück in die richtige Spur finden. Zwei mögliche Neuzugänge im Test.",
-   "bild": "https://img.sparknews.funkemedien.de/412698388/412698388_fc_1785235764_v16_9_600.jpeg",
-   "datum": "2026-07-28T10:53:04.000Z",
-   "sortZeit": 1785163984000,
-   "punkte": 40,
-   "paywall": true,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": false,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [],
-   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   }
