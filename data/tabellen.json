@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-26T21:15:53.928Z",
+ "aktualisiert": "2026-08-27T01:05:59.081Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2449,14 +2449,14 @@
      "gast": "SuS 09 Dinslaken",
      "url": "https://www.fussball.de/spiel/1fc-lintfort-sus-09-dinslaken/-/spiel/031E6528E0000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
-     "datum": "Samstag, 05.09.2026 - 17:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "JSG Borth / Büderich",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/jsg-borth-buederich-1fc-lintfort/-/spiel/031HSSUFAS000000VS5489BTVSRD0UH9",
+     "datum": "Dienstag, 01.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "1.FC Lintfort",
+     "gast": "GSV Moers",
+     "url": "https://www.fussball.de/spiel/1fc-lintfort-gsv-moers/-/spiel/031TB0RKVK000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
