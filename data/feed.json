@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-27T20:30:51.860Z",
+ "aktualisiert": "2026-08-28T05:24:45.968Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -1025,7 +1025,8 @@
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
    "auchIn": [
-    "NRZ Lokalsport Duisburg"
+    "NRZ Lokalsport Duisburg",
+    "NRZ Lokalsport"
    ],
    "ort": "Duisburg",
    "ortSicher": true,
@@ -1716,8 +1717,7 @@
    "quelle": "RP Online",
    "quelleName": "RP Online Sport Moers",
    "auchIn": [
-    "RP Online Sport Xanten und Rheinberg",
-    "RP Online Moers"
+    "RP Online Sport Xanten und Rheinberg"
    ],
    "ort": "Moers",
    "ortSicher": true,
@@ -11190,32 +11190,6 @@
     "Black Tigers Moers"
    ],
    "sportart": "Eishockey",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412701762",
-   "titel": "Ein-Punkt-Spiele im Tennis: Sieger kassiert 500 Euro beim TV Schwafheim",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412701762/ein-punkt-spiele-im-tennis-sieger-kassiert-500-euro-beim-tv-schwafheim.html",
-   "teaser": "Eine Tennis-Idee aus der Vor-Corona-Zeit wird beim TV Schwafheim und beim TV Vennikel umgesetzt. 40 Spieler streiten sich um den Sieg.",
-   "bild": "https://img.sparknews.funkemedien.de/412702046/412702046_1785248176_v16_9_600.jpeg",
-   "datum": "2026-07-29T03:16:00.000Z",
-   "sortZeit": 1785294960000,
-   "punkte": 150,
-   "paywall": true,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Moers",
-   "ortSicher": true,
-   "orte": [
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "TV Schwafheim"
-   ],
-   "sportart": "Handball",
    "ereignis": null,
    "grund": "pfad"
   },
