@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-28T00:37:45.429Z",
+ "aktualisiert": "2026-08-28T12:15:45.296Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4296,6 +4296,15 @@
      "hinweis": null
     },
     {
+     "datum": "Mittwoch, 02.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Millingen",
+     "gast": "SV Budberg II",
+     "url": "https://www.fussball.de/spiel/sv-millingen-sv-budberg-ii/-/spiel/031TPJVOEK000000VS5489BUVSORQI22",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 06.09.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Millingen",
@@ -4319,15 +4328,6 @@
      "heim": "Büdericher SV",
      "gast": "SV Millingen",
      "url": "https://www.fussball.de/spiel/buedericher-sv-sv-millingen/-/spiel/031H9RCDEK000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 20.09.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Millingen",
-     "gast": "MSV Moers",
-     "url": "https://www.fussball.de/spiel/sv-millingen-msv-moers/-/spiel/031H9RCCPO000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
