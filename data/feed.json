@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-29T09:03:43.456Z",
+ "aktualisiert": "2026-08-29T14:29:14.159Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 26
+   "eintraege": 27
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -624,6 +624,140 @@
  ],
  "artikel": [
   {
+   "id": "rp:153897833",
+   "titel": "Zebras an der Spitze: Lobinger-Gala, Joker-Assist – MSV Duisburg baut Siegesserie weiter aus",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-lobinger-gala-joker-assist-zebras-bauen-siegesserie-gegen-wuerzburg-aus_aid-153897833",
+   "teaser": "Mit dem dritten Sieg im dritten Spiel hat der MSV Duisburg den perfekten Saisonstart in der 3. Liga perfekt gemacht und die Tabellenführung erfolgreich verteidigt. Beim 3:0 über die Würzburger Kickers war wieder einmal Lex-Tyger Lobinger der entscheidende Mann.",
+   "bild": "https://rp-online.de/imgs/32/2/7/9/1/0/0/1/7/9/tok_3c5ec2b34d7e845940442c2bbad495be/w1200_h630_x1796_y1226_DPA_dpa_6c5m4tpg3v-v1-ax-ms6144-d50cf3d1dfe9223f.jpeg",
+   "datum": "2026-08-29T13:59:00.000Z",
+   "sortZeit": 1787939940000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412994409",
+   "titel": "Doppelpacker Tyger Lobinger legt den Grundstein zum 3:0-Sieg des MSV Duisburg",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412994409/doppelpacker-tyger-lobinger-legt-den-grundstein-zum-30-sieg-des-msv-duisburg.html",
+   "teaser": "Der MSV Duisburg verteidigt mit einem 3:0-Erfolg über Aufsteiger FC Würzburger Kickers die Tabellenführung in der 3. Liga.",
+   "bild": "https://img.sparknews.funkemedien.de/412998651/412998651_1788008547_v16_9_600.jpeg",
+   "datum": "2026-08-29T13:54:32.000Z",
+   "sortZeit": 1787939672000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "rp:152589319",
+   "titel": "Liveticker in der Nachlese: Lobinger in feinster Stürmermanier – Duisburg besiegt Würzburg",
+   "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-gegen-die-wuerzburger-kickers-in-der-liveticker-nachlese_aid-152589319",
+   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
+   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
+   "datum": "2026-08-29T13:53:00.000Z",
+   "sortZeit": 1787939580000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412978074",
+   "titel": "3:0! Viet baut die Führung für den MSV weiter aus und lässt die Fans feiern",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412978074/msv-duisburg-gegen-die-wuerzburger-kickers-im-liveticker.html",
+   "teaser": "Der MSV Duisburg trifft am Samstag um 14 Uhr in der Schauinslandreisen-Arena auf Aufsteiger Würzburger Kickers. Wir sind mit einem Liveticker dabei.",
+   "bild": "https://img.sparknews.funkemedien.de/412978171/412978171_1787820962_v16_9_600.jpeg",
+   "datum": "2026-08-29T13:40:00.000Z",
+   "sortZeit": 1787938800000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/fotorueckblick-spiel-2-gegen-herford",
+   "titel": "Fotorückblick Spiel 2 gegen Herford",
+   "url": "https://fuechse-duisburg.de/news/fotorueckblick-spiel-2-gegen-herford/",
+   "teaser": "Noch einmal zurück aufs Eis und rein in die besten Momente unseres zweiten Vorbereitungsspiels gegen die Herforder Ice Dragons. 📸 Fotos: Justin Herschfeld, Maren Otto und Jude Cortiula.",
+   "bild": "",
+   "datum": "2026-08-29T12:00:00.000Z",
+   "sortZeit": 1787932800000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "funke:412990248",
    "titel": "Spitzenspiel zum A-Liga-Start: Lüttingen empfängt den SV Schwafheim",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412990248/spitzenspiel-zum-a-liga-start-luettingen-empfaengt-den-sv-schwafheim.html",
@@ -818,9 +952,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Rheinberg",
    "ortSicher": true,
    "orte": [
@@ -1941,32 +2073,6 @@
    "grund": "pfad"
   },
   {
-   "id": "funke:412978074",
-   "titel": "MSV Duisburg gegen die Würzburger Kickers im Liveticker",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article412978074/msv-duisburg-gegen-die-wuerzburger-kickers-im-liveticker.html",
-   "teaser": "Der MSV Duisburg trifft am Samstag um 14 Uhr in der Schauinslandreisen-Arena auf Aufsteiger Würzburger Kickers. Wir sind mit einem Liveticker dabei.",
-   "bild": "https://img.sparknews.funkemedien.de/412978171/412978171_1787820962_v16_9_600.jpeg",
-   "datum": "2026-08-27T08:58:34.000Z",
-   "sortZeit": 1787749114000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
    "id": "funke:412977554",
    "titel": "„Kein Pfützentanz“: Katharina Wehr siegt erneut beim Duisburger Firmenlauf",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412977554/kein-pfuetzentanz-katharina-wehr-siegt-erneut-beim-duisburger-firmenlauf.html",
@@ -2532,32 +2638,6 @@
    "bild": "https://rp-online.de/imgs/32/2/7/8/6/9/4/5/6/1/tok_09e2bf4efcb097bb992436e6582762fb/w1200_h630_x1796_y1197_107078519-0af725548b561be6.jpg",
    "datum": "2026-08-25T20:18:00.000Z",
    "sortZeit": 1787617080000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
-   "id": "rp:152589319",
-   "titel": "Samstag ab 14 Uhr: MSV Duisburg gegen die Würzburger Kickers im Liveticker",
-   "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-gegen-die-wuerzburger-kickers-im-liveticker_aid-152589319",
-   "teaser": "Am zweiten Spieltag der Dritten Liga gastieren die Zebras beim SC Verl in Ostwestfalen – und wollen direkt an ihrer Auswärtsschwäche aus dem Vorjahr arbeiten. Im Liveticker verpassen Sie nichts.",
-   "bild": "https://rp-online.de/imgs/32/2/7/6/1/5/8/9/9/5/tok_8973a443b246399320f72f85b003ffb8/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5FB52A00F42EF538-9de36347cf0a3a75.jpg",
-   "datum": "2026-08-25T19:21:00.000Z",
-   "sortZeit": 1787613660000,
    "punkte": 80,
    "paywall": false,
    "quelle": "RP Online",
@@ -11769,32 +11849,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
-  },
-  {
-   "id": "funke:412718335",
-   "titel": "„Waren nicht wach“ – dann dreht die Defensive das Spiel für den VfB Homberg",
-   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412718335/waren-nicht-wach-dann-dreht-die-defensive-das-spiel-fuer-den-vfb-homberg.html",
-   "teaser": "Der Landesligist erwischt im Test gegen den DSV 1900 einen kompletten Fehlstart. Trotz Sieg ist der Trainer nicht wirklich zufrieden.",
-   "bild": "https://img.sparknews.funkemedien.de/412719373/412719373_1785415041_v16_9_600.jpeg",
-   "datum": "2026-07-30T13:01:17.000Z",
-   "sortZeit": 1785344477000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "VFB Homberg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   }
  ]
 }
