@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-28T18:42:58.578Z",
+ "aktualisiert": "2026-08-29T02:12:00.183Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 28
+   "eintraege": 29
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -894,6 +894,60 @@
    "grund": "rubrik"
   },
   {
+   "id": "funke:412995740",
+   "titel": "Füchse Duisburg: Zolmanis verletzt – Ärger über Schiedsrichter",
+   "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412995740/fuechse-duisburg-zolmanis-verletzt-aerger-ueber-schiedsrichter.html",
+   "teaser": "Der Eishockey-Oberligist verliert in einem zerfahrenen Testspiel gegen Herford. Schwerer wiegt der Ausfall des lettischen Stürmers.",
+   "bild": "https://img.sparknews.funkemedien.de/412996155/412996155_fc_1787951579_v16_9_600.jpeg",
+   "datum": "2026-08-28T21:13:06.000Z",
+   "sortZeit": 1787879586000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/knappes-34-gegen-herford",
+   "titel": "Knappes 3:4 gegen Herford",
+   "url": "https://fuechse-duisburg.de/news/knappes-34-gegen-herford/",
+   "teaser": "Nach frühem Rückstand kämpfen wir uns im zweiten Drittel zurück und gleichen durch Kuschel und Aul zum 2:2 aus. In einer intensiven Partie mit vielen Strafzeiten auf beiden Seiten ziehen die Ice Dragons im Schlussabschnitt erneut davon. Unsere Füchse geben aber nicht auf und kommen durch Sanche in doppelter Überzahl kurz vor Schluss noch einmal […]",
+   "bild": "",
+   "datum": "2026-08-28T20:17:48.000Z",
+   "sortZeit": 1787876268000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
    "id": "rp:153834989",
    "titel": "Vor Heimspiel gegen PSV Wesel: TuS Xanten beklagt ersten Langzeitverletzten",
    "url": "https://rp-online.de/nrw/staedte/xanten/sport/fussball-bezirksliga-tus-xanten-erwartet-psv-wesel-erster-langzeitverletzter_aid-153834989",
@@ -1046,9 +1100,7 @@
    "paywall": false,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1057,6 +1109,32 @@
    "zone": "duisburg",
    "vereine": [],
    "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412993707",
+   "titel": "Auftakt für SV Spellen gegen MSV Duisburg – und zwei Neuzugänge fallen schon aus",
+   "url": "https://www.nrz.de/sport/lokalsport/dinslaken-huenxe-voerde/article412993707/auftakt-fuer-sv-spellen-gegen-msv-duisburg-und-zwei-neuzugaenge-fallen-schon-aus.html",
+   "teaser": "Zwei Neuzugänge fallen aus, ehe die Saison beginnt. Grippe und eine Verletzung bremsen die Bezirksliga-Fußballerinnen des SV Spellen zum Auftakt.",
+   "bild": "https://img.sparknews.funkemedien.de/412993974/412993974_1787926904_v16_9_600.jpeg",
+   "datum": "2026-08-28T14:21:44.000Z",
+   "sortZeit": 1787854904000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
   },
@@ -1390,9 +1468,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Kamp-Lintfort",
    "ortSicher": true,
    "orte": [
@@ -11694,34 +11770,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
-  },
-  {
-   "id": "funke:412710312",
-   "titel": "Bei 35 Grad Celsius im Schatten: SV Sonsbeck demontiert den 1. FC Lintfort",
-   "url": "https://www.nrz.de/sport/lokalsport/moers/article412710312/bei-35-grad-celsius-im-schatten-sv-sonsbeck-demontiert-den-1-fc-lintfort.html",
-   "teaser": "Im Fußballtest am Mittwochabend hält der Landesligist beim Oberligisten nur eine Halbzeit mit. Ein Lintforter baut Selbstvertrauen auf.",
-   "bild": "https://img.sparknews.funkemedien.de/412710467/412710467_1785331410_v16_9_600.jpeg",
-   "datum": "2026-07-29T20:07:04.000Z",
-   "sortZeit": 1785355624000,
-   "punkte": 150,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Moers",
-   "auchIn": [],
-   "ort": "Kamp-Lintfort",
-   "ortSicher": true,
-   "orte": [
-    "Kamp-Lintfort",
-    "Sonsbeck",
-    "Moers"
-   ],
-   "zone": "kern",
-   "vereine": [
-    "1. FC Lintfort"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   },
   {
    "id": "funke:412718335",
