@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-29T15:55:43.204Z",
+ "aktualisiert": "2026-08-29T19:00:48.954Z",
  "tag": "29.08.",
  "datum": "2026-08-29",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 416,
+   "seitAnpfiffMin": 601,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 326,
+   "seitAnpfiffMin": 511,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -76,7 +76,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 296,
+   "seitAnpfiffMin": 481,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -101,7 +101,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 266,
+   "seitAnpfiffMin": 451,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -118,17 +118,20 @@
    "zeit": "15:00",
    "heim": "SV Budberg IV",
    "gast": "1. FC Lintfort III",
-   "tore": null,
+   "tore": {
+    "heim": 9,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 56,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 241,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -143,17 +146,20 @@
    "zeit": "15:00",
    "heim": "1. FC Lintfort",
    "gast": "MSV Duisburg",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 56,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 241,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -174,11 +180,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 56,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 241,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -199,36 +205,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 56,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "url": "https://www.fussball.de/spiel/tv-asberg-i-1fc-lintfort/-/spiel/031DMT23MC000000VS5489BUVUR5FS5A",
-   "verein": "1. FC Lintfort A-Jugend",
-   "heimatverein": "1. FC Lintfort",
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "liga": "Landesliga Gruppe 1",
-   "wettbewerb": "Kreisfreundschaftsspiele",
-   "anpfiff": "2026-08-29T17:00:00.000Z",
-   "zeit": "17:00",
-   "heim": "TV Asberg I",
-   "gast": "1.FC Lintfort",
-   "tore": null,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "tickerAutor": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -64,
+   "seitAnpfiffMin": 241,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   }
  ]
 }
