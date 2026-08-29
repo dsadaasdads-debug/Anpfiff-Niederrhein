@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-29T00:53:24.476Z",
+ "aktualisiert": "2026-08-29T15:55:43.204Z",
  "tag": "29.08.",
  "datum": "2026-08-29",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -24,11 +24,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -487,
+   "seitAnpfiffMin": 416,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -49,11 +49,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -577,
+   "seitAnpfiffMin": 326,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -74,11 +74,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -607,
+   "seitAnpfiffMin": 296,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -99,11 +99,11 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -637,
+   "seitAnpfiffMin": 266,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -124,10 +124,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -847,
-   "laeuft": false,
+   "seitAnpfiffMin": 56,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -149,10 +149,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -847,
-   "laeuft": false,
+   "seitAnpfiffMin": 56,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -174,10 +174,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -847,
-   "laeuft": false,
+   "seitAnpfiffMin": 56,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -199,10 +199,10 @@
    "schiedsrichter": null,
    "tickerAutor": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -847,
-   "laeuft": false,
+   "seitAnpfiffMin": 56,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -226,7 +226,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -967,
+   "seitAnpfiffMin": -64,
    "laeuft": false,
    "abgeschlossen": false
   }
