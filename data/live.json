@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-29T19:00:48.954Z",
+ "aktualisiert": "2026-08-29T21:41:17.582Z",
  "tag": "29.08.",
  "datum": "2026-08-29",
  "hinweisVerzoegerung": "Der Stand wird alle zehn Minuten geholt und kann entsprechend nachhinken. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 601,
+   "seitAnpfiffMin": 761,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 511,
+   "seitAnpfiffMin": 671,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -76,7 +76,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 481,
+   "seitAnpfiffMin": 641,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -101,7 +101,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 451,
+   "seitAnpfiffMin": 611,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -129,7 +129,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 241,
+   "seitAnpfiffMin": 401,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -157,7 +157,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 241,
+   "seitAnpfiffMin": 401,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -174,7 +174,10 @@
    "zeit": "15:00",
    "heim": "TV Asberg",
    "gast": "1. FC Lintfort",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 4
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
@@ -182,7 +185,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 241,
+   "seitAnpfiffMin": 401,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -207,7 +210,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 241,
+   "seitAnpfiffMin": 401,
    "laeuft": false,
    "abgeschlossen": true
   }
