@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-29T14:29:14.159Z",
+ "aktualisiert": "2026-08-29T18:30:50.855Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -624,6 +624,142 @@
  ],
  "artikel": [
   {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: Gästefans geraten auf dem Weg nach Duisburg in eine Vollsperrung",
+   "url": "https://rp-online.de/sport/fussball/msv/3-liga-gaestefans-geraten-auf-dem-weg-zum-msv-duisburg-in-eine-vollsperrung_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-29T15:40:00.000Z",
+   "sortZeit": 1787946000000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "funke:412999411",
+   "titel": "Er trifft immer weiter: MSV-Stürmer Lobinger war der Spieler des Spiels",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412999411/er-trifft-immer-weiter-msv-stuermer-lobinger-war-der-spieler-des-spiels.html",
+   "teaser": "Der Tyger traf bislang in jedem Pflichtspiel und am Samstag gleich doppelt. Seine frühen Treffer öffneten die Tür zum dritten MSV-Sieg in Folge.",
+   "bild": "https://img.sparknews.funkemedien.de/412999592/412999592_1788016475_v16_9_600.jpeg",
+   "datum": "2026-08-29T15:19:42.000Z",
+   "sortZeit": 1787944782000,
+   "punkte": 80,
+   "paywall": true,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/sicher-geprueft-wird-neuer-gold-partner-im-club-1971",
+   "titel": "Sicher Geprüft wird neuer Gold Partner im Club 1971!",
+   "url": "https://fuechse-duisburg.de/news/sicher-geprueft-wird-neuer-gold-partner-im-club-1971/",
+   "teaser": "Mit Sicher Geprüft dürfen wir einen neuen Gold Partner im Club 1971 der Füchse begrüßen. Das Duisburger Unternehmen ist Ansprechpartner rund um Arbeits und Betriebssicherheit. Zum Leistungsangebot gehören unter anderem UVV und DGUV Prüfungen von Maschinen, Anlagen und Arbeitsmitteln sowie Prüfmanagement, digitale Dokumentation, Schulungen und Sicherheitsaudits. Dabei setzt Sicher Geprüft auf qualifizierte Prüfer, moderne Messverfahren […]",
+   "bild": "",
+   "datum": "2026-08-29T15:00:00.000Z",
+   "sortZeit": 1787943600000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
+   "id": "funke:412994409",
+   "titel": "Doppelpacker Tyger Lobinger legt den Grundstein zum 3:0-Sieg des MSV Duisburg",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412994409/doppelpacker-tyger-lobinger-legt-den-grundstein-zum-30-sieg-des-msv-duisburg.html",
+   "teaser": "Der MSV Duisburg verteidigt mit einem 3:0-Erfolg über Aufsteiger FC Würzburger Kickers die Tabellenführung in der 3. Liga.",
+   "bild": "https://img.sparknews.funkemedien.de/412998651/412998651_1788008547_v16_9_600.jpeg",
+   "datum": "2026-08-29T14:53:00.000Z",
+   "sortZeit": 1787943180000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
+   "id": "funke:412978074",
+   "titel": "3:0! MSV Duisburg liefert souveränen Auftritt ab – der Liveticker zum Nachlesen",
+   "url": "https://www.nrz.de/sport/msv-duisburg/article412978074/msv-duisburg-gegen-die-wuerzburger-kickers-im-liveticker.html",
+   "teaser": "Der MSV Duisburg trifft am Samstag um 14 Uhr in der Schauinslandreisen-Arena auf Aufsteiger Würzburger Kickers. Wir sind mit einem Liveticker dabei.",
+   "bild": "https://img.sparknews.funkemedien.de/412978171/412978171_1787820962_v16_9_600.jpeg",
+   "datum": "2026-08-29T14:43:00.000Z",
+   "sortZeit": 1787942580000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "rp:153897833",
    "titel": "Zebras an der Spitze: Lobinger-Gala, Joker-Assist – MSV Duisburg baut Siegesserie weiter aus",
    "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-lobinger-gala-joker-assist-zebras-bauen-siegesserie-gegen-wuerzburg-aus_aid-153897833",
@@ -650,34 +786,6 @@
    "grund": "rubrik"
   },
   {
-   "id": "funke:412994409",
-   "titel": "Doppelpacker Tyger Lobinger legt den Grundstein zum 3:0-Sieg des MSV Duisburg",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article412994409/doppelpacker-tyger-lobinger-legt-den-grundstein-zum-30-sieg-des-msv-duisburg.html",
-   "teaser": "Der MSV Duisburg verteidigt mit einem 3:0-Erfolg über Aufsteiger FC Würzburger Kickers die Tabellenführung in der 3. Liga.",
-   "bild": "https://img.sparknews.funkemedien.de/412998651/412998651_1788008547_v16_9_600.jpeg",
-   "datum": "2026-08-29T13:54:32.000Z",
-   "sortZeit": 1787939672000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
    "id": "rp:152589319",
    "titel": "Liveticker in der Nachlese: Lobinger in feinster Stürmermanier – Duisburg besiegt Würzburg",
    "url": "https://rp-online.de/sport/fussball/msv/3-liga-msv-duisburg-gegen-die-wuerzburger-kickers-in-der-liveticker-nachlese_aid-152589319",
@@ -702,34 +810,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
-  },
-  {
-   "id": "funke:412978074",
-   "titel": "3:0! Viet baut die Führung für den MSV weiter aus und lässt die Fans feiern",
-   "url": "https://www.nrz.de/sport/msv-duisburg/article412978074/msv-duisburg-gegen-die-wuerzburger-kickers-im-liveticker.html",
-   "teaser": "Der MSV Duisburg trifft am Samstag um 14 Uhr in der Schauinslandreisen-Arena auf Aufsteiger Würzburger Kickers. Wir sind mit einem Liveticker dabei.",
-   "bild": "https://img.sparknews.funkemedien.de/412978171/412978171_1787820962_v16_9_600.jpeg",
-   "datum": "2026-08-29T13:40:00.000Z",
-   "sortZeit": 1787938800000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
   },
   {
    "id": "fuechse-duisburg.de/news/fotorueckblick-spiel-2-gegen-herford",
@@ -861,32 +941,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: So gelingt dem MSV gegen Würzburg der beste Saisonstart der Vereinsgeschichte",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-gegen-wuerzburg-so-gelingt-der-beste-saisonstart-der-vereinsgeschichte_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-29T08:13:00.000Z",
-   "sortZeit": 1787919180000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   },
   {
    "id": "fuechse-duisburg.de/news/fuechse-mit-niederlage-im-2-test",
@@ -11797,58 +11851,6 @@
    "sportart": "American Football",
    "ereignis": null,
    "grund": "pfad"
-  },
-  {
-   "id": "rp:152330863",
-   "titel": "So lief das Halbfinale um den Voba-Cup: „Jetzt wollen wir das Ding auch gewinnen“",
-   "url": "https://rp-online.de/nrw/staedte/kleve/sport/tsv-weeze-gewinnt-elfmeterschiessen-und-zieht-ins-finale-ein_aid-152330863",
-   "teaser": "Elfmeter-Lotterien entscheiden über den Einzug ins Finale um den Voba-Cup. Gastgeber TSV Weeze freut sich auf das Duell mit den Sportfreunden Broekhuysen II. Deshalb ist Andreas Weinand, Trainer der SpVgg. Rheurdt-Schaephuysen, sauer.",
-   "bild": "https://rp-online.de/imgs/32/2/7/5/5/7/6/2/3/1/tok_d0c2b397d99f4cac262483b563488ad0/w1200_h630_x1796_y1197_rp_NOP_8790_b-7964eadc62e9b101.jpg",
-   "datum": "2026-07-30T15:02:00.000Z",
-   "sortZeit": 1785394920000,
-   "punkte": 110,
-   "paywall": true,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Sport Moers",
-   "auchIn": [],
-   "ort": "Rheurdt",
-   "ortSicher": true,
-   "orte": [
-    "Rheurdt"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "SpVgg. Rheurdt-Schaephuysen"
-   ],
-   "sportart": "American Football",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "rp:152341751",
-   "titel": "Testspiel gegen TuB Mussum: Bezirksligist TuS Xanten klärt die Kapitänsfrage",
-   "url": "https://rp-online.de/nrw/staedte/xanten/sport/tus-xanten-kapitaensfrage-geklaert-nathnael-scheffler-vor-debuet_aid-152341751",
-   "teaser": "Fußball-Bezirksligist TuS Xanten muss ein Testspiel aus dem Vorbereitungsplan streichen. Die Kapitänsfrage ist geklärt. Warum der Königstransfer bislang noch in keinem Testspiel dabei war.",
-   "bild": "https://rp-online.de/imgs/32/2/7/5/6/0/0/9/4/3/tok_10546f0ab8d652dfe97d04fad8afcee8/w1200_h630_x1350_y901_rp_20260405_J_1557-3c476e3e37914614.jpg",
-   "datum": "2026-07-30T14:30:00.000Z",
-   "sortZeit": 1785393000000,
-   "punkte": 110,
-   "paywall": true,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Sport Moers",
-   "auchIn": [],
-   "ort": "Xanten",
-   "ortSicher": true,
-   "orte": [
-    "Xanten"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "TUS Xanten 05/22"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
   }
  ]
 }
