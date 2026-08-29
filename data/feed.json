@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-29T18:30:50.855Z",
+ "aktualisiert": "2026-08-29T21:44:44.711Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -623,6 +623,56 @@
   }
  ],
  "artikel": [
+  {
+   "id": "rp:153940113",
+   "titel": "2:0 gegen den HSV: BVB feiert Auftaktsieg, sorgt sich aber um Neuzugang Konstantelias",
+   "url": "https://rp-online.de/sport/fussball/bundesliga/2-0-gegen-den-hsv-bvb-feiert-auftaktsieg-sorgt-sich-aber-um-konstantelias_aid-153940113",
+   "teaser": "Nach dem starken Liga-Start des FC Bayern gibt sich auch der BVB keine Blöße. Gegen den Hamburger SV sind zwei Neuzugänge gleich sehr gut drauf. Eine Auswechslung macht jedoch Sorgen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/9/1/8/3/2/1/5/tok_2e153e9a2176ddf49aee910917bf2f8a/w1200_h630_x1796_y1008_AP_dpa_y5cyz6djyr-v1-ax-ms6144.jpeg-f1a74bfc38fabe18.jpg",
+   "datum": "2026-08-29T18:29:00.000Z",
+   "sortZeit": 1787999340000,
+   "punkte": 70,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Sonsbeck",
+   "ortSicher": true,
+   "orte": [
+    "Sonsbeck"
+   ],
+   "zone": "umland",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "rp:153938635",
+   "titel": "Nach Kritik nach dem DFB-Pokalspiel: „Halb so hoch wie gegen Elversberg – MSV-Coach spricht wieder über den Rasen",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-coach-dietmar-hirsch-spricht-diesmal-positiv-ueber-den-rasen_aid-153938635",
+   "teaser": "Nach dem 3:0-Erfolg des MSV Duisburg gegen die Würzburger Kickers sprechen beide Trainer erneut über den Rasen der Arena. Die Diskussion hat allerdings eine Wende genommen.",
+   "bild": "https://rp-online.de/imgs/32/2/7/9/1/8/1/6/1/1/tok_52c73fc568fc7e8514b083d04ca3cf1a/w1200_h630_x1024_y575_DPA_dpa_urn_newsml_dpa.com_20090101_260514-935-1343176-v1-s2048.jpeg-610ff4533abbc98d.jpg",
+   "datum": "2026-08-29T18:47:00.000Z",
+   "sortZeit": 1787957220000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Leichtathletik",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
   {
    "id": "rp:151856843",
    "titel": "Die Zebras im Liveblog: Gästefans geraten auf dem Weg nach Duisburg in eine Vollsperrung",
@@ -1492,9 +1542,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
