@@ -56,6 +56,40 @@ export function saisonVon(wettbewerb) {
 export const istErwachsen = (wettbewerb) => ['Men', 'Women'].includes(wettbewerb.ageGroup);
 
 /**
+ * Spielplan einer Mannschaft. Liegt unter /teams/{id}/schedule – nicht unter
+ * /games oder /matches, die gibt es nicht.
+ *
+ * @returns {Promise<{id:string, tag:string, zeit:string|null, anpfiff:string|null,
+ *   heim:string, gast:string, tore:{heim:number,gast:number}|null,
+ *   wettbewerb:string|null, hinweis:string|null, url:string}[]>}
+ */
+export async function spielplan(teamId) {
+  const antwort = await json(`${BASIS}/teams/${teamId}/schedule`);
+  const spiele = antwort?.data ?? [];
+
+  return spiele.map((s) => {
+    const anpfiff = s.startsAt ?? s.kickoff ?? s.date ?? null;
+    const d = anpfiff ? new Date(anpfiff) : null;
+    const zz = (n) => String(n).padStart(2, '0');
+
+    return {
+      id: s.id ?? null,
+      tag: d ? `${d.getFullYear()}-${zz(d.getMonth() + 1)}-${zz(d.getDate())}` : null,
+      zeit: d ? `${zz(d.getHours())}:${zz(d.getMinutes())}` : null,
+      anpfiff: d ? d.toISOString() : null,
+      heim: s.homeTeam?.name ?? s.homeTeamName ?? '',
+      gast: s.awayTeam?.name ?? s.awayTeamName ?? '',
+      tore: (s.homeGoals == null && s.awayGoals == null)
+        ? null
+        : { heim: s.homeGoals ?? 0, gast: s.awayGoals ?? 0 },
+      wettbewerb: s.tournament?.name ?? null,
+      hinweis: s.state && s.state !== 'Post' && s.state !== 'Pre' ? String(s.state) : null,
+      url: s.id ? `https://www.handball.net/spiele/${s.id}` : `https://www.handball.net/mannschaften/${teamId}/spielplan`,
+    };
+  });
+}
+
+/**
  * Tabelle eines Wettbewerbs, in dieselbe Form gebracht wie die Fußballtabellen.
  * Handball zählt Punkte als „20:4“ (Plus- und Minuspunkte); wir behalten die
  * Schreibweise für die Anzeige und ziehen die Pluspunkte zum Sortieren heraus.

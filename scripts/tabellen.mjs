@@ -60,6 +60,22 @@ const HANDBALL_VEREINE = [
 
 const handballVereinZu = (name) => HANDBALL_VEREINE.find((v) => v.muster.test(name)) ?? null;
 
+/**
+ * Spielplan einer Handballmannschaft, tolerant gegenüber Störungen.
+ * handball.net drosselt bei zu vielen Abrufen; ein leerer Plan ist dann
+ * besser als ein abgebrochener Lauf.
+ */
+async function handballSpielplan(teamId) {
+  if (!teamId) return [];
+  try {
+    const plan = await handball.spielplan(teamId);
+    await warte(200);
+    return plan.filter((s2) => s2.tag).slice(0, 12);
+  } catch {
+    return [];
+  }
+}
+
 const log = (...a) => console.log(...a);
 const warte = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -242,7 +258,9 @@ try {
           punkte: z.punkte,
           torverhaeltnis: z.tore,
           staffelId: liga.id,
-          naechste: [],
+          // Spielplan gleich mitnehmen: der Spieltags-Ticker liest ihn von
+          // hier, statt handball.net alle zwei Minuten selbst zu fragen.
+          naechste: await handballSpielplan(z.teamId),
           letzte: [],
         });
       }

@@ -1,0 +1,10 @@
+[Unit]
+Description=Spieltag alle zwei Minuten pruefen
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=2min
+Persistent=false
+
+[Install]
+WantedBy=timers.target

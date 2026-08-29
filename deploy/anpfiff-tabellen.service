@@ -1,0 +1,12 @@
+[Unit]
+Description=Anpfiff Niederrhein – Tabellen und Spielplaene
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=anpfiff
+WorkingDirectory=/opt/anpfiff/quelle
+ExecStart=/usr/bin/node scripts/tabellen.mjs
+TimeoutStartSec=1800
+Nice=10

@@ -1,0 +1,11 @@
+[Unit]
+Description=Tabellen alle 30 Minuten holen
+
+[Timer]
+OnBootSec=8min
+OnUnitActiveSec=30min
+RandomizedDelaySec=120
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,30 @@
+# Anpfiff Niederrhein — Caddy-Baustein
+#
+# Einbinden mit  import /opt/anpfiff/deploy/Caddyfile.anpfiff
+# oder den Block direkt ins Caddyfile übernehmen.
+
+anpfiff.rubenmaurer.de {
+	root * /opt/anpfiff/app
+	encode zstd gzip
+
+	# Die Daten wechseln im Minutentakt und dürfen nicht zwischengespeichert
+	# werden – sonst sieht man den Spieltag verzögert.
+	@daten path /data/*.json
+	header @daten Cache-Control "no-cache, must-revalidate"
+
+	# Der Service Worker ebenso: er entscheidet, wann das Gerüst erneuert wird.
+	@sw path /sw.js
+	header @sw Cache-Control "no-cache"
+
+	# Gerüst darf kurz zwischengespeichert werden, aber nicht die zehn Minuten,
+	# die GitHub Pages erzwang – sonst braucht es wieder einen zweiten Aufruf.
+	@geruest path /index.html /app.js /app.css /manifest.webmanifest
+	header @geruest Cache-Control "public, max-age=60, must-revalidate"
+
+	# Bilder und Symbole sind unveränderlich benannt.
+	@statisch path /icons/*
+	header @statisch Cache-Control "public, max-age=604800"
+
+	file_server
+	try_files {path} /index.html
+}
