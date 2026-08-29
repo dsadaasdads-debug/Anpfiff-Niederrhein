@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-29T02:12:00.183Z",
+ "aktualisiert": "2026-08-29T09:03:43.456Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -59,7 +59,7 @@
    "id": "nrz-lokalsport",
    "name": "NRZ Lokalsport",
    "status": "ok",
-   "eintraege": 29
+   "eintraege": 26
   },
   {
    "id": "nrz-lokalsport-duisburg",
@@ -729,6 +729,84 @@
    "grund": "pfad"
   },
   {
+   "id": "rp:151856843",
+   "titel": "Die Zebras im Liveblog: So gelingt dem MSV gegen Würzburg der beste Saisonstart der Vereinsgeschichte",
+   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-gegen-wuerzburg-so-gelingt-der-beste-saisonstart-der-vereinsgeschichte_aid-151856843",
+   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
+   "datum": "2026-08-29T08:13:00.000Z",
+   "sortZeit": 1787919180000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/fuechse-mit-niederlage-im-2-test",
+   "titel": "Füchse mit Niederlage im 2. Test",
+   "url": "https://fuechse-duisburg.de/news/fuechse-mit-niederlage-im-2-test/",
+   "teaser": "801 Zuschauer sahen ein Vorbereitungsspiel, das aufgrund vieler Strafzeiten zerfahren wirkte.Nach der frühen kalten Dusche durch Pierson arbeiteten sich die Füchse ins Spiel, kamen aber nur selten zu flüssigen Aktionen oder Abschlüssen. Im zweiten Drittel brachte nicht nur die Strafzeitenflut weitere Unruhe, auch das verletzungsbedingte Ausscheiden von Sandis Zolmanis erzeugte Sorgenfalten bei den Füchsen. Gute […]",
+   "bild": "",
+   "datum": "2026-08-29T08:00:00.000Z",
+   "sortZeit": 1787918400000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
+  },
+  {
+   "id": "funke:412910904",
+   "titel": "Heute bei Nacht: Mammutmarsch Ruhrgebiet - alle Infos - Kosten, Strecke, Parken",
+   "url": "https://www.nrz.de/sport/lokalsport/essen/article412910904/mammutmarsch-ruhrgebiet-2026-alle-infos-zum-mega-event-kosten-strecke-parken.html",
+   "teaser": "Der Mammutmarsch startet erneut in Duisburg. Am 29. August geht es nachts vom Landschaftspark-Nord über Oberhausen nach Essen und Bottrop. Alle Infos.",
+   "bild": "https://img.sparknews.funkemedien.de/412913717/412913717_1787214270_v16_9_600.jpeg",
+   "datum": "2026-08-29T06:18:31.000Z",
+   "sortZeit": 1787912311000,
+   "punkte": 40,
+   "paywall": false,
+   "quelle": "NRZ",
+   "quelleName": "NRZ Lokalsport Duisburg",
+   "auchIn": [
+    "NRZ Lokalsport"
+   ],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [],
+   "sportart": null,
+   "ereignis": null,
+   "grund": "pfad"
+  },
+  {
    "id": "funke:412993708",
    "titel": "Duisburg 08 vor nächstem Offensivspektakel?",
    "url": "https://www.nrz.de/sport/lokalsport/duisburg/article412993708/duisburg-08-vor-naechstem-offensivspektakel.html",
@@ -1004,32 +1082,6 @@
    "grund": "pfad"
   },
   {
-   "id": "rp:151856843",
-   "titel": "Die Zebras im Liveblog: Ex-MSV-Talent geht für fünf Millionen Euro nach Belgien – verdient Duisburg mit?",
-   "url": "https://rp-online.de/sport/fussball/msv/msv-duisburg-ex-msv-talent-wisdom-mike-fuer-fuenf-millionen-nach-bruegge-verdient-duisburg-mit_aid-151856843",
-   "teaser": "Sucht der Kapitän nach einem neuen Klub mit besserer sportlicher Perspektive? Der Trainer gibt keine eindeutige Antwort. In unserem Blog halten wir Sie stets auf dem Laufenden.",
-   "bild": "https://rp-online.de/imgs/32/2/7/4/5/3/0/6/2/1/tok_cdea2574f12a3e8825338dec54ab1d0b/w1200_h630_x1024_y635_DPA_dpa_urn_newsml_dpa.com_20090101_260508-911-031808-v2-s2048-2be542d1b486ac6e.jpeg",
-   "datum": "2026-08-28T16:15:00.000Z",
-   "sortZeit": 1787861700000,
-   "punkte": 80,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Fußball",
-   "auchIn": [],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [
-    "MSV Duisburg"
-   ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
    "id": "funke:412994035",
    "titel": "Trainer Wilke steht gegen Duisburger FV 08 nicht an der Budberger Linie",
    "url": "https://www.nrz.de/sport/lokalsport/moers/article412994035/trainer-wilke-steht-gegen-duisburger-fv-08-nicht-an-der-budberger-linie.html",
@@ -1071,9 +1123,7 @@
    "paywall": true,
    "quelle": "NRZ",
    "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
+   "auchIn": [],
    "ort": "Duisburg",
    "ortSicher": true,
    "orte": [
@@ -1323,32 +1373,6 @@
     "VFB Homberg"
    ],
    "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "pfad"
-  },
-  {
-   "id": "funke:412910904",
-   "titel": "Bei Nacht: Mammutmarsch Ruhrgebiet - alle Infos - Kosten, Strecke, Parken",
-   "url": "https://www.nrz.de/sport/lokalsport/essen/article412910904/mammutmarsch-ruhrgebiet-2026-alle-infos-zum-mega-event-kosten-strecke-parken.html",
-   "teaser": "Der Mammutmarsch startet erneut in Duisburg. Am 29. August geht es nachts vom Landschaftspark-Nord über Oberhausen nach Essen und Bottrop. Alle Infos.",
-   "bild": "https://img.sparknews.funkemedien.de/412913717/412913717_1787214270_v16_9_600.jpeg",
-   "datum": "2026-08-28T11:39:48.000Z",
-   "sortZeit": 1787845188000,
-   "punkte": 40,
-   "paywall": false,
-   "quelle": "NRZ",
-   "quelleName": "NRZ Lokalsport Duisburg",
-   "auchIn": [
-    "NRZ Lokalsport"
-   ],
-   "ort": "Duisburg",
-   "ortSicher": true,
-   "orte": [
-    "Duisburg"
-   ],
-   "zone": "duisburg",
-   "vereine": [],
-   "sportart": null,
    "ereignis": null,
    "grund": "pfad"
   },
@@ -11742,31 +11766,6 @@
    "vereine": [
     "TUS Xanten 05/22"
    ],
-   "sportart": "Fußball",
-   "ereignis": null,
-   "grund": "rubrik"
-  },
-  {
-   "id": "rp:152334353",
-   "titel": "Vorverkauf startet: Hier gibt’s Karten für den Pokal-Knüller gegen RWE",
-   "url": "https://rp-online.de/nrw/staedte/xanten/sport/niederrhein-pokal-vorverkauf-sv-sonsbeck-gegen-rw-essen-beginnt_aid-152334353",
-   "teaser": "Am 19. August stehen sich Oberligist SV Sonsbeck und die Fußball-Profis von Rot-Weiss Essen wieder im Niederrheinpokal gegenüber. Jetzt beginnt der Vorverkauf. Mit dieser Kulisse rechnet der Außenseiter.",
-   "bild": "https://rp-online.de/imgs/32/2/7/5/5/8/3/4/6/1/tok_d01fe4502c20a08dcd5aadda89542fb4/w1200_h630_x1192_y795_rp_20241116_J_1677-a8d9ae657d2cdece.jpg",
-   "datum": "2026-07-30T08:52:00.000Z",
-   "sortZeit": 1785372720000,
-   "punkte": 70,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Sport Moers",
-   "auchIn": [],
-   "ort": "Sonsbeck",
-   "ortSicher": true,
-   "orte": [
-    "Sonsbeck",
-    "Xanten"
-   ],
-   "zone": "umland",
-   "vereine": [],
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
