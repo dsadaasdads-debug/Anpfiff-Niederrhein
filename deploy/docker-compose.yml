@@ -18,7 +18,7 @@ services:
       # Die gesammelten Daten überleben einen Neubau des Containers.
       - anpfiff_daten:/app/data
     networks:
-      - caddy
+      - web
     healthcheck:
       test: ["CMD", "wget", "-qO-", "http://localhost:8080/index.html"]
       interval: 60s
@@ -30,6 +30,6 @@ volumes:
   anpfiff_daten:
 
 networks:
-  caddy:
+  # Das Netz, in dem Caddy und die uebrigen Dienste haengen.
+  web:
     external: true
-    name: caddy_default

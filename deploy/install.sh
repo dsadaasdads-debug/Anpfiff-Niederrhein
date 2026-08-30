@@ -23,8 +23,8 @@ fi
 cp -f "$QUELLE/deploy/docker-compose.yml" "$WURZEL/docker-compose.yml"
 
 hinweis "Netzwerk von Caddy prüfen"
-docker network inspect caddy_default >/dev/null 2>&1 \
-  || { echo "Netzwerk caddy_default fehlt – bitte den Namen in docker-compose.yml anpassen."; exit 1; }
+docker network inspect web >/dev/null 2>&1 \
+  || { echo "Netzwerk web fehlt – bitte den Namen in docker-compose.yml anpassen."; exit 1; }
 
 hinweis "Container bauen und starten"
 cd "$WURZEL"
