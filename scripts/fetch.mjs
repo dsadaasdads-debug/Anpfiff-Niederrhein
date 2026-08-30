@@ -253,11 +253,44 @@ for (const k of zurAnreicherung) {
   });
 }
 
-// Bestandsartikel, die aktuell in keinem Feed mehr stehen, bleiben im Archiv.
+// Bestandsartikel, die aktuell in keinem Feed mehr stehen, bleiben im Archiv –
+// werden dabei aber neu bewertet. Sonst wirkt jede Regelkorrektur nur auf frische
+// Meldungen, und alte Fehltreffer bleiben dreißig Tage lang stehen: der Bericht
+// über Borussia Dortmund trug so noch Tage später die Ortsmarke „Sonsbeck“.
+let nachbewertet = 0;
+let nachtraeglichVerworfen = 0;
 for (const [id, alt] of bestand) {
   if (ergebnis.has(id)) continue;
   const zeit = alt.datum ? Date.parse(alt.datum) : 0;
-  if (zeit >= grenze) ergebnis.set(id, alt);
+  if (zeit < grenze) continue;
+
+  const volltext = `${alt.titel} ${alt.teaser ?? ''}`;
+  const vereine = vereineFinden(volltext);
+  const bezug = ortsbezug({ titel: alt.titel, teaser: alt.teaser ?? '', url: alt.url, vereine });
+  if (!bezug.zone) { nachtraeglichVerworfen++; continue; }
+
+  const sportart = sportartErkennen(volltext, vereine);
+  nachbewertet++;
+  // Neu aufgebaut statt durchgereicht: so verschwinden auch Felder, die es
+  // in älteren Ständen noch gab.
+  ergebnis.set(id, {
+    id: alt.id,
+    titel: alt.titel,
+    url: alt.url,
+    teaser: alt.teaser ?? '',
+    bild: alt.bild ?? '',
+    datum: alt.datum,
+    sortZeit: alt.sortZeit,
+    paywall: alt.paywall ?? null,
+    quelle: alt.quelle,
+    ort: bezug.haupt,
+    ortSicher: bezug.sicher,
+    orte: bezug.orte,
+    zone: bezug.zone,
+    vereine: vereine.map((v) => v.name),
+    sportart,
+    ereignis: ereignisErkennen(alt.titel, sportart),
+  });
 }
 
 const artikel = [...ergebnis.values()].sort((a, b) => b.sortZeit - a.sortZeit);
@@ -286,6 +319,14 @@ const kopf = {
 writeFileSync(ZIEL, JSON.stringify({ ...kopf, artikelGesamt: artikel.length, artikel: frisch }) + '\n', 'utf8');
 writeFileSync(ARCHIV, JSON.stringify({ aktualisiert: kopf.aktualisiert, artikel: archiv }) + '\n', 'utf8');
 
+// Zwischenspeicher aufräumen und sichern. Schlüssel mit doppeltem Unterstrich
+// sind Verwaltungsdaten (etwa die Erreichbarkeitslage) und bleiben unabhängig
+// vom Alter erhalten.
+const speicherGrenze = jetzt - SPEICHER_TAGE * 86_400_000;
+const gekuerzt = Object.fromEntries(
+  [...speicher.entries()].filter(([schluessel, wert]) => schluessel.startsWith('__')
+    || (Date.parse(wert.geholt) || 0) >= speicherGrenze),
+);
 writeFileSync(SPEICHER, JSON.stringify(gekuerzt) + '\n', 'utf8');
 
 // ── Bilanz ──────────────────────────────────────────────────────────────────
@@ -300,6 +341,7 @@ log(`  hinter Paywall          ${zaehle((a) => a.paywall === true)}`);
 log(`  frei lesbar             ${zaehle((a) => a.paywall === false)}`);
 log(`  Zugang unbekannt        ${zaehle((a) => a.paywall === null)}`);
 log(`  mit erkanntem Verein    ${zaehle((a) => a.vereine.length > 0)}`);
+log(`  Bestand nachbewertet    ${nachbewertet}  (${nachtraeglichVerworfen} verworfen)`);
 
 log(`\nBeitrag je Quelle:`);
 const jeQuelle = new Map();
