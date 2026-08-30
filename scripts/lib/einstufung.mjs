@@ -206,6 +206,15 @@ export function sportartErkennen(text, vereine) {
  * Entscheidet, ob ein Eintrag Sport ist – und hält fest, woran das erkannt wurde.
  * @returns {{sport: boolean, grund: string}}
  */
+/**
+ * Verwaltungs- und Werbekram aus einem Vereinsfeed? Getrennt herausgereicht,
+ * damit auch die rückwirkende Neubewertung in fetch.mjs darauf zugreifen kann –
+ * sonst wirkt jede Ergänzung der Wortliste nur auf frisch geholte Meldungen.
+ */
+export function istVereinsintern(text) {
+  return VEREINSINTERN_WOERTER.some((w) => enthaeltStamm(text, w));
+}
+
 export function istSport({ eintrag, quelle, vereine }) {
   const text = `${eintrag.titel} ${eintrag.beschreibung}`;
 
@@ -216,7 +225,7 @@ export function istSport({ eintrag, quelle, vereine }) {
   if (quelle.mode === 'club') {
     // Vereinsfeeds enthalten auch Verwaltungskram: Urlaub der Geschäftsstelle,
     // Einladungen zur Mitgliederversammlung, Beitragsanpassungen. Kein Sport.
-    if (VEREINSINTERN_WOERTER.some((w) => enthaeltStamm(text, w))) {
+    if (istVereinsintern(text)) {
       return { sport: false, grund: 'vereinsintern' };
     }
     return { sport: true, grund: 'vereinsfeed' };

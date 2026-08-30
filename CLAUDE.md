@@ -48,6 +48,21 @@ Sprachmodell und ohne API-Schlüssel.
   bereits installierte Geräte das alte Gerüst
 
 ## Spieltag / Ticker
+- **Welche Quelle gewinnt, entscheidet sich pro Partie** (`guete()` in
+  `live.mjs`), nicht pauschal. FuPa listet auch Partien, die niemand betreut:
+  der Eintrag bleibt dann leer, während fussball.de längst ein Ergebnis meldet.
+  Bleibt ein FuPa-Eintrag zehn Minuten nach Anpfiff leer, wird gegengeprüft und
+  der reichhaltigere Satz genommen; Spielernamen aus dem Verlierer werden nur
+  bei **exakt** gleicher Minute und gleichem Zeichen nachgetragen.
+- **fussball.de hat fast nie eine Zeitleiste.** In den Kreisligen fehlt
+  `data-match-events` regelmäßig — früher gab `spielverlauf()` dann `null`
+  zurück und warf auch den Ergebnisvermerk weg. Der Ergebnisblock
+  (`class="result"`) steht dagegen immer da und sagt dreierlei: Vermerk im
+  Klartext („Ausfall“), zwei verschleierte Ziffern (Ergebnis gemeldet) oder
+  nichts. Nur das *Ob* wird ausgewertet, nicht das *Was* — die App verweist
+  dann auf die Spielseite. Der Spielstand darf **nicht** aus den
+  Tor-Ereignissen gezählt werden, wenn es gar keine gibt: das wäre ein
+  vorgetäuschtes 0:0.
 - **FuPa ist die erste Quelle** — `api.fupa.net/v1`, offen, ohne Schlüssel.
   Entscheidend: dort stehen **Spielernamen im Klartext**. Der Ticker steckt im
   Feld `highlights` des Spielobjekts (`/matches/{id}`), nicht in einer eigenen
@@ -82,6 +97,14 @@ Sprachmodell und ohne API-Schlüssel.
   Für die 1. Bundesliga Männer funktioniert das bereits. Die 2. Bundesliga, in
   der der Moerser SC spielt, war am 13.08.2026 noch nicht veröffentlicht —
   **Saisonstart ist der 20.10.2026**. Vorher gibt es nichts zu holen.
+
+## Vereinsfeeds filtern
+`VEREINSINTERN_WOERTER` in `clubs.mjs` greift **nur** bei `mode: 'club'` — in
+Vereinsfeeds steckt neben Sport auch Verwaltung, Sponsorenwerbung und
+Kartenverkauf. Die Prüfung muss an zwei Stellen laufen: beim Einlesen
+(`istSport`) **und** in der rückwirkenden Nachbewertung in `fetch.mjs`. Fehlt
+die zweite, bleiben Altmeldungen dreißig Tage stehen, obwohl die Regel längst
+greift. Die Wortgrenze davor heißt: „Partner“ trifft nicht „Trainingspartner“.
 
 ## Offene Punkte
 - Push-Benachrichtigungen über Cloudflare Worker (vom Nutzer gewünscht, noch

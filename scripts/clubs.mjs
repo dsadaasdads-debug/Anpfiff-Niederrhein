@@ -143,12 +143,25 @@ export const AUSSCHLUSS_WOERTER = [
 export const VEREINSINTERN_WOERTER = [
   // Verwaltung
   'Geschäftsstelle', 'Geschaeftsstelle', 'Mitgliederversammlung', 'Jahreshauptversammlung',
+  'Vorstand', 'Vorstandssitzung',
   'Hauptversammlung', 'Betriebsferien', 'Mitgliedsbeitrag', 'Beitragsanpassung',
   'Beitragserhöhung', 'Öffnungszeiten', 'Oeffnungszeiten', 'Satzung', 'Datenschutzerklärung',
   // Werbung und Vermarktung
   'Sponsor', 'Sponsoring', 'Werbepartner', 'Businesspartner', 'Business Partner',
   'Partnerschaft', 'Fanshop', 'Merchandise', 'Trikotpartner', 'Ausrüster',
+  // Sponsorenstufen. In einem Vereinsfeed heißt "Partner" am Wortanfang so gut
+  // wie immer "Geldgeber" – der Wortgrenzen-Test davor schützt zugleich
+  // "Trainingspartner" und "Sparringspartner" vor dem Filter.
+  'Goldpartner', 'Gold Partner', 'Silberpartner', 'Silber Partner',
+  'Premiumpartner', 'Premium Partner', 'Hauptsponsor', 'Förderkreis',
+  // Verkauf an die Mitglieder
+  'Dauerkarte', 'Saisonkarte', 'Ticketverkauf', 'Kartenverkauf',
+  'Kartenvorverkauf', 'Vorverkauf', 'Eintrittspreis', 'Losverkauf',
+  'Adventskalender', 'Kalenderverkauf', 'Sammelbild',
   // Geselligkeit und Ehrungen
   'Weihnachtsfeier', 'Vereinsausflug', 'Planwagenfahrt', 'Tombola', 'Geburtstag',
   'Ehrennadel', 'Ehrenmitglied', 'Jubilar', 'Grillfest', 'Sommerfest',
+  // Vereinsarbeit abseits des Platzes
+  'Arbeitseinsatz', 'Helfer gesucht', 'Helferliste', 'Spendenaktion',
+  'Sammelaktion', 'Fotorückblick', 'Fotogalerie', 'Bildergalerie',
 ];

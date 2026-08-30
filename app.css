@@ -395,6 +395,13 @@ table.liga tr.eigen { background: color-mix(in srgb, var(--akzent) 22%, transpar
   font-size: 1.3rem; font-weight: 800; white-space: nowrap;
   font-variant-numeric: tabular-nums; letter-spacing: -.01em;
 }
+/* Ergebnis gemeldet, aber nicht lesbar: gedämpft statt fett, damit es nicht
+   wie ein echter Spielstand aussieht. */
+.partie-stand.verdeckt { font-size: 1.05rem; font-weight: 700; opacity: .55; }
+.stand-notiz {
+  margin: 0 0 .35rem; font-size: .78rem; line-height: 1.35; color: var(--schrift-leise);
+}
+.stand-notiz a { color: inherit; text-decoration: underline; }
 #tabellensport { padding-left: 0; padding-right: 0; margin-bottom: 12px; }
 
 .mannschaft {

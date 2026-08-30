@@ -8,10 +8,15 @@
 //   1. FuPa (api.fupa.net) – offene Schnittstelle, und dort stehen die
 //      **Spielernamen im Klartext**. Torschütze, Karten, Wechsel. Die Vereine
 //      tickern selbst, deshalb ist das freiwillig veröffentlicht.
-//   2. fussball.de – für Fußballpartien ohne FuPa-Ticker. Liefert Minute und
-//      Ereignisart, aber keine Namen: die sind dort in privaten Unicode-Zeichen
-//      mit wechselnder Spezialschrift versteckt, und diese Sperre wird nicht
-//      umgangen.
+//   2. fussball.de – Minute und Ereignisart, aber keine Namen: die sind dort in
+//      privaten Unicode-Zeichen mit wechselnder Spezialschrift versteckt, und
+//      diese Sperre wird nicht umgangen.
+//
+// WELCHE QUELLE GEWINNT, entscheidet sich pro Partie, nicht pauschal. FuPa
+// listet auch Partien, die niemand betreut: der Eintrag bleibt dann leer,
+// während auf fussball.de Ergebnis und Ereignisse längst gepflegt sind. Bleibt
+// ein FuPa-Eintrag lange nach dem Anpfiff leer, wird deshalb bei fussball.de
+// gegengeprüft und der reichhaltigere Datensatz genommen (siehe `guete`).
 //   3. handball.net – Spielpläne und Ergebnisse der Handballmannschaften.
 //
 // ZUM TAKT: GitHub drosselt geplante Läufe hart – ein `*/10`-Zeitplan wurde am
@@ -111,6 +116,58 @@ const terminLesen = (roh) => {
 };
 
 /**
+ * Wie viel Substanz trägt ein Datensatz? Damit wird entschieden, welche Quelle
+ * eine Partie beschreiben darf.
+ *
+ * Gewichtung: ein Ergebnis wiegt am schwersten, dann die Zahl der Ereignisse,
+ * Spielernamen zählen nur als Stichentscheid. So gewinnt FuPa bei gleicher
+ * Faktenlage (weil nur dort Namen stehen), verliert aber gegen eine Quelle,
+ * die überhaupt etwas zu berichten hat.
+ */
+function guete(p) {
+  // Ein gemeldetes, aber verschleiertes Ergebnis ist immer noch mehr wert als
+  // eine völlig leere Partie – die Karte kann dann wenigstens darauf verweisen.
+  const ergebnis = p.tore ? 6 : (p.ergebnisGemeldet ? 3 : 0);
+  const ereignisse = (p.ereignisse ?? []).length * 2;
+  const namen = (p.ereignisse ?? []).filter((e) => e.spieler).length;
+  return ergebnis + ereignisse + namen;
+}
+
+/**
+ * Ist die Partie so lange angepfiffen, dass Daten dastehen müssten? Vor dem
+ * Anpfiff ist ein leerer Eintrag völlig richtig und keine Gegenprobe wert.
+ */
+function laengstAngepfiffen(p) {
+  const t = Date.parse(p.anpfiff);
+  return Number.isFinite(t) && Date.now() > t + 10 * 60_000;
+}
+
+/**
+ * Namen aus dem unterlegenen Datensatz nachtragen.
+ *
+ * fussball.de kennt Minute und Ereignisart, verschleiert aber die Namen; FuPa
+ * hat sie im Klartext, tickert dafür manchmal nur die Hälfte. Gewinnt
+ * fussball.de, lassen sich die FuPa-Namen anhängen – aber nur bei **exakt**
+ * gleicher Minute und gleichem Ereigniszeichen und nur, wenn genau ein
+ * Ereignis in Frage kommt. Ein falsch zugeordneter Torschütze wäre schlimmer
+ * als gar kein Name.
+ */
+function namenNachtragen(sieger, verlierer) {
+  const quelle = (verlierer.ereignisse ?? []).filter((e) => e.spieler);
+  if (quelle.length === 0) return 0;
+  let getroffen = 0;
+  for (const e of sieger.ereignisse ?? []) {
+    if (e.spieler) continue;
+    const passend = quelle.filter((q) => q.minute === e.minute && q.zeichen === e.zeichen);
+    if (passend.length !== 1) continue;
+    e.spieler = passend[0].spieler;
+    e.fuer = passend[0].fuer ?? null;
+    getroffen += 1;
+  }
+  return getroffen;
+}
+
+/**
  * Lohnt sich ein Abruf gerade überhaupt?
  *
  * Ein Zwei-Minuten-Zeitgeber liefe sonst rund um die Uhr gegen FuPa und
@@ -203,17 +260,21 @@ async function spieltagSammeln() {
     }
   }
 
-  // ── 2) fussball.de als Rückfall ───────────────────────────────────────────
+  // ── 2) fussball.de: Rückfall und Gegenprobe ───────────────────────────────
   // Abgeglichen wird über die eigene Mannschaft und die Anstoßzeit, nicht über
   // die Paarung: die Quellen schreiben Gegner unterschiedlich („ETB Schwarz-Weiß
   // Essen“ gegen „ETB SW Essen“), und fussball.de hängt Reserven ein „II“ an.
-  const bekannt = new Set();
-  for (const p of partien) {
+  //
+  // Gemerkt wird der Platz im Feld, nicht nur die Tatsache – eine Partie, die
+  // FuPa zwar kennt, aber nicht pflegt, wird hier durch den fussball.de-Stand
+  // ersetzt.
+  const bekannt = new Map();
+  partien.forEach((p, i) => {
     for (const seite of [p.heim, p.gast]) {
       const meins = passtZu(meineFussball, seite);
-      if (meins) bekannt.add(`${meins.verein}|${p.zeit ?? ''}`);
+      if (meins) bekannt.set(`${meins.verein}|${p.zeit ?? ''}`, i);
     }
-  }
+  });
 
   for (const m of meineFussball) {
     if (!m.teamId) continue;
@@ -229,13 +290,24 @@ async function spieltagSammeln() {
       if (!s.url) continue;
       const termin = terminLesen(s.datum);
       const schluessel = `${m.verein}|${termin?.zeit ?? ''}`;
-      if (bekannt.has(schluessel)) continue;
-      bekannt.add(schluessel);
-      // Treffen zwei eigene Mannschaften aufeinander, würde die Partie sonst
-      // zweimal auftauchen – einmal je Mannschaft.
-      for (const seite of [s.heim, s.gast]) {
-        const gegner = passtZu(meineFussball, seite);
-        if (gegner) bekannt.add(`${gegner.verein}|${termin?.zeit ?? ''}`);
+      const platz = bekannt.get(schluessel);
+      const ausFupa = platz == null ? null : partien[platz];
+
+      // Steht die Partie schon aus FuPa da, wird sie nur dann noch einmal
+      // abgerufen, wenn dort etwas fehlt, obwohl es längst dastehen müsste.
+      // Sonst wäre das ein zweiter Abruf ohne Erkenntnisgewinn.
+      if (ausFupa) {
+        const luecke = !ausFupa.tore
+          || (ausFupa.hatTicker && (ausFupa.ereignisse ?? []).length === 0);
+        if (!luecke || !laengstAngepfiffen(ausFupa)) continue;
+      } else {
+        bekannt.set(schluessel, partien.length);
+        // Treffen zwei eigene Mannschaften aufeinander, würde die Partie sonst
+        // zweimal auftauchen – einmal je Mannschaft.
+        for (const seite of [s.heim, s.gast]) {
+          const gegner = passtZu(meineFussball, seite);
+          if (gegner) bekannt.set(`${gegner.verein}|${termin?.zeit ?? ''}`, partien.length);
+        }
       }
 
       const verlauf = await fussballdeVerlauf(s.url);
@@ -249,7 +321,7 @@ async function spieltagSammeln() {
         anpfiff = d.toISOString();
       }
 
-      partien.push({
+      const datensatz = {
         quelle: 'fussball.de',
         sportart: 'Fußball',
         url: s.url,
@@ -263,7 +335,12 @@ async function spieltagSammeln() {
         zeit: termin?.zeit ?? null,
         heim: verlauf?.heim || s.heim,
         gast: verlauf?.gast || s.gast,
+        // Der Spielstand wird dort aus den Tor-Ereignissen gezählt – ohne ein
+        // einziges Ereignis wäre das ein vorgetäuschtes 0:0 statt „nichts da“.
         tore: verlauf?.tore ?? null,
+        // Ergebnis steht auf der Spielseite, ist dort aber nur als private
+        // Unicode-Zeichen abgebildet. Nicht entschlüsselt – nur vermerkt.
+        ergebnisGemeldet: verlauf?.ergebnisGemeldet ?? false,
         // Ohne Namen – die sind bei fussball.de verschleiert.
         ereignisse: (verlauf?.ereignisse ?? []).map((e) => ({
           minute: e.minute, nachspielzeit: 0, art: e.art, name: e.name,
@@ -273,8 +350,27 @@ async function spieltagSammeln() {
         schiedsrichter: null,
         hatTicker: false,
         abschnitt: null,
-        hinweis: hinweisKlartext(s.hinweis),
-      });
+        // Der Vermerk auf der Spielseite ist aktueller als der im Spielplan.
+        hinweis: hinweisKlartext(verlauf?.vermerk || s.hinweis),
+      };
+
+      if (!ausFupa) {
+        partien.push(datensatz);
+        continue;
+      }
+
+      // Gegenprobe: nur übernehmen, wenn dort wirklich mehr steht.
+      if (guete(datensatz) <= guete(ausFupa)) {
+        log(`  ${m.verein}: FuPa bleibt (${guete(ausFupa)} zu ${guete(datensatz)})`);
+        continue;
+      }
+      const uebernommen = namenNachtragen(datensatz, ausFupa);
+      // Was FuPa auch bei leerem Ticker weiß, geht nicht verloren.
+      datensatz.zuschauer = ausFupa.zuschauer ?? null;
+      datensatz.schiedsrichter = ausFupa.schiedsrichter ?? null;
+      partien[platz] = datensatz;
+      log(`  ${m.verein}: fussball.de übernimmt (${guete(datensatz)} zu ${guete(ausFupa)}`
+        + `${uebernommen ? `, ${uebernommen} Namen von FuPa` : ''})`);
     }
   }
 

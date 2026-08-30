@@ -1054,9 +1054,25 @@
 
     const paarung = el('div', 'partie-paarung');
     paarung.append(el('span', 'partie-team', p.heim));
-    paarung.append(el('span', 'partie-stand', p.tore ? `${p.tore.heim} : ${p.tore.gast}` : '–:–'));
+    const verdeckt = !p.tore && p.ergebnisGemeldet;
+    paarung.append(el('span', verdeckt ? 'partie-stand verdeckt' : 'partie-stand',
+      p.tore ? `${p.tore.heim} : ${p.tore.gast}` : (verdeckt ? '?:?' : '–:–')));
     paarung.append(el('span', 'partie-team rechts', p.gast));
     kopf.append(paarung);
+
+    if (verdeckt) {
+      // fussball.de bildet die Ergebnisziffern als private Unicode-Zeichen mit
+      // wechselnder Spezialschrift ab. Diese Sperre wird bewusst nicht
+      // umgangen – dann lieber ehrlich darauf verweisen als eine leere Karte
+      // oder ein erfundenes 0:0 zeigen.
+      const notiz = el('p', 'stand-notiz', 'Ergebnis liegt vor, ist bei fussball.de aber nur verschleiert hinterlegt · ');
+      const ziel = el('a', null, 'auf der Spielseite ansehen');
+      ziel.href = p.url;
+      ziel.target = '_blank';
+      ziel.rel = 'noopener';
+      notiz.append(ziel);
+      kopf.append(notiz);
+    }
 
     kopf.append(el('div', 'mannschaft-liga', [p.wettbewerb, p.liga].filter(Boolean).join(' · ')));
     karte.append(kopf);

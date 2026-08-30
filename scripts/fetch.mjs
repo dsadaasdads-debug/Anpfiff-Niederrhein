@@ -14,7 +14,7 @@ import { SOURCES } from './sources.mjs';
 import { VEREINE, ZONEN } from './clubs.mjs';
 import { parseRss } from './lib/rss.mjs';
 import { artikelDetails, feedLaden, nacheinander } from './lib/artikel.mjs';
-import { urlSchluessel, vereineFinden, ortsbezug, istSport, bewerten, sportartErkennen, ereignisErkennen } from './lib/einstufung.mjs';
+import { urlSchluessel, vereineFinden, ortsbezug, istSport, istVereinsintern, bewerten, sportartErkennen, ereignisErkennen } from './lib/einstufung.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const WURZEL = join(HERE, '..');
@@ -257,6 +257,13 @@ for (const k of zurAnreicherung) {
 // werden dabei aber neu bewertet. Sonst wirkt jede Regelkorrektur nur auf frische
 // Meldungen, und alte Fehltreffer bleiben dreißig Tage lang stehen: der Bericht
 // über Borussia Dortmund trug so noch Tage später die Ortsmarke „Sonsbeck“.
+// Gespeichert wird der Herausgeber, nicht die Quelle selbst. Für die
+// rückwirkende Prüfung muss daher zurückgerechnet werden, welche Herausgeber
+// Vereinsfeeds sind.
+const VEREINSHERAUSGEBER = new Set(
+  SOURCES.filter((q) => q.mode === 'club').map((q) => q.publisher).filter(Boolean),
+);
+
 let nachbewertet = 0;
 let nachtraeglichVerworfen = 0;
 for (const [id, alt] of bestand) {
@@ -265,6 +272,13 @@ for (const [id, alt] of bestand) {
   if (zeit < grenze) continue;
 
   const volltext = `${alt.titel} ${alt.teaser ?? ''}`;
+  // Stammt der Artikel aus einem Vereinsfeed, gilt auch hier die Wortliste
+  // gegen Verwaltungs- und Werbekram – sonst bliebe eine Dauerkartenwerbung
+  // dreißig Tage stehen, obwohl die Regel längst dagegen spricht.
+  if (VEREINSHERAUSGEBER.has(alt.quelle) && istVereinsintern(volltext)) {
+    nachtraeglichVerworfen++;
+    continue;
+  }
   const vereine = vereineFinden(volltext);
   const bezug = ortsbezug({ titel: alt.titel, teaser: alt.teaser ?? '', url: alt.url, vereine });
   if (!bezug.zone) { nachtraeglichVerworfen++; continue; }
