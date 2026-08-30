@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-30T05:52:30.202Z",
+ "aktualisiert": "2026-08-30T12:15:53.322Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1022,6 +1022,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SV Alemannia Kamp II",
+     "teamId": "0317IHGS0C000000VS5489BSVSCPI5U4",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "6:1",
+     "differenz": 5,
+     "punkte": 3
+    },
+    {
+     "platz": 2,
      "verein": "FC Moers-Meerfeld II",
      "teamId": "02PPPC0NSO000000VS5489B2VUGLP840",
      "spiele": 0,
@@ -1033,7 +1045,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "FC Neukirchen-Vluyn IV",
      "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
      "spiele": 0,
@@ -1045,7 +1057,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "FC Rot-Weiß Moers II",
      "teamId": "011MI9IARO000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1057,7 +1069,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "FC Rumeln-Kaldenhausen II",
      "teamId": "011MIDCRUK000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1069,7 +1081,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "MSV Moers II",
      "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
      "spiele": 0,
@@ -1081,7 +1093,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "MSV Moers IV",
      "teamId": "02PPT3VAVK000000VS5489B2VUGLP840",
      "spiele": 0,
@@ -1093,7 +1105,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "OSC 04 Rheinhausen II",
      "teamId": "01L7FAASLK000000VV0AG80NVT9OCUEA",
      "spiele": 0,
@@ -1105,7 +1117,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "SC Rheinkamp",
      "teamId": "011MIDP8N4000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1117,19 +1129,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
-     "verein": "SV Alemannia Kamp II",
-     "teamId": "0317IHGS0C000000VS5489BSVSCPI5U4",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 1,
+     "platz": 2,
      "verein": "SV Schwafheim III",
      "teamId": "02T8NOOT10000000VS5489BSVV9JRPRB",
      "spiele": 0,
@@ -1141,7 +1141,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "SpVgg. Rheurdt-Schaephuysen III",
      "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
      "spiele": 0,
@@ -1153,7 +1153,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "SuS Rayen",
      "teamId": "011MIA98AS000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1165,7 +1165,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "TV Kapellen II",
      "teamId": "031CD9A8T4000000VS5489BRVTPI24NQ",
      "spiele": 0,
@@ -1177,7 +1177,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "TuS Borth III",
      "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
      "spiele": 0,
@@ -1189,7 +1189,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "VFB Homberg III",
      "teamId": "01HDETCRBK000000VV0AG811VUIMUTIM",
      "spiele": 0,
@@ -1201,7 +1201,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 2,
      "verein": "VfL Repelen II",
      "teamId": "011MIAP9SG000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -1213,15 +1213,15 @@
      "punkte": 0
     },
     {
-     "platz": 1,
+     "platz": 17,
      "verein": "VfL Rheinhausen III",
      "teamId": "031BQIOKV4000000VS5489BSVU7CJV8J",
-     "spiele": 0,
+     "spiele": 1,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
+     "niederlagen": 1,
+     "tore": "1:6",
+     "differenz": -5,
      "punkte": 0
     }
    ]
@@ -2084,6 +2084,18 @@
     },
     {
      "platz": 2,
+     "verein": "SC Rheinkamp II",
+     "teamId": "01SIQFBN18000000VS548984VVMI9KVG",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "6:3",
+     "differenz": 3,
+     "punkte": 3
+    },
+    {
+     "platz": 3,
      "verein": "SV Millingen II",
      "teamId": "011MICLI60000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -2095,7 +2107,7 @@
      "punkte": 3
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "TuS Borth II",
      "teamId": "011MIB16NS000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -2107,7 +2119,7 @@
      "punkte": 3
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "Büdericher SV II",
      "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
      "spiele": 0,
@@ -2119,7 +2131,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "Concordia Rheinberg II",
      "teamId": "02EK6VH7AO000000VS5489B1VV8GJNNG",
      "spiele": 0,
@@ -2131,7 +2143,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "MSV Moers III",
      "teamId": "02MB52NDG8000000VS5489B1VV4JLPLE",
      "spiele": 0,
@@ -2143,19 +2155,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
-     "verein": "SC Rheinkamp II",
-     "teamId": "01SIQFBN18000000VS548984VVMI9KVG",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 4,
+     "platz": 5,
      "verein": "SV Menzelen II",
      "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
      "spiele": 0,
@@ -2167,7 +2167,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "SV Orsoy",
      "teamId": "011MIA98AC000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -2179,7 +2179,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "SV Rheinkraft Ginderich",
      "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -2191,7 +2191,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "SV Sonsbeck III",
      "teamId": "02PTDCPP68000000VS5489B2VSE05932",
      "spiele": 0,
@@ -2203,7 +2203,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "SV Viktoria Birten II",
      "teamId": "01A2HO9954000000VV0AG80NVSEJ47CH",
      "spiele": 0,
@@ -2215,7 +2215,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "SV Vynen-Marienbaum",
      "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -2227,7 +2227,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "SpVgg. Rheurdt-Schaephuysen II",
      "teamId": "02Q88TMF08000000VS5489B1VURITBKO",
      "spiele": 0,
@@ -2239,19 +2239,7 @@
      "punkte": 0
     },
     {
-     "platz": 4,
-     "verein": "VfL Repelen III",
-     "teamId": "02Q2ELK7TK000000VS5489B2VT450JFN",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 16,
+     "platz": 15,
      "verein": "SV Borussia Veen 1920 II",
      "teamId": "011MIA3L2K000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -2260,6 +2248,18 @@
      "niederlagen": 1,
      "tore": "1:2",
      "differenz": -1,
+     "punkte": 0
+    },
+    {
+     "platz": 16,
+     "verein": "VfL Repelen III",
+     "teamId": "02Q2ELK7TK000000VS5489B2VT450JFN",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "3:6",
+     "differenz": -3,
      "punkte": 0
     },
     {
@@ -2416,24 +2416,6 @@
    "staffelId": "031PMKJ4BK000004VS5489BTVT8K11BC-G",
    "naechste": [
     {
-     "datum": "Sonntag, 30.08.2026 - 11:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SF Hamborn 07",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/sf-hamborn-07-1fc-lintfort/-/spiel/031NP7UT9S000000VS5489BUVT2M8LCU",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 30.08.2026 - 11:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "1.FC Lintfort",
-     "gast": "SF Hamborn 07",
-     "url": "https://www.fussball.de/spiel/1fc-lintfort-sf-hamborn-07/-/spiel/031ECV0D4S000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
      "datum": "Dienstag, 01.09.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
      "heim": "1.FC Lintfort",
@@ -2457,6 +2439,24 @@
      "heim": "JSG Borth / Büderich",
      "gast": "1.FC Lintfort",
      "url": "https://www.fussball.de/spiel/jsg-borth-buederich-1fc-lintfort/-/spiel/031HSSUFAS000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.09.2026 - 10:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "ASV Einigkeit Süchteln A1",
+     "gast": "1.FC Lintfort",
+     "url": "https://www.fussball.de/spiel/asv-einigkeit-suechteln-a1-1fc-lintfort/-/spiel/031F3BLNHK000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 11:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SF 97/30 Lowick",
+     "gast": "1.FC Lintfort",
+     "url": "https://www.fussball.de/spiel/sf-97-30-lowick-1fc-lintfort/-/spiel/031SUR0P68000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3300,7 +3300,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sc-rheinkamp-sc-rheinkamp-niederrhein/-/saison/2627/team-id/011MIDP8N4000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 2",
    "spielklasse": "Kreisliga C",
-   "platz": 1,
+   "platz": 2,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
@@ -3627,7 +3627,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sus-rayen-sus-rayen-1945-niederrhein/-/saison/2627/team-id/011MIA98AS000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 2",
    "spielklasse": "Kreisliga C",
-   "platz": 1,
+   "platz": 2,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
@@ -4390,7 +4390,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-orsoy-sv-orsoy-1919-niederrhein/-/saison/2627/team-id/011MIA98AC000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 4,
+   "platz": 5,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
@@ -4826,7 +4826,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-vynen-marienbaum-sv-vynen-marienbaum-1997-niederrhein/-/saison/2627/team-id/011MIANO4S000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 4,
+   "platz": 5,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
