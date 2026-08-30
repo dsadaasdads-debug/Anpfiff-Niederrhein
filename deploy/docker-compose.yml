@@ -1,0 +1,35 @@
+# Anpfiff Niederrhein
+#
+#   cd /opt/dienste/anpfiff && sudo docker compose up -d --build
+#
+# Caddy erreicht den Dienst über den Containernamen; nach außen ist kein Port
+# geöffnet, genau wie beim Rust-Dashboard nebenan.
+
+services:
+  anpfiff:
+    build:
+      context: ./quelle
+      dockerfile: deploy/Dockerfile
+    container_name: anpfiff
+    restart: unless-stopped
+    environment:
+      TZ: Europe/Berlin
+    volumes:
+      # Die gesammelten Daten überleben einen Neubau des Containers.
+      - anpfiff_daten:/app/data
+    networks:
+      - caddy
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:8080/index.html"]
+      interval: 60s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  anpfiff_daten:
+
+networks:
+  caddy:
+    external: true
+    name: caddy_default

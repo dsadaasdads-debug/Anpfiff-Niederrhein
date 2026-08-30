@@ -1,0 +1,22 @@
+# In /opt/dienste/caddy/Caddyfile einfügen, dann:
+#   sudo docker exec caddy caddy reload --config /etc/caddy/Caddyfile
+
+anpfiff.rubenmaurer.de {
+	encode zstd gzip
+	reverse_proxy anpfiff:8080
+
+	# Die Daten wechseln im Minutentakt – kein Zwischenspeicher, sonst hinkt
+	# der Spieltag hinterher.
+	@daten path /data/*
+	header @daten Cache-Control "no-cache, must-revalidate"
+
+	# Der Service Worker entscheidet selbst, wann er das Gerüst erneuert.
+	@sw path /sw.js
+	header @sw Cache-Control "no-cache"
+
+	header {
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+	}
+}
