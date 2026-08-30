@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-30T17:00:20.472Z",
+ "aktualisiert": "2026-08-30T21:36:25.430Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -895,7 +895,19 @@
      "punkte": 3
     },
     {
-     "platz": 7,
+     "platz": 6,
+     "verein": "SV Budberg III",
+     "teamId": "011MIBSVNC000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "1:0",
+     "differenz": 1,
+     "punkte": 3
+    },
+    {
+     "platz": 8,
      "verein": "ESV Hohenbudberg",
      "teamId": "011MI9O5QC000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -907,7 +919,7 @@
      "punkte": 0
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "FC Viktoria Alpen",
      "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -919,31 +931,7 @@
      "punkte": 0
     },
     {
-     "platz": 7,
-     "verein": "SV Budberg III",
-     "teamId": "011MIBSVNC000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 7,
-     "verein": "TV Asberg I",
-     "teamId": "011MIC29SO000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 11,
+     "platz": 10,
      "verein": "VfL Rheinhausen",
      "teamId": "011MI9UHFS000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -955,9 +943,21 @@
      "punkte": 0
     },
     {
-     "platz": 12,
+     "platz": 11,
      "verein": "SV Schwafheim",
      "teamId": "011MIF5N78000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "0:1",
+     "differenz": -1,
+     "punkte": 0
+    },
+    {
+     "platz": 11,
+     "verein": "TV Asberg I",
+     "teamId": "011MIC29SO000000VTVG0001VTR8C1K7",
      "spiele": 1,
      "siege": 0,
      "unentschieden": 0,
@@ -2973,7 +2973,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/fc-viktoria-alpen-fc-viktoria-alpen-1911-niederrhein/-/saison/2627/team-id/011MIAIU2S000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 7,
+   "platz": 8,
    "punkte": 0,
    "torverhaeltnis": "0:0",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
@@ -4608,7 +4608,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-schwafheim-sv-schwafheim-1932-niederrhein/-/saison/2627/team-id/011MIF5N78000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 12,
+   "platz": 11,
    "punkte": 0,
    "torverhaeltnis": "0:1",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
@@ -5153,20 +5153,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/tv-asberg-i-tv-asberg-1897-niederrhein/-/saison/2627/team-id/011MIC29SO000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 7,
+   "platz": 11,
    "punkte": 0,
-   "torverhaeltnis": "0:0",
+   "torverhaeltnis": "0:1",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Sonntag, 30.08.2026 - 17:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Budberg III",
-     "gast": "TV Asberg I",
-     "url": "https://www.fussball.de/spiel/sv-budberg-iii-tv-asberg-i/-/spiel/031H9RCED8000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Freitag, 04.09.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -5202,9 +5193,27 @@
      "url": "https://www.fussball.de/spiel/tv-asberg-i-ssv-rheintreu-luettingen/-/spiel/031H9RCCUK000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "FC Viktoria Alpen",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-tv-asberg-i/-/spiel/031H9RCC6C000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Sonntag, 30.08.2026 - 17:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Budberg III",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/sv-budberg-iii-tv-asberg-i/-/spiel/031H9RCED8000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 23.08.2026 - 14:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
@@ -5240,15 +5249,6 @@
      "url": "https://www.fussball.de/spiel/tv-asberg-i-fc-taxi-duisburg/-/spiel/0317URHQRC000000VS5489BUVSBBVPEU",
      "ergebnisVerschleiert": false,
      "hinweis": "Absetzung"
-    },
-    {
-     "datum": "Sonntag, 02.08.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "TuS Viktoria Buchholz",
-     "gast": "TV Asberg I",
-     "url": "https://www.fussball.de/spiel/tus-viktoria-buchholz-tv-asberg-i/-/spiel/031D336AA4000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
