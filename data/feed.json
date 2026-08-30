@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-08-30T00:20:37.461Z",
+ "aktualisiert": "2026-08-30T06:40:53.053Z",
  "behaltenTage": 30,
  "zonen": {
   "kern": {
@@ -646,6 +646,58 @@
    "sportart": null,
    "ereignis": null,
    "grund": "rubrik"
+  },
+  {
+   "id": "rp:153905759",
+   "titel": "„Hatte Angst, dass wir absteigen“: Sein „Riegel“ machte den MSV zum Vizemeister – 100 Jahre Rudi Gutendorf",
+   "url": "https://rp-online.de/sport/fussball/msv/100-jahre-rudi-gutendorf-sein-riegel-machte-den-msv-zum-vizemeister_aid-153905759",
+   "teaser": "Mit den Meiderichern spielte er überraschend ganz oben mit, insgesamt war er Trainer in 32 Ländern – von Tonga bis Botswana und Mauritius. Am Sonntag wäre der Weltenbummler 100 Jahre alt geworden.",
+   "bild": "https://rp-online.de/imgs/32/2/7/9/1/1/5/9/5/1/tok_22be5544754d3abd98e72b43b37f30b1/w1200_h630_x1500_y1000_DPA_bfunk_dpa_5F9E5C007A39C1EC-c5cee2895864338b.jpg",
+   "datum": "2026-08-30T06:00:00.000Z",
+   "sortZeit": 1787997600000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "RP Online",
+   "quelleName": "RP Online Fußball",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "MSV Duisburg"
+   ],
+   "sportart": "Fußball",
+   "ereignis": null,
+   "grund": "rubrik"
+  },
+  {
+   "id": "fuechse-duisburg.de/news/fuechse-zum-test-rueckspiel-in-herford",
+   "titel": "Füchse zum Test-Rückspiel in Herford",
+   "url": "https://fuechse-duisburg.de/news/fuechse-zum-test-rueckspiel-in-herford/",
+   "teaser": "Ersatzgeschwächt absolvieren die Füchse heute ihr 3. Vorbereitungsspiel und hoffen auf mehr Spielfluss als am Freitag. Spiel 3 der Vorbereitung wird präsentiert von alleato – wir begleiten Sie in die sichere Zukunft. 🗓️ Pre Season 26/27 – Spiel 3🏒 Ice Dragons Herford ❄️🐲📍 imos Eishalle „im kleinen Felde“⏰️ 16.30Uhr®️ Schmidt, Licau Ausblick „Es war frustrierend“, […]",
+   "bild": "",
+   "datum": "2026-08-30T06:00:00.000Z",
+   "sortZeit": 1787997600000,
+   "punkte": 80,
+   "paywall": false,
+   "quelle": "Füchse Duisburg",
+   "quelleName": "Füchse Duisburg",
+   "auchIn": [],
+   "ort": "Duisburg",
+   "ortSicher": true,
+   "orte": [
+    "Duisburg"
+   ],
+   "zone": "duisburg",
+   "vereine": [
+    "Füchse Duisburg"
+   ],
+   "sportart": "Eishockey",
+   "ereignis": null,
+   "grund": "vereinsfeed"
   },
   {
    "id": "rp:153938635",
@@ -11841,37 +11893,6 @@
    "sportart": "Fußball",
    "ereignis": null,
    "grund": "rubrik"
-  },
-  {
-   "id": "rp:152345829",
-   "titel": "Xantenerin in Badeborn am Start: Lilly Witt – Auf dem Kutschbock zur Jugend-DM",
-   "url": "https://rp-online.de/nrw/staedte/xanten/sport/reitsport-lilly-witt-aus-xanten-bei-der-deutschen-meisterschaft-im-fahren-am-start_aid-152345829",
-   "teaser": "Lilly Witt vom RFV Rheurdt ist bei den Deutschen Jugend-Meisterschaften im Fahrsport in Badeborn am Start. Die Xantenerin muss sich bei den Einspännern mit Pony Grande in drei Disziplinen beweisen.",
-   "bild": "https://rp-online.de/imgs/32/2/7/5/6/1/0/8/0/9/tok_4fc21e7cd84a41e59eb240bcbf3fd664/w965_h630_x482_y372_Lilly_2-f753c9e13ce4fb29.jpg",
-   "datum": "2026-07-31T05:00:00.000Z",
-   "sortZeit": 1785445200000,
-   "punkte": 110,
-   "paywall": false,
-   "quelle": "RP Online",
-   "quelleName": "RP Online Sport Moers",
-   "auchIn": [],
-   "ort": "Rheurdt",
-   "ortSicher": true,
-   "orte": [
-    "Rheurdt",
-    "Xanten"
-   ],
-   "zone": "umland",
-   "vereine": [
-    "RFV Rheurdt"
-   ],
-   "sportart": "Reitsport",
-   "ereignis": {
-    "schluessel": "DM|Reitsport",
-    "name": "Reitsport-DM",
-    "ort": null
-   },
-   "grund": "pfad"
   },
   {
    "id": "funke:412724486",
