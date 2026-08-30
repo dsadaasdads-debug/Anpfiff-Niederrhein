@@ -605,3 +605,7 @@ table.liga tr.eigen { background: color-mix(in srgb, var(--akzent) 15%, transpar
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }
 }
+
+/* Unsichtbare Marke am Listenende: sobald sie in Sicht kommt, werden weitere
+   Karten nachgelegt. Etwas Hoehe, damit der Beobachter sie zuverlaessig sieht. */
+.nachschub { height: 1px; margin: 0; }

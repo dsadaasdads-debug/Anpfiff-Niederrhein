@@ -115,8 +115,12 @@ export function ortsbezug({ titel, teaser, url, vereine }) {
   for (const ort of ORTE) {
     for (const muster of ort.muster) {
       const klein = muster.toLowerCase();
-      const imPfad = enthaeltStamm(pfad, klein) || enthaeltStamm(pfad, klein.replace(/ß/g, 'ss'));
-      const imText = !NUR_IM_PFAD.has(muster) && enthaeltStamm(text, muster);
+      // Kurze Ortsnamen nur exakt: mit Endungstoleranz verschluckt sich „Hamb“
+      // (Dorf bei Sonsbeck) an „Hamburger SV“ und erklärt einen Dortmund-Bericht
+      // zur Sonsbecker Lokalmeldung. Genau so passiert am 30.08.2026.
+      const passt = muster.length >= 5 ? enthaeltStamm : enthaeltWort;
+      const imPfad = passt(pfad, klein) || passt(pfad, klein.replace(/ß/g, 'ss'));
+      const imText = !NUR_IM_PFAD.has(muster) && passt(text, muster);
       if (imText) { merken(ort, 2); break; }
       if (imPfad) { merken(ort, 1); break; }
     }

@@ -20,6 +20,7 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 const WURZEL = join(HERE, '..');
 const DATEN = join(WURZEL, 'data');
 const ZIEL = join(DATEN, 'feed.json');
+const ARCHIV = join(DATEN, 'feed-archiv.json');
 const SPEICHER = join(DATEN, 'artikel-cache.json');
 
 const BEHALTEN_TAGE = 30;
@@ -33,15 +34,16 @@ const log = (...a) => console.log(...a);
 
 // ── Bestand laden ───────────────────────────────────────────────────────────
 const bestand = new Map();
-if (existsSync(ZIEL)) {
+for (const datei of [ZIEL, ARCHIV]) {
+  if (!existsSync(datei)) continue;
   try {
-    const alt = JSON.parse(readFileSync(ZIEL, 'utf8'));
+    const alt = JSON.parse(readFileSync(datei, 'utf8'));
     for (const a of alt.artikel ?? []) bestand.set(a.id, a);
-    log(`Bestand: ${bestand.size} Artikel`);
   } catch (err) {
-    log(`Bestand nicht lesbar (${err.message}) – beginne neu.`);
+    log(`${datei} nicht lesbar (${err.message}) – wird neu aufgebaut.`);
   }
 }
+log(`Bestand: ${bestand.size} Artikel`);
 
 // Zwischenspeicher aller je abgerufenen Artikelseiten – auch der später
 // verworfenen. Ohne ihn würde jeder Lauf dieselben Seiten erneut holen, nur
@@ -225,7 +227,7 @@ for (const k of zurAnreicherung) {
   const datum = k.eintrag.datum ?? (alt?.datum ? new Date(alt.datum) : null);
   if (datum && datum.getTime() < grenze) continue;
 
-  const { punkte, sortZeit } = bewerten({ zone: bezug.zone, vereine, grund: k.grund, datum });
+  const { sortZeit } = bewerten({ zone: bezug.zone, vereine, grund: k.grund, datum });
   const sportart = sportartErkennen(volltext, vereine);
   const ereignis = ereignisErkennen(k.eintrag.titel, sportart);
 
@@ -233,15 +235,14 @@ for (const k of zurAnreicherung) {
     id: k.id,
     titel: k.eintrag.titel,
     url: k.eintrag.link,
-    teaser,
+    // Deckeln: die Karte zeigt zwei Zeilen, alles darüber ist Ballast. Der
+    // längste Vorschautext im Bestand hatte 499 Zeichen.
+    teaser: teaser.length > 220 ? `${teaser.slice(0, 217).trimEnd()}…` : teaser,
     bild,
     datum: datum ? datum.toISOString() : null,
     sortZeit,
-    punkte,
     paywall,
     quelle: k.quelle.publisher,
-    quelleName: k.quelle.name,
-    auchIn: k.auchIn,
     ort: bezug.haupt,
     ortSicher: bezug.sicher,
     orte: bezug.orte,
@@ -249,7 +250,6 @@ for (const k of zurAnreicherung) {
     vereine: vereine.map((v) => v.name),
     sportart,
     ereignis,
-    grund: k.grund,
   });
 }
 
@@ -265,32 +265,34 @@ const artikel = [...ergebnis.values()].sort((a, b) => b.sortZeit - a.sortZeit);
 // ── Schreiben ───────────────────────────────────────────────────────────────
 mkdirSync(DATEN, { recursive: true });
 
-const ausgabe = {
+// Aufteilen: Die App startet mit den letzten Tagen und lädt das Archiv erst
+// danach im Hintergrund nach. Sonst wandern bei jedem Start über 400 Artikel
+// über die Leitung, obwohl fast niemand bis ans Ende scrollt.
+const FRISCH_TAGE = 10;
+const frischGrenze = jetzt - FRISCH_TAGE * 86_400_000;
+const frisch = artikel.filter((a) => (Date.parse(a.datum) || 0) >= frischGrenze);
+const archiv = artikel.filter((a) => (Date.parse(a.datum) || 0) < frischGrenze);
+
+const kopf = {
   aktualisiert: new Date().toISOString(),
   behaltenTage: BEHALTEN_TAGE,
+  frischTage: FRISCH_TAGE,
   zonen: ZONEN,
   quellen: quellenStatus.sort((a, b) => a.id.localeCompare(b.id)),
   vereine: VEREINE.map((v) => ({ name: v.name, ort: v.ort, zone: v.zone, sportart: v.sportart })),
-  artikel,
 };
 
-writeFileSync(ZIEL, JSON.stringify(ausgabe, null, 1) + '\n', 'utf8');
+// Ohne Einrückung geschrieben: die Formatierung allein machte 68 der 423 KB aus.
+writeFileSync(ZIEL, JSON.stringify({ ...kopf, artikelGesamt: artikel.length, artikel: frisch }) + '\n', 'utf8');
+writeFileSync(ARCHIV, JSON.stringify({ aktualisiert: kopf.aktualisiert, artikel: archiv }) + '\n', 'utf8');
 
-// Zwischenspeicher aufräumen und sichern.
-const speicherGrenze = jetzt - SPEICHER_TAGE * 86_400_000;
-const gekuerzt = Object.fromEntries(
-  // Schlüssel mit doppeltem Unterstrich sind Verwaltungsdaten (etwa die
-  // Erreichbarkeitslage der Quellen) und dürfen nicht mit weggeräumt werden.
-  [...speicher.entries()].filter(([schluessel, wert]) => schluessel.startsWith('__')
-    || (Date.parse(wert.geholt) || 0) >= speicherGrenze),
-);
 writeFileSync(SPEICHER, JSON.stringify(gekuerzt) + '\n', 'utf8');
 
 // ── Bilanz ──────────────────────────────────────────────────────────────────
 const zaehle = (fn) => artikel.filter(fn).length;
 log(`\n${'─'.repeat(60)}`);
 log(`geschrieben: ${ZIEL}`);
-log(`  Artikel gesamt          ${artikel.length}`);
+log(`  Artikel gesamt          ${artikel.length}  (${frisch.length} frisch, ${archiv.length} im Archiv)`);
 log(`  davon Kernstädte        ${zaehle((a) => a.zone === 'kern')}`);
 log(`  davon Umland            ${zaehle((a) => a.zone === 'umland')}`);
 log(`  davon Duisburg          ${zaehle((a) => a.zone === 'duisburg')}`);

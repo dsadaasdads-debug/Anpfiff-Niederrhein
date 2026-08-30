@@ -36,6 +36,10 @@
   let auswahl = 'alle';             // 'alle' | 'favoriten' | Name einer Sportart
   let suchtext = '';
   let zuletztGeholt = 0;
+  /** Ist das Archiv (aeltere Meldungen) schon nachgeladen? */
+  let archivGeladen = false;
+  /** Wie viele Karten sind gerade gezeichnet? Der Rest kommt beim Scrollen. */
+  let gezeichnet = 0;
   /** Zeitpunkt des vorigen Besuchs, beim Start eingefroren. */
   let besuchVorher = null;
   /** Gelesene Kennungen als Menge, für schnelles Nachschlagen. */
@@ -377,7 +381,13 @@
         knoten.push(karteBauen(artikel));
       }
     }
-    $('liste').replaceChildren(...knoten);
+    // Nicht alles auf einmal: bei 300 Meldungen entstuenden sonst 300 Karten und
+    // ebenso viele Bildelemente, die Seite waere 66.000 Pixel hoch. Gezeichnet
+    // wird in Haeppchen, der Rest kommt beim Scrollen nach.
+    const ERSTE_PORTION = 40;
+    gezeichnet = Math.min(ERSTE_PORTION, knoten.length);
+    $('liste').replaceChildren(...knoten.slice(0, gezeichnet));
+    nachschubVorbereiten(knoten);
 
     const neue = treffer.filter(istNeu).length;
     const hinweis = $('neuhinweis');
@@ -411,6 +421,29 @@
     $('paywall-erklaerung').textContent = einstellungen.paywallZeigen
       ? `Bezahlartikel werden mitgezeigt und mit einem Schloss gekennzeichnet. Derzeit betrifft das ${versteckt} Meldungen.`
       : `Derzeit sind ${versteckt} Meldungen ausgeblendet. RP Online und NRZ stellen einen Teil des Lokalsports hinter die Schranke — wenn dir der Feed zu dünn wird, schalte sie hier ein.`;
+  }
+
+  /** Beobachter, der am Listenende weitere Karten nachlegt. */
+  let nachschubBeobachter = null;
+
+  function nachschubVorbereiten(knoten) {
+    nachschubBeobachter?.disconnect();
+    const liste = $('liste');
+    liste.querySelector('.nachschub')?.remove();
+    if (gezeichnet >= knoten.length) return;
+
+    const marke = el('div', 'nachschub');
+    marke.setAttribute('aria-hidden', 'true');
+    liste.append(marke);
+
+    nachschubBeobachter = new IntersectionObserver((eintraege) => {
+      if (!eintraege.some((e) => e.isIntersecting)) return;
+      const naechste = knoten.slice(gezeichnet, gezeichnet + 40);
+      gezeichnet += naechste.length;
+      marke.before(...naechste);
+      if (gezeichnet >= knoten.length) { nachschubBeobachter.disconnect(); marke.remove(); }
+    }, { rootMargin: '800px' });
+    nachschubBeobachter.observe(marke);
   }
 
   /**
@@ -1269,6 +1302,34 @@
     }
   }
 
+  /**
+   * Laedt die aelteren Meldungen nach.
+   *
+   * Beim Start kommen nur die letzten Tage ueber die Leitung – das sind 144 statt
+   * 419 KB. Das Archiv holt die App, sobald der Browser Luft hat; bis dahin ist
+   * die Liste schon bedienbar.
+   */
+  async function archivHolen() {
+    if (archivGeladen || !daten) return;
+    archivGeladen = true;
+    try {
+      const antwort = await fetch('data/feed-archiv.json', { cache: 'no-cache' });
+      if (!antwort.ok) return;
+      const alt = await antwort.json();
+      const bekannt = new Set(daten.artikel.map((a) => a.id));
+      const dazu = (alt.artikel ?? []).filter((a) => !bekannt.has(a.id));
+      if (dazu.length === 0) return;
+
+      daten.artikel = daten.artikel.concat(dazu);
+      mitLesepositionZeichnen();
+      einstellungslistenZeichnen();
+      vereineZeichnen($('vereinssuche')?.value.trim().toLowerCase() ?? '');
+    } catch (err) {
+      console.warn('Archiv nicht ladbar:', err.message);
+      archivGeladen = false;   // beim naechsten Anlauf erneut versuchen
+    }
+  }
+
   // ── Start ────────────────────────────────────────────────────────────────
 
   async function starten() {
@@ -1392,6 +1453,10 @@
     // Erst jetzt, nachdem der Hinweis gezeichnet ist: Besuch vermerken.
     einstellungen.letzterBesuch = new Date().toISOString();
     sichern();
+
+    // Aeltere Meldungen erst holen, wenn die Liste steht.
+    if ('requestIdleCallback' in window) requestIdleCallback(() => archivHolen(), { timeout: 4000 });
+    else setTimeout(archivHolen, 1200);
 
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('sw.js').catch((err) => console.warn('Service Worker:', err));

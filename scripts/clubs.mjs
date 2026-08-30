@@ -110,7 +110,7 @@ export const ORTE = [
   // Sonsbeck liegt außerhalb des gewünschten Umlands, taucht aber ständig auf,
   // weil RP es aus derselben Sportredaktion wie Xanten bedient. Aufgenommen,
   // damit solche Artikel richtig beschriftet sind statt fälschlich als Xanten.
-  { name: 'Sonsbeck', zone: 'umland', muster: ['Sonsbeck', 'Labbeck', 'Hamb'] },
+  { name: 'Sonsbeck', zone: 'umland', muster: ['Sonsbeck', 'Labbeck'] },
   { name: 'Issum', zone: 'umland', muster: ['Issum', 'Sevelen'] },
   { name: 'Duisburg', zone: 'duisburg', muster: ['Duisburg', 'Duisburger', 'Meiderich', 'Rheinhausen', 'Homberg', 'Baerl', 'Rumeln', 'Kaldenhausen', 'Walsum', 'Wedau', 'Neuenkamp', 'Beeck', 'Hamborn', 'Ruhrort'] },
 ];

@@ -5,7 +5,7 @@
 // WICHTIG: Bei jeder Änderung an index.html, app.css, app.js oder sw.js diese
 // Zahl erhöhen. Das Gerüst wird zuerst aus dem Zwischenspeicher bedient –
 // ohne neue Version behalten installierte Geräte den alten Stand.
-const VERSION = 'anpfiff-v16';
+const VERSION = 'anpfiff-v17';
 const GERUEST = `${VERSION}-geruest`;
 const DATEN = `${VERSION}-daten`;
 const BILDER = `${VERSION}-bilder`;
@@ -49,7 +49,7 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(anfrage.url);
 
   // Meldungen und Tabellen: erst das Netz, dann der Zwischenspeicher.
-  if (url.origin === self.location.origin && /\/data\/(feed|tabellen|live)\.json$/.test(url.pathname)) {
+  if (url.origin === self.location.origin && /\/data\/(feed|feed-archiv|tabellen|live)\.json$/.test(url.pathname)) {
     e.respondWith(
       fetch(anfrage)
         .then((antwort) => {
