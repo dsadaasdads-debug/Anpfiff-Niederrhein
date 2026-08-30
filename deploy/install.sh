@@ -32,7 +32,7 @@ docker compose up -d --build
 
 hinweis "Warten, bis der Dateiserver antwortet"
 for i in $(seq 1 30); do
-  if docker exec anpfiff wget -qO- http://localhost:8080/index.html >/dev/null 2>&1; then
+  if docker exec anpfiff wget -qO- http://127.0.0.1:8080/index.html >/dev/null 2>&1; then
     echo "Dateiserver antwortet."; break
   fi
   sleep 2

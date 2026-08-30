@@ -20,7 +20,9 @@ services:
     networks:
       - web
     healthcheck:
-      test: ["CMD", "wget", "-qO-", "http://localhost:8080/index.html"]
+      # 127.0.0.1, nicht localhost: in Alpine loest localhost zuerst auf ::1
+      # auf, der Dateiserver lauscht aber auf IPv4.
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:8080/index.html"]
       interval: 60s
       timeout: 10s
       retries: 3
