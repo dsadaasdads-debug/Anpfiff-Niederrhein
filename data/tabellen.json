@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-01T00:49:12.289Z",
+ "aktualisiert": "2026-09-01T08:56:36.391Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -5059,6 +5059,15 @@
      "hinweis": null
     },
     {
+     "datum": "Dienstag, 08.09.2026 - 19:45 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VFB Homberg II",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/vfb-homberg-ii-tus-xanten/-/spiel/031V32SFK0000000VS5489BUVSORQI22",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 13.09.2026 - 15:00 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "TUS Xanten",
@@ -5082,15 +5091,6 @@
      "heim": "TUS Xanten",
      "gast": "Alemannia Pfalzdorf",
      "url": "https://www.fussball.de/spiel/tus-xanten-alemannia-pfalzdorf/-/spiel/031EO9MQPC000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Mittwoch, 30.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "TV Asberg I",
-     "gast": "TUS Xanten",
-     "url": "https://www.fussball.de/spiel/tv-asberg-i-tus-xanten/-/spiel/031QJDA3T0000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
