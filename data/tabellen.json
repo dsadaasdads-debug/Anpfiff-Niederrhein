@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-01T18:52:21.038Z",
+ "aktualisiert": "2026-09-01T23:35:33.375Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -614,6 +614,18 @@
     },
     {
      "platz": 2,
+     "verein": "SV Genc Osman Duisburg",
+     "teamId": "011MIB8DCS000000VTVG0001VTR8C1K7",
+     "spiele": 3,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "19:5",
+     "differenz": 14,
+     "punkte": 9
+    },
+    {
+     "platz": 3,
      "verein": "Duisburger SV 1900",
      "teamId": "011MICSOOO000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -625,7 +637,7 @@
      "punkte": 9
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "Spvgg. Sterkrade-Nord",
      "teamId": "011MIEFJGO000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -637,7 +649,7 @@
      "punkte": 9
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "SC 1920 Oberhausen",
      "teamId": "011MIE0KMG000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -647,18 +659,6 @@
      "tore": "13:7",
      "differenz": 6,
      "punkte": 7
-    },
-    {
-     "platz": 5,
-     "verein": "SV Genc Osman Duisburg",
-     "teamId": "011MIB8DCS000000VTVG0001VTR8C1K7",
-     "spiele": 2,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "13:4",
-     "differenz": 9,
-     "punkte": 6
     },
     {
      "platz": 6,
@@ -736,12 +736,12 @@
      "platz": 12,
      "verein": "Schwarz-Weiss Alstaden",
      "teamId": "011MIEUEV8000000VTVG0001VTR8C1K7",
-     "spiele": 2,
+     "spiele": 3,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "8:7",
-     "differenz": 1,
+     "niederlagen": 2,
+     "tore": "9:13",
+     "differenz": -4,
      "punkte": 3
     },
     {
@@ -2074,13 +2074,13 @@
      "platz": 1,
      "verein": "SpVgg. Rheurdt-Schaephuysen II",
      "teamId": "02Q88TMF08000000VS5489B1VURITBKO",
-     "spiele": 1,
-     "siege": 1,
+     "spiele": 2,
+     "siege": 2,
      "unentschieden": 0,
      "niederlagen": 0,
-     "tore": "10:0",
-     "differenz": 10,
-     "punkte": 3
+     "tore": "16:0",
+     "differenz": 16,
+     "punkte": 6
     },
     {
      "platz": 2,
@@ -2132,6 +2132,18 @@
     },
     {
      "platz": 6,
+     "verein": "Büdericher SV II",
+     "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "2:0",
+     "differenz": 2,
+     "punkte": 3
+    },
+    {
+     "platz": 6,
      "verein": "Concordia Rheinberg II",
      "teamId": "02EK6VH7AO000000VS5489B1VV8GJNNG",
      "spiele": 1,
@@ -2143,7 +2155,7 @@
      "punkte": 3
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "TuS Borth II",
      "teamId": "011MIB16NS000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -2155,19 +2167,7 @@
      "punkte": 3
     },
     {
-     "platz": 8,
-     "verein": "Büdericher SV II",
-     "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 8,
+     "platz": 9,
      "verein": "SV Rheinkraft Ginderich",
      "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
      "spiele": 0,
@@ -2179,7 +2179,7 @@
      "punkte": 0
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "SV Sonsbeck III",
      "teamId": "02PTDCPP68000000VS5489B2VSE05932",
      "spiele": 0,
@@ -2191,19 +2191,7 @@
      "punkte": 0
     },
     {
-     "platz": 8,
-     "verein": "SV Viktoria Birten II",
-     "teamId": "01A2HO9954000000VV0AG80NVSEJ47CH",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 12,
+     "platz": 11,
      "verein": "SV Borussia Veen 1920 II",
      "teamId": "011MIA3L2K000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -2215,9 +2203,9 @@
      "punkte": 0
     },
     {
-     "platz": 13,
-     "verein": "SV Menzelen II",
-     "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
+     "platz": 12,
+     "verein": "SV Viktoria Birten II",
+     "teamId": "01A2HO9954000000VV0AG80NVSEJ47CH",
      "spiele": 1,
      "siege": 0,
      "unentschieden": 0,
@@ -2227,7 +2215,7 @@
      "punkte": 0
     },
     {
-     "platz": 14,
+     "platz": 13,
      "verein": "VfL Repelen III",
      "teamId": "02Q2ELK7TK000000VS5489B2VT450JFN",
      "spiele": 1,
@@ -2239,7 +2227,7 @@
      "punkte": 0
     },
     {
-     "platz": 15,
+     "platz": 14,
      "verein": "FC Viktoria Alpen II",
      "teamId": "011MIE8974000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -2251,7 +2239,7 @@
      "punkte": 0
     },
     {
-     "platz": 15,
+     "platz": 14,
      "verein": "MSV Moers III",
      "teamId": "02MB52NDG8000000VS5489B1VV4JLPLE",
      "spiele": 1,
@@ -2263,7 +2251,7 @@
      "punkte": 0
     },
     {
-     "platz": 17,
+     "platz": 16,
      "verein": "1.FC Lintfort III",
      "teamId": "02M95SI48G000000VS5489B2VURM3E5J",
      "spiele": 1,
@@ -2271,6 +2259,18 @@
      "unentschieden": 0,
      "niederlagen": 1,
      "tore": "1:9",
+     "differenz": -8,
+     "punkte": 0
+    },
+    {
+     "platz": 17,
+     "verein": "SV Menzelen II",
+     "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
+     "spiele": 2,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "tore": "0:8",
      "differenz": -8,
      "punkte": 0
     },
@@ -2416,24 +2416,6 @@
    "staffelId": "031PMKJ4BK000004VS5489BTVT8K11BC-G",
    "naechste": [
     {
-     "datum": "Dienstag, 01.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "1.FC Lintfort",
-     "gast": "SuS 09 Dinslaken",
-     "url": "https://www.fussball.de/spiel/1fc-lintfort-sus-09-dinslaken/-/spiel/031E6528E0000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
-     "datum": "Dienstag, 01.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Landesfreundschaftsspiele",
-     "heim": "1.FC Lintfort",
-     "gast": "GSV Moers",
-     "url": "https://www.fussball.de/spiel/1fc-lintfort-gsv-moers/-/spiel/031TB0RKVK000000VS5489BTVT7QHFUC",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Samstag, 05.09.2026 - 17:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "JSG Borth / Büderich",
@@ -2457,6 +2439,24 @@
      "heim": "SF 97/30 Lowick",
      "gast": "1.FC Lintfort",
      "url": "https://www.fussball.de/spiel/sf-97-30-lowick-1fc-lintfort/-/spiel/031SUR0P68000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 20.09.2026 - 11:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1.FC Lintfort",
+     "gast": "DJK Arminia Klosterhardt",
+     "url": "https://www.fussball.de/spiel/1fc-lintfort-djk-arminia-u19/-/spiel/031SUR0OQC000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 27.09.2026 - 11:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "FSV Duisburg",
+     "gast": "1.FC Lintfort",
+     "url": "https://www.fussball.de/spiel/fsv-duisburg-1fc-lintfort/-/spiel/031SUR0OIG000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -5059,7 +5059,7 @@
      "hinweis": null
     },
     {
-     "datum": "Dienstag, 08.09.2026 - 19:45 Uhr",
+     "datum": "Dienstag, 08.09.2026 - 19:30 Uhr",
      "wettbewerb": "Bezirksfreundschaftsspiele",
      "heim": "VFB Homberg II",
      "gast": "TUS Xanten",
