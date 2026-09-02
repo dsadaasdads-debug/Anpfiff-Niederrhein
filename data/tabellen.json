@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-02T16:53:08.047Z",
+ "aktualisiert": "2026-09-02T21:19:13.558Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -314,6 +314,18 @@
     },
     {
      "platz": 8,
+     "verein": "OSC 04 Rheinhausen",
+     "teamId": "011MI9O3Q8000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "2:1",
+     "differenz": 1,
+     "punkte": 3
+    },
+    {
+     "platz": 9,
      "verein": "TV Kapellen",
      "teamId": "01HIS24VFS000000VV0AG80NVT6JKAPB",
      "spiele": 1,
@@ -325,7 +337,7 @@
      "punkte": 1
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "VfL Rheinhausen II",
      "teamId": "02Q1FNPOVS000000VS5489B2VT450JFN",
      "spiele": 1,
@@ -337,27 +349,15 @@
      "punkte": 1
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "FC Neukirchen-Vluyn III",
      "teamId": "02BAB133P8000000VS5489B1VU20GQ5T",
-     "spiele": 0,
+     "spiele": 1,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 10,
-     "verein": "OSC 04 Rheinhausen",
-     "teamId": "011MI9O3Q8000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
+     "niederlagen": 1,
+     "tore": "1:2",
+     "differenz": -1,
      "punkte": 0
     },
     {
@@ -760,25 +760,25 @@
      "platz": 8,
      "verein": "ESV Hohenbudberg",
      "teamId": "011MI9O5QC000000VTVG0001VTR8C1K7",
-     "spiele": 0,
+     "spiele": 1,
      "siege": 0,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 0,
-     "tore": "0:0",
+     "tore": "2:2",
      "differenz": 0,
-     "punkte": 0
+     "punkte": 1
     },
     {
      "platz": 8,
      "verein": "FC Viktoria Alpen",
      "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
-     "spiele": 0,
+     "spiele": 1,
      "siege": 0,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 0,
-     "tore": "0:0",
+     "tore": "2:2",
      "differenz": 0,
-     "punkte": 0
+     "punkte": 1
     },
     {
      "platz": 10,
@@ -2020,25 +2020,25 @@
      "platz": 9,
      "verein": "SV Rheinkraft Ginderich",
      "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
-     "spiele": 0,
+     "spiele": 1,
      "siege": 0,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 0,
-     "tore": "0:0",
+     "tore": "3:3",
      "differenz": 0,
-     "punkte": 0
+     "punkte": 1
     },
     {
      "platz": 9,
      "verein": "SV Sonsbeck III",
      "teamId": "02PTDCPP68000000VS5489B2VSE05932",
-     "spiele": 0,
+     "spiele": 1,
      "siege": 0,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 0,
-     "tore": "0:0",
+     "tore": "3:3",
      "differenz": 0,
-     "punkte": 0
+     "punkte": 1
     },
     {
      "platz": 11,
@@ -2484,7 +2484,7 @@
      "hinweis": null
     },
     {
-     "datum": "Donnerstag, 10.09.2026 - 19:30 Uhr",
+     "datum": "Donnerstag, 10.09.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisliga B",
      "heim": "VfL Rheinhausen II",
      "gast": "FC Moers-Meerfeld",
@@ -2797,19 +2797,10 @@
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
    "platz": 8,
-   "punkte": 0,
-   "torverhaeltnis": "0:0",
+   "punkte": 1,
+   "torverhaeltnis": "2:2",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Mittwoch, 02.09.2026 - 19:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "FC Viktoria Alpen",
-     "gast": "ESV Hohenbudberg",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-esv-hohenbudberg/-/spiel/031H9RCE58000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 06.09.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -2845,9 +2836,27 @@
      "url": "https://www.fussball.de/spiel/rumelner-tv-fc-viktoria-alpen/-/spiel/031H9RCCIS000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "FC Viktoria Alpen",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-tv-asberg-i/-/spiel/031H9RCC6C000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 02.09.2026 - 19:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "FC Viktoria Alpen",
+     "gast": "ESV Hohenbudberg",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-esv-hohenbudberg/-/spiel/031H9RCE58000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Donnerstag, 27.08.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
@@ -2883,15 +2892,6 @@
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-rumelner-tv-ii/-/spiel/031LSICOJS000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": "Absetzung"
-    },
-    {
-     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "FC Viktoria Alpen",
-     "gast": "FC Rumeln-Kaldenhausen II",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-fc-rumeln-kaldenhausen-ii/-/spiel/031LSJ2K50000000VS5489BUVVKNMR0J",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -4110,15 +4110,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 02.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Millingen",
-     "gast": "SV Budberg II",
-     "url": "https://www.fussball.de/spiel/sv-millingen-sv-budberg-ii/-/spiel/031TPJVOEK000000VS5489BUVSORQI22",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 06.09.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Millingen",
@@ -4153,9 +4144,27 @@
      "url": "https://www.fussball.de/spiel/sv-millingen-msv-moers/-/spiel/031H9RCCPO000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Millingen",
+     "gast": "ESV Hohenbudberg",
+     "url": "https://www.fussball.de/spiel/sv-millingen-esv-hohenbudberg/-/spiel/031H9RCCBK000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 02.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Millingen",
+     "gast": "SV Budberg II",
+     "url": "https://www.fussball.de/spiel/sv-millingen-sv-budberg-ii/-/spiel/031TPJVOEK000000VS5489BUVSORQI22",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4189,15 +4198,6 @@
      "heim": "SV Millingen",
      "gast": "FC Albania Duisburg",
      "url": "https://www.fussball.de/spiel/sv-millingen-fc-albania-duisburg/-/spiel/031MGK1S80000000VS5489BUVVKNMR0J",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Donnerstag, 06.08.2026 - 19:45 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "TuS Mündelheim",
-     "gast": "SV Millingen",
-     "url": "https://www.fussball.de/spiel/tus-muendelheim-sv-millingen/-/spiel/031D0KFI4K000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4355,7 +4355,7 @@
      "hinweis": null
     },
     {
-     "datum": "Freitag, 25.09.2026 - 19:30 Uhr",
+     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
      "wettbewerb": "Oberliga Niederrhein",
      "heim": "SV Scherpenberg",
      "gast": "1. FC Monheim",
@@ -5085,7 +5085,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/tv-kapellen-tv-kapellen-niederrhein/-/saison/2627/team-id/01HIS24VFS000000VV0AG80NVT6JKAPB",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 8,
+   "platz": 9,
    "punkte": 1,
    "torverhaeltnis": "2:2",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
