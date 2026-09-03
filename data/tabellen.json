@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-03T11:44:54.504Z",
+ "aktualisiert": "2026-09-03T16:42:39.920Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -220,6 +220,156 @@
      "niederlagen": 3,
      "tore": "2:6",
      "differenz": -4,
+     "punkte": 0
+    }
+   ]
+  },
+  "031PMKJ4BK000004VS5489BTVT8K11BC-G": {
+   "name": "Landesliga Gruppe 1",
+   "sportart": "Fußball",
+   "zeilen": [
+    {
+     "platz": 1,
+     "verein": "1.FC Lintfort",
+     "teamId": "023R4O6F1G000000VS548985VT5V9K59",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "DJK Arminia Klosterhardt",
+     "teamId": "011MI97620000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FC Neukirchen-Vluyn",
+     "teamId": "023UVPVJ9C000000VS548984VSVTAEJ3",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "FSV Duisburg",
+     "teamId": "011MIEMHS8000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "JSG Nütterden / Kranenburg",
+     "teamId": "011MID3RF4000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "JSG SV Straelen / SV Veert",
+     "teamId": "011MIF5LV8000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "PSV Wesel",
+     "teamId": "011MIDPEHG000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SF 97/30 Lowick",
+     "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Budberg",
+     "teamId": "011MIF5K20000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Krechting",
+     "teamId": "01ORDBHD6C000000VV0AG811VVANPB38",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SV Sonsbeck",
+     "teamId": "011MIF5QVC000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
+     "punkte": 0
+    },
+    {
+     "platz": 1,
+     "verein": "SuS 09 Dinslaken",
+     "teamId": "011MIBSV6G000000VTVG0001VTR8C1K7",
+     "spiele": 0,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "0:0",
+     "differenz": 0,
      "punkte": 0
     }
    ]
@@ -2258,12 +2408,12 @@
    "mannschaft": "A-Junioren - 1.FC Lintfort",
    "teamId": "023R4O6F1G000000VS548985VT5V9K59",
    "teamUrl": "https://www.fussball.de/mannschaft/1fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/023R4O6F1G000000VS548985VT5V9K59",
-   "liga": null,
-   "spielklasse": null,
-   "platz": null,
-   "punkte": null,
-   "torverhaeltnis": null,
-   "staffelId": null,
+   "liga": "Landesliga Gruppe 1",
+   "spielklasse": "Landesliga",
+   "platz": 1,
+   "punkte": 0,
+   "torverhaeltnis": "0:0",
+   "staffelId": "031PMKJ4BK000004VS5489BTVT8K11BC-G",
    "naechste": [
     {
      "datum": "Samstag, 05.09.2026 - 17:00 Uhr",
@@ -2282,10 +2432,37 @@
      "url": "https://www.fussball.de/spiel/asv-einigkeit-suechteln-a1-1fc-lintfort/-/spiel/031F3BLNHK000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 13.09.2026 - 11:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SF 97/30 Lowick",
+     "gast": "1.FC Lintfort",
+     "url": "https://www.fussball.de/spiel/sf-97-30-lowick-1fc-lintfort/-/spiel/031SUR0P68000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 20.09.2026 - 11:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1.FC Lintfort",
+     "gast": "DJK Arminia Klosterhardt",
+     "url": "https://www.fussball.de/spiel/1fc-lintfort-djk-arminia-u19/-/spiel/031SUR0OQC000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 27.09.2026 - 11:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "FSV Duisburg",
+     "gast": "1.FC Lintfort",
+     "url": "https://www.fussball.de/spiel/fsv-duisburg-1fc-lintfort/-/spiel/031SUR0OIG000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [],
-   "hinweis": "Liga für diese Saison noch nicht zugeteilt — bis dahin nur Freundschaftsspiele."
+   "hinweis": null
   },
   {
    "verein": "Concordia Rheinberg",
