@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-03T16:42:39.920Z",
+ "aktualisiert": "2026-09-03T21:22:03.066Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1676,6 +1676,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SV Arminia Kapellen-Hamb",
+     "teamId": "011MIBAN7K000000VTVG0001VTR8C1K7",
+     "spiele": 3,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "23:6",
+     "differenz": 17,
+     "punkte": 7
+    },
+    {
+     "platz": 2,
      "verein": "SV BW Herongen II",
      "teamId": "011MIBT35O000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -1687,7 +1699,7 @@
      "punkte": 7
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "SV Union Wetten",
      "teamId": "011MIE0RGG000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -1699,7 +1711,7 @@
      "punkte": 7
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "SV 19 Sevelen II",
      "teamId": "011MICDOKO000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -1709,18 +1721,6 @@
      "tore": "9:4",
      "differenz": 5,
      "punkte": 7
-    },
-    {
-     "platz": 4,
-     "verein": "SV Arminia Kapellen-Hamb",
-     "teamId": "011MIBAN7K000000VTVG0001VTR8C1K7",
-     "spiele": 2,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "18:1",
-     "differenz": 17,
-     "punkte": 6
     },
     {
      "platz": 5,
@@ -1760,6 +1760,18 @@
     },
     {
      "platz": 8,
+     "verein": "Viktoria Winnekendonk II",
+     "teamId": "011MIC4R40000000VTVG0001VTR8C1K7",
+     "spiele": 4,
+     "siege": 1,
+     "unentschieden": 2,
+     "niederlagen": 1,
+     "tore": "9:12",
+     "differenz": -3,
+     "punkte": 5
+    },
+    {
+     "platz": 9,
      "verein": "SV 1913 Walbeck II",
      "teamId": "011MI9UEAC000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -1771,7 +1783,7 @@
      "punkte": 4
     },
     {
-     "platz": 9,
+     "platz": 10,
      "verein": "SV Issum",
      "teamId": "011MIB5RB8000000VTVG0001VTR8C1K7",
      "spiele": 2,
@@ -1783,7 +1795,19 @@
      "punkte": 4
     },
     {
-     "platz": 10,
+     "platz": 11,
+     "verein": "DJK Twisteden II",
+     "teamId": "011MIDANHK000000VTVG0001VTR8C1K7",
+     "spiele": 3,
+     "siege": 0,
+     "unentschieden": 3,
+     "niederlagen": 0,
+     "tore": "7:7",
+     "differenz": 0,
+     "punkte": 3
+    },
+    {
+     "platz": 12,
      "verein": "SV BW Herongen",
      "teamId": "011MIAE71G000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -1793,30 +1817,6 @@
      "tore": "7:9",
      "differenz": -2,
      "punkte": 3
-    },
-    {
-     "platz": 11,
-     "verein": "DJK Twisteden II",
-     "teamId": "011MIDANHK000000VTVG0001VTR8C1K7",
-     "spiele": 2,
-     "siege": 0,
-     "unentschieden": 2,
-     "niederlagen": 0,
-     "tore": "2:2",
-     "differenz": 0,
-     "punkte": 2
-    },
-    {
-     "platz": 12,
-     "verein": "Viktoria Winnekendonk II",
-     "teamId": "011MIC4R40000000VTVG0001VTR8C1K7",
-     "spiele": 3,
-     "siege": 0,
-     "unentschieden": 2,
-     "niederlagen": 1,
-     "tore": "3:7",
-     "differenz": -4,
-     "punkte": 2
     },
     {
      "platz": 13,
@@ -1858,12 +1858,12 @@
      "platz": 16,
      "verein": "TSV Nieukerk II",
      "teamId": "011MIDJU5C000000VTVG0001VTR8C1K7",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "3:23",
-     "differenz": -20,
+     "niederlagen": 4,
+     "tore": "8:29",
+     "differenz": -21,
      "punkte": 0
     }
    ]
@@ -4063,7 +4063,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-issum-sv-issum-1930-niederrhein/-/saison/2627/team-id/011MIB5RB8000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B Gruppe 2",
    "spielklasse": "Kreisliga B",
-   "platz": 9,
+   "platz": 10,
    "punkte": 4,
    "torverhaeltnis": "4:2",
    "staffelId": "031JAMD8UG000009VS5489BUVVKNMR0J-G",
