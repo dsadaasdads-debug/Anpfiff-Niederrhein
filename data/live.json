@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-04T19:20:31.834Z",
+ "aktualisiert": "2026-09-04T21:36:04.738Z",
  "tag": "04.09.",
  "datum": "2026-09-04",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -135,7 +135,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 111,
+   "seitAnpfiffMin": 246,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -161,11 +161,11 @@
    "zuschauer": 50,
    "schiedsrichter": "Julian von Tessmer",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 111,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 246,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -181,16 +181,19 @@
    "zeit": "17:30",
    "heim": "SV Orsoy",
    "gast": "SC Rheinkamp II",
-   "tore": null,
+   "tore": {
+    "heim": 3,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 111,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 246,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -206,16 +209,50 @@
    "zeit": "17:30",
    "heim": "SpVgg Rheurdt-Schaephuysen III",
    "gast": "SC Rheinkamp",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 2,
+    "gast": 2
+   },
+   "ereignisse": [
+    {
+     "minute": 18,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Maximilian Marc Lengwenat",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m3-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 52,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marcel Lörx",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m3-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": "Fabian Struckmeyer",
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 111,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 246,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -242,7 +279,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Kemal Özdemir",
      "fuer": null,
      "stand": {
       "heim": 0,
@@ -269,10 +306,10 @@
     {
      "minute": 15,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "goal_headed",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Sinan Atabay",
      "fuer": null,
      "stand": {
       "heim": 1,
@@ -302,7 +339,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Kemal Özdemir",
      "fuer": null,
      "stand": {
       "heim": 2,
@@ -332,7 +369,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Pascal Baranski",
      "fuer": null,
      "stand": {
       "heim": 4,
@@ -377,7 +414,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Sinan Atabay",
      "fuer": null,
      "stand": {
       "heim": 6,
@@ -392,7 +429,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Serkan Gren",
      "fuer": null,
      "stand": {
       "heim": 6,
@@ -407,7 +444,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Sinan Atabay",
      "fuer": null,
      "stand": {
       "heim": 6,
@@ -417,12 +454,12 @@
      "clubSlug": "osc-rheinhausen"
     }
    ],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "zuschauer": 55,
+   "schiedsrichter": "Sebastian Winkelmann",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 111,
+   "seitAnpfiffMin": 246,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -440,16 +477,50 @@
    "zeit": "17:30",
    "heim": "FC Neukirchen-Vluyn 09/21",
    "gast": "Alemannia Pfalzdorf",
-   "tore": null,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "tore": {
+    "heim": 0,
+    "gast": 2
+   },
+   "ereignisse": [
+    {
+     "minute": 30,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Luca Vanessa Ingensand",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "alemannia-pfalzdorf-w1-2026-27",
+     "clubSlug": "alemannia-pfalzdorf"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Lotte Van Maasakker",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "alemannia-pfalzdorf-w1-2026-27",
+     "clubSlug": "alemannia-pfalzdorf"
+    }
+   ],
+   "zuschauer": 50,
+   "schiedsrichter": "Rigo Müller",
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 111,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 246,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -466,7 +537,7 @@
    "heim": "SV Rindern",
    "gast": "TuS Xanten",
    "tore": {
-    "heim": 0,
+    "heim": 2,
     "gast": 2
    },
    "ereignisse": [
@@ -499,16 +570,46 @@
      },
      "teamSlug": "tus-xanten-m1-2026-27",
      "clubSlug": "tus-xanten"
+    },
+    {
+     "minute": 76,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Piet Kramer",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "sv-rindern-m1-2026-27",
+     "clubSlug": "sv-rindern"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 4,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Luca Alexander Polders",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "sv-rindern-m1-2026-27",
+     "clubSlug": "sv-rindern"
     }
    ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Florian Elsweier",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 81,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 216,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -526,7 +627,7 @@
    "gast": "Dostlukspor Bottrop",
    "tore": {
     "heim": 5,
-    "gast": 1
+    "gast": 2
    },
    "ereignisse": [
     {
@@ -605,12 +706,12 @@
      "clubSlug": "fc-neukirchen-vluyn-0921"
     },
     {
-     "minute": 55,
+     "minute": 61,
      "nachspielzeit": 0,
      "art": "goal_free_kick",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Hussein Maatouk",
      "fuer": null,
      "stand": {
       "heim": 5,
@@ -618,16 +719,31 @@
      },
      "teamSlug": "dostlukspor-bottrop-m1-2026-27",
      "clubSlug": "dostlukspor-bottrop"
+    },
+    {
+     "minute": 62,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Burak Yildiz",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 2
+     },
+     "teamSlug": "dostlukspor-bottrop-m1-2026-27",
+     "clubSlug": "dostlukspor-bottrop"
     }
    ],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "zuschauer": 200,
+   "schiedsrichter": "Hamad Mada",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 81,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 216,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -645,7 +761,7 @@
    "gast": "SSV Lüttingen",
    "tore": {
     "heim": 2,
-    "gast": 2
+    "gast": 3
    },
    "ereignisse": [
     {
@@ -707,16 +823,31 @@
      },
      "teamSlug": "sv-menzelen-m1-2026-27",
      "clubSlug": "sv-menzelen"
+    },
+    {
+     "minute": 79,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Niels Setzepfandt",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 3
+     },
+     "teamSlug": "ssv-luettingen-m1-2026-27",
+     "clubSlug": "ssv-luettingen"
     }
    ],
    "zuschauer": null,
    "schiedsrichter": "Daniel Leibig",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 81,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 216,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -733,8 +864,8 @@
    "heim": "TV Asberg",
    "gast": "VfL Rheinhausen",
    "tore": {
-    "heim": 1,
-    "gast": 1
+    "heim": 2,
+    "gast": 2
    },
    "ereignisse": [
     {
@@ -758,11 +889,41 @@
      "art": "goal_headed",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Ali Bouâz",
      "fuer": null,
      "stand": {
       "heim": 1,
       "gast": 1
+     },
+     "teamSlug": "tv-asberg-m1-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 69,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kim Weickart",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "vfl-rheinhausen-m1-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 4,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ali Bouâz",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
      },
      "teamSlug": "tv-asberg-m1-2026-27",
      "clubSlug": "tv-asberg"
@@ -771,11 +932,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 81,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 216,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -791,224 +952,80 @@
    "zeit": "18:00",
    "heim": "FC Moers-Meerfeld II",
    "gast": "MSV Moers II",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 1,
+    "gast": 3
+   },
+   "ereignisse": [
+    {
+     "minute": 10,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Arda Eren",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "msv-moers-m2-2026-27",
+     "clubSlug": "msv-moers"
+    },
+    {
+     "minute": 15,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "fc-moers-meerfeld-m2-2026-27",
+     "clubSlug": "fc-moers-meerfeld"
+    },
+    {
+     "minute": 41,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Arda Eren",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "msv-moers-m2-2026-27",
+     "clubSlug": "msv-moers"
+    },
+    {
+     "minute": 76,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mahmud Dawud",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 3
+     },
+     "teamSlug": "msv-moers-m2-2026-27",
+     "clubSlug": "msv-moers"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 81,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-iii-sc-rheinkamp/-/spiel/031I6OV0VC000000VS5489BTVSRD0UH9",
-   "verein": "SC Rheinkamp",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "KL C Gruppe 2",
-   "wettbewerb": "Kreisliga C",
-   "anpfiff": "2026-09-04T19:30:00.000Z",
-   "zeit": "19:30",
-   "heim": "SpVgg. Rheurdt-Schaephuysen III",
-   "gast": "SC Rheinkamp",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -9,
+   "seitAnpfiffMin": 216,
    "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-orsoy-sc-rheinkamp-ii/-/spiel/031I6NEI3C000000VS5489BTVSRD0UH9",
-   "verein": "SV Orsoy 1919",
-   "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "KL C Gruppe 1",
-   "wettbewerb": "Kreisliga C",
-   "anpfiff": "2026-09-04T19:30:00.000Z",
-   "zeit": "19:30",
-   "heim": "SV Orsoy",
-   "gast": "SC Rheinkamp II",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -9,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/krefelder-fc-uerdingen-sv-scherpenberg/-/spiel/031EE4OC9C000000VS5489BTVUS470OH",
-   "verein": "SV Scherpenberg 1921",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Oberliga Niederrhein",
-   "wettbewerb": "Oberliga Niederrhein",
-   "anpfiff": "2026-09-04T19:30:00.000Z",
-   "zeit": "19:30",
-   "heim": "Krefelder FC Uerdingen",
-   "gast": "SV Scherpenberg",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -9,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-dostlukspor-bottrop/-/spiel/031ENENIGO000000VS5489BUVUR5FS5A",
-   "verein": "FC Neukirchen-Vluyn",
-   "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Bezirksliga",
-   "anpfiff": "2026-09-04T20:00:00.000Z",
-   "zeit": "20:00",
-   "heim": "FC Neukirchen-Vluyn",
-   "gast": "Dostlukspor Bottrop",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -39,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-menzelen-ssv-rheintreu-luettingen/-/spiel/031H9RCDLS000000VS5489BUVSJ4CRAP",
-   "verein": "SSV Rheintreu Lüttingen",
-   "heimatverein": null,
-   "ort": "Xanten",
-   "zone": "umland",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A",
-   "anpfiff": "2026-09-04T20:00:00.000Z",
-   "zeit": "20:00",
-   "heim": "SV Menzelen",
-   "gast": "SSV Rheintreu Lüttingen",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -39,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sc-blau-weiss-auwel-holt-sv-issum/-/spiel/031JH9A2O8000000VS5489BUVVKNMR0J",
-   "verein": "SV Issum 1930",
-   "heimatverein": null,
-   "ort": "Issum",
-   "zone": "umland",
-   "liga": "Kreisliga B Gruppe 2",
-   "wettbewerb": "Kreisliga B",
-   "anpfiff": "2026-09-04T20:00:00.000Z",
-   "zeit": "20:00",
-   "heim": "SC Blau-Weiß Auwel-Holt",
-   "gast": "SV Issum",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -39,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-1926-rindern-tus-xanten/-/spiel/031EO9MS3K000000VS5489BTVUS470OH",
-   "verein": "TUS Xanten 05/22",
-   "heimatverein": null,
-   "ort": "Xanten",
-   "zone": "umland",
-   "liga": "Bezirksliga Gruppe 4",
-   "wettbewerb": "Bezirksliga",
-   "anpfiff": "2026-09-04T20:00:00.000Z",
-   "zeit": "20:00",
-   "heim": "SV 1926 Rindern",
-   "gast": "TUS Xanten",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -39,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/tv-asberg-i-vfl-rheinhausen/-/spiel/031H9RCE14000000VS5489BUVSJ4CRAP",
-   "verein": "TV Asberg 1897",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A",
-   "anpfiff": "2026-09-04T20:00:00.000Z",
-   "zeit": "20:00",
-   "heim": "TV Asberg I",
-   "gast": "VfL Rheinhausen",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -39,
-   "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   }
  ]
 }
