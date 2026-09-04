@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-04T05:08:18.368Z",
+ "aktualisiert": "2026-09-04T11:46:21.298Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4305,6 +4305,15 @@
      "hinweis": null
     },
     {
+     "datum": "Sonntag, 13.09.2026 - 17:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "DJK Vierlinden",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/djk-vierlinden-sv-millingen/-/spiel/03200UBFMO000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "Büdericher SV",
@@ -4319,15 +4328,6 @@
      "heim": "SV Millingen",
      "gast": "MSV Moers",
      "url": "https://www.fussball.de/spiel/sv-millingen-msv-moers/-/spiel/031H9RCCPO000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Millingen",
-     "gast": "ESV Hohenbudberg",
-     "url": "https://www.fussball.de/spiel/sv-millingen-esv-hohenbudberg/-/spiel/031H9RCCBK000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
