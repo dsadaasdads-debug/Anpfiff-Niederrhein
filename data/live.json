@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-05T18:36:51.573Z",
+ "aktualisiert": "2026-09-05T20:41:23.434Z",
  "tag": "05.09.",
  "datum": "2026-09-05",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 637,
+   "seitAnpfiffMin": 761,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -51,7 +51,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 577,
+   "seitAnpfiffMin": 701,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -76,7 +76,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 457,
+   "seitAnpfiffMin": 581,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -150,7 +150,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 397,
+   "seitAnpfiffMin": 521,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -175,7 +175,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 337,
+   "seitAnpfiffMin": 461,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -200,7 +200,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 337,
+   "seitAnpfiffMin": 461,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -225,7 +225,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 337,
+   "seitAnpfiffMin": 461,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -250,7 +250,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 337,
+   "seitAnpfiffMin": 461,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -278,7 +278,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 337,
+   "seitAnpfiffMin": 461,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -367,7 +367,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 277,
+   "seitAnpfiffMin": 401,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -411,7 +411,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 217,
+   "seitAnpfiffMin": 341,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -436,7 +436,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 217,
+   "seitAnpfiffMin": 341,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -461,7 +461,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 217,
+   "seitAnpfiffMin": 341,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -489,7 +489,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 217,
+   "seitAnpfiffMin": 341,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -514,7 +514,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 217,
+   "seitAnpfiffMin": 341,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -687,9 +687,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 97,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 221,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -860,9 +860,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 97,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 221,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -878,16 +878,19 @@
    "zeit": "17:30",
    "heim": "FC Neukirchen-Vluyn 09/21 III",
    "gast": "TuS Baerl",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 3
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 67,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 191,
+   "laeuft": false,
+   "abgeschlossen": true
   }
  ]
 }
