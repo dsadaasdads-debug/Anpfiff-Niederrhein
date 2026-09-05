@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-05T17:40:52.990Z",
+ "aktualisiert": "2026-09-05T20:45:07.278Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2416,15 +2416,6 @@
    "staffelId": "031PMKJ4BK000004VS5489BTVT8K11BC-G",
    "naechste": [
     {
-     "datum": "Samstag, 05.09.2026 - 17:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "JSG Borth / Büderich",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/jsg-borth-buederich-1fc-lintfort/-/spiel/031HSSUFAS000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 06.09.2026 - 10:30 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
      "heim": "ASV Einigkeit Süchteln A1",
@@ -2457,6 +2448,15 @@
      "heim": "FSV Duisburg",
      "gast": "1.FC Lintfort",
      "url": "https://www.fussball.de/spiel/fsv-duisburg-1fc-lintfort/-/spiel/031SUR0OIG000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 04.10.2026 - 11:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1.FC Lintfort",
+     "gast": "SuS 09 Dinslaken",
+     "url": "https://www.fussball.de/spiel/1fc-lintfort-sus-09-dinslaken/-/spiel/031SUR0OAO000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3088,15 +3088,6 @@
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Samstag, 05.09.2026 - 17:00 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "GSV Moers",
-     "gast": "SC 1920 Oberhausen",
-     "url": "https://www.fussball.de/spiel/gsv-moers-sc-1920-oberhausen/-/spiel/031ENENIEO000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 13.09.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "Dostlukspor Bottrop",
@@ -3131,9 +3122,27 @@
      "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-gsv-moers/-/spiel/031QJDA3V4000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 04.10.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "GSV Moers",
+     "gast": "Rhenania Bottrop",
+     "url": "https://www.fussball.de/spiel/gsv-moers-rhenania-bottrop/-/spiel/031ENENG14000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 05.09.2026 - 17:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "GSV Moers",
+     "gast": "SC 1920 Oberhausen",
+     "url": "https://www.fussball.de/spiel/gsv-moers-sc-1920-oberhausen/-/spiel/031ENENIEO000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -3167,15 +3176,6 @@
      "heim": "GSV Moers",
      "gast": "FSV Vatan Neuss",
      "url": "https://www.fussball.de/spiel/gsv-moers-fsv-vatan-neuss/-/spiel/0319RQDV8G000000VS5489BTVSK8S3O6",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
-     "datum": "Samstag, 08.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Bezirksfreundschaftsspiele",
-     "heim": "GSV Moers",
-     "gast": "VFL Willich 2",
-     "url": "https://www.fussball.de/spiel/gsv-moers-vfl-willich-2/-/spiel/0319RQ11LO000000VS5489BTVSK8S3O6",
      "ergebnisVerschleiert": false,
      "hinweis": "Absetzung"
     }
