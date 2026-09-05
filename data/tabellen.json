@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-05T15:34:57.789Z",
+ "aktualisiert": "2026-09-05T17:40:52.990Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -8,6 +8,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "DJK Arminia Klosterhardt",
+     "teamId": "011MIANOCS000000VTVG0001VTR8C1K7",
+     "spiele": 4,
+     "siege": 4,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "13:5",
+     "differenz": 8,
+     "punkte": 12
+    },
+    {
+     "platz": 2,
      "verein": "Rheinland Hamborn",
      "teamId": "011MIC2N00000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -16,18 +28,6 @@
      "niederlagen": 0,
      "tore": "11:3",
      "differenz": 8,
-     "punkte": 9
-    },
-    {
-     "platz": 2,
-     "verein": "DJK Arminia Klosterhardt",
-     "teamId": "011MIANOCS000000VTVG0001VTR8C1K7",
-     "spiele": 3,
-     "siege": 3,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "10:3",
-     "differenz": 7,
      "punkte": 9
     },
     {
@@ -142,12 +142,12 @@
      "platz": 12,
      "verein": "VSF Amern",
      "teamId": "011MIEFE10000000VTVG0001VTR8C1K7",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 2,
-     "tore": "3:4",
-     "differenz": -1,
+     "niederlagen": 3,
+     "tore": "5:7",
+     "differenz": -2,
      "punkte": 3
     },
     {
@@ -380,6 +380,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "FC Moers-Meerfeld",
+     "teamId": "011MIEUGA0000000VTVG0001VTR8C1K7",
+     "spiele": 2,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "10:1",
+     "differenz": 9,
+     "punkte": 6
+    },
+    {
+     "platz": 2,
      "verein": "TuS Borth",
      "teamId": "011MIAIST4000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -391,31 +403,7 @@
      "punkte": 3
     },
     {
-     "platz": 2,
-     "verein": "FC Moers-Meerfeld",
-     "teamId": "011MIEUGA0000000VTVG0001VTR8C1K7",
-     "spiele": 1,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "7:1",
-     "differenz": 6,
-     "punkte": 3
-    },
-    {
      "platz": 3,
-     "verein": "TV Kaldenhausen",
-     "teamId": "02TCVR52IG000000VS5489BRVU522QNF",
-     "spiele": 1,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "5:0",
-     "differenz": 5,
-     "punkte": 3
-    },
-    {
-     "platz": 4,
      "verein": "Rumelner TV II",
      "teamId": "011MIF5OBC000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -427,13 +415,25 @@
      "punkte": 3
     },
     {
-     "platz": 5,
+     "platz": 4,
      "verein": "FC Rumeln-Kaldenhausen",
      "teamId": "011MI97ALK000000VTVG0001VTR8C1K7",
      "spiele": 1,
      "siege": 1,
      "unentschieden": 0,
      "niederlagen": 0,
+     "tore": "5:3",
+     "differenz": 2,
+     "punkte": 3
+    },
+    {
+     "platz": 4,
+     "verein": "TV Kaldenhausen",
+     "teamId": "02TCVR52IG000000VS5489BRVU522QNF",
+     "spiele": 2,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 1,
      "tore": "5:3",
      "differenz": 2,
      "punkte": 3
@@ -652,12 +652,12 @@
      "platz": 5,
      "verein": "SC 1920 Oberhausen",
      "teamId": "011MIE0KMG000000VTVG0001VTR8C1K7",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 2,
      "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "13:7",
-     "differenz": 6,
+     "niederlagen": 1,
+     "tore": "13:8",
+     "differenz": 5,
      "punkte": 7
     },
     {
@@ -710,6 +710,18 @@
     },
     {
      "platz": 10,
+     "verein": "GSV Moers",
+     "teamId": "011MID3SSK000000VTVG0001VTR8C1K7",
+     "spiele": 4,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "3:5",
+     "differenz": -2,
+     "punkte": 4
+    },
+    {
+     "platz": 11,
      "verein": "FC Neukirchen-Vluyn",
      "teamId": "023Q5785LS000000VS548985VT5V9K59",
      "spiele": 4,
@@ -721,7 +733,7 @@
      "punkte": 4
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "Dostlukspor Bottrop",
      "teamId": "011MI9UE40000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -733,7 +745,7 @@
      "punkte": 4
     },
     {
-     "platz": 12,
+     "platz": 13,
      "verein": "SuS 21 Oberhausen",
      "teamId": "011MI9UHLK000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -745,7 +757,7 @@
      "punkte": 3
     },
     {
-     "platz": 13,
+     "platz": 14,
      "verein": "Schwarz-Weiss Alstaden",
      "teamId": "011MIEUEV8000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -757,7 +769,7 @@
      "punkte": 3
     },
     {
-     "platz": 14,
+     "platz": 15,
      "verein": "Spvgg Sterkrade 06/07",
      "teamId": "011MICSTMG000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -765,18 +777,6 @@
      "unentschieden": 1,
      "niederlagen": 2,
      "tore": "5:8",
-     "differenz": -3,
-     "punkte": 1
-    },
-    {
-     "platz": 15,
-     "verein": "GSV Moers",
-     "teamId": "011MID3SSK000000VTVG0001VTR8C1K7",
-     "spiele": 3,
-     "siege": 0,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "2:5",
      "differenz": -3,
      "punkte": 1
     },
@@ -2646,20 +2646,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/fc-moers-meerfeld-fc-moers-meerfeld-1980-niederrhein/-/saison/2627/team-id/011MIEUGA0000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 2,
-   "punkte": 3,
-   "torverhaeltnis": "7:1",
+   "platz": 1,
+   "punkte": 6,
+   "torverhaeltnis": "10:1",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Samstag, 05.09.2026 - 16:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "FC Moers-Meerfeld",
-     "gast": "TV Kaldenhausen",
-     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-tv-kaldenhausen/-/spiel/031HBDT6DO000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Donnerstag, 10.09.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -2695,9 +2686,27 @@
      "url": "https://www.fussball.de/spiel/tus-borth-fc-moers-meerfeld/-/spiel/031HBDT4V8000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 30.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "Tus Asterlagen",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-tus-asterlagen/-/spiel/031QJDA3U4000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 05.09.2026 - 16:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "TV Kaldenhausen",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-tv-kaldenhausen/-/spiel/031HBDT6DO000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 30.08.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -2733,15 +2742,6 @@
      "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-vfl-rheinhausen-iii/-/spiel/031CDU31BC000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": "Absetzung"
-    },
-    {
-     "datum": "Samstag, 15.08.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "TSV Bruckhausen",
-     "gast": "FC Moers-Meerfeld",
-     "url": "https://www.fussball.de/spiel/tsv-bruckhausen-fc-moers-meerfeld/-/spiel/031OQ13L18000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -2755,7 +2755,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/fc-neukirchen-vluyn-fc-neukirchen-vluyn-niederrhein/-/saison/2627/team-id/023Q5785LS000000VS548985VT5V9K59",
    "liga": "Bezirksliga Gruppe 5",
    "spielklasse": "Bezirksliga",
-   "platz": 10,
+   "platz": 11,
    "punkte": 4,
    "torverhaeltnis": "8:11",
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
@@ -3082,9 +3082,9 @@
    "teamUrl": "https://www.fussball.de/mannschaft/gsv-moers-grafschafter-sv-1910-moers-niederrhein/-/saison/2627/team-id/011MID3SSK000000VTVG0001VTR8C1K7",
    "liga": "Bezirksliga Gruppe 5",
    "spielklasse": "Bezirksliga",
-   "platz": 15,
-   "punkte": 1,
-   "torverhaeltnis": "2:5",
+   "platz": 10,
+   "punkte": 4,
+   "torverhaeltnis": "3:5",
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
    "naechste": [
     {
@@ -4935,7 +4935,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/tus-borth-tus-borth-71-niederrhein/-/saison/2627/team-id/011MIAIST4000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 1,
+   "platz": 2,
    "punkte": 3,
    "torverhaeltnis": "10:1",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
