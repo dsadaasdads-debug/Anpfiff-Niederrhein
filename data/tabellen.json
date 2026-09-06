@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-06T20:51:28.202Z",
+ "aktualisiert": "2026-09-06T23:11:40.246Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1688,18 +1688,6 @@
    "zeilen": [
     {
      "platz": 1,
-     "verein": "SV 19 Sevelen II",
-     "teamId": "011MICDOKO000000VTVG0001VTR8C1K7",
-     "spiele": 4,
-     "siege": 3,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "100:4",
-     "differenz": 96,
-     "punkte": 10
-    },
-    {
-     "platz": 2,
      "verein": "SV Arminia Kapellen-Hamb",
      "teamId": "011MIBAN7K000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -1708,6 +1696,18 @@
      "niederlagen": 0,
      "tore": "25:7",
      "differenz": 18,
+     "punkte": 10
+    },
+    {
+     "platz": 2,
+     "verein": "SV 19 Sevelen II",
+     "teamId": "011MICDOKO000000VTVG0001VTR8C1K7",
+     "spiele": 4,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "18:4",
+     "differenz": 14,
      "punkte": 10
     },
     {
@@ -1856,6 +1856,18 @@
     },
     {
      "platz": 15,
+     "verein": "SV Grün-Weiß Vernum II",
+     "teamId": "012F5BH3M4000000VV0AG811VT1UN0HI",
+     "spiele": 4,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 4,
+     "tore": "1:16",
+     "differenz": -15,
+     "punkte": 0
+    },
+    {
+     "platz": 16,
      "verein": "TSV Nieukerk II",
      "teamId": "011MIDJU5C000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -1864,18 +1876,6 @@
      "niederlagen": 4,
      "tore": "8:29",
      "differenz": -21,
-     "punkte": 0
-    },
-    {
-     "platz": 16,
-     "verein": "SV Grün-Weiß Vernum II",
-     "teamId": "012F5BH3M4000000VV0AG811VT1UN0HI",
-     "spiele": 4,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 4,
-     "tore": "1:98",
-     "differenz": -97,
      "punkte": 0
     }
    ]
