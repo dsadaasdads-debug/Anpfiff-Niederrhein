@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-06T17:19:45.801Z",
+ "aktualisiert": "2026-09-06T19:16:47.137Z",
  "tag": "06.09.",
  "datum": "2026-09-06",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -120,7 +120,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 500,
+   "seitAnpfiffMin": 617,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -138,14 +138,153 @@
    "zeit": "09:00",
    "heim": "JSG Sevelen/Issum",
    "gast": "FC Neukirchen-Vluyn 09/21",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 0,
+    "gast": 9
+   },
+   "ereignisse": [
+    {
+     "minute": 19,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mika Rösen",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 25,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noel Chiduch",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 28,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noel Chiduch",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 3
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 32,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nico Diwell",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 4
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 33,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Elias Karaicic",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 5
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 36,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noel Chiduch",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 6
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 38,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mika Rösen",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 7
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 40,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noel Chiduch",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 8
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 46,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Luca Paulsen",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 9
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 500,
+   "seitAnpfiffMin": 617,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -264,7 +403,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 500,
+   "seitAnpfiffMin": 617,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -292,7 +431,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 527,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -366,7 +505,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 527,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -482,7 +621,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 410,
+   "seitAnpfiffMin": 527,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -616,7 +755,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 380,
+   "seitAnpfiffMin": 497,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -660,7 +799,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 380,
+   "seitAnpfiffMin": 497,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -688,7 +827,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 380,
+   "seitAnpfiffMin": 497,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -777,7 +916,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 380,
+   "seitAnpfiffMin": 497,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -971,7 +1110,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 365,
+   "seitAnpfiffMin": 482,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1180,7 +1319,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 350,
+   "seitAnpfiffMin": 467,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1299,7 +1438,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 260,
+   "seitAnpfiffMin": 377,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1448,7 +1587,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 260,
+   "seitAnpfiffMin": 377,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1597,7 +1736,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 260,
+   "seitAnpfiffMin": 377,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1701,7 +1840,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 260,
+   "seitAnpfiffMin": 377,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1835,7 +1974,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 260,
+   "seitAnpfiffMin": 377,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2119,7 +2258,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Ömer Can Gür",
      "fuer": null,
      "stand": {
       "heim": 16,
@@ -2164,7 +2303,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 260,
+   "seitAnpfiffMin": 377,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2238,7 +2377,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 260,
+   "seitAnpfiffMin": 377,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2323,11 +2462,11 @@
     }
    ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Birol Demirhan",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 260,
+   "seitAnpfiffMin": 377,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2491,7 +2630,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 260,
+   "seitAnpfiffMin": 377,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2519,7 +2658,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 260,
+   "seitAnpfiffMin": 377,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2547,7 +2686,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 230,
+   "seitAnpfiffMin": 347,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2621,7 +2760,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 230,
+   "seitAnpfiffMin": 347,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2785,7 +2924,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 230,
+   "seitAnpfiffMin": 347,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2874,7 +3013,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 230,
+   "seitAnpfiffMin": 347,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2900,7 +3039,7 @@
     {
      "minute": 28,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "goal_headed",
      "name": "Tor",
      "zeichen": "⚽",
      "spieler": "Florian Mordt",
@@ -2993,7 +3132,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 215,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3254,7 +3393,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 140,
+   "seitAnpfiffMin": 257,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3394,7 +3533,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 140,
+   "seitAnpfiffMin": 257,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3787,7 +3926,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 140,
+   "seitAnpfiffMin": 257,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3982,7 +4121,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 140,
+   "seitAnpfiffMin": 257,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4221,7 +4360,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 140,
+   "seitAnpfiffMin": 257,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4493,7 +4632,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 140,
+   "seitAnpfiffMin": 257,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4710,7 +4849,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 140,
+   "seitAnpfiffMin": 257,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4733,11 +4872,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 110,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 227,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -4941,9 +5080,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 110,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 227,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -5158,9 +5297,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 110,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 227,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -5386,9 +5525,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 110,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 227,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -5412,9 +5551,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 110,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 227,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -5673,9 +5812,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 95,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 212,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -5868,9 +6007,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 50,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 167,
+   "laeuft": false,
+   "abgeschlossen": true
   }
  ]
 }
