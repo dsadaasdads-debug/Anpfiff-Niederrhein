@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-06T05:07:38.932Z",
+ "aktualisiert": "2026-09-06T11:22:55.725Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1034,6 +1034,18 @@
     },
     {
      "platz": 2,
+     "verein": "FC Rumeln-Kaldenhausen II",
+     "teamId": "011MIDCRUK000000VTVG0001VTR8C1K7",
+     "spiele": 2,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "6:3",
+     "differenz": 3,
+     "punkte": 6
+    },
+    {
+     "platz": 3,
      "verein": "TuS Borth III",
      "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
      "spiele": 2,
@@ -1045,7 +1057,7 @@
      "punkte": 4
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "VfL Repelen II",
      "teamId": "011MIAP9SG000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -1057,7 +1069,7 @@
      "punkte": 3
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "SV Alemannia Kamp II",
      "teamId": "0317IHGS0C000000VS5489BSVSCPI5U4",
      "spiele": 1,
@@ -1069,19 +1081,7 @@
      "punkte": 3
     },
     {
-     "platz": 5,
-     "verein": "FC Rumeln-Kaldenhausen II",
-     "teamId": "011MIDCRUK000000VTVG0001VTR8C1K7",
-     "spiele": 1,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "2:1",
-     "differenz": 1,
-     "punkte": 3
-    },
-    {
-     "platz": 5,
+     "platz": 6,
      "verein": "MSV Moers IV",
      "teamId": "02PPT3VAVK000000VS5489B2VUGLP840",
      "spiele": 1,
@@ -1216,12 +1216,12 @@
      "platz": 17,
      "verein": "TV Kapellen II",
      "teamId": "031CD9A8T4000000VS5489BRVTPI24NQ",
-     "spiele": 1,
+     "spiele": 2,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "2:18",
-     "differenz": -16,
+     "niederlagen": 2,
+     "tore": "4:22",
+     "differenz": -18,
      "punkte": 0
     }
    ]
@@ -3233,7 +3233,7 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
+     "datum": "Sonntag, 27.09.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "MSV Moers",
      "gast": "VfL Rheinhausen",
@@ -5383,7 +5383,7 @@
      "gast": "Schwarz-Weiss Alstaden",
      "url": "https://www.fussball.de/spiel/vfl-repelen-schwarz-weiss-alstaden/-/spiel/031ENENI64000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 13.09.2026 - 15:30 Uhr",
