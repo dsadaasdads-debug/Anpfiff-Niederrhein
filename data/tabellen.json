@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-07T13:02:50.666Z",
+ "aktualisiert": "2026-09-07T19:24:46.636Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2437,6 +2437,15 @@
      "hinweis": null
     },
     {
+     "datum": "Donnerstag, 17.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Millingen",
+     "gast": "1.FC Lintfort",
+     "url": "https://www.fussball.de/spiel/sv-millingen-1fc-lintfort/-/spiel/032101IS0O000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
      "datum": "Sonntag, 20.09.2026 - 11:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "1.FC Lintfort",
@@ -2460,15 +2469,6 @@
      "heim": "1.FC Lintfort",
      "gast": "SuS 09 Dinslaken",
      "url": "https://www.fussball.de/spiel/1fc-lintfort-sus-09-dinslaken/-/spiel/031SUR0OAO000000VS5489BTVT7QHFUC",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 11.10.2026 - 11:00 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "SV Budberg",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/sv-budberg-i-1fc-lintfort/-/spiel/031SUR0O6G000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4319,9 +4319,9 @@
     {
      "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga A",
-     "heim": "Büdericher SV",
-     "gast": "SV Millingen",
-     "url": "https://www.fussball.de/spiel/buedericher-sv-sv-millingen/-/spiel/031H9RCDEK000000VS5489BUVSJ4CRAP",
+     "heim": "SV Millingen",
+     "gast": "Büdericher SV",
+     "url": "https://www.fussball.de/spiel/sv-millingen-buedericher-sv/-/spiel/031H9RCDEK000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
@@ -5316,7 +5316,7 @@
      "hinweis": null
     },
     {
-     "datum": "Dienstag, 29.09.2026 - 19:30 Uhr",
+     "datum": "Mittwoch, 30.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "TV Kapellen",
      "gast": "Büdericher SV",
