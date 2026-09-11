@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-11T19:29:08.805Z",
+ "aktualisiert": "2026-09-11T21:52:58.500Z",
  "tag": "11.09.",
  "datum": "2026-09-11",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 224,
+   "seitAnpfiffMin": 368,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -208,7 +208,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 119,
+   "seitAnpfiffMin": 263,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -327,7 +327,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 119,
+   "seitAnpfiffMin": 263,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -416,7 +416,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 119,
+   "seitAnpfiffMin": 263,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -550,7 +550,22 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Luca Fischer",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 3
+     },
+     "teamSlug": "fortuna-bottrop-m1-2026-27",
+     "clubSlug": "fortuna-bottrop"
+    },
+    {
+     "minute": 87,
+     "nachspielzeit": 0,
+     "art": "card_yellow_red",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "spieler": "Peter Heinz",
      "fuer": null,
      "stand": {
       "heim": 4,
@@ -563,11 +578,11 @@
    "zuschauer": 80,
    "schiedsrichter": "Sebastian Jan Guretzki",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 104,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 248,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -584,7 +599,7 @@
    "heim": "SV Scherpenberg",
    "gast": "1. Spvg. Solingen Wald 03",
    "tore": {
-    "heim": 0,
+    "heim": 1,
     "gast": 2
    },
    "ereignisse": [
@@ -617,16 +632,46 @@
      },
      "teamSlug": "1-spvg-solingen-wald-03-m1-2026-27",
      "clubSlug": "1-spvg-solingen-wald-03"
+    },
+    {
+     "minute": 77,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "sv-scherpenberg-m1-2026-27",
+     "clubSlug": "sv-scherpenberg"
+    },
+    {
+     "minute": 82,
+     "nachspielzeit": 0,
+     "art": "card_yellow_red",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "spieler": "Emirhan Karaca",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "sv-scherpenberg-m1-2026-27",
+     "clubSlug": "sv-scherpenberg"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 140,
    "schiedsrichter": "Matti Lambertz",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 89,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 233,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -643,7 +688,7 @@
    "heim": "SV Blau-Weiß Dingden II",
    "gast": "SV Budberg II",
    "tore": {
-    "heim": 3,
+    "heim": 4,
     "gast": 0
    },
    "ereignisse": [
@@ -691,16 +736,31 @@
      },
      "teamSlug": "sv-blau-weiss-dingden-m2-2026-27",
      "clubSlug": "sv-blau-weiss-dingden"
+    },
+    {
+     "minute": 89,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marco Harbring",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "sv-blau-weiss-dingden-m2-2026-27",
+     "clubSlug": "sv-blau-weiss-dingden"
     }
    ],
    "zuschauer": null,
    "schiedsrichter": "Leon Maurice Ulrich",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 89,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 233,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -716,94 +776,95 @@
    "zeit": "18:00",
    "heim": "VfL Repelen II",
    "gast": "FC Moers-Meerfeld II",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 5,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 44,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mohammad Al Hadi Abo Arah",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    },
+    {
+     "minute": 48,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Yunus Burak Eskici",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    },
+    {
+     "minute": 78,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mohammad Al Hadi Abo Arah",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Bahadir Sindi",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    },
+    {
+     "minute": 88,
+     "nachspielzeit": 0,
+     "art": "goal_own_goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mazlum Perk",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 0
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 89,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-ii-sv-orsoy/-/spiel/031I6NEHIG000000VS5489BTVSRD0UH9",
-   "verein": "SV Orsoy 1919",
-   "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "KL C Gruppe 1",
-   "wettbewerb": "Kreisliga C",
-   "anpfiff": "2026-09-11T19:30:00.000Z",
-   "zeit": "19:30",
-   "heim": "FC Viktoria Alpen II",
-   "gast": "SV Orsoy",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -1,
+   "seitAnpfiffMin": 233,
    "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-fortuna-bottrop-fc-neukirchen-vluyn/-/spiel/031ENENHJS000000VS5489BUVUR5FS5A",
-   "verein": "FC Neukirchen-Vluyn",
-   "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Bezirksliga",
-   "anpfiff": "2026-09-11T19:45:00.000Z",
-   "zeit": "19:45",
-   "heim": "SV Fortuna Bottrop",
-   "gast": "FC Neukirchen-Vluyn",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -16,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-scherpenberg-1-spvg-solingen-wald/-/spiel/031EE4OBU8000000VS5489BTVUS470OH",
-   "verein": "SV Scherpenberg 1921",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Oberliga Niederrhein",
-   "wettbewerb": "Oberliga Niederrhein",
-   "anpfiff": "2026-09-11T20:00:00.000Z",
-   "zeit": "20:00",
-   "heim": "SV Scherpenberg",
-   "gast": "1. Spvg. Solingen-Wald",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -31,
-   "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   }
  ]
 }
