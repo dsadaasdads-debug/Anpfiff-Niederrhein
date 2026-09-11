@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-11T05:18:21.541Z",
+ "aktualisiert": "2026-09-11T11:50:46.142Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -380,6 +380,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "FC Rumeln-Kaldenhausen",
+     "teamId": "011MI97ALK000000VTVG0001VTR8C1K7",
+     "spiele": 3,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "17:4",
+     "differenz": 13,
+     "punkte": 9
+    },
+    {
+     "platz": 2,
      "verein": "SV Alemannia Kamp",
      "teamId": "011MIA986S000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -391,7 +403,7 @@
      "punkte": 7
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "VfL Rheinhausen II",
      "teamId": "02Q1FNPOVS000000VS5489B2VT450JFN",
      "spiele": 3,
@@ -403,7 +415,7 @@
      "punkte": 7
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "Rumelner TV II",
      "teamId": "011MIF5OBC000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -415,7 +427,7 @@
      "punkte": 6
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "SV Viktoria Birten",
      "teamId": "011MIE0POK000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -427,7 +439,7 @@
      "punkte": 6
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "OSC 04 Rheinhausen",
      "teamId": "011MI9O3Q8000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -439,7 +451,7 @@
      "punkte": 6
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "TuS Borth",
      "teamId": "011MIAIST4000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -451,7 +463,7 @@
      "punkte": 6
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "FC Moers-Meerfeld",
      "teamId": "011MIEUGA0000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -463,7 +475,7 @@
      "punkte": 6
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "TV Kaldenhausen",
      "teamId": "02TCVR52IG000000VS5489BRVU522QNF",
      "spiele": 3,
@@ -472,18 +484,6 @@
      "niederlagen": 1,
      "tore": "8:3",
      "differenz": 5,
-     "punkte": 6
-    },
-    {
-     "platz": 9,
-     "verein": "FC Rumeln-Kaldenhausen",
-     "teamId": "011MI97ALK000000VTVG0001VTR8C1K7",
-     "spiele": 2,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "8:4",
-     "differenz": 4,
      "punkte": 6
     },
     {
@@ -562,12 +562,12 @@
      "platz": 16,
      "verein": "FC Rot-Weiß Moers",
      "teamId": "011MIATPVO000000VTVG0001VTR8C1K7",
-     "spiele": 2,
+     "spiele": 3,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 2,
-     "tore": "0:8",
-     "differenz": -8,
+     "niederlagen": 3,
+     "tore": "0:17",
+     "differenz": -17,
      "punkte": 0
     },
     {
@@ -2658,7 +2658,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/fc-moers-meerfeld-fc-moers-meerfeld-1980-niederrhein/-/saison/2627/team-id/011MIEUGA0000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 7,
+   "platz": 8,
    "punkte": 6,
    "torverhaeltnis": "10:2",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
@@ -2878,7 +2878,7 @@
    "spielklasse": "Kreisliga B",
    "platz": 16,
    "punkte": 0,
-   "torverhaeltnis": "0:8",
+   "torverhaeltnis": "0:17",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
     {
@@ -2935,7 +2935,7 @@
      "gast": "FC Rot-Weiß Moers",
      "url": "https://www.fussball.de/spiel/fc-rumeln-kaldenhausen-fc-rot-weiss-moers/-/spiel/031HBDT854000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
-     "hinweis": "Abbruch"
+     "hinweis": "W"
     },
     {
      "datum": "Sonntag, 06.09.2026 - 15:00 Uhr",
@@ -3748,7 +3748,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-alemannia-kamp-sv-alemannia-kamp-niederrhein/-/saison/2627/team-id/011MIA986S000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 1,
+   "platz": 2,
    "punkte": 7,
    "torverhaeltnis": "22:3",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
@@ -4947,7 +4947,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/tus-borth-tus-borth-71-niederrhein/-/saison/2627/team-id/011MIAIST4000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 6,
+   "platz": 7,
    "punkte": 6,
    "torverhaeltnis": "15:6",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
