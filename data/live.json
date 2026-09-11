@@ -1,237 +1,131 @@
 {
- "aktualisiert": "2026-09-06T21:24:12.975Z",
- "tag": "06.09.",
- "datum": "2026-09-06",
+ "aktualisiert": "2026-09-11T19:29:08.805Z",
+ "tag": "11.09.",
+ "datum": "2026-09-11",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
  "hinweisNamen": "Spielernamen stammen von FuPa, wo die Vereine selbst tickern – dort sind sie offen veröffentlicht. Partien ohne FuPa-Ticker kommen von fussball.de: dort gibt es Minute und Ereignisart, aber keine Namen.",
  "partien": [
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/tv-kapellen-m2-fc-rumeln-kaldenhausen-m3-260906",
-   "verein": "TV Kapellen",
+   "url": "https://www.fupa.net/match/fc-neukirchen-vluyn-0921-wu17-1-vfl-rheinhausen-wu17-1-260911",
+   "verein": "FC Neukirchen-Vluyn",
    "heimatverein": null,
-   "ort": "Moers",
+   "ort": "Neukirchen-Vluyn",
    "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga C, Gruppe 2, Moers",
-   "anpfiff": "2026-09-06T11:00:00+02:00",
-   "zeit": "09:00",
-   "heim": "TV Kapellen II",
-   "gast": "FC Rumeln-Kaldenhausen III",
+   "liga": "Bezirksliga Gruppe 5",
+   "wettbewerb": "B-Juniorinnen-Kreisklasse, Gruppe 4, Niederrhein",
+   "anpfiff": "2026-09-11T17:45:00+02:00",
+   "zeit": "15:45",
+   "heim": "FC Neukirchen-Vluyn 09/21",
+   "gast": "VfL Rheinhausen",
    "tore": {
-    "heim": 2,
-    "gast": 4
+    "heim": 9,
+    "gast": 0
    },
-   "ereignisse": [
-    {
-     "minute": 6,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Andre Glockner",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 2
-     },
-     "teamSlug": "tv-kapellen-m2-2026-27",
-     "clubSlug": "tv-kapellen"
-    },
-    {
-     "minute": 10,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Angelo Gnjatovic",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "fc-rumeln-kaldenhausen-m3-2026-27",
-     "clubSlug": "fc-rumeln-kaldenhausen"
-    },
-    {
-     "minute": 15,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Niklas Arts",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 2
-     },
-     "teamSlug": "fc-rumeln-kaldenhausen-m3-2026-27",
-     "clubSlug": "fc-rumeln-kaldenhausen"
-    },
-    {
-     "minute": 43,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Niloy Sarker Sagar",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 3
-     },
-     "teamSlug": "fc-rumeln-kaldenhausen-m3-2026-27",
-     "clubSlug": "fc-rumeln-kaldenhausen"
-    },
-    {
-     "minute": 60,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Leander Dietrich",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 3
-     },
-     "teamSlug": "tv-kapellen-m2-2026-27",
-     "clubSlug": "tv-kapellen"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Nihat Yunus Türkyilmaz",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 4
-     },
-     "teamSlug": "fc-rumeln-kaldenhausen-m3-2026-27",
-     "clubSlug": "fc-rumeln-kaldenhausen"
-    }
-   ],
+   "ereignisse": [],
    "zuschauer": null,
-   "schiedsrichter": "Norbert Hammerschmidt",
+   "schiedsrichter": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 744,
+   "seitAnpfiffMin": 224,
    "laeuft": false,
    "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-sevelen-u19-1-fc-neukirchen-vluyn-0921-u19-1-260906",
-   "verein": "FC Neukirchen-Vluyn",
+   "url": "https://www.fupa.net/match/fc-viktoria-alpen-1911-ev-m2-sv-orsoy-m1-260911",
+   "verein": "FC Viktoria Alpen 1911",
    "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Testspiele",
-   "anpfiff": "2026-09-06T11:00:00+02:00",
-   "zeit": "09:00",
-   "heim": "JSG Sevelen/Issum",
-   "gast": "FC Neukirchen-Vluyn 09/21",
+   "ort": "Alpen",
+   "zone": "umland",
+   "liga": "Kreisliga A",
+   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
+   "anpfiff": "2026-09-11T19:30:00+02:00",
+   "zeit": "17:30",
+   "heim": "FC Viktoria Alpen 1911 e.V. II",
+   "gast": "SV Orsoy",
    "tore": {
-    "heim": 0,
-    "gast": 9
+    "heim": 1,
+    "gast": 8
    },
    "ereignisse": [
+    {
+     "minute": 1,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "fc-viktoria-alpen-1911-ev-m2-2026-27",
+     "clubSlug": "fc-viktoria-alpen-1911-ev"
+    },
+    {
+     "minute": 12,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Eric Alexander Maas",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sv-orsoy-m1-2026-27",
+     "clubSlug": "sv-orsoy"
+    },
     {
      "minute": 19,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Mika Rösen",
+     "spieler": "Simon Poredda",
      "fuer": null,
      "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 25,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Noel Chiduch",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
+      "heim": 1,
       "gast": 2
      },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
+     "teamSlug": "sv-orsoy-m1-2026-27",
+     "clubSlug": "sv-orsoy"
     },
     {
-     "minute": 28,
+     "minute": 23,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Noel Chiduch",
+     "spieler": "Simon Poredda",
      "fuer": null,
      "stand": {
-      "heim": 0,
+      "heim": 1,
       "gast": 3
      },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
+     "teamSlug": "sv-orsoy-m1-2026-27",
+     "clubSlug": "sv-orsoy"
     },
     {
-     "minute": 32,
+     "minute": 37,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Nico Diwell",
+     "spieler": "Eric Alexander Maas",
      "fuer": null,
      "stand": {
-      "heim": 0,
+      "heim": 1,
       "gast": 4
      },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 33,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Elias Karaicic",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 5
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 36,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Noel Chiduch",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 6
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
+     "teamSlug": "sv-orsoy-m1-2026-27",
+     "clubSlug": "sv-orsoy"
     },
     {
      "minute": 38,
@@ -239,661 +133,44 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Mika Rösen",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 7
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 40,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Noel Chiduch",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 8
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Luca Paulsen",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 9
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 744,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-budberg-u19-1-ssvg-velbert-u19-1-260906",
-   "verein": "SV Budberg 1946",
-   "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "Landesliga Gruppe 1",
-   "wettbewerb": "Testspiele",
-   "anpfiff": "2026-09-06T11:00:00+02:00",
-   "zeit": "09:00",
-   "heim": "SV Budberg",
-   "gast": "SSVg Velbert",
-   "tore": {
-    "heim": 2,
-    "gast": 4
-   },
-   "ereignisse": [
-    {
-     "minute": 35,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Luka Floten",
+     "spieler": "Ahmad Al Mohammad",
      "fuer": null,
      "stand": {
       "heim": 1,
-      "gast": 0
+      "gast": 5
      },
-     "teamSlug": "sv-budberg-u19-1-2026-27",
-     "clubSlug": "sv-budberg"
+     "teamSlug": "sv-orsoy-m1-2026-27",
+     "clubSlug": "sv-orsoy"
     },
     {
-     "minute": 48,
+     "minute": 74,
      "nachspielzeit": 0,
-     "art": "goal_own_goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "ssvg-velbert-u19-1-2026-27",
-     "clubSlug": "ssvg-velbert"
-    },
-    {
-     "minute": 56,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Liam Ingendahl",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 1
-     },
-     "teamSlug": "sv-budberg-u19-1-2026-27",
-     "clubSlug": "sv-budberg"
-    },
-    {
-     "minute": 59,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 2
-     },
-     "teamSlug": "ssvg-velbert-u19-1-2026-27",
-     "clubSlug": "ssvg-velbert"
-    },
-    {
-     "minute": 63,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 3
-     },
-     "teamSlug": "ssvg-velbert-u19-1-2026-27",
-     "clubSlug": "ssvg-velbert"
-    },
-    {
-     "minute": 69,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 4
-     },
-     "teamSlug": "ssvg-velbert-u19-1-2026-27",
-     "clubSlug": "ssvg-velbert"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": true,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 744,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/tus-borth-m2-msv-moers-m3-260906",
-   "verein": "TuS Borth 71",
-   "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
-   "anpfiff": "2026-09-06T12:30:00+02:00",
-   "zeit": "10:30",
-   "heim": "TuS Borth II",
-   "gast": "MSV Moers III",
-   "tore": {
-    "heim": 5,
-    "gast": 0
-   },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 654,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/fc-rot-weiss-moers-m2-vfl-rheinhausen-m3-260906",
-   "verein": "FC Rot-Weiß Moers 1926",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga C, Gruppe 2, Moers",
-   "anpfiff": "2026-09-06T12:30:00+02:00",
-   "zeit": "10:30",
-   "heim": "FC Rot-Weiß Moers II",
-   "gast": "VfL Rheinhausen III",
-   "tore": {
-    "heim": 2,
-    "gast": 1
-   },
-   "ereignisse": [
-    {
-     "minute": 11,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dennis Wiezorek",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "vfl-rheinhausen-m3-2026-27",
-     "clubSlug": "vfl-rheinhausen"
-    },
-    {
-     "minute": 18,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Pascal de Fries",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "fc-rot-weiss-moers-m2-2026-27",
-     "clubSlug": "fc-rot-weiss-moers"
-    },
-    {
-     "minute": 41,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Sascha Rosteck",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 1
-     },
-     "teamSlug": "fc-rot-weiss-moers-m2-2026-27",
-     "clubSlug": "fc-rot-weiss-moers"
-    }
-   ],
-   "zuschauer": 25,
-   "schiedsrichter": "Kevin Kmoch",
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 654,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-alemannia-kamp-m2-fc-neukirchen-vluyn-0921-m4-260906",
-   "verein": "SV Alemannia Kamp",
-   "heimatverein": null,
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga C, Gruppe 2, Moers",
-   "anpfiff": "2026-09-06T12:30:00+02:00",
-   "zeit": "10:30",
-   "heim": "SV Alemannia Kamp II",
-   "gast": "FC Neukirchen-Vluyn 09/21 IV",
-   "tore": {
-    "heim": 3,
-    "gast": 2
-   },
-   "ereignisse": [
-    {
-     "minute": 23,
-     "nachspielzeit": 0,
-     "art": "goal_free_kick",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Baris Özcelik",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 41,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Niklas Smolinski",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m4-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 44,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Baris Özcelik",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 1
-     },
-     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 77,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dawid Martin Malcer",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 2
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m4-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 1,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Enes Celik",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 2
-     },
-     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 3,
-     "art": "card_yellow_red",
-     "name": "Gelb-Rote Karte",
-     "zeichen": "🟨🟥",
-     "spieler": "Arnes Alihodzic",
-     "fuer": null,
-     "stand": null,
-     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    }
-   ],
-   "zuschauer": 60,
-   "schiedsrichter": "Franz-Marius Gödde",
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 654,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-schwafheim-m2-ssv-luettingen-m2-260906",
-   "verein": "SV Schwafheim 1932",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga B Moers",
-   "anpfiff": "2026-09-06T13:00:00+02:00",
-   "zeit": "11:00",
-   "heim": "SV Schwafheim II",
-   "gast": "SSV Lüttingen II",
-   "tore": {
-    "heim": 5,
-    "gast": 2
-   },
-   "ereignisse": [
-    {
-     "minute": 8,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Maximilian Schricks",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "sv-schwafheim-m2-2026-27",
-     "clubSlug": "sv-schwafheim"
-    },
-    {
-     "minute": 18,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Leonard Löw",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 0
-     },
-     "teamSlug": "sv-schwafheim-m2-2026-27",
-     "clubSlug": "sv-schwafheim"
-    },
-    {
-     "minute": 47,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Cedric Pelzer",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 0
-     },
-     "teamSlug": "sv-schwafheim-m2-2026-27",
-     "clubSlug": "sv-schwafheim"
-    },
-    {
-     "minute": 53,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 1
-     },
-     "teamSlug": "ssv-luettingen-m2-2026-27",
-     "clubSlug": "ssv-luettingen"
-    },
-    {
-     "minute": 59,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 2
-     },
-     "teamSlug": "ssv-luettingen-m2-2026-27",
-     "clubSlug": "ssv-luettingen"
-    },
-    {
-     "minute": 87,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Maximilian Schricks",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 2
-     },
-     "teamSlug": "sv-schwafheim-m2-2026-27",
-     "clubSlug": "sv-schwafheim"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 4,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Sven van Dyck",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 2
-     },
-     "teamSlug": "sv-schwafheim-m2-2026-27",
-     "clubSlug": "sv-schwafheim"
-    }
-   ],
-   "zuschauer": 75,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 624,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-millingen-m2-sv-viktoria-birten-m2-260906",
-   "verein": "SV Millingen 1928",
-   "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
-   "anpfiff": "2026-09-06T13:00:00+02:00",
-   "zeit": "11:00",
-   "heim": "SV Millingen II",
-   "gast": "SV Viktoria Birten II",
-   "tore": {
-    "heim": 1,
-    "gast": 0
-   },
-   "ereignisse": [
-    {
-     "minute": 33,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Manuel Appel",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "sv-millingen-m2-2026-27",
-     "clubSlug": "sv-millingen"
-    }
-   ],
-   "zuschauer": 20,
-   "schiedsrichter": "Wolfgang Renkiewicz",
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 624,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/buedericher-sv-m2-borussia-veen-m2-260906",
-   "verein": "SV Borussia Veen 1920",
-   "heimatverein": null,
-   "ort": "Alpen",
-   "zone": "umland",
-   "liga": "Bezirksliga Gruppe 4",
-   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
-   "anpfiff": "2026-09-06T13:00:00+02:00",
-   "zeit": "11:00",
-   "heim": "Büdericher SV II",
-   "gast": "Borussia Veen II",
-   "tore": {
-    "heim": 1,
-    "gast": 3
-   },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 624,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/vfl-repelen-m3-fc-viktoria-alpen-1911-ev-m2-260906",
-   "verein": "VFL Repelen 08",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
-   "anpfiff": "2026-09-06T13:00:00+02:00",
-   "zeit": "11:00",
-   "heim": "VfL Repelen III",
-   "gast": "FC Viktoria Alpen 1911 e.V. II",
-   "tore": {
-    "heim": 3,
-    "gast": 4
-   },
-   "ereignisse": [
-    {
-     "minute": 20,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dominik Schmidt",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "fc-viktoria-alpen-1911-ev-m2-2026-27",
-     "clubSlug": "fc-viktoria-alpen-1911-ev"
-    },
-    {
-     "minute": 35,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dominik Schmidt",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 2
-     },
-     "teamSlug": "fc-viktoria-alpen-1911-ev-m2-2026-27",
-     "clubSlug": "fc-viktoria-alpen-1911-ev"
-    },
-    {
-     "minute": 70,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
      "spieler": "Dennis Daron",
      "fuer": null,
      "stand": {
-      "heim": 3,
-      "gast": 3
+      "heim": 1,
+      "gast": 5
      },
      "teamSlug": "fc-viktoria-alpen-1911-ev-m2-2026-27",
      "clubSlug": "fc-viktoria-alpen-1911-ev"
+    },
+    {
+     "minute": 81,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Julien Schulik",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 6
+     },
+     "teamSlug": "sv-orsoy-m1-2026-27",
+     "clubSlug": "sv-orsoy"
     },
     {
      "minute": 82,
@@ -901,506 +178,118 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Volodymyr Dudych",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 4
-     },
-     "teamSlug": "fc-viktoria-alpen-1911-ev-m2-2026-27",
-     "clubSlug": "fc-viktoria-alpen-1911-ev"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 624,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/vfb-homberg-m3-sus-rayen-m1-260906",
-   "verein": "SUS Rayen 1945",
-   "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "KL C Gruppe 2",
-   "wettbewerb": "Kreisliga C, Gruppe 2, Moers",
-   "anpfiff": "2026-09-06T13:15:00+02:00",
-   "zeit": "11:15",
-   "heim": "VfB Homberg III",
-   "gast": "SuS Rayen",
-   "tore": {
-    "heim": 7,
-    "gast": 4
-   },
-   "ereignisse": [
-    {
-     "minute": 11,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Christian Kersken",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "vfb-homberg-m3-2026-27",
-     "clubSlug": "vfb-homberg"
-    },
-    {
-     "minute": 21,
-     "nachspielzeit": 0,
-     "art": "goal_headed",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Sven Kamps",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 0
-     },
-     "teamSlug": "vfb-homberg-m3-2026-27",
-     "clubSlug": "vfb-homberg"
-    },
-    {
-     "minute": 30,
-     "nachspielzeit": 0,
-     "art": "goal_headed",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Sven Kamps",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 0
-     },
-     "teamSlug": "vfb-homberg-m3-2026-27",
-     "clubSlug": "vfb-homberg"
-    },
-    {
-     "minute": 35,
-     "nachspielzeit": 0,
-     "art": "goal_headed",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Alexander Dudewitsch",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 0
-     },
-     "teamSlug": "vfb-homberg-m3-2026-27",
-     "clubSlug": "vfb-homberg"
-    },
-    {
-     "minute": 42,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Julien Schminke",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 1
-     },
-     "teamSlug": "sus-rayen-m1-2026-27",
-     "clubSlug": "sus-rayen"
-    },
-    {
-     "minute": 49,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ricardo Hanßen",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 2
-     },
-     "teamSlug": "sus-rayen-m1-2026-27",
-     "clubSlug": "sus-rayen"
-    },
-    {
-     "minute": 60,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Daniel Schwarz",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 2
-     },
-     "teamSlug": "vfb-homberg-m3-2026-27",
-     "clubSlug": "vfb-homberg"
-    },
-    {
-     "minute": 62,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "David Dittgen",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 3
-     },
-     "teamSlug": "sus-rayen-m1-2026-27",
-     "clubSlug": "sus-rayen"
-    },
-    {
-     "minute": 63,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Augustin Harlov",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 4
-     },
-     "teamSlug": "sus-rayen-m1-2026-27",
-     "clubSlug": "sus-rayen"
-    },
-    {
-     "minute": 65,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Sven Kamps",
-     "fuer": null,
-     "stand": {
-      "heim": 6,
-      "gast": 4
-     },
-     "teamSlug": "vfb-homberg-m3-2026-27",
-     "clubSlug": "vfb-homberg"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Daniel Schwarz",
-     "fuer": null,
-     "stand": {
-      "heim": 7,
-      "gast": 4
-     },
-     "teamSlug": "vfb-homberg-m3-2026-27",
-     "clubSlug": "vfb-homberg"
-    }
-   ],
-   "zuschauer": 94,
-   "schiedsrichter": "Jascha Kestler",
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 609,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/tv-asberg-m2-osc-rheinhausen-m1-260906",
-   "verein": "TV Asberg 1897",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga B Moers",
-   "anpfiff": "2026-09-06T13:30:00+02:00",
-   "zeit": "11:30",
-   "heim": "TV Asberg II",
-   "gast": "OSC Rheinhausen",
-   "tore": {
-    "heim": 1,
-    "gast": 11
-   },
-   "ereignisse": [
-    {
-     "minute": 10,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Kerem Akcay",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
-    },
-    {
-     "minute": 13,
-     "nachspielzeit": 0,
-     "art": "penalty_hand",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Hakan Koz",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "tv-asberg-m2-2026-27",
-     "clubSlug": "tv-asberg"
-    },
-    {
-     "minute": 39,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Teoman Mantrazi",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 2
-     },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
-    },
-    {
-     "minute": 41,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Fatih Aydin",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 3
-     },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
-    },
-    {
-     "minute": 44,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Teoman Mantrazi",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 4
-     },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
-    },
-    {
-     "minute": 45,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Murat Ügür",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 5
-     },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
-    },
-    {
-     "minute": 55,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Tarik Cataloluk",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 6
-     },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
-    },
-    {
-     "minute": 57,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Kerem Akcay",
+     "spieler": "Julien Schulik",
      "fuer": null,
      "stand": {
       "heim": 1,
       "gast": 7
      },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
+     "teamSlug": "sv-orsoy-m1-2026-27",
+     "clubSlug": "sv-orsoy"
     },
     {
-     "minute": 66,
+     "minute": 88,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Tarik Cataloluk",
+     "spieler": "Simon Poredda",
      "fuer": null,
      "stand": {
       "heim": 1,
       "gast": 8
      },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
-    },
-    {
-     "minute": 73,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Mikail Dilber",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 9
-     },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
-    },
-    {
-     "minute": 80,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ugur Erdogan",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 10
-     },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Tarik Cataloluk",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 11
-     },
-     "teamSlug": "osc-rheinhausen-m1-2026-27",
-     "clubSlug": "osc-rheinhausen"
+     "teamSlug": "sv-orsoy-m1-2026-27",
+     "clubSlug": "sv-orsoy"
     }
    ],
    "zuschauer": null,
    "schiedsrichter": null,
-   "hatTicker": false,
+   "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 594,
+   "seitAnpfiffMin": 119,
    "laeuft": false,
    "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/viktoria-goch-m1-1-fc-lintfort-m1-260906",
-   "verein": "1. FC Lintfort",
+   "url": "https://www.fupa.net/match/concordia-rheinberg-m2-sv-rheinkraft-ginderich-m1-260911",
+   "verein": "Concordia Rheinberg",
    "heimatverein": null,
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "liga": "Landesliga Gruppe 1",
-   "wettbewerb": "Landesliga Niederrhein, Gruppe 1",
-   "anpfiff": "2026-09-06T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "Viktoria Goch",
-   "gast": "1. FC Lintfort",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": null,
+   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
+   "anpfiff": "2026-09-11T19:30:00+02:00",
+   "zeit": "17:30",
+   "heim": "Concordia Rheinberg II",
+   "gast": "SV Rheinkraft Ginderich",
    "tore": {
     "heim": 1,
     "gast": 5
    },
    "ereignisse": [
     {
-     "minute": 12,
+     "minute": 17,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Luca Marvin Hoff",
+     "spieler": "Felix Nikulka",
      "fuer": null,
      "stand": {
       "heim": 0,
       "gast": 1
      },
-     "teamSlug": "1-fc-lintfort-m1-2026-27",
-     "clubSlug": "1-fc-lintfort"
+     "teamSlug": "sv-rheinkraft-ginderich-m1-2026-27",
+     "clubSlug": "sv-rheinkraft-ginderich"
     },
     {
-     "minute": 29,
+     "minute": 25,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Rafael Vizuete Mora",
+     "spieler": null,
      "fuer": null,
      "stand": {
-      "heim": 0,
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "concordia-rheinberg-m2-2026-27",
+     "clubSlug": "concordia-rheinberg"
+    },
+    {
+     "minute": 59,
+     "nachspielzeit": 0,
+     "art": "goal_scrounger",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Justin Enrico Franzki",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
       "gast": 2
      },
-     "teamSlug": "1-fc-lintfort-m1-2026-27",
-     "clubSlug": "1-fc-lintfort"
+     "teamSlug": "sv-rheinkraft-ginderich-m1-2026-27",
+     "clubSlug": "sv-rheinkraft-ginderich"
     },
     {
-     "minute": 65,
+     "minute": 63,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "goal_distance_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Rafael Vizuete Mora",
+     "spieler": "Jonatan Klejonkin",
      "fuer": null,
      "stand": {
-      "heim": 0,
+      "heim": 1,
       "gast": 3
      },
-     "teamSlug": "1-fc-lintfort-m1-2026-27",
-     "clubSlug": "1-fc-lintfort"
-    },
-    {
-     "minute": 70,
-     "nachspielzeit": 0,
-     "art": "goal_free_kick",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Fabio Forster",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 4
-     },
-     "teamSlug": "1-fc-lintfort-m1-2026-27",
-     "clubSlug": "1-fc-lintfort"
+     "teamSlug": "sv-rheinkraft-ginderich-m1-2026-27",
+     "clubSlug": "sv-rheinkraft-ginderich"
     },
     {
      "minute": 80,
@@ -1408,774 +297,192 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Alfred Appiah",
+     "spieler": "Fabian Hovestadt",
      "fuer": null,
      "stand": {
-      "heim": 0,
-      "gast": 5
+      "heim": 1,
+      "gast": 4
      },
-     "teamSlug": "1-fc-lintfort-m1-2026-27",
-     "clubSlug": "1-fc-lintfort"
+     "teamSlug": "sv-rheinkraft-ginderich-m1-2026-27",
+     "clubSlug": "sv-rheinkraft-ginderich"
     },
     {
-     "minute": 83,
+     "minute": 80,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Jan-Luca Geurtz",
+     "spieler": "Fabian Hovestadt",
      "fuer": null,
      "stand": {
       "heim": 1,
       "gast": 5
      },
-     "teamSlug": "viktoria-goch-m1-2026-27",
-     "clubSlug": "viktoria-goch"
+     "teamSlug": "sv-rheinkraft-ginderich-m1-2026-27",
+     "clubSlug": "sv-rheinkraft-ginderich"
     }
    ],
-   "zuschauer": 150,
-   "schiedsrichter": "Matti Lambertz",
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 504,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-budberg-m2-borussia-veen-m1-260906",
-   "verein": "SV Budberg 1946",
-   "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "Landesliga Gruppe 1",
-   "wettbewerb": "Bezirksliga Niederrhein, Gruppe 4",
-   "anpfiff": "2026-09-06T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "SV Budberg II",
-   "gast": "Borussia Veen",
-   "tore": {
-    "heim": 6,
-    "gast": 0
-   },
-   "ereignisse": [
-    {
-     "minute": 13,
-     "nachspielzeit": 0,
-     "art": "goal_headed",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Mika Engeln",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "sv-budberg-m2-2026-27",
-     "clubSlug": "sv-budberg"
-    },
-    {
-     "minute": 15,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Kai-Niklas Jahn",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 0
-     },
-     "teamSlug": "sv-budberg-m2-2026-27",
-     "clubSlug": "sv-budberg"
-    },
-    {
-     "minute": 20,
-     "nachspielzeit": 0,
-     "art": "goal_headed",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Mika Engeln",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 0
-     },
-     "teamSlug": "sv-budberg-m2-2026-27",
-     "clubSlug": "sv-budberg"
-    },
-    {
-     "minute": 50,
-     "nachspielzeit": 0,
-     "art": "card_red",
-     "name": "Rote Karte",
-     "zeichen": "🟥",
-     "spieler": "Jakob Münzner",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 0
-     },
-     "teamSlug": "borussia-veen-m1-2026-27",
-     "clubSlug": "borussia-veen"
-    },
-    {
-     "minute": 63,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Kai-Niklas Jahn",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 0
-     },
-     "teamSlug": "sv-budberg-m2-2026-27",
-     "clubSlug": "sv-budberg"
-    },
-    {
-     "minute": 81,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Deniz Ucan",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 0
-     },
-     "teamSlug": "sv-budberg-m2-2026-27",
-     "clubSlug": "sv-budberg"
-    },
-    {
-     "minute": 84,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Fynn Schwarzer",
-     "fuer": null,
-     "stand": {
-      "heim": 6,
-      "gast": 0
-     },
-     "teamSlug": "sv-budberg-m2-2026-27",
-     "clubSlug": "sv-budberg"
-    },
-    {
-     "minute": 87,
-     "nachspielzeit": 0,
-     "art": "card_yellow_red",
-     "name": "Gelb-Rote Karte",
-     "zeichen": "🟨🟥",
-     "spieler": "Jonas Kühnau",
-     "fuer": null,
-     "stand": {
-      "heim": 6,
-      "gast": 0
-     },
-     "teamSlug": "sv-budberg-m2-2026-27",
-     "clubSlug": "sv-budberg"
-    }
-   ],
-   "zuschauer": 69,
-   "schiedsrichter": "Efe Ali Karan",
+   "zuschauer": null,
+   "schiedsrichter": null,
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 504,
+   "seitAnpfiffMin": 119,
    "laeuft": false,
    "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/esv-hohenbudberg-m1-fc-neukirchen-vluyn-0921-m2-260906",
-   "verein": "FC Neukirchen-Vluyn",
+   "url": "https://www.fupa.net/match/buedericher-sv-w1-sv-haldern-w2-260911",
+   "verein": "SV Menzelen 1925",
    "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Kreisliga A Moers",
-   "anpfiff": "2026-09-06T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "ESV Hohenbudberg",
-   "gast": "FC Neukirchen-Vluyn 09/21 II",
+   "ort": "Alpen",
+   "zone": "umland",
+   "liga": "Kreisliga A",
+   "wettbewerb": "Frauen-Kreisliga Niederrhein, Gruppe 7",
+   "anpfiff": "2026-09-11T19:30:00+02:00",
+   "zeit": "17:30",
+   "heim": "SG BüdericherSV / SV Menzelen",
+   "gast": "SV Haldern II",
    "tore": {
-    "heim": 1,
-    "gast": 7
+    "heim": 0,
+    "gast": 4
    },
    "ereignisse": [
-    {
-     "minute": 6,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Paul Reetz",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 9,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Finn Pokroppa",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 2
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 33,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Finn Pokroppa",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 3
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
     {
      "minute": 39,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Paul Reetz",
+     "spieler": "Helen Elmer",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "sv-haldern-w2-2026-27",
+     "clubSlug": "sv-haldern"
+    },
+    {
+     "minute": 64,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Helen Elmer",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "sv-haldern-w2-2026-27",
+     "clubSlug": "sv-haldern"
+    },
+    {
+     "minute": 77,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Charlotta Schneider",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 3
+     },
+     "teamSlug": "sv-haldern-w2-2026-27",
+     "clubSlug": "sv-haldern"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marie Claire Rösen",
      "fuer": null,
      "stand": {
       "heim": 0,
       "gast": 4
      },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Jos Brunck",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 5
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 58,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Samet Altun",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 5
-     },
-     "teamSlug": "esv-hohenbudberg-m1-2026-27",
-     "clubSlug": "esv-hohenbudberg"
-    },
-    {
-     "minute": 81,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dean Luca Arndt",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 6
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 2,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Noah Schäpertöns",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 7
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m2-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
+     "teamSlug": "sv-haldern-w2-2026-27",
+     "clubSlug": "sv-haldern"
     }
    ],
-   "zuschauer": 75,
-   "schiedsrichter": "Julian von Tessmer",
+   "zuschauer": 35,
+   "schiedsrichter": "Heinz Guyens",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 504,
+   "seitAnpfiffMin": 119,
    "laeuft": false,
    "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-millingen-m1-gsv-moers-m2-260906",
-   "verein": "SV Millingen 1928",
+   "url": "https://www.fupa.net/match/fortuna-bottrop-m1-fc-neukirchen-vluyn-0921-m1-260911",
+   "verein": "FC Neukirchen-Vluyn",
    "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A Moers",
-   "anpfiff": "2026-09-06T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "SV Millingen",
-   "gast": "GSV Moers II",
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "liga": "Bezirksliga Gruppe 5",
+   "wettbewerb": "Bezirksliga Niederrhein, Gruppe 5",
+   "anpfiff": "2026-09-11T19:45:00+02:00",
+   "zeit": "17:45",
+   "heim": "Fortuna Bottrop",
+   "gast": "FC Neukirchen-Vluyn 09/21",
    "tore": {
-    "heim": 2,
+    "heim": 4,
     "gast": 3
    },
    "ereignisse": [
-    {
-     "minute": 4,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Florian Zukowski",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "gsv-moers-m2-2026-27",
-     "clubSlug": "gsv-moers"
-    },
-    {
-     "minute": 22,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Leon Haliti",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 2
-     },
-     "teamSlug": "gsv-moers-m2-2026-27",
-     "clubSlug": "gsv-moers"
-    },
-    {
-     "minute": 30,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Yannick Alexander Saunus",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 2
-     },
-     "teamSlug": "sv-millingen-m1-2026-27",
-     "clubSlug": "sv-millingen"
-    },
-    {
-     "minute": 43,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Leon Haliti",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 3
-     },
-     "teamSlug": "gsv-moers-m2-2026-27",
-     "clubSlug": "gsv-moers"
-    },
-    {
-     "minute": 74,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Lukas Krall",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 3
-     },
-     "teamSlug": "sv-millingen-m1-2026-27",
-     "clubSlug": "sv-millingen"
-    }
-   ],
-   "zuschauer": 70,
-   "schiedsrichter": "Tommy Thielen",
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 504,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/tus-borth-m1-1-fc-lintfort-m2-260906",
-   "verein": "TuS Borth 71",
-   "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga B Moers",
-   "anpfiff": "2026-09-06T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "TuS Borth",
-   "gast": "1. FC Lintfort II",
-   "tore": {
-    "heim": 5,
-    "gast": 2
-   },
-   "ereignisse": [
-    {
-     "minute": 2,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Torben Arnold",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "tus-borth-m1-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 13,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Torben Arnold",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 0
-     },
-     "teamSlug": "tus-borth-m1-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 37,
-     "nachspielzeit": 0,
-     "art": "penalty_hand",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Martin Hirsch Weiser",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 0
-     },
-     "teamSlug": "tus-borth-m1-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 52,
-     "nachspielzeit": 0,
-     "art": "goal_distance_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Brian Hoffacker",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 0
-     },
-     "teamSlug": "tus-borth-m1-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 62,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Xhelal Macani",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 1
-     },
-     "teamSlug": "1-fc-lintfort-m2-2026-27",
-     "clubSlug": "1-fc-lintfort"
-    },
-    {
-     "minute": 73,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Xhelal Macani",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 2
-     },
-     "teamSlug": "1-fc-lintfort-m2-2026-27",
-     "clubSlug": "1-fc-lintfort"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Robin Günther",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 2
-     },
-     "teamSlug": "tus-borth-m1-2026-27",
-     "clubSlug": "tus-borth"
-    }
-   ],
-   "zuschauer": 150,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 504,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-alemannia-kamp-m1-tus-asterlagen-m2-260906",
-   "verein": "SV Alemannia Kamp",
-   "heimatverein": null,
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga B Moers",
-   "anpfiff": "2026-09-06T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "SV Alemannia Kamp",
-   "gast": "TuS Asterlagen II",
-   "tore": {
-    "heim": 18,
-    "gast": 1
-   },
-   "ereignisse": [
-    {
-     "minute": 2,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dennis Kiljan",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
     {
      "minute": 6,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Christopher Jordan",
+     "spieler": "Phil Hardelauf",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 10,
+     "nachspielzeit": 0,
+     "art": "goal_scrounger",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Lennart Jablonski",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "fortuna-bottrop-m1-2026-27",
+     "clubSlug": "fortuna-bottrop"
+    },
+    {
+     "minute": 39,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Lennart Jablonski",
      "fuer": null,
      "stand": {
       "heim": 2,
-      "gast": 0
+      "gast": 1
      },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 9,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dennis Kiljan",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 12,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Christopher Jordan",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 16,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Christopher Jordan",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 23,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dennis Kiljan",
-     "fuer": null,
-     "stand": {
-      "heim": 6,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 27,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ricardo Schiff",
-     "fuer": null,
-     "stand": {
-      "heim": 7,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 28,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Christopher Jordan",
-     "fuer": null,
-     "stand": {
-      "heim": 8,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 33,
-     "nachspielzeit": 0,
-     "art": "goal_free_kick",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Marvin Wesel",
-     "fuer": null,
-     "stand": {
-      "heim": 9,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 36,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ricardo Schiff",
-     "fuer": null,
-     "stand": {
-      "heim": 10,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 40,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dennis Kiljan",
-     "fuer": null,
-     "stand": {
-      "heim": 11,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 43,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ricardo Schiff",
-     "fuer": null,
-     "stand": {
-      "heim": 12,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
+     "teamSlug": "fortuna-bottrop-m1-2026-27",
+     "clubSlug": "fortuna-bottrop"
     },
     {
      "minute": 45,
@@ -2183,756 +490,14 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Ricardo Schiff",
-     "fuer": null,
-     "stand": {
-      "heim": 13,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 49,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dennis Kiljan",
-     "fuer": null,
-     "stand": {
-      "heim": 14,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 58,
-     "nachspielzeit": 0,
-     "art": "card_yellow_red",
-     "name": "Gelb-Rote Karte",
-     "zeichen": "🟨🟥",
-     "spieler": "Mustafa Kara",
-     "fuer": null,
-     "stand": {
-      "heim": 14,
-      "gast": 0
-     },
-     "teamSlug": "tus-asterlagen-m2-2026-27",
-     "clubSlug": "tus-asterlagen"
-    },
-    {
-     "minute": 67,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Julian Steinitz",
-     "fuer": null,
-     "stand": {
-      "heim": 15,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 75,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Julian Steinitz",
-     "fuer": null,
-     "stand": {
-      "heim": 16,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 81,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ömer Can Gür",
-     "fuer": null,
-     "stand": {
-      "heim": 16,
-      "gast": 1
-     },
-     "teamSlug": "tus-asterlagen-m2-2026-27",
-     "clubSlug": "tus-asterlagen"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Justin Seidl",
-     "fuer": null,
-     "stand": {
-      "heim": 17,
-      "gast": 1
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Kevin Jellessen",
-     "fuer": null,
-     "stand": {
-      "heim": 18,
-      "gast": 1
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": true,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 504,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/fc-rot-weiss-moers-m1-sv-viktoria-birten-m1-260906",
-   "verein": "FC Rot-Weiß Moers 1926",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga B Moers",
-   "anpfiff": "2026-09-06T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "FC Rot-Weiß Moers",
-   "gast": "SV Viktoria Birten",
-   "tore": {
-    "heim": 0,
-    "gast": 3
-   },
-   "ereignisse": [
-    {
-     "minute": 65,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Jakob Terhorst",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "sv-viktoria-birten-m1-2026-27",
-     "clubSlug": "sv-viktoria-birten"
-    },
-    {
-     "minute": 74,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Constantin van Elten",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 2
-     },
-     "teamSlug": "sv-viktoria-birten-m1-2026-27",
-     "clubSlug": "sv-viktoria-birten"
-    },
-    {
-     "minute": 80,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Constantin van Elten",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 3
-     },
-     "teamSlug": "sv-viktoria-birten-m1-2026-27",
-     "clubSlug": "sv-viktoria-birten"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": true,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 504,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/tv-kapellen-m1-fc-rumeln-kaldenhausen-m1-260906",
-   "verein": "TV Kapellen",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga B Moers",
-   "anpfiff": "2026-09-06T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "TV Kapellen",
-   "gast": "FC Rumeln-Kaldenhausen",
-   "tore": {
-    "heim": 1,
-    "gast": 3
-   },
-   "ereignisse": [
-    {
-     "minute": 11,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Pascal Böhmer",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "tv-kapellen-m1-2026-27",
-     "clubSlug": "tv-kapellen"
-    },
-    {
-     "minute": 19,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Nico Justin Olejniczak",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "fc-rumeln-kaldenhausen-m1-2026-27",
-     "clubSlug": "fc-rumeln-kaldenhausen"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 1,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dustin Seidel",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 2
-     },
-     "teamSlug": "fc-rumeln-kaldenhausen-m1-2026-27",
-     "clubSlug": "fc-rumeln-kaldenhausen"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 4,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Nico Justin Olejniczak",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 3
-     },
-     "teamSlug": "fc-rumeln-kaldenhausen-m1-2026-27",
-     "clubSlug": "fc-rumeln-kaldenhausen"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": "Birol Demirhan",
-   "hatTicker": true,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 504,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/1-fc-lintfort-m3-concordia-rheinberg-m2-260906",
-   "verein": "1. FC Lintfort",
-   "heimatverein": null,
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "liga": "Landesliga Gruppe 1",
-   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
-   "anpfiff": "2026-09-06T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "1. FC Lintfort III",
-   "gast": "Concordia Rheinberg II",
-   "tore": {
-    "heim": 2,
-    "gast": 7
-   },
-   "ereignisse": [
-    {
-     "minute": 10,
-     "nachspielzeit": 0,
-     "art": "goal_headed",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Henrik van de Mötter",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "concordia-rheinberg-m2-2026-27",
-     "clubSlug": "concordia-rheinberg"
-    },
-    {
-     "minute": 39,
-     "nachspielzeit": 0,
-     "art": "goal_own_goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Jan-Philip Post",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "1-fc-lintfort-m3-2026-27",
-     "clubSlug": "1-fc-lintfort"
-    },
-    {
-     "minute": 54,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Kevin Schade",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 2
-     },
-     "teamSlug": "concordia-rheinberg-m2-2026-27",
-     "clubSlug": "concordia-rheinberg"
-    },
-    {
-     "minute": 57,
-     "nachspielzeit": 0,
-     "art": "goal_free_kick",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dominic Geldermann",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 3
-     },
-     "teamSlug": "concordia-rheinberg-m2-2026-27",
-     "clubSlug": "concordia-rheinberg"
-    },
-    {
-     "minute": 61,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Jonas Baumbach",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 4
-     },
-     "teamSlug": "concordia-rheinberg-m2-2026-27",
-     "clubSlug": "concordia-rheinberg"
-    },
-    {
-     "minute": 67,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Leon Daitche",
+     "spieler": "Luis Gizinski",
      "fuer": null,
      "stand": {
       "heim": 2,
-      "gast": 4
-     },
-     "teamSlug": "1-fc-lintfort-m3-2026-27",
-     "clubSlug": "1-fc-lintfort"
-    },
-    {
-     "minute": 73,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Sudahan Demiri",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 5
-     },
-     "teamSlug": "concordia-rheinberg-m2-2026-27",
-     "clubSlug": "concordia-rheinberg"
-    },
-    {
-     "minute": 87,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Sam Gestmann",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 6
-     },
-     "teamSlug": "concordia-rheinberg-m2-2026-27",
-     "clubSlug": "concordia-rheinberg"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Joel Vallender",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 7
-     },
-     "teamSlug": "concordia-rheinberg-m2-2026-27",
-     "clubSlug": "concordia-rheinberg"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 504,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/msv-moers-m4-vfl-repelen-m2-260906",
-   "verein": "Meerbecker SV Moers 13/20",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga C, Gruppe 2, Moers",
-   "anpfiff": "2026-09-06T15:00:00+02:00",
-   "zeit": "13:00",
-   "heim": "MSV Moers IV",
-   "gast": "VfL Repelen II",
-   "tore": {
-    "heim": 3,
-    "gast": 3
-   },
-   "ereignisse": [
-    {
-     "minute": 8,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Berkan Sonbahar",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "vfl-repelen-m2-2026-27",
-     "clubSlug": "vfl-repelen"
-    },
-    {
-     "minute": 13,
-     "nachspielzeit": 0,
-     "art": "goal_free_kick",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Meik Kuta",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "msv-moers-m4-2026-27",
-     "clubSlug": "msv-moers"
-    },
-    {
-     "minute": 15,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Berkan Sonbahar",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
       "gast": 2
      },
-     "teamSlug": "vfl-repelen-m2-2026-27",
-     "clubSlug": "vfl-repelen"
-    },
-    {
-     "minute": 42,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Berkan Sonbahar",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 3
-     },
-     "teamSlug": "vfl-repelen-m2-2026-27",
-     "clubSlug": "vfl-repelen"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Imran Topal",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 3
-     },
-     "teamSlug": "msv-moers-m4-2026-27",
-     "clubSlug": "msv-moers"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Imran Topal",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 3
-     },
-     "teamSlug": "msv-moers-m4-2026-27",
-     "clubSlug": "msv-moers"
-    }
-   ],
-   "zuschauer": 150,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 504,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/vfl-repelen-m1-schwarz-weiss-alstaden-m1-260906",
-   "verein": "VFL Repelen 08",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Bezirksliga Niederrhein, Gruppe 5",
-   "anpfiff": "2026-09-06T15:30:00+02:00",
-   "zeit": "13:30",
-   "heim": "VfL Repelen",
-   "gast": "Schwarz-Weiß Alstaden",
-   "tore": {
-    "heim": 0,
-    "gast": 2
-   },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 474,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/rumelner-tv-m1-spvgg-rheurdt-schaephuysen-m1-260906",
-   "verein": "SpVgg. Rheurdt-Schaephuysen",
-   "heimatverein": null,
-   "ort": "Rheurdt",
-   "zone": "umland",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A Moers",
-   "anpfiff": "2026-09-06T15:30:00+02:00",
-   "zeit": "13:30",
-   "heim": "Rumelner TV",
-   "gast": "SpVgg Rheurdt-Schaephuysen",
-   "tore": {
-    "heim": 0,
-    "gast": 2
-   },
-   "ereignisse": [
-    {
-     "minute": 18,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Nico Jeegers",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "spvgg-rheurdt-schaephuysen-m1-2026-27",
-     "clubSlug": "spvgg-rheurdt-schaephuysen"
-    },
-    {
-     "minute": 57,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Mehmet Ügüdür",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 2
-     },
-     "teamSlug": "spvgg-rheurdt-schaephuysen-m1-2026-27",
-     "clubSlug": "spvgg-rheurdt-schaephuysen"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 2,
-     "art": "card_yellow_red",
-     "name": "Gelb-Rote Karte",
-     "zeichen": "🟨🟥",
-     "spieler": "Florian Ortstadt",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 2
-     },
-     "teamSlug": "spvgg-rheurdt-schaephuysen-m1-2026-27",
-     "clubSlug": "spvgg-rheurdt-schaephuysen"
-    }
-   ],
-   "zuschauer": 100,
-   "schiedsrichter": "Julien Noel Frank",
-   "hatTicker": true,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 474,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-schwafheim-m1-fc-viktoria-alpen-1911-ev-m1-260906",
-   "verein": "SV Schwafheim 1932",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A Moers",
-   "anpfiff": "2026-09-06T15:30:00+02:00",
-   "zeit": "13:30",
-   "heim": "SV Schwafheim",
-   "gast": "FC Viktoria Alpen 1911 e.V.",
-   "tore": {
-    "heim": 7,
-    "gast": 1
-   },
-   "ereignisse": [
-    {
-     "minute": 7,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Niels Kuhlmann",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "fc-viktoria-alpen-1911-ev-m1-2026-27",
-     "clubSlug": "fc-viktoria-alpen-1911-ev"
-    },
-    {
-     "minute": 10,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Harvy Marschmann",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "sv-schwafheim-m1-2026-27",
-     "clubSlug": "sv-schwafheim"
-    },
-    {
-     "minute": 29,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Robin Morawa",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 1
-     },
-     "teamSlug": "sv-schwafheim-m1-2026-27",
-     "clubSlug": "sv-schwafheim"
-    },
-    {
-     "minute": 34,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Justin Leon Kaczmarek",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 1
-     },
-     "teamSlug": "sv-schwafheim-m1-2026-27",
-     "clubSlug": "sv-schwafheim"
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
     },
     {
      "minute": 53,
@@ -2940,317 +505,305 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Harvy Marschmann",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 1
-     },
-     "teamSlug": "sv-schwafheim-m1-2026-27",
-     "clubSlug": "sv-schwafheim"
-    },
-    {
-     "minute": 54,
-     "nachspielzeit": 0,
-     "art": "goal_own_goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Jan Luca Rassier",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 1
-     },
-     "teamSlug": "sv-schwafheim-m1-2026-27",
-     "clubSlug": "sv-schwafheim"
-    },
-    {
-     "minute": 66,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Harvy Marschmann",
-     "fuer": null,
-     "stand": {
-      "heim": 6,
-      "gast": 1
-     },
-     "teamSlug": "sv-schwafheim-m1-2026-27",
-     "clubSlug": "sv-schwafheim"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "penaltyfail",
-     "zeichen": "•",
-     "spieler": "Mike Konrad",
-     "fuer": null,
-     "stand": {
-      "heim": 6,
-      "gast": 1
-     },
-     "teamSlug": "sv-schwafheim-m1-2026-27",
-     "clubSlug": "sv-schwafheim"
-    },
-    {
-     "minute": 79,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Felix Gotthardt",
-     "fuer": null,
-     "stand": {
-      "heim": 7,
-      "gast": 1
-     },
-     "teamSlug": "sv-schwafheim-m1-2026-27",
-     "clubSlug": "sv-schwafheim"
-    }
-   ],
-   "zuschauer": 100,
-   "schiedsrichter": "Jan Christian Behnisch",
-   "hatTicker": true,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 474,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/buedericher-sv-m1-msv-moers-m1-260906",
-   "verein": "Meerbecker SV Moers 13/20",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A Moers",
-   "anpfiff": "2026-09-06T15:30:00+02:00",
-   "zeit": "13:30",
-   "heim": "Büdericher SV",
-   "gast": "MSV Moers",
-   "tore": {
-    "heim": 3,
-    "gast": 1
-   },
-   "ereignisse": [
-    {
-     "minute": 15,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Mika Heckers",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "buedericher-sv-m1-2026-27",
-     "clubSlug": "buedericher-sv"
-    },
-    {
-     "minute": 39,
-     "nachspielzeit": 0,
-     "art": "goal_headed",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Gökhan Öztürk",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "msv-moers-m1-2026-27",
-     "clubSlug": "msv-moers"
-    },
-    {
-     "minute": 84,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Maxim Bachmann-Golz",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 1
-     },
-     "teamSlug": "buedericher-sv-m1-2026-27",
-     "clubSlug": "buedericher-sv"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 6,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Hubert Welens",
+     "spieler": "Lennart Jablonski",
      "fuer": null,
      "stand": {
       "heim": 3,
-      "gast": 1
+      "gast": 2
      },
-     "teamSlug": "buedericher-sv-m1-2026-27",
-     "clubSlug": "buedericher-sv"
+     "teamSlug": "fortuna-bottrop-m1-2026-27",
+     "clubSlug": "fortuna-bottrop"
+    },
+    {
+     "minute": 59,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Max Schebak",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 3
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 62,
+     "nachspielzeit": 0,
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": "Max Schebak",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 3
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 78,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 3
+     },
+     "teamSlug": "fortuna-bottrop-m1-2026-27",
+     "clubSlug": "fortuna-bottrop"
     }
    ],
-   "zuschauer": 95,
-   "schiedsrichter": "Andreas Temming",
+   "zuschauer": 80,
+   "schiedsrichter": "Sebastian Jan Guretzki",
    "hatTicker": true,
-   "abschnitt": "POST",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 474,
-   "laeuft": false,
-   "abgeschlossen": true
+   "seitAnpfiffMin": 104,
+   "laeuft": true,
+   "abgeschlossen": false
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/asv-einigkeit-suechteln-m1-sv-budberg-m1-260906",
-   "verein": "SV Budberg 1946",
+   "url": "https://www.fupa.net/match/sv-scherpenberg-m1-1-spvg-solingen-wald-03-m1-260911",
+   "verein": "SV Scherpenberg 1921",
    "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "Landesliga Gruppe 1",
-   "wettbewerb": "Landesliga Niederrhein, Gruppe 1",
-   "anpfiff": "2026-09-06T15:45:00+02:00",
-   "zeit": "13:45",
-   "heim": "ASV Einigkeit Süchteln",
-   "gast": "SV Budberg",
+   "ort": "Moers",
+   "zone": "kern",
+   "liga": "Oberliga Niederrhein",
+   "wettbewerb": "Oberliga Niederrhein",
+   "anpfiff": "2026-09-11T20:00:00+02:00",
+   "zeit": "18:00",
+   "heim": "SV Scherpenberg",
+   "gast": "1. Spvg. Solingen Wald 03",
    "tore": {
-    "heim": 2,
-    "gast": 4
+    "heim": 0,
+    "gast": 2
    },
    "ereignisse": [
     {
-     "minute": 28,
+     "minute": 22,
      "nachspielzeit": 0,
-     "art": "goal_headed",
+     "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Florian Mordt",
+     "spieler": "Georgios Mavroudis",
      "fuer": null,
      "stand": {
       "heim": 0,
       "gast": 1
      },
-     "teamSlug": "sv-budberg-m1-2026-27",
-     "clubSlug": "sv-budberg"
+     "teamSlug": "1-spvg-solingen-wald-03-m1-2026-27",
+     "clubSlug": "1-spvg-solingen-wald-03"
     },
     {
-     "minute": 36,
+     "minute": 38,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Leonit Popova",
+     "spieler": "Simone Lo Castro",
      "fuer": null,
      "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "asv-einigkeit-suechteln-m1-2026-27",
-     "clubSlug": "asv-einigkeit-suechteln"
-    },
-    {
-     "minute": 50,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Moritz Paul",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
+      "heim": 0,
       "gast": 2
      },
-     "teamSlug": "sv-budberg-m1-2026-27",
-     "clubSlug": "sv-budberg"
-    },
-    {
-     "minute": 57,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Malte Thesenvitz",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 2
-     },
-     "teamSlug": "asv-einigkeit-suechteln-m1-2026-27",
-     "clubSlug": "asv-einigkeit-suechteln"
-    },
-    {
-     "minute": 83,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Oliver Nowak",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 3
-     },
-     "teamSlug": "sv-budberg-m1-2026-27",
-     "clubSlug": "sv-budberg"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ole Egging",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 4
-     },
-     "teamSlug": "sv-budberg-m1-2026-27",
-     "clubSlug": "sv-budberg"
+     "teamSlug": "1-spvg-solingen-wald-03-m1-2026-27",
+     "clubSlug": "1-spvg-solingen-wald-03"
     }
    ],
-   "zuschauer": 220,
-   "schiedsrichter": "keine Angabe",
+   "zuschauer": null,
+   "schiedsrichter": "Matti Lambertz",
    "hatTicker": true,
-   "abschnitt": "POST",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 459,
-   "laeuft": false,
-   "abgeschlossen": true
+   "seitAnpfiffMin": 89,
+   "laeuft": true,
+   "abgeschlossen": false
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/djk-vierlinden-u17-2-sv-budberg-u17-2-260906",
+   "url": "https://www.fupa.net/match/sv-blau-weiss-dingden-m2-sv-budberg-m2-260911",
    "verein": "SV Budberg 1946",
    "heimatverein": null,
    "ort": "Rheinberg",
    "zone": "umland",
    "liga": "Landesliga Gruppe 1",
-   "wettbewerb": "Testspiele",
-   "anpfiff": "2026-09-06T17:30:00+02:00",
-   "zeit": "15:30",
-   "heim": "DJK Vierlinden II",
+   "wettbewerb": "Bezirksliga Niederrhein, Gruppe 4",
+   "anpfiff": "2026-09-11T20:00:00+02:00",
+   "zeit": "18:00",
+   "heim": "SV Blau-Weiß Dingden II",
    "gast": "SV Budberg II",
+   "tore": {
+    "heim": 3,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 26,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Robin Volmering",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-blau-weiss-dingden-m2-2026-27",
+     "clubSlug": "sv-blau-weiss-dingden"
+    },
+    {
+     "minute": 49,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Alexander Sack",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "sv-blau-weiss-dingden-m2-2026-27",
+     "clubSlug": "sv-blau-weiss-dingden"
+    },
+    {
+     "minute": 71,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Philipp Arnold",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "sv-blau-weiss-dingden-m2-2026-27",
+     "clubSlug": "sv-blau-weiss-dingden"
+    }
+   ],
+   "zuschauer": null,
+   "schiedsrichter": "Leon Maurice Ulrich",
+   "hatTicker": true,
+   "abschnitt": "LIVE",
+   "hinweis": null,
+   "seitAnpfiffMin": 89,
+   "laeuft": true,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "FuPa",
+   "sportart": "Fußball",
+   "url": "https://www.fupa.net/match/vfl-repelen-m2-fc-moers-meerfeld-m2-260911",
+   "verein": "VFL Repelen 08",
+   "heimatverein": null,
+   "ort": "Moers",
+   "zone": "kern",
+   "liga": "Bezirksliga Gruppe 5",
+   "wettbewerb": "Kreisliga C, Gruppe 2, Moers",
+   "anpfiff": "2026-09-11T20:00:00+02:00",
+   "zeit": "18:00",
+   "heim": "VfL Repelen II",
+   "gast": "FC Moers-Meerfeld II",
    "tore": null,
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "POST",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 354,
+   "seitAnpfiffMin": 89,
+   "laeuft": true,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "fussball.de",
+   "sportart": "Fußball",
+   "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-ii-sv-orsoy/-/spiel/031I6NEHIG000000VS5489BTVSRD0UH9",
+   "verein": "SV Orsoy 1919",
+   "heimatverein": null,
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "KL C Gruppe 1",
+   "wettbewerb": "Kreisliga C",
+   "anpfiff": "2026-09-11T19:30:00.000Z",
+   "zeit": "19:30",
+   "heim": "FC Viktoria Alpen II",
+   "gast": "SV Orsoy",
+   "tore": null,
+   "ergebnisGemeldet": true,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "hatTicker": false,
+   "abschnitt": null,
+   "hinweis": null,
+   "seitAnpfiffMin": -1,
    "laeuft": false,
-   "abgeschlossen": true
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "fussball.de",
+   "sportart": "Fußball",
+   "url": "https://www.fussball.de/spiel/sv-fortuna-bottrop-fc-neukirchen-vluyn/-/spiel/031ENENHJS000000VS5489BUVUR5FS5A",
+   "verein": "FC Neukirchen-Vluyn",
+   "heimatverein": null,
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "liga": "Bezirksliga Gruppe 5",
+   "wettbewerb": "Bezirksliga",
+   "anpfiff": "2026-09-11T19:45:00.000Z",
+   "zeit": "19:45",
+   "heim": "SV Fortuna Bottrop",
+   "gast": "FC Neukirchen-Vluyn",
+   "tore": null,
+   "ergebnisGemeldet": true,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "hatTicker": false,
+   "abschnitt": null,
+   "hinweis": null,
+   "seitAnpfiffMin": -16,
+   "laeuft": false,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "fussball.de",
+   "sportart": "Fußball",
+   "url": "https://www.fussball.de/spiel/sv-scherpenberg-1-spvg-solingen-wald/-/spiel/031EE4OBU8000000VS5489BTVUS470OH",
+   "verein": "SV Scherpenberg 1921",
+   "heimatverein": null,
+   "ort": "Moers",
+   "zone": "kern",
+   "liga": "Oberliga Niederrhein",
+   "wettbewerb": "Oberliga Niederrhein",
+   "anpfiff": "2026-09-11T20:00:00.000Z",
+   "zeit": "20:00",
+   "heim": "SV Scherpenberg",
+   "gast": "1. Spvg. Solingen-Wald",
+   "tore": null,
+   "ergebnisGemeldet": true,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "hatTicker": false,
+   "abschnitt": null,
+   "hinweis": null,
+   "seitAnpfiffMin": -31,
+   "laeuft": false,
+   "abgeschlossen": false
   }
  ]
 }
