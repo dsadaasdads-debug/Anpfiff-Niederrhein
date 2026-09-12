@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-12T14:37:06.390Z",
+ "aktualisiert": "2026-09-12T17:25:43.927Z",
  "tag": "12.09.",
  "datum": "2026-09-12",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 217,
+   "seitAnpfiffMin": 386,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -57,7 +57,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 157,
+   "seitAnpfiffMin": 326,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -85,7 +85,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 112,
+   "seitAnpfiffMin": 281,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -108,11 +108,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 97,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 266,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -128,16 +128,19 @@
    "zeit": "13:00",
    "heim": "FC Neukirchen-Vluyn 09/21 II",
    "gast": "SV Budberg II",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 7
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 97,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 266,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -153,16 +156,19 @@
    "zeit": "13:00",
    "heim": "SV Alemannia Kamp",
    "gast": "OSC Rheinhausen",
-   "tore": null,
+   "tore": {
+    "heim": 5,
+    "gast": 4
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 97,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 266,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -178,16 +184,19 @@
    "zeit": "13:00",
    "heim": "SSV Lüttingen",
    "gast": "FC Neukirchen-Vluyn 09/21 III",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 3
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 97,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 266,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -203,16 +212,19 @@
    "zeit": "13:00",
    "heim": "MSV Moers",
    "gast": "TV Asberg II",
-   "tore": null,
+   "tore": {
+    "heim": 5,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 97,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 266,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -228,16 +240,19 @@
    "zeit": "13:00",
    "heim": "TV Asberg III",
    "gast": "FC Moers-Meerfeld",
-   "tore": null,
+   "tore": {
+    "heim": 10,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 97,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 266,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -253,16 +268,19 @@
    "zeit": "13:15",
    "heim": "TV Asberg",
    "gast": "VfL Repelen",
-   "tore": null,
+   "tore": {
+    "heim": 11,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 82,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 251,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -278,16 +296,19 @@
    "zeit": "13:30",
    "heim": "1. FC Lintfort II",
    "gast": "JSG Veen/Menzelen/Alpen",
-   "tore": null,
+   "tore": {
+    "heim": 3,
+    "gast": 5
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 67,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 236,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -303,16 +324,19 @@
    "zeit": "13:45",
    "heim": "GSV Moers II",
    "gast": "TuS Baerl",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 4
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 52,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 221,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -328,16 +352,260 @@
    "zeit": "14:00",
    "heim": "SpVgg Rheurdt-Schaephuysen II",
    "gast": "1. FC Lintfort III",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 16,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 10,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Christopher Koch",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 21,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Kahlen",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 23,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Kahlen",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 30,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jean Luca Koch",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 34,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Joris van Haren",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 36,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jean Luca Koch",
+     "fuer": null,
+     "stand": {
+      "heim": 6,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 43,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Christopher Koch",
+     "fuer": null,
+     "stand": {
+      "heim": 7,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 46,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Kahlen",
+     "fuer": null,
+     "stand": {
+      "heim": 8,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 52,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Samir Jabri",
+     "fuer": null,
+     "stand": {
+      "heim": 9,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 54,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Kahlen",
+     "fuer": null,
+     "stand": {
+      "heim": 10,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 55,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Joris van Haren",
+     "fuer": null,
+     "stand": {
+      "heim": 11,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 63,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Kahlen",
+     "fuer": null,
+     "stand": {
+      "heim": 12,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 74,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Samir Jabri",
+     "fuer": null,
+     "stand": {
+      "heim": 13,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 75,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Amar Okic",
+     "fuer": null,
+     "stand": {
+      "heim": 14,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 77,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Amar Okic",
+     "fuer": null,
+     "stand": {
+      "heim": 15,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    },
+    {
+     "minute": 87,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Tim Hagen Hilker",
+     "fuer": null,
+     "stand": {
+      "heim": 16,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-rheurdt-schaephuysen-m2-2026-27",
+     "clubSlug": "spvgg-rheurdt-schaephuysen"
+    }
+   ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Werner Röös",
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 37,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 206,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -353,16 +621,19 @@
    "zeit": "14:00",
    "heim": "SV Budberg",
    "gast": "1. FC Lintfort",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 37,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 206,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -383,10 +654,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -23,
-   "laeuft": false,
+   "seitAnpfiffMin": 146,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -403,16 +674,19 @@
    "zeit": "15:00",
    "heim": "FC Neukirchen-Vluyn 09/21 IV",
    "gast": "TV Kapellen",
-   "tore": null,
+   "tore": {
+    "heim": 25,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -23,
+   "seitAnpfiffMin": 146,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -428,16 +702,140 @@
    "zeit": "15:30",
    "heim": "TV Asberg",
    "gast": "JSG Birten/Lüttingen/Xanten",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 6,
+    "gast": 2
+   },
+   "ereignisse": [
+    {
+     "minute": 3,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "tv-asberg-u19-1-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 29,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "sg-sv-birten-luettingen-tus-xanten-u19-1-2026-27",
+     "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 35,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "sg-sv-birten-luettingen-tus-xanten-u19-1-2026-27",
+     "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 37,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "tv-asberg-u19-1-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 54,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 2
+     },
+     "teamSlug": "tv-asberg-u19-1-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 60,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 2
+     },
+     "teamSlug": "tv-asberg-u19-1-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 72,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 2
+     },
+     "teamSlug": "tv-asberg-u19-1-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 77,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 6,
+      "gast": 2
+     },
+     "teamSlug": "tv-asberg-u19-1-2026-27",
+     "clubSlug": "tv-asberg"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -53,
+   "seitAnpfiffMin": 116,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -458,10 +856,10 @@
    "zuschauer": null,
    "schiedsrichter": "Patrick Kohlenberg",
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -53,
-   "laeuft": false,
+   "seitAnpfiffMin": 116,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -483,10 +881,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -53,
-   "laeuft": false,
+   "seitAnpfiffMin": 116,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -508,10 +906,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -83,
-   "laeuft": false,
+   "seitAnpfiffMin": 86,
+   "laeuft": true,
    "abgeschlossen": false
   }
  ]
