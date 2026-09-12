@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-12T15:51:37.558Z",
+ "aktualisiert": "2026-09-12T20:58:48.058Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -626,6 +626,18 @@
     },
     {
      "platz": 3,
+     "verein": "FSV Duisburg",
+     "teamId": "011MIFCRO8000000VTVG0001VTR8C1K7",
+     "spiele": 5,
+     "siege": 3,
+     "unentschieden": 2,
+     "niederlagen": 0,
+     "tore": "19:10",
+     "differenz": 9,
+     "punkte": 11
+    },
+    {
+     "platz": 4,
      "verein": "SV Genc Osman Duisburg",
      "teamId": "011MIB8DCS000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -637,7 +649,7 @@
      "punkte": 10
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "Spvgg. Sterkrade-Nord",
      "teamId": "011MIEFJGO000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -649,7 +661,7 @@
      "punkte": 10
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "Schwarz-Weiss Alstaden",
      "teamId": "011MIEUEV8000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -659,18 +671,6 @@
      "tore": "23:17",
      "differenz": 6,
      "punkte": 9
-    },
-    {
-     "platz": 6,
-     "verein": "FSV Duisburg",
-     "teamId": "011MIFCRO8000000VTVG0001VTR8C1K7",
-     "spiele": 4,
-     "siege": 2,
-     "unentschieden": 2,
-     "niederlagen": 0,
-     "tore": "12:10",
-     "differenz": 2,
-     "punkte": 8
     },
     {
      "platz": 7,
@@ -772,12 +772,12 @@
      "platz": 15,
      "verein": "SuS 21 Oberhausen",
      "teamId": "011MI9UHLK000000VTVG0001VTR8C1K7",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "21:16",
-     "differenz": 5,
+     "niederlagen": 4,
+     "tore": "21:23",
+     "differenz": -2,
      "punkte": 3
     },
     {
@@ -1292,6 +1292,18 @@
     },
     {
      "platz": 5,
+     "verein": "SSVg Velbert 02",
+     "teamId": "011MIEI1Q8000000VTVG0001VTR8C1K7",
+     "spiele": 5,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "tore": "12:11",
+     "differenz": 1,
+     "punkte": 9
+    },
+    {
+     "platz": 6,
      "verein": "1. FC Monheim",
      "teamId": "011MIAU70C000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -1303,7 +1315,7 @@
      "punkte": 8
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "SC St. Tönis 11/20",
      "teamId": "011MIC7T0S000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -1315,7 +1327,7 @@
      "punkte": 8
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "BW Dingden",
      "teamId": "011MIDCROO000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -1327,7 +1339,7 @@
      "punkte": 7
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "SV Sonsbeck",
      "teamId": "011MIB5PAG000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -1336,18 +1348,6 @@
      "niederlagen": 0,
      "tore": "7:5",
      "differenz": 2,
-     "punkte": 6
-    },
-    {
-     "platz": 9,
-     "verein": "SSVg Velbert 02",
-     "teamId": "011MIEI1Q8000000VTVG0001VTR8C1K7",
-     "spiele": 4,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 2,
-     "tore": "10:10",
-     "differenz": 0,
      "punkte": 6
     },
     {
@@ -1390,12 +1390,12 @@
      "platz": 13,
      "verein": "FC Büderich",
      "teamId": "011MID3PO0000000VTVG0001VTR8C1K7",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 1,
      "unentschieden": 2,
-     "niederlagen": 1,
-     "tore": "7:12",
-     "differenz": -5,
+     "niederlagen": 2,
+     "tore": "8:14",
+     "differenz": -6,
      "punkte": 5
     },
     {
@@ -1970,6 +1970,18 @@
     },
     {
      "platz": 8,
+     "verein": "SG Kessel/Ho-Ha",
+     "teamId": "011MIEMFV0000000VTVG0001VTR8C1K7",
+     "spiele": 5,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "10:12",
+     "differenz": -2,
+     "punkte": 7
+    },
+    {
+     "platz": 9,
      "verein": "SV Viktoria Goch II",
      "teamId": "011MIC7VT0000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -1981,7 +1993,7 @@
      "punkte": 7
     },
     {
-     "platz": 9,
+     "platz": 10,
      "verein": "SV Straelen",
      "teamId": "011MIASHNC000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -1993,7 +2005,7 @@
      "punkte": 6
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "Viktoria Winnekendonk",
      "teamId": "011MIBSVOS000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -2005,7 +2017,7 @@
      "punkte": 6
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "TSV Wachtendonk-Wankum",
      "teamId": "011MICDPGK000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -2017,7 +2029,7 @@
      "punkte": 6
     },
     {
-     "platz": 12,
+     "platz": 13,
      "verein": "SV 1934 Veert",
      "teamId": "011MI9IAQ4000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -2026,18 +2038,6 @@
      "niederlagen": 2,
      "tore": "8:9",
      "differenz": -1,
-     "punkte": 4
-    },
-    {
-     "platz": 13,
-     "verein": "SG Kessel/Ho-Ha",
-     "teamId": "011MIEMFV0000000VTVG0001VTR8C1K7",
-     "spiele": 4,
-     "siege": 1,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "7:10",
-     "differenz": -3,
      "punkte": 4
     },
     {
@@ -2068,12 +2068,12 @@
      "platz": 16,
      "verein": "TSV Nieukerk",
      "teamId": "011MIE0NA8000000VTVG0001VTR8C1K7",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 0,
      "unentschieden": 1,
-     "niederlagen": 3,
-     "tore": "8:14",
-     "differenz": -6,
+     "niederlagen": 4,
+     "tore": "10:17",
+     "differenz": -7,
      "punkte": 1
     }
    ]
@@ -2086,13 +2086,13 @@
      "platz": 1,
      "verein": "SpVgg. Rheurdt-Schaephuysen II",
      "teamId": "02Q88TMF08000000VS5489B1VURITBKO",
-     "spiele": 3,
-     "siege": 3,
+     "spiele": 4,
+     "siege": 4,
      "unentschieden": 0,
      "niederlagen": 0,
-     "tore": "21:1",
-     "differenz": 20,
-     "punkte": 9
+     "tore": "37:1",
+     "differenz": 36,
+     "punkte": 12
     },
     {
      "platz": 2,
@@ -2290,12 +2290,12 @@
      "platz": 18,
      "verein": "1.FC Lintfort III",
      "teamId": "02M95SI48G000000VS5489B2VURM3E5J",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "4:25",
-     "differenz": -21,
+     "niederlagen": 4,
+     "tore": "4:41",
+     "differenz": -37,
      "punkte": 0
     }
    ]
