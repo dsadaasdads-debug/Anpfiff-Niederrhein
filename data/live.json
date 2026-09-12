@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-12T17:25:43.927Z",
+ "aktualisiert": "2026-09-12T19:29:53.112Z",
  "tag": "12.09.",
  "datum": "2026-09-12",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 386,
+   "seitAnpfiffMin": 510,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -57,7 +57,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 326,
+   "seitAnpfiffMin": 450,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -79,13 +79,29 @@
     "heim": 0,
     "gast": 1
    },
-   "ereignisse": [],
-   "zuschauer": null,
+   "ereignisse": [
+    {
+     "minute": 26,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u15-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
+   "zuschauer": 25,
    "schiedsrichter": "Kilian Korfkamp",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 281,
+   "seitAnpfiffMin": 405,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -110,7 +126,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 266,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -138,7 +154,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 266,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -166,7 +182,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 266,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -194,7 +210,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 266,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -222,7 +238,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 266,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -250,7 +266,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 266,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -278,7 +294,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 375,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -306,7 +322,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 236,
+   "seitAnpfiffMin": 360,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -334,7 +350,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 345,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -603,7 +619,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 206,
+   "seitAnpfiffMin": 330,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -631,7 +647,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 206,
+   "seitAnpfiffMin": 330,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -649,16 +665,19 @@
    "zeit": "15:00",
    "heim": "JSG Repelen/Neukirchen-Vluyn II",
    "gast": "SpVgg Rheurdt-Schaephuysen",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 146,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 270,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -684,7 +703,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 146,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -833,7 +852,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 116,
+   "seitAnpfiffMin": 240,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -851,16 +870,80 @@
    "zeit": "15:30",
    "heim": "FC Neukirchen-Vluyn 09/21",
    "gast": "SV Sonsbeck",
-   "tore": null,
-   "ereignisse": [],
-   "zuschauer": null,
+   "tore": {
+    "heim": 1,
+    "gast": 3
+   },
+   "ereignisse": [
+    {
+     "minute": 33,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u17-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 73,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kais Kallel",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sv-sonsbeck-u17-1-2026-27",
+     "clubSlug": "sv-sonsbeck"
+    },
+    {
+     "minute": 79,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kais Kallel",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "sv-sonsbeck-u17-1-2026-27",
+     "clubSlug": "sv-sonsbeck"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 3,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Sarmat Dzhioev",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 3
+     },
+     "teamSlug": "sv-sonsbeck-u17-1-2026-27",
+     "clubSlug": "sv-sonsbeck"
+    }
+   ],
+   "zuschauer": 50,
    "schiedsrichter": "Patrick Kohlenberg",
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 116,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 240,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -876,16 +959,19 @@
    "zeit": "15:30",
    "heim": "1. FC Lintfort III",
    "gast": "MSV Moers II",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 5
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 116,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 240,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -901,16 +987,19 @@
    "zeit": "16:00",
    "heim": "SV Budberg II",
    "gast": "VfL Rheinhausen",
-   "tore": null,
+   "tore": {
+    "heim": 4,
+    "gast": 7
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 86,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 210,
+   "laeuft": false,
+   "abgeschlossen": true
   }
  ]
 }
