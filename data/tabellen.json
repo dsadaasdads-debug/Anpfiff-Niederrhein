@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-12T11:17:18.084Z",
+ "aktualisiert": "2026-09-12T15:51:37.558Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4305,7 +4305,7 @@
      "gast": "SV Millingen",
      "url": "https://www.fussball.de/spiel/djk-vierlinden-sv-millingen/-/spiel/03200UBFMO000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Nichtantritt GAST"
     },
     {
      "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
