@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-13T05:24:33.522Z",
+ "aktualisiert": "2026-09-13T12:18:58.113Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -230,30 +230,66 @@
    "zeilen": [
     {
      "platz": 1,
-     "verein": "1.FC Lintfort",
-     "teamId": "023R4O6F1G000000VS548985VT5V9K59",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 1,
      "verein": "DJK Arminia Klosterhardt",
      "teamId": "011MI97620000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
+     "spiele": 1,
+     "siege": 1,
      "unentschieden": 0,
      "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
+     "tore": "7:1",
+     "differenz": 6,
+     "punkte": 3
     },
     {
-     "platz": 1,
+     "platz": 2,
+     "verein": "SF 97/30 Lowick",
+     "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "6:2",
+     "differenz": 4,
+     "punkte": 3
+    },
+    {
+     "platz": 2,
+     "verein": "SuS 09 Dinslaken",
+     "teamId": "011MIBSV6G000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "6:2",
+     "differenz": 4,
+     "punkte": 3
+    },
+    {
+     "platz": 4,
+     "verein": "FSV Duisburg",
+     "teamId": "011MIEMHS8000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "4:2",
+     "differenz": 2,
+     "punkte": 3
+    },
+    {
+     "platz": 5,
+     "verein": "PSV Wesel",
+     "teamId": "011MIDPEHG000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "3:1",
+     "differenz": 2,
+     "punkte": 3
+    },
+    {
+     "platz": 6,
      "verein": "FC Neukirchen-Vluyn",
      "teamId": "023UVPVJ9C000000VS548984VSVTAEJ3",
      "spiele": 0,
@@ -265,79 +301,7 @@
      "punkte": 0
     },
     {
-     "platz": 1,
-     "verein": "FSV Duisburg",
-     "teamId": "011MIEMHS8000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 1,
-     "verein": "JSG Nütterden / Kranenburg",
-     "teamId": "011MID3RF4000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 1,
-     "verein": "JSG SV Straelen / SV Veert",
-     "teamId": "011MIF5LV8000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 1,
-     "verein": "PSV Wesel",
-     "teamId": "011MIDPEHG000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 1,
-     "verein": "SF 97/30 Lowick",
-     "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 1,
-     "verein": "SV Budberg",
-     "teamId": "011MIF5K20000000VTVG0001VTR8C1K7",
-     "spiele": 0,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
-     "punkte": 0
-    },
-    {
-     "platz": 1,
+     "platz": 6,
      "verein": "SV Krechting",
      "teamId": "01ORDBHD6C000000VV0AG811VVANPB38",
      "spiele": 0,
@@ -349,27 +313,63 @@
      "punkte": 0
     },
     {
-     "platz": 1,
-     "verein": "SV Sonsbeck",
-     "teamId": "011MIF5QVC000000VTVG0001VTR8C1K7",
-     "spiele": 0,
+     "platz": 8,
+     "verein": "JSG SV Straelen / SV Veert",
+     "teamId": "011MIF5LV8000000VTVG0001VTR8C1K7",
+     "spiele": 1,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
+     "niederlagen": 1,
+     "tore": "2:4",
+     "differenz": -2,
      "punkte": 0
     },
     {
-     "platz": 1,
-     "verein": "SuS 09 Dinslaken",
-     "teamId": "011MIBSV6G000000VTVG0001VTR8C1K7",
-     "spiele": 0,
+     "platz": 9,
+     "verein": "SV Sonsbeck",
+     "teamId": "011MIF5QVC000000VTVG0001VTR8C1K7",
+     "spiele": 1,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "0:0",
-     "differenz": 0,
+     "niederlagen": 1,
+     "tore": "1:3",
+     "differenz": -2,
+     "punkte": 0
+    },
+    {
+     "platz": 10,
+     "verein": "1.FC Lintfort",
+     "teamId": "023R4O6F1G000000VS548985VT5V9K59",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "2:6",
+     "differenz": -4,
+     "punkte": 0
+    },
+    {
+     "platz": 10,
+     "verein": "SV Budberg",
+     "teamId": "011MIF5K20000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "2:6",
+     "differenz": -4,
+     "punkte": 0
+    },
+    {
+     "platz": 12,
+     "verein": "JSG Nütterden / Kranenburg",
+     "teamId": "011MID3RF4000000VTVG0001VTR8C1K7",
+     "spiele": 1,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "1:7",
+     "differenz": -6,
      "punkte": 0
     }
    ]
@@ -1094,6 +1094,18 @@
     },
     {
      "platz": 7,
+     "verein": "FC Moers-Meerfeld II",
+     "teamId": "02PPPC0NSO000000VS5489B2VUGLP840",
+     "spiele": 4,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "tore": "7:11",
+     "differenz": -4,
+     "punkte": 6
+    },
+    {
+     "platz": 8,
      "verein": "FC Neukirchen-Vluyn IV",
      "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
      "spiele": 3,
@@ -1105,7 +1117,7 @@
      "punkte": 4
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "SpVgg. Rheurdt-Schaephuysen III",
      "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
      "spiele": 3,
@@ -1117,7 +1129,7 @@
      "punkte": 4
     },
     {
-     "platz": 9,
+     "platz": 10,
      "verein": "OSC 04 Rheinhausen II",
      "teamId": "01L7FAASLK000000VV0AG80NVT9OCUEA",
      "spiele": 2,
@@ -1129,7 +1141,7 @@
      "punkte": 4
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "TuS Borth III",
      "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
      "spiele": 3,
@@ -1141,7 +1153,7 @@
      "punkte": 4
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "SuS Rayen",
      "teamId": "011MIA98AS000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -1150,18 +1162,6 @@
      "niederlagen": 2,
      "tore": "20:12",
      "differenz": 8,
-     "punkte": 3
-    },
-    {
-     "platz": 12,
-     "verein": "FC Moers-Meerfeld II",
-     "teamId": "02PPPC0NSO000000VS5489B2VUGLP840",
-     "spiele": 3,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 2,
-     "tore": "3:9",
-     "differenz": -6,
      "punkte": 3
     },
     {
@@ -1216,12 +1216,12 @@
      "platz": 17,
      "verein": "VfL Rheinhausen III",
      "teamId": "031BQIOKV4000000VS5489BSVU7CJV8J",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "2:18",
-     "differenz": -16,
+     "niederlagen": 4,
+     "tore": "4:22",
+     "differenz": -18,
      "punkte": 0
     },
     {
@@ -2182,12 +2182,12 @@
      "platz": 9,
      "verein": "SC Rheinkamp II",
      "teamId": "01SIQFBN18000000VS548984VVMI9KVG",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "11:9",
-     "differenz": 2,
+     "niederlagen": 2,
+     "tore": "11:10",
+     "differenz": 1,
      "punkte": 4
     },
     {
@@ -2204,6 +2204,18 @@
     },
     {
      "platz": 11,
+     "verein": "SV Menzelen II",
+     "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
+     "spiele": 4,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "3:10",
+     "differenz": -7,
+     "punkte": 4
+    },
+    {
+     "platz": 12,
      "verein": "SV Budberg IV",
      "teamId": "01OTG3R40K000000VV0AG811VSQ2DN07",
      "spiele": 2,
@@ -2215,7 +2227,7 @@
      "punkte": 3
     },
     {
-     "platz": 12,
+     "platz": 13,
      "verein": "FC Viktoria Alpen II",
      "teamId": "011MIE8974000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -2227,7 +2239,7 @@
      "punkte": 3
     },
     {
-     "platz": 13,
+     "platz": 14,
      "verein": "SV Sonsbeck III",
      "teamId": "02PTDCPP68000000VS5489B2VSE05932",
      "spiele": 2,
@@ -2237,18 +2249,6 @@
      "tore": "5:5",
      "differenz": 0,
      "punkte": 2
-    },
-    {
-     "platz": 14,
-     "verein": "SV Menzelen II",
-     "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
-     "spiele": 3,
-     "siege": 0,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "2:10",
-     "differenz": -8,
-     "punkte": 1
     },
     {
      "platz": 15,
@@ -2422,20 +2422,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/1fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/023R4O6F1G000000VS548985VT5V9K59",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 1,
+   "platz": 10,
    "punkte": 0,
-   "torverhaeltnis": "0:0",
+   "torverhaeltnis": "2:6",
    "staffelId": "031PMKJ4BK000004VS5489BTVT8K11BC-G",
    "naechste": [
-    {
-     "datum": "Sonntag, 13.09.2026 - 11:00 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "SF 97/30 Lowick",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/sf-97-30-lowick-1fc-lintfort/-/spiel/031SUR0P68000000VS5489BTVT7QHFUC",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Donnerstag, 17.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreispokal",
@@ -2469,6 +2460,15 @@
      "heim": "1.FC Lintfort",
      "gast": "SuS 09 Dinslaken",
      "url": "https://www.fussball.de/spiel/1fc-lintfort-sus-09-dinslaken/-/spiel/031SUR0OAO000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 11.10.2026 - 11:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SV Budberg",
+     "gast": "1.FC Lintfort",
+     "url": "https://www.fussball.de/spiel/sv-budberg-i-1fc-lintfort/-/spiel/031SUR0O6G000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3639,7 +3639,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sus-rayen-sus-rayen-1945-niederrhein/-/saison/2627/team-id/011MIA98AS000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 2",
    "spielklasse": "Kreisliga C",
-   "platz": 11,
+   "platz": 12,
    "punkte": 3,
    "torverhaeltnis": "20:12",
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
