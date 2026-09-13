@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-13T18:14:45.771Z",
+ "aktualisiert": "2026-09-13T20:52:13.633Z",
  "tag": "13.09.",
  "datum": "2026-09-13",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -45,7 +45,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 555,
+   "seitAnpfiffMin": 712,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -164,7 +164,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 495,
+   "seitAnpfiffMin": 652,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -238,7 +238,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 465,
+   "seitAnpfiffMin": 622,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -357,7 +357,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 450,
+   "seitAnpfiffMin": 607,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -506,7 +506,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 435,
+   "seitAnpfiffMin": 592,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -530,7 +530,7 @@
    },
    "ereignisse": [
     {
-     "minute": 2,
+     "minute": 1,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
@@ -545,7 +545,7 @@
      "clubSlug": "msv-moers"
     },
     {
-     "minute": 10,
+     "minute": 9,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
@@ -605,7 +605,7 @@
      "clubSlug": "msv-moers"
     },
     {
-     "minute": 53,
+     "minute": 56,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
@@ -620,7 +620,7 @@
      "clubSlug": "msv-moers"
     },
     {
-     "minute": 67,
+     "minute": 66,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
@@ -635,7 +635,7 @@
      "clubSlug": "msv-moers"
     },
     {
-     "minute": 88,
+     "minute": 87,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
@@ -650,12 +650,12 @@
      "clubSlug": "sv-budberg"
     }
    ],
-   "zuschauer": 100,
+   "zuschauer": 50,
    "schiedsrichter": "Raphael Schmitz",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 435,
+   "seitAnpfiffMin": 592,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -683,7 +683,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 435,
+   "seitAnpfiffMin": 592,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -817,7 +817,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 435,
+   "seitAnpfiffMin": 592,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -842,7 +842,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 435,
+   "seitAnpfiffMin": 592,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -946,7 +946,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 435,
+   "seitAnpfiffMin": 592,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1065,7 +1065,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 435,
+   "seitAnpfiffMin": 592,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1184,7 +1184,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 435,
+   "seitAnpfiffMin": 592,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1243,7 +1243,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 435,
+   "seitAnpfiffMin": 592,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1332,7 +1332,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 420,
+   "seitAnpfiffMin": 577,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1356,7 +1356,7 @@
    },
    "ereignisse": [
     {
-     "minute": 26,
+     "minute": 25,
      "nachspielzeit": 0,
      "art": "penalty_foul",
      "name": "Tor",
@@ -1373,10 +1373,10 @@
     {
      "minute": 42,
      "nachspielzeit": 0,
-     "art": "goal_own_goal",
+     "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Hakan Terzi",
+     "spieler": "Moritz Paul",
      "fuer": null,
      "stand": {
       "heim": 2,
@@ -1406,7 +1406,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 315,
+   "seitAnpfiffMin": 472,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1462,7 +1462,7 @@
     {
      "minute": 40,
      "nachspielzeit": 0,
-     "art": "goal_scrounger",
+     "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
      "spieler": "Emir Demiri",
@@ -1525,7 +1525,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 315,
+   "seitAnpfiffMin": 472,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1644,7 +1644,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 315,
+   "seitAnpfiffMin": 472,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1718,7 +1718,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 315,
+   "seitAnpfiffMin": 472,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1852,7 +1852,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 315,
+   "seitAnpfiffMin": 472,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2001,7 +2001,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 315,
+   "seitAnpfiffMin": 472,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2195,7 +2195,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 315,
+   "seitAnpfiffMin": 472,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2220,7 +2220,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 315,
+   "seitAnpfiffMin": 472,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2324,7 +2324,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 315,
+   "seitAnpfiffMin": 472,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2593,7 +2593,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 285,
+   "seitAnpfiffMin": 442,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2787,7 +2787,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 285,
+   "seitAnpfiffMin": 442,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2886,12 +2886,12 @@
      "clubSlug": "sv-schwafheim"
     }
    ],
-   "zuschauer": 70,
+   "zuschauer": 75,
    "schiedsrichter": "Marlon Theissen",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 285,
+   "seitAnpfiffMin": 442,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2913,13 +2913,89 @@
     "heim": 3,
     "gast": 2
    },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "ereignisse": [
+    {
+     "minute": 4,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Lucy Werner",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sc-krefeld-05-w1-2026-27",
+     "clubSlug": "sc-krefeld-05"
+    },
+    {
+     "minute": 15,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Laura Rekus",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-w1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 25,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Annika Sophia Michel",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "sv-budberg-w1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 85,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Lara Borgmann",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "sc-krefeld-05-w1-2026-27",
+     "clubSlug": "sc-krefeld-05"
+    },
+    {
+     "minute": 88,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Franziska Arens",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 2
+     },
+     "teamSlug": "sc-krefeld-05-w1-2026-27",
+     "clubSlug": "sc-krefeld-05"
+    }
+   ],
+   "zuschauer": 40,
+   "schiedsrichter": "Josif Tsivalidis",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 285,
+   "seitAnpfiffMin": 442,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2941,13 +3017,89 @@
     "heim": 5,
     "gast": 0
    },
-   "ereignisse": [],
-   "zuschauer": 30,
+   "ereignisse": [
+    {
+     "minute": 39,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dawid Martin Malcer",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m4-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 43,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dean Glomp",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m4-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 58,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Arcel Tagne Guiffo",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m4-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 85,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Arcel Tagne Guiffo",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m4-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 89,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Arcel Tagne Guiffo",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m4-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
+   "zuschauer": 40,
    "schiedsrichter": "Birol Demirhan",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 255,
+   "seitAnpfiffMin": 412,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2976,7 +3128,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Isa Demir",
      "fuer": null,
      "stand": {
       "heim": 1,
@@ -3036,7 +3188,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Ömer Tastan",
      "fuer": null,
      "stand": {
       "heim": 2,
@@ -3051,7 +3203,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Isa Demir",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -3061,12 +3213,12 @@
      "clubSlug": "vfl-rheinhausen"
     }
    ],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "zuschauer": 50,
+   "schiedsrichter": "Manuel Sova",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 195,
+   "seitAnpfiffMin": 352,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3121,11 +3273,11 @@
     }
    ],
    "zuschauer": 50,
-   "schiedsrichter": null,
+   "schiedsrichter": "Ceyhun Özdemir",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 195,
+   "seitAnpfiffMin": 352,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3148,11 +3300,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 195,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 352,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -3176,9 +3328,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "Nichtantritt GAST",
-   "seitAnpfiffMin": 75,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 232,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -3338,9 +3490,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 75,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 232,
+   "laeuft": false,
+   "abgeschlossen": true
   }
  ]
 }
