@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-13T15:17:17.844Z",
+ "aktualisiert": "2026-09-13T18:14:45.771Z",
  "tag": "13.09.",
  "datum": "2026-09-13",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -45,7 +45,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 377,
+   "seitAnpfiffMin": 555,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -164,7 +164,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 317,
+   "seitAnpfiffMin": 495,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -238,7 +238,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 287,
+   "seitAnpfiffMin": 465,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -357,7 +357,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 450,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -383,10 +383,10 @@
     {
      "minute": 5,
      "nachspielzeit": 0,
-     "art": "goal_own_goal",
+     "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Jan Aigner",
+     "spieler": "Aydin Türkeli",
      "fuer": null,
      "stand": {
       "heim": 0,
@@ -501,12 +501,12 @@
      "clubSlug": "esv-hohenbudberg"
     }
    ],
-   "zuschauer": 50,
-   "schiedsrichter": null,
+   "zuschauer": 75,
+   "schiedsrichter": "Jan Christian Behnisch",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 257,
+   "seitAnpfiffMin": 435,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -650,12 +650,12 @@
      "clubSlug": "sv-budberg"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 100,
    "schiedsrichter": "Raphael Schmitz",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 257,
+   "seitAnpfiffMin": 435,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -683,7 +683,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 257,
+   "seitAnpfiffMin": 435,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -817,7 +817,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 257,
+   "seitAnpfiffMin": 435,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -842,7 +842,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 257,
+   "seitAnpfiffMin": 435,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -941,12 +941,12 @@
      "clubSlug": "sv-sonsbeck"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 30,
    "schiedsrichter": "Richard Zdzieblo",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 257,
+   "seitAnpfiffMin": 435,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1065,7 +1065,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 257,
+   "seitAnpfiffMin": 435,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1184,7 +1184,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 257,
+   "seitAnpfiffMin": 435,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1243,7 +1243,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 257,
+   "seitAnpfiffMin": 435,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1332,301 +1332,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-issum-sv-bw-herongen-ii/-/spiel/031JH9A2D8000000VS5489BUVVKNMR0J",
-   "verein": "SV Issum 1930",
-   "heimatverein": null,
-   "ort": "Issum",
-   "zone": "umland",
-   "liga": "Kreisliga B Gruppe 2",
-   "wettbewerb": "Kreisliga B",
-   "anpfiff": "2026-09-13T12:30:00.000Z",
-   "zeit": "12:30",
-   "heim": "SV Issum",
-   "gast": "SV BW Herongen II",
-   "tore": {
-    "heim": 8,
-    "gast": 4
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 4,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 21,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 24,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 26,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 34,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 45,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 45,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 50,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 50,
-     "nachspielzeit": 0,
-     "art": "red-card",
-     "name": "Rote Karte",
-     "zeichen": "🟥",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 56,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 64,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 65,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 69,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 75,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 79,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 79,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 81,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 82,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 88,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 167,
+   "seitAnpfiffMin": 420,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1652,7 +1358,7 @@
     {
      "minute": 26,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "penalty_foul",
      "name": "Tor",
      "zeichen": "⚽",
      "spieler": "Ole Egging",
@@ -1667,10 +1373,10 @@
     {
      "minute": 42,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "goal_own_goal",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Moritz Paul",
+     "spieler": "Hakan Terzi",
      "fuer": null,
      "stand": {
       "heim": 2,
@@ -1695,12 +1401,12 @@
      "clubSlug": "sv-budberg"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 200,
    "schiedsrichter": "Malte Kalinowski",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 137,
+   "seitAnpfiffMin": 315,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1724,87 +1430,87 @@
    },
    "ereignisse": [
     {
-     "minute": 5,
+     "minute": 20,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Furkan Baydar",
+     "spieler": "Thorsten Kogel",
      "fuer": null,
      "stand": {
       "heim": 1,
-      "gast": 0
+      "gast": 1
      },
      "teamSlug": "1-fc-lintfort-m1-2026-27",
      "clubSlug": "1-fc-lintfort"
     },
     {
-     "minute": 6,
+     "minute": 24,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Elmin Pedljic",
+     "spieler": "Rashad Ouro-Akpo",
      "fuer": null,
      "stand": {
-      "heim": 2,
-      "gast": 0
-     },
-     "teamSlug": "1-fc-lintfort-m1-2026-27",
-     "clubSlug": "1-fc-lintfort"
-    },
-    {
-     "minute": 40,
-     "nachspielzeit": 0,
-     "art": "goal_headed",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Justin Walker",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 1
-     },
-     "teamSlug": "vfb-homberg-m1-2026-27",
-     "clubSlug": "vfb-homberg"
-    },
-    {
-     "minute": 50,
-     "nachspielzeit": 0,
-     "art": "penalty_hand",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Leon Schübel",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
+      "heim": 1,
       "gast": 2
      },
      "teamSlug": "vfb-homberg-m1-2026-27",
      "clubSlug": "vfb-homberg"
     },
     {
-     "minute": 60,
+     "minute": 40,
+     "nachspielzeit": 0,
+     "art": "goal_scrounger",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Emir Demiri",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "vfb-homberg-m1-2026-27",
+     "clubSlug": "vfb-homberg"
+    },
+    {
+     "minute": 55,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Leon Schübel",
+     "spieler": "Marcio Jordan Blank",
      "fuer": null,
      "stand": {
-      "heim": 2,
+      "heim": 1,
       "gast": 3
      },
      "teamSlug": "vfb-homberg-m1-2026-27",
      "clubSlug": "vfb-homberg"
     },
     {
-     "minute": 70,
+     "minute": 68,
      "nachspielzeit": 0,
-     "art": "goal_free_kick",
+     "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Leon Schübel",
+     "spieler": "Alfred Appiah",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 3
+     },
+     "teamSlug": "1-fc-lintfort-m1-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    },
+    {
+     "minute": 84,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marcio Jordan Blank",
      "fuer": null,
      "stand": {
       "heim": 2,
@@ -1814,12 +1520,12 @@
      "clubSlug": "vfb-homberg"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 250,
    "schiedsrichter": "Jan Bongartz",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 137,
+   "seitAnpfiffMin": 315,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1860,7 +1566,7 @@
     {
      "minute": 25,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "goal_free_kick",
      "name": "Tor",
      "zeichen": "⚽",
      "spieler": "Tom Schlütter",
@@ -1933,12 +1639,12 @@
      "clubSlug": "djk-rhede"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 70,
    "schiedsrichter": "Robin Schürmann",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 137,
+   "seitAnpfiffMin": 315,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2007,12 +1713,12 @@
      "clubSlug": "hamminkelner-sv"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 80,
    "schiedsrichter": "Mustafa Bostanci",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 137,
+   "seitAnpfiffMin": 315,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2146,7 +1852,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 137,
+   "seitAnpfiffMin": 315,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2168,13 +1874,134 @@
     "heim": 8,
     "gast": 0
    },
-   "ereignisse": [],
-   "zuschauer": null,
+   "ereignisse": [
+    {
+     "minute": 9,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Brian Hoffacker",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 36,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Torben Arnold",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 56,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Torben Arnold",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 61,
+     "nachspielzeit": 0,
+     "art": "goal_own_goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Alen Ibrahimovic",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 64,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mohammed Abdel Halim El Hettak",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 77,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Robin Günther",
+     "fuer": null,
+     "stand": {
+      "heim": 6,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 79,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Martin Hirsch Weiser",
+     "fuer": null,
+     "stand": {
+      "heim": 7,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kevin Carrino",
+     "fuer": null,
+     "stand": {
+      "heim": 8,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m1-2026-27",
+     "clubSlug": "tus-borth"
+    }
+   ],
+   "zuschauer": 150,
    "schiedsrichter": "Tommy Thielen",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 137,
+   "seitAnpfiffMin": 315,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2196,13 +2023,179 @@
     "heim": 8,
     "gast": 3
    },
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kerim Can Inci",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "tv-asberg-m2-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Etienne Kallies",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 2
+     },
+     "teamSlug": "tv-asberg-m2-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Konstantin Wagner",
+     "fuer": null,
+     "stand": {
+      "heim": 7,
+      "gast": 3
+     },
+     "teamSlug": "tv-asberg-m2-2026-27",
+     "clubSlug": "tv-asberg"
+    },
+    {
+     "minute": 5,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Björn Weyers",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "tus-baerl-m1-2026-27",
+     "clubSlug": "tus-baerl"
+    },
+    {
+     "minute": 17,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Joshua Sprenger",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "tus-baerl-m1-2026-27",
+     "clubSlug": "tus-baerl"
+    },
+    {
+     "minute": 19,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Björn Siemund",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "tus-baerl-m1-2026-27",
+     "clubSlug": "tus-baerl"
+    },
+    {
+     "minute": 28,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Torben Basfeld",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 1
+     },
+     "teamSlug": "tus-baerl-m1-2026-27",
+     "clubSlug": "tus-baerl"
+    },
+    {
+     "minute": 43,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Torben Basfeld",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 1
+     },
+     "teamSlug": "tus-baerl-m1-2026-27",
+     "clubSlug": "tus-baerl"
+    },
+    {
+     "minute": 52,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marius Schneeweis",
+     "fuer": null,
+     "stand": {
+      "heim": 6,
+      "gast": 2
+     },
+     "teamSlug": "tus-baerl-m1-2026-27",
+     "clubSlug": "tus-baerl"
+    },
+    {
+     "minute": 60,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Benedict Thissen",
+     "fuer": null,
+     "stand": {
+      "heim": 7,
+      "gast": 2
+     },
+     "teamSlug": "tus-baerl-m1-2026-27",
+     "clubSlug": "tus-baerl"
+    },
+    {
+     "minute": 84,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Maximilian Linkenbach",
+     "fuer": null,
+     "stand": {
+      "heim": 8,
+      "gast": 3
+     },
+     "teamSlug": "tus-baerl-m1-2026-27",
+     "clubSlug": "tus-baerl"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 137,
+   "seitAnpfiffMin": 315,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2225,11 +2218,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 137,
+   "seitAnpfiffMin": 315,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -2249,752 +2242,89 @@
     "heim": 2,
     "gast": 5
    },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 137,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/tus-asterlagen-ii-fc-rot-weiss-moers/-/spiel/031HBDT63K000000VS5489BTVVG7L386",
-   "verein": "FC Rot-Weiß Moers 1926",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga B",
-   "anpfiff": "2026-09-13T13:00:00.000Z",
-   "zeit": "13:00",
-   "heim": "TuS Asterlagen II",
-   "gast": "FC Rot-Weiß Moers",
-   "tore": {
-    "heim": 6,
-    "gast": 3
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 6,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 9,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 16,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 19,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 20,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 34,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 35,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 42,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 44,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 44,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 51,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 55,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 60,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 68,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 78,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 137,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-budberg-iii-msv-moers/-/spiel/031H9RCD04000000VS5489BUVSJ4CRAP",
-   "verein": "Meerbecker SV Moers 13/20",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A",
-   "anpfiff": "2026-09-13T13:00:00.000Z",
-   "zeit": "13:00",
-   "heim": "SV Budberg III",
-   "gast": "MSV Moers",
-   "tore": {
-    "heim": 2,
-    "gast": 6
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 1,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 9,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 22,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 27,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 44,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 45,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 56,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 63,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 64,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 64,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 66,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 66,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 66,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 74,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 74,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 75,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 77,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 79,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 87,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 137,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sc-rheinkamp-tv-kapellen-ii/-/spiel/031I6OV0EO000000VS5489BTVSRD0UH9",
-   "verein": "SC Rheinkamp",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "KL C Gruppe 2",
-   "wettbewerb": "Kreisliga C",
-   "anpfiff": "2026-09-13T13:00:00.000Z",
-   "zeit": "13:00",
-   "heim": "SC Rheinkamp",
-   "gast": "TV Kapellen II",
-   "tore": {
-    "heim": 5,
-    "gast": 1
-   },
-   "ergebnisGemeldet": true,
    "ereignisse": [
     {
      "minute": 24,
      "nachspielzeit": 0,
-     "art": "goal",
+     "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Ali Tawuru Caraga",
      "fuer": null,
-     "stand": null,
-     "seite": "heim"
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "osc-rheinhausen-m2-2026-27",
+     "clubSlug": "osc-rheinhausen"
     },
     {
-     "minute": 29,
+     "minute": 42,
      "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 29,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 35,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 49,
-     "nachspielzeit": 0,
-     "art": "goal",
+     "art": "penalty_foul",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Alexander Hamacher",
      "fuer": null,
-     "stand": null,
-     "seite": "gast"
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "osc-rheinhausen-m2-2026-27",
+     "clubSlug": "osc-rheinhausen"
     },
     {
-     "minute": 52,
+     "minute": 55,
      "nachspielzeit": 0,
-     "art": "goal",
+     "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Sinan Atabay",
      "fuer": null,
-     "stand": null,
-     "seite": "heim"
+     "stand": {
+      "heim": 2,
+      "gast": 3
+     },
+     "teamSlug": "osc-rheinhausen-m2-2026-27",
+     "clubSlug": "osc-rheinhausen"
     },
     {
-     "minute": 53,
+     "minute": 56,
      "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 60,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 63,
-     "nachspielzeit": 0,
-     "art": "goal",
+     "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Sinan Atabay",
      "fuer": null,
-     "stand": null,
-     "seite": "heim"
+     "stand": {
+      "heim": 2,
+      "gast": 4
+     },
+     "teamSlug": "osc-rheinhausen-m2-2026-27",
+     "clubSlug": "osc-rheinhausen"
     },
     {
-     "minute": 65,
+     "minute": 88,
      "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 72,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 75,
-     "nachspielzeit": 0,
-     "art": "goal",
+     "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Sinan Atabay",
      "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 80,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
+     "stand": {
+      "heim": 2,
+      "gast": 5
+     },
+     "teamSlug": "osc-rheinhausen-m2-2026-27",
+     "clubSlug": "osc-rheinhausen"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 40,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": null,
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 137,
+   "seitAnpfiffMin": 315,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3013,7 +2343,7 @@
    "heim": "Spvgg Sterkrade-Nord",
    "gast": "VfL Repelen",
    "tore": {
-    "heim": 14,
+    "heim": 15,
     "gast": 1
    },
    "ereignisse": [
@@ -3241,16 +2571,31 @@
      },
      "teamSlug": "vfl-repelen-m1-2026-27",
      "clubSlug": "vfl-repelen"
+    },
+    {
+     "minute": 85,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Julian Marquardt",
+     "fuer": null,
+     "stand": {
+      "heim": 15,
+      "gast": 1
+     },
+     "teamSlug": "spvgg-sterkrade-nord-m1-2026-27",
+     "clubSlug": "spvgg-sterkrade-nord"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 50,
    "schiedsrichter": "Nikita Kaul",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 107,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 285,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -3267,8 +2612,8 @@
    "heim": "Dostlukspor Bottrop",
    "gast": "GSV Moers",
    "tore": {
-    "heim": 4,
-    "gast": 3
+    "heim": 5,
+    "gast": 4
    },
    "ereignisse": [
     {
@@ -3277,7 +2622,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Enes Isiktas",
      "fuer": null,
      "stand": {
       "heim": 1,
@@ -3292,7 +2637,7 @@
      "art": "penalty_foul",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Dogukan Turan",
      "fuer": null,
      "stand": {
       "heim": 2,
@@ -3322,7 +2667,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Dogukan Turan",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -3337,7 +2682,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Yunus Emre Turgut",
      "fuer": null,
      "stand": {
       "heim": 4,
@@ -3375,16 +2720,76 @@
      },
      "teamSlug": "gsv-moers-m1-2026-27",
      "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 1,
+     "art": "card_yellow_red",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "spieler": "Emir Karabegovic",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 3
+     },
+     "teamSlug": "gsv-moers-m1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 4,
+     "art": "card_yellow_red",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "spieler": "Fatih Kandur",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 3
+     },
+     "teamSlug": "dostlukspor-bottrop-m1-2026-27",
+     "clubSlug": "dostlukspor-bottrop"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 8,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nico Tschuschke",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 4
+     },
+     "teamSlug": "gsv-moers-m1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 12,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dogukan Turan",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 4
+     },
+     "teamSlug": "dostlukspor-bottrop-m1-2026-27",
+     "clubSlug": "dostlukspor-bottrop"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 37,
    "schiedsrichter": "Isman Mourad",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 107,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 285,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -3466,7 +2871,7 @@
      "clubSlug": "fc-neukirchen-vluyn-0921"
     },
     {
-     "minute": 59,
+     "minute": 60,
      "nachspielzeit": 0,
      "art": "card_red",
      "name": "Rote Karte",
@@ -3481,14 +2886,14 @@
      "clubSlug": "sv-schwafheim"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 70,
    "schiedsrichter": "Marlon Theissen",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 107,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 285,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -3504,16 +2909,19 @@
    "zeit": "13:30",
    "heim": "SC Krefeld 05",
    "gast": "SV Budberg",
-   "tore": null,
+   "tore": {
+    "heim": 3,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 107,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 285,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -3529,16 +2937,19 @@
    "zeit": "14:00",
    "heim": "FC Neukirchen-Vluyn 09/21 IV",
    "gast": "FC Rot-Weiß Moers II",
-   "tore": null,
+   "tore": {
+    "heim": 5,
+    "gast": 0
+   },
    "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "zuschauer": 30,
+   "schiedsrichter": "Birol Demirhan",
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 77,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 255,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -3555,44 +2966,168 @@
    "heim": "VfL Rheinhausen II",
    "gast": "FC Neukirchen-Vluyn 09/21 III",
    "tore": {
-    "heim": 0,
-    "gast": 0
+    "heim": 3,
+    "gast": 3
    },
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 14,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "vfl-rheinhausen-m2-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 15,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Leon Neumann",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m3-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 20,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m3-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 35,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Shannel Kiprono Kiplagat",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 3
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m3-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 68,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 3
+     },
+     "teamSlug": "vfl-rheinhausen-m2-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 77,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 3
+     },
+     "teamSlug": "vfl-rheinhausen-m2-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 17,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 195,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
-   "quelle": "fussball.de",
+   "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-budberg-muelheimer-fc-97/-/spiel/031EKQ0VSK000000VS5489BTVUS470OH",
+   "url": "https://www.fupa.net/match/sv-budberg-m4-sv-vynen-marienbaum-m1-260913",
    "verein": "SV Budberg 1946",
    "heimatverein": null,
    "ort": "Rheinberg",
    "zone": "umland",
    "liga": "Landesliga Gruppe 1",
-   "wettbewerb": "Landesliga",
-   "anpfiff": "2026-09-13T15:00:00.000Z",
+   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
+   "anpfiff": "2026-09-13T17:00:00+02:00",
    "zeit": "15:00",
-   "heim": "SV Budberg",
-   "gast": "Mülheimer FC 97",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
+   "heim": "SV Budberg IV",
+   "gast": "SV Vynen-Marienbaum",
+   "tore": {
+    "heim": 1,
+    "gast": 1
+   },
+   "ereignisse": [
+    {
+     "minute": 60,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nisfad Grgic",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-budberg-m4-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ben Noah Schroeder",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sv-vynen-marienbaum-m1-2026-27",
+     "clubSlug": "sv-vynen-marienbaum"
+    }
+   ],
+   "zuschauer": 50,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": null,
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 17,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 195,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -3615,1741 +3150,8 @@
    "hatTicker": false,
    "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 17,
+   "seitAnpfiffMin": 195,
    "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/1-fc-lintfort-vfb-homberg/-/spiel/031EKQ0VKK000000VS5489BTVUS470OH",
-   "verein": "1. FC Lintfort",
-   "heimatverein": null,
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "liga": "Landesliga Gruppe 1",
-   "wettbewerb": "Landesliga",
-   "anpfiff": "2026-09-13T15:00:00.000Z",
-   "zeit": "15:00",
-   "heim": "1. FC Lintfort",
-   "gast": "VFB Homberg",
-   "tore": {
-    "heim": 2,
-    "gast": 4
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 9,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 20,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 24,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 55,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 57,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 59,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 59,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 61,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 63,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 68,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 69,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 69,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 70,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 71,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 72,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 82,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 82,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 83,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 87,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 17,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-viktoria-birten-fc-moers-meerfeld/-/spiel/031HBDT65K000000VS5489BTVVG7L386",
-   "verein": "FC Moers-Meerfeld 1980",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga B",
-   "anpfiff": "2026-09-13T15:00:00.000Z",
-   "zeit": "15:00",
-   "heim": "SV Viktoria Birten",
-   "gast": "FC Moers-Meerfeld",
-   "tore": {
-    "heim": 3,
-    "gast": 3
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 9,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 12,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 22,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 38,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 52,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 56,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 60,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 62,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 67,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 68,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 69,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 70,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 72,
-     "nachspielzeit": 0,
-     "art": "red-card",
-     "name": "Rote Karte",
-     "zeichen": "🟥",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 73,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 17,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sus-rayen-osc-04-rheinhausen-ii/-/spiel/031I6OV0BC000000VS5489BTVSRD0UH9",
-   "verein": "SUS Rayen 1945",
-   "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "KL C Gruppe 2",
-   "wettbewerb": "Kreisliga C",
-   "anpfiff": "2026-09-13T15:00:00.000Z",
-   "zeit": "15:00",
-   "heim": "SuS Rayen",
-   "gast": "OSC 04 Rheinhausen II",
-   "tore": {
-    "heim": 2,
-    "gast": 5
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 14,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 21,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 24,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 27,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 39,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 41,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 42,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 55,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 56,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 61,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 64,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 79,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 88,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 17,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/tus-borth-sv-alemannia-kamp/-/spiel/031HBDT61O000000VS5489BTVVG7L386",
-   "verein": "SV Alemannia Kamp",
-   "heimatverein": null,
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga B",
-   "anpfiff": "2026-09-13T15:00:00.000Z",
-   "zeit": "15:00",
-   "heim": "TuS Borth",
-   "gast": "SV Alemannia Kamp",
-   "tore": {
-    "heim": 8,
-    "gast": 0
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 9,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 20,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 24,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 25,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 35,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 37,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 53,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 56,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 57,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 61,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 64,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 64,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 65,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 67,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 74,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 77,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 79,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 17,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-djk-rhede/-/spiel/031EO9MRU8000000VS5489BTVUS470OH",
-   "verein": "SV Borussia Veen 1920",
-   "heimatverein": null,
-   "ort": "Alpen",
-   "zone": "umland",
-   "liga": "Bezirksliga Gruppe 4",
-   "wettbewerb": "Bezirksliga",
-   "anpfiff": "2026-09-13T15:00:00.000Z",
-   "zeit": "15:00",
-   "heim": "SV Borussia Veen 1920",
-   "gast": "DJK Rhede",
-   "tore": {
-    "heim": 3,
-    "gast": 2
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 3,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 20,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 25,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 28,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 30,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 34,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 34,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 47,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 60,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 63,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 63,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 73,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 73,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 73,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 74,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 83,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "yellow-red-card",
-     "name": "Gelb-Rote Karte",
-     "zeichen": "🟨🟥",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 17,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-straelen-sv-19-sevelen/-/spiel/031JH224GS000000VS5489BUVVKNMR0J",
-   "verein": "SV Sevelen 1919",
-   "heimatverein": null,
-   "ort": "Issum",
-   "zone": "umland",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A",
-   "anpfiff": "2026-09-13T15:00:00.000Z",
-   "zeit": "15:00",
-   "heim": "SV Straelen",
-   "gast": "SV 19 Sevelen",
-   "tore": {
-    "heim": 4,
-    "gast": 1
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 47,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 59,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 61,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 66,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 66,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 66,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 66,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 70,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 75,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 75,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 78,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 81,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 82,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 82,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 89,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 17,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/tus-xanten-hamminkelner-sv/-/spiel/031EO9MRN4000000VS5489BTVUS470OH",
-   "verein": "TUS Xanten 05/22",
-   "heimatverein": null,
-   "ort": "Xanten",
-   "zone": "umland",
-   "liga": "Bezirksliga Gruppe 4",
-   "wettbewerb": "Bezirksliga",
-   "anpfiff": "2026-09-13T15:00:00.000Z",
-   "zeit": "15:00",
-   "heim": "TUS Xanten",
-   "gast": "Hamminkelner SV",
-   "tore": {
-    "heim": 1,
-    "gast": 2
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 8,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 9,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 25,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 38,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 41,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 58,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 65,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 69,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 70,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 80,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 81,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 83,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 84,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 85,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 88,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 17,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/dostlukspor-bottrop-gsv-moers/-/spiel/031ENENHMC000000VS5489BUVUR5FS5A",
-   "verein": "Grafschafter SV 1910 Moers",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Bezirksliga",
-   "anpfiff": "2026-09-13T15:30:00.000Z",
-   "zeit": "15:30",
-   "heim": "Dostlukspor Bottrop",
-   "gast": "GSV Moers",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -13,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-rumelner-tv/-/spiel/031H9RCD7K000000VS5489BUVSJ4CRAP",
-   "verein": "SSV Rheintreu Lüttingen",
-   "heimatverein": null,
-   "ort": "Xanten",
-   "zone": "umland",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A",
-   "anpfiff": "2026-09-13T15:30:00.000Z",
-   "zeit": "15:30",
-   "heim": "SSV Rheintreu Lüttingen",
-   "gast": "Rumelner TV",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -13,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-ii-sv-schwafheim/-/spiel/031H9RCDI8000000VS5489BUVSJ4CRAP",
-   "verein": "SV Schwafheim 1932",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A",
-   "anpfiff": "2026-09-13T15:30:00.000Z",
-   "zeit": "15:30",
-   "heim": "FC Neukirchen-Vluyn II",
-   "gast": "SV Schwafheim",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -13,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/spvgg-sterkrade-nord-vfl-repelen/-/spiel/031ENENHTG000000VS5489BUVUR5FS5A",
-   "verein": "VFL Repelen 08",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Bezirksliga",
-   "anpfiff": "2026-09-13T15:30:00.000Z",
-   "zeit": "15:30",
-   "heim": "Spvgg. Sterkrade-Nord",
-   "gast": "VfL Repelen",
-   "tore": null,
-   "ergebnisGemeldet": false,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -13,
-   "laeuft": false,
    "abgeschlossen": false
   },
   {
@@ -5374,8 +3176,8 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "Nichtantritt GAST",
-   "seitAnpfiffMin": -103,
-   "laeuft": false,
+   "seitAnpfiffMin": 75,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -5392,16 +3194,152 @@
    "zeit": "17:00",
    "heim": "SV Budberg IV",
    "gast": "SV Vynen-Marienbaum",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 1
+   },
    "ergebnisGemeldet": true,
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 18,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 35,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 40,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 46,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 48,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 60,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 75,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 75,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 85,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -103,
-   "laeuft": false,
+   "seitAnpfiffMin": 75,
+   "laeuft": true,
    "abgeschlossen": false
   }
  ]
