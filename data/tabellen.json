@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-13T16:39:06.599Z",
+ "aktualisiert": "2026-09-13T21:09:10.919Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -416,6 +416,18 @@
     },
     {
      "platz": 4,
+     "verein": "VfL Rheinhausen II",
+     "teamId": "02Q1FNPOVS000000VS5489B2VT450JFN",
+     "spiele": 4,
+     "siege": 2,
+     "unentschieden": 2,
+     "niederlagen": 0,
+     "tore": "7:5",
+     "differenz": 2,
+     "punkte": 8
+    },
+    {
+     "platz": 5,
      "verein": "Rumelner TV II",
      "teamId": "011MIF5OBC000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -427,7 +439,7 @@
      "punkte": 7
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "SV Viktoria Birten",
      "teamId": "011MIE0POK000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -439,7 +451,7 @@
      "punkte": 7
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "SV Alemannia Kamp",
      "teamId": "011MIA986S000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -451,7 +463,7 @@
      "punkte": 7
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "FC Moers-Meerfeld",
      "teamId": "011MIEUGA0000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -463,7 +475,7 @@
      "punkte": 7
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "TV Kapellen",
      "teamId": "01HIS24VFS000000VV0AG80NVT6JKAPB",
      "spiele": 4,
@@ -472,18 +484,6 @@
      "niederlagen": 1,
      "tore": "12:8",
      "differenz": 4,
-     "punkte": 7
-    },
-    {
-     "platz": 9,
-     "verein": "VfL Rheinhausen II",
-     "teamId": "02Q1FNPOVS000000VS5489B2VT450JFN",
-     "spiele": 3,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "4:2",
-     "differenz": 2,
      "punkte": 7
     },
     {
@@ -550,13 +550,13 @@
      "platz": 15,
      "verein": "FC Neukirchen-Vluyn III",
      "teamId": "02BAB133P8000000VS5489B1VU20GQ5T",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 0,
-     "unentschieden": 1,
+     "unentschieden": 2,
      "niederlagen": 2,
-     "tore": "5:7",
+     "tore": "8:10",
      "differenz": -2,
-     "punkte": 1
+     "punkte": 2
     },
     {
      "platz": 16,
@@ -2144,6 +2144,18 @@
     },
     {
      "platz": 6,
+     "verein": "SV Vynen-Marienbaum",
+     "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
+     "spiele": 3,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "13:2",
+     "differenz": 11,
+     "punkte": 7
+    },
+    {
+     "platz": 7,
      "verein": "SV Rheinkraft Ginderich",
      "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -2153,18 +2165,6 @@
      "tore": "15:6",
      "differenz": 9,
      "punkte": 7
-    },
-    {
-     "platz": 7,
-     "verein": "SV Vynen-Marienbaum",
-     "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
-     "spiele": 2,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "12:1",
-     "differenz": 11,
-     "punkte": 6
     },
     {
      "platz": 8,
@@ -2192,6 +2192,18 @@
     },
     {
      "platz": 10,
+     "verein": "SV Budberg IV",
+     "teamId": "01OTG3R40K000000VV0AG811VSQ2DN07",
+     "spiele": 3,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "tore": "10:4",
+     "differenz": 6,
+     "punkte": 4
+    },
+    {
+     "platz": 11,
      "verein": "SC Rheinkamp II",
      "teamId": "01SIQFBN18000000VS548984VVMI9KVG",
      "spiele": 4,
@@ -2203,7 +2215,7 @@
      "punkte": 4
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "Büdericher SV II",
      "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
      "spiele": 3,
@@ -2215,7 +2227,7 @@
      "punkte": 4
     },
     {
-     "platz": 12,
+     "platz": 13,
      "verein": "SV Menzelen II",
      "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
      "spiele": 4,
@@ -2225,18 +2237,6 @@
      "tore": "3:10",
      "differenz": -7,
      "punkte": 4
-    },
-    {
-     "platz": 13,
-     "verein": "SV Budberg IV",
-     "teamId": "01OTG3R40K000000VV0AG811VSQ2DN07",
-     "spiele": 2,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "9:3",
-     "differenz": 6,
-     "punkte": 3
     },
     {
      "platz": 14,
@@ -2658,7 +2658,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/fc-moers-meerfeld-fc-moers-meerfeld-1980-niederrhein/-/saison/2627/team-id/011MIEUGA0000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 7,
+   "platz": 8,
    "punkte": 7,
    "torverhaeltnis": "13:5",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
@@ -3748,7 +3748,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-alemannia-kamp-sv-alemannia-kamp-niederrhein/-/saison/2627/team-id/011MIA986S000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 6,
+   "platz": 7,
    "punkte": 7,
    "torverhaeltnis": "22:11",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
@@ -4299,15 +4299,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Sonntag, 13.09.2026 - 17:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "DJK Vierlinden",
-     "gast": "SV Millingen",
-     "url": "https://www.fussball.de/spiel/djk-vierlinden-sv-millingen/-/spiel/03200UBFMO000000VS5489BTVT7QHFUC",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Nichtantritt GAST"
-    },
-    {
      "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Millingen",
@@ -4342,9 +4333,27 @@
      "url": "https://www.fussball.de/spiel/vfl-rheinhausen-sv-millingen/-/spiel/031QJDA47C000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 04.10.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Schwafheim",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-sv-millingen/-/spiel/031H9RCBRC000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Sonntag, 13.09.2026 - 17:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "DJK Vierlinden",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/djk-vierlinden-sv-millingen/-/spiel/03200UBFMO000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Nichtantritt GAST"
+    },
     {
      "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4378,15 +4387,6 @@
      "heim": "FC Neukirchen-Vluyn II",
      "gast": "SV Millingen",
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-ii-sv-millingen/-/spiel/031H9RCEH4000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Alemannia Kamp",
-     "gast": "SV Millingen",
-     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-sv-millingen/-/spiel/031HUV3NSK000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4838,20 +4838,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-vynen-marienbaum-sv-vynen-marienbaum-1997-niederrhein/-/saison/2627/team-id/011MIANO4S000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 7,
-   "punkte": 6,
-   "torverhaeltnis": "12:1",
+   "platz": 6,
+   "punkte": 7,
+   "torverhaeltnis": "13:2",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Sonntag, 13.09.2026 - 17:00 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SV Budberg IV",
-     "gast": "SV Vynen-Marienbaum",
-     "url": "https://www.fussball.de/spiel/sv-budberg-iv-sv-vynen-marienbaum/-/spiel/031I6NEHP4000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Donnerstag, 17.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -4887,9 +4878,27 @@
      "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-alemannia-kamp/-/spiel/031QJDA4C4000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 04.10.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "SC Rheinkamp II",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sc-rheinkamp-ii/-/spiel/031I6NEGFC000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Sonntag, 13.09.2026 - 17:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Budberg IV",
+     "gast": "SV Vynen-Marienbaum",
+     "url": "https://www.fussball.de/spiel/sv-budberg-iv-sv-vynen-marienbaum/-/spiel/031I6NEHP4000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -4923,15 +4932,6 @@
      "heim": "SV Bislich II",
      "gast": "SV Vynen-Marienbaum",
      "url": "https://www.fussball.de/spiel/sv-bislich-ii-sv-vynen-marienbaum/-/spiel/031BSPPOBC000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 09.08.2026 - 14:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Fortuna Keppeln",
-     "gast": "SV Vynen-Marienbaum",
-     "url": "https://www.fussball.de/spiel/sv-fortuna-keppeln-sv-vynen-marienbaum/-/spiel/031L544TR0000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -5274,7 +5274,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/tv-kapellen-tv-kapellen-niederrhein/-/saison/2627/team-id/01HIS24VFS000000VV0AG80NVT6JKAPB",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 8,
+   "platz": 9,
    "punkte": 7,
    "torverhaeltnis": "12:8",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
