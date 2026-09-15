@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-14T19:57:58.832Z",
+ "aktualisiert": "2026-09-15T00:00:44.564Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1058,6 +1058,18 @@
     },
     {
      "platz": 4,
+     "verein": "MSV Moers II",
+     "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
+     "spiele": 4,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "15:4",
+     "differenz": 11,
+     "punkte": 9
+    },
+    {
+     "platz": 5,
      "verein": "MSV Moers IV",
      "teamId": "02PPT3VAVK000000VS5489B2VUGLP840",
      "spiele": 4,
@@ -1069,7 +1081,7 @@
      "punkte": 8
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "FC Neukirchen-Vluyn IV",
      "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
      "spiele": 4,
@@ -1081,7 +1093,7 @@
      "punkte": 7
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "OSC 04 Rheinhausen II",
      "teamId": "01L7FAASLK000000VV0AG80NVT9OCUEA",
      "spiele": 3,
@@ -1093,7 +1105,7 @@
      "punkte": 7
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "VFB Homberg III",
      "teamId": "01HDETCRBK000000VV0AG811VUIMUTIM",
      "spiele": 4,
@@ -1103,18 +1115,6 @@
      "tore": "12:8",
      "differenz": 4,
      "punkte": 7
-    },
-    {
-     "platz": 8,
-     "verein": "MSV Moers II",
-     "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
-     "spiele": 3,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "11:3",
-     "differenz": 8,
-     "punkte": 6
     },
     {
      "platz": 9,
@@ -1144,12 +1144,12 @@
      "platz": 11,
      "verein": "SpVgg. Rheurdt-Schaephuysen III",
      "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "12:6",
-     "differenz": 6,
+     "niederlagen": 2,
+     "tore": "13:10",
+     "differenz": 3,
      "punkte": 4
     },
     {
@@ -2561,7 +2561,7 @@
      "gast": "FC Mattheck Moers",
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers/-/spiel/031P3BLD3G000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Samstag, 26.09.2026 - 13:00 Uhr",
@@ -2636,15 +2636,6 @@
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers-gsv-duisburg/-/spiel/0308ROT0GG000000VS5489BUVV4MIU4T",
      "ergebnisVerschleiert": false,
      "hinweis": "v"
-    },
-    {
-     "datum": "Samstag, 14.03.2026 - 19:00 Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "FC Mattheck Moers",
-     "gast": "Wuppertaler SV",
-     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-wuppertaler-sv/-/spiel/02VLRCKH3O000000VS5489BUVUJA8J1O",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
