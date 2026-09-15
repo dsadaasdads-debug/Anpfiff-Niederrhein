@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-15T17:18:16.285Z",
+ "aktualisiert": "2026-09-15T21:47:16.307Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -884,6 +884,18 @@
     },
     {
      "platz": 6,
+     "verein": "SV Menzelen",
+     "teamId": "011MIEMJS8000000VTVG0001VTR8C1K7",
+     "spiele": 4,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "tore": "14:9",
+     "differenz": 5,
+     "punkte": 6
+    },
+    {
+     "platz": 7,
      "verein": "Rumelner TV",
      "teamId": "011MIBJ5B4000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -895,7 +907,7 @@
      "punkte": 6
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "ESV Hohenbudberg",
      "teamId": "011MI9O5QC000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -907,7 +919,7 @@
      "punkte": 5
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "SV Schwafheim",
      "teamId": "011MIF5N78000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -919,7 +931,7 @@
      "punkte": 4
     },
     {
-     "platz": 9,
+     "platz": 10,
      "verein": "SV Budberg III",
      "teamId": "011MIBSVNC000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -931,7 +943,7 @@
      "punkte": 4
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "VfL Rheinhausen",
      "teamId": "011MI9UHFS000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -939,18 +951,6 @@
      "unentschieden": 3,
      "niederlagen": 1,
      "tore": "9:10",
-     "differenz": -1,
-     "punkte": 3
-    },
-    {
-     "platz": 11,
-     "verein": "SV Menzelen",
-     "teamId": "011MIEMJS8000000VTVG0001VTR8C1K7",
-     "spiele": 3,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 2,
-     "tore": "7:8",
      "differenz": -1,
      "punkte": 3
     },
@@ -968,18 +968,6 @@
     },
     {
      "platz": 13,
-     "verein": "FC Viktoria Alpen",
-     "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
-     "spiele": 3,
-     "siege": 0,
-     "unentschieden": 2,
-     "niederlagen": 1,
-     "tore": "4:10",
-     "differenz": -6,
-     "punkte": 2
-    },
-    {
-     "platz": 13,
      "verein": "SV Sonsbeck II",
      "teamId": "011MIBANR4000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -988,6 +976,18 @@
      "niederlagen": 2,
      "tore": "4:10",
      "differenz": -6,
+     "punkte": 2
+    },
+    {
+     "platz": 14,
+     "verein": "FC Viktoria Alpen",
+     "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
+     "spiele": 4,
+     "siege": 0,
+     "unentschieden": 2,
+     "niederlagen": 2,
+     "tore": "5:17",
+     "differenz": -12,
      "punkte": 2
     },
     {
@@ -1258,13 +1258,13 @@
      "platz": 2,
      "verein": "Fortuna Düsseldorf U23",
      "teamId": "011MI96NBO000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 4,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 1,
-     "tore": "11:3",
+     "tore": "12:4",
      "differenz": 8,
-     "punkte": 12
+     "punkte": 13
     },
     {
      "platz": 3,
@@ -1436,6 +1436,18 @@
     },
     {
      "platz": 17,
+     "verein": "Wuppertaler SV",
+     "teamId": "011MIB4F8S000000VTVG0001VTR8C1K7",
+     "spiele": 6,
+     "siege": 0,
+     "unentschieden": 1,
+     "niederlagen": 5,
+     "tore": "3:10",
+     "differenz": -7,
+     "punkte": 1
+    },
+    {
+     "platz": 18,
      "verein": "Holzheimer SG",
      "teamId": "011MIDAP84000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -1445,18 +1457,6 @@
      "tore": "7:19",
      "differenz": -12,
      "punkte": 1
-    },
-    {
-     "platz": 18,
-     "verein": "Wuppertaler SV",
-     "teamId": "011MIB4F8S000000VTVG0001VTR8C1K7",
-     "spiele": 5,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 5,
-     "tore": "2:9",
-     "differenz": -7,
-     "punkte": 0
     }
    ]
   },
@@ -2098,13 +2098,13 @@
      "platz": 2,
      "verein": "TuS Borth II",
      "teamId": "011MIB16NS000000VTVG0001VTR8C1K7",
-     "spiele": 3,
-     "siege": 3,
+     "spiele": 4,
+     "siege": 4,
      "unentschieden": 0,
      "niederlagen": 0,
-     "tore": "18:2",
-     "differenz": 16,
-     "punkte": 9
+     "tore": "30:2",
+     "differenz": 28,
+     "punkte": 12
     },
     {
      "platz": 3,
@@ -2216,18 +2216,6 @@
     },
     {
      "platz": 12,
-     "verein": "Büdericher SV II",
-     "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
-     "spiele": 3,
-     "siege": 1,
-     "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "6:6",
-     "differenz": 0,
-     "punkte": 4
-    },
-    {
-     "platz": 13,
      "verein": "SV Menzelen II",
      "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
      "spiele": 4,
@@ -2236,6 +2224,18 @@
      "niederlagen": 2,
      "tore": "3:10",
      "differenz": -7,
+     "punkte": 4
+    },
+    {
+     "platz": 13,
+     "verein": "Büdericher SV II",
+     "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
+     "spiele": 4,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "6:18",
+     "differenz": -12,
      "punkte": 4
     },
     {
@@ -2976,20 +2976,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/fc-viktoria-alpen-fc-viktoria-alpen-1911-niederrhein/-/saison/2627/team-id/011MIAIU2S000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 13,
+   "platz": 14,
    "punkte": 2,
-   "torverhaeltnis": "4:10",
+   "torverhaeltnis": "5:17",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Dienstag, 15.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "FC Viktoria Alpen",
-     "gast": "SV Menzelen",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-menzelen/-/spiel/031H9RCD24000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 20.09.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3025,9 +3016,27 @@
      "url": "https://www.fussball.de/spiel/sv-sonsbeck-ii-fc-viktoria-alpen/-/spiel/031H9RCC18000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Samstag, 10.10.2026 - 16:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "FC Viktoria Alpen",
+     "gast": "SV Budberg III",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-budberg-iii/-/spiel/031H9RCBEG000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 15.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "FC Viktoria Alpen",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-menzelen/-/spiel/031H9RCD24000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3061,15 +3070,6 @@
      "heim": "FC Viktoria Alpen",
      "gast": "TV Kapellen",
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-tv-kapellen/-/spiel/0316NR024C000000VS5489BTVU7GTVLE",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "FC Viktoria Alpen",
-     "gast": "Viktoria Buchholz II",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-viktoria-buchholz-ii/-/spiel/031I7NCPVG000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3418,7 +3418,7 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
+     "datum": "Mittwoch, 16.09.2026 - 19:45 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SpVgg. Rheurdt-Schaephuysen",
      "gast": "TV Asberg I",
@@ -4175,20 +4175,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-menzelen-sv-menzelen-1925-niederrhein/-/saison/2627/team-id/011MIEMJS8000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 11,
-   "punkte": 3,
-   "torverhaeltnis": "7:8",
+   "platz": 6,
+   "punkte": 6,
+   "torverhaeltnis": "14:9",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Dienstag, 15.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "FC Viktoria Alpen",
-     "gast": "SV Menzelen",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-menzelen/-/spiel/031H9RCD24000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4224,9 +4215,27 @@
      "url": "https://www.fussball.de/spiel/sv-millingen-sv-menzelen/-/spiel/031H9RCBIG000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 18.10.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Menzelen",
+     "gast": "ESV Hohenbudberg",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-esv-hohenbudberg/-/spiel/031H9RCB3K000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 15.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "FC Viktoria Alpen",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-menzelen/-/spiel/031H9RCD24000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Donnerstag, 10.09.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4260,15 +4269,6 @@
      "heim": "SV Menzelen",
      "gast": "VFB Homberg",
      "url": "https://www.fussball.de/spiel/sv-menzelen-vfb-homberg/-/spiel/031QJDA418000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 23.08.2026 - 12:15 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Menzelen II",
-     "gast": "SV Menzelen",
-     "url": "https://www.fussball.de/spiel/sv-menzelen-ii-sv-menzelen/-/spiel/031S6IKH04000000VS5489BTVTPHHFPR",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4399,7 +4399,7 @@
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Sonntag, 20.09.2026 - 15:00 Uhr",
+     "datum": "Sonntag, 20.09.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisliga C",
      "heim": "SV Viktoria Birten II",
      "gast": "SV Orsoy",
@@ -4611,7 +4611,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-schwafheim-sv-schwafheim-1932-niederrhein/-/saison/2627/team-id/011MIF5N78000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 8,
+   "platz": 9,
    "punkte": 4,
    "torverhaeltnis": "9:8",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
@@ -5162,7 +5162,7 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
+     "datum": "Mittwoch, 16.09.2026 - 19:45 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SpVgg. Rheurdt-Schaephuysen",
      "gast": "TV Asberg I",
