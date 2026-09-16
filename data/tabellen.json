@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-16T17:18:41.157Z",
+ "aktualisiert": "2026-09-16T21:45:06.009Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -476,6 +476,18 @@
     },
     {
      "platz": 9,
+     "verein": "TV Kaldenhausen",
+     "teamId": "02TCVR52IG000000VS5489BRVU522QNF",
+     "spiele": 4,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "tore": "9:4",
+     "differenz": 5,
+     "punkte": 7
+    },
+    {
+     "platz": 10,
      "verein": "TV Kapellen",
      "teamId": "01HIS24VFS000000VV0AG80NVT6JKAPB",
      "spiele": 4,
@@ -487,28 +499,16 @@
      "punkte": 7
     },
     {
-     "platz": 10,
-     "verein": "TV Kaldenhausen",
-     "teamId": "02TCVR52IG000000VS5489BRVU522QNF",
-     "spiele": 3,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "8:3",
-     "differenz": 5,
-     "punkte": 6
-    },
-    {
      "platz": 11,
      "verein": "SV Schwafheim II",
      "teamId": "01A27RRKS0000000VV0AG811VSDJU768",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 2,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 1,
-     "tore": "10:8",
+     "tore": "11:9",
      "differenz": 2,
-     "punkte": 6
+     "punkte": 7
     },
     {
      "platz": 12,
@@ -848,6 +848,18 @@
     },
     {
      "platz": 3,
+     "verein": "SpVgg. Rheurdt-Schaephuysen",
+     "teamId": "011MIEFG1O000000VTVG0001VTR8C1K7",
+     "spiele": 4,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "12:3",
+     "differenz": 9,
+     "punkte": 10
+    },
+    {
+     "platz": 4,
      "verein": "MSV Moers",
      "teamId": "011MIA3JMS000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -859,27 +871,15 @@
      "punkte": 9
     },
     {
-     "platz": 4,
-     "verein": "SpVgg. Rheurdt-Schaephuysen",
-     "teamId": "011MIEFG1O000000VTVG0001VTR8C1K7",
-     "spiele": 3,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "8:2",
-     "differenz": 6,
-     "punkte": 7
-    },
-    {
      "platz": 5,
      "verein": "Büdericher SV",
      "teamId": "011MIASFU0000000VTVG0001VTR8C1K7",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 2,
      "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "6:2",
-     "differenz": 4,
+     "niederlagen": 1,
+     "tore": "7:5",
+     "differenz": 2,
      "punkte": 7
     },
     {
@@ -956,6 +956,18 @@
     },
     {
      "platz": 12,
+     "verein": "SV Millingen",
+     "teamId": "011MIB2M18000000VTVG0001VTR8C1K7",
+     "spiele": 4,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "tore": "7:11",
+     "differenz": -4,
+     "punkte": 3
+    },
+    {
+     "platz": 13,
      "verein": "GSV Moers II",
      "teamId": "011MIE7Q0C000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -967,7 +979,7 @@
      "punkte": 3
     },
     {
-     "platz": 13,
+     "platz": 14,
      "verein": "SV Sonsbeck II",
      "teamId": "011MIBANR4000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -979,7 +991,7 @@
      "punkte": 2
     },
     {
-     "platz": 14,
+     "platz": 15,
      "verein": "FC Viktoria Alpen",
      "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -991,28 +1003,16 @@
      "punkte": 2
     },
     {
-     "platz": 15,
+     "platz": 16,
      "verein": "TV Asberg I",
      "teamId": "011MIC29SO000000VTVG0001VTR8C1K7",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 0,
      "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "3:7",
-     "differenz": -4,
-     "punkte": 1
-    },
-    {
-     "platz": 16,
-     "verein": "SV Millingen",
-     "teamId": "011MIB2M18000000VTVG0001VTR8C1K7",
-     "spiele": 3,
-     "siege": 0,
-     "unentschieden": 0,
      "niederlagen": 3,
-     "tore": "4:10",
-     "differenz": -6,
-     "punkte": 0
+     "tore": "4:11",
+     "differenz": -7,
+     "punkte": 1
     }
    ]
   },
@@ -1024,16 +1024,28 @@
      "platz": 1,
      "verein": "VfL Repelen II",
      "teamId": "011MIAP9SG000000VTVG0001VTR8C1K7",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 3,
      "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "48:6",
-     "differenz": 42,
+     "niederlagen": 1,
+     "tore": "49:8",
+     "differenz": 41,
      "punkte": 10
     },
     {
      "platz": 2,
+     "verein": "OSC 04 Rheinhausen II",
+     "teamId": "01L7FAASLK000000VV0AG80NVT9OCUEA",
+     "spiele": 4,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "27:8",
+     "differenz": 19,
+     "punkte": 10
+    },
+    {
+     "platz": 3,
      "verein": "FC Rumeln-Kaldenhausen II",
      "teamId": "011MIDCRUK000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -1045,7 +1057,7 @@
      "punkte": 10
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "SV Alemannia Kamp II",
      "teamId": "0317IHGS0C000000VS5489BSVSCPI5U4",
      "spiele": 4,
@@ -1057,7 +1069,7 @@
      "punkte": 10
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "MSV Moers II",
      "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
      "spiele": 4,
@@ -1069,7 +1081,7 @@
      "punkte": 9
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "MSV Moers IV",
      "teamId": "02PPT3VAVK000000VS5489B2VUGLP840",
      "spiele": 4,
@@ -1081,7 +1093,7 @@
      "punkte": 8
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "FC Neukirchen-Vluyn IV",
      "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
      "spiele": 4,
@@ -1090,18 +1102,6 @@
      "niederlagen": 1,
      "tore": "17:3",
      "differenz": 14,
-     "punkte": 7
-    },
-    {
-     "platz": 7,
-     "verein": "OSC 04 Rheinhausen II",
-     "teamId": "01L7FAASLK000000VV0AG80NVT9OCUEA",
-     "spiele": 3,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "15:8",
-     "differenz": 7,
      "punkte": 7
     },
     {
@@ -1118,6 +1118,18 @@
     },
     {
      "platz": 9,
+     "verein": "TuS Borth III",
+     "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
+     "spiele": 5,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "16:18",
+     "differenz": -2,
+     "punkte": 7
+    },
+    {
+     "platz": 10,
      "verein": "FC Moers-Meerfeld II",
      "teamId": "02PPPC0NSO000000VS5489B2VUGLP840",
      "spiele": 4,
@@ -1129,7 +1141,7 @@
      "punkte": 6
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "SC Rheinkamp",
      "teamId": "011MIDP8N4000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -1141,7 +1153,7 @@
      "punkte": 5
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "SpVgg. Rheurdt-Schaephuysen III",
      "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
      "spiele": 4,
@@ -1150,18 +1162,6 @@
      "niederlagen": 2,
      "tore": "13:10",
      "differenz": 3,
-     "punkte": 4
-    },
-    {
-     "platz": 12,
-     "verein": "TuS Borth III",
-     "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
-     "spiele": 4,
-     "siege": 1,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "14:17",
-     "differenz": -3,
      "punkte": 4
     },
     {
@@ -1228,12 +1228,12 @@
      "platz": 18,
      "verein": "SpVgg. Rheurdt-Schaephuysen IV, 9er",
      "teamId": "0320PK26DC000000VS5489BSVUFGIR4E",
-     "spiele": 2,
+     "spiele": 3,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 2,
-     "tore": "1:36",
-     "differenz": -35,
+     "niederlagen": 3,
+     "tore": "1:48",
+     "differenz": -47,
      "punkte": 0
     }
    ]
@@ -1748,6 +1748,18 @@
     },
     {
      "platz": 6,
+     "verein": "SV Union Wetten",
+     "teamId": "011MIE0RGG000000VTVG0001VTR8C1K7",
+     "spiele": 5,
+     "siege": 2,
+     "unentschieden": 2,
+     "niederlagen": 1,
+     "tore": "12:7",
+     "differenz": 5,
+     "punkte": 8
+    },
+    {
+     "platz": 7,
      "verein": "Viktoria Winnekendonk II",
      "teamId": "011MIC4R40000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -1759,28 +1771,16 @@
      "punkte": 8
     },
     {
-     "platz": 7,
-     "verein": "SV Union Wetten",
-     "teamId": "011MIE0RGG000000VTVG0001VTR8C1K7",
-     "spiele": 4,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "10:5",
-     "differenz": 5,
-     "punkte": 7
-    },
-    {
      "platz": 8,
      "verein": "SV BW Herongen II",
      "teamId": "011MIBT35O000000VTVG0001VTR8C1K7",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 2,
-     "unentschieden": 1,
+     "unentschieden": 2,
      "niederlagen": 1,
-     "tore": "15:12",
+     "tore": "17:14",
      "differenz": 3,
-     "punkte": 7
+     "punkte": 8
     },
     {
      "platz": 9,
@@ -1808,6 +1808,18 @@
     },
     {
      "platz": 11,
+     "verein": "Kevelaerer SV II",
+     "teamId": "011MIDHTKG000000VTVG0001VTR8C1K7",
+     "spiele": 5,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "tore": "10:14",
+     "differenz": -4,
+     "punkte": 6
+    },
+    {
+     "platz": 12,
      "verein": "SV 1913 Walbeck II",
      "teamId": "011MI9UEAC000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -1819,7 +1831,7 @@
      "punkte": 5
     },
     {
-     "platz": 12,
+     "platz": 13,
      "verein": "SC Blau-Weiß Auwel-Holt",
      "teamId": "011MIBSV1S000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -1829,18 +1841,6 @@
      "tore": "10:13",
      "differenz": -3,
      "punkte": 5
-    },
-    {
-     "platz": 13,
-     "verein": "Kevelaerer SV II",
-     "teamId": "011MIDHTKG000000VTVG0001VTR8C1K7",
-     "spiele": 4,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "8:14",
-     "differenz": -6,
-     "punkte": 3
     },
     {
      "platz": 14,
@@ -1858,12 +1858,12 @@
      "platz": 15,
      "verein": "SV Grün-Weiß Vernum II",
      "teamId": "012F5BH3M4000000VV0AG811VT1UN0HI",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 4,
-     "tore": "1:16",
-     "differenz": -15,
+     "niederlagen": 5,
+     "tore": "1:18",
+     "differenz": -17,
      "punkte": 0
     },
     {
@@ -2108,6 +2108,18 @@
     },
     {
      "platz": 3,
+     "verein": "SV Rheinkraft Ginderich",
+     "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
+     "spiele": 4,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "20:8",
+     "differenz": 12,
+     "punkte": 10
+    },
+    {
+     "platz": 4,
      "verein": "SV Borussia Veen 1920 II",
      "teamId": "011MIA3L2K000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -2119,7 +2131,7 @@
      "punkte": 9
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "Concordia Rheinberg II",
      "teamId": "02EK6VH7AO000000VS5489B1VV8GJNNG",
      "spiele": 4,
@@ -2131,7 +2143,7 @@
      "punkte": 9
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "SV Orsoy",
      "teamId": "011MIA98AC000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -2143,7 +2155,7 @@
      "punkte": 9
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "SV Vynen-Marienbaum",
      "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
      "spiele": 3,
@@ -2152,18 +2164,6 @@
      "niederlagen": 0,
      "tore": "13:2",
      "differenz": 11,
-     "punkte": 7
-    },
-    {
-     "platz": 7,
-     "verein": "SV Rheinkraft Ginderich",
-     "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
-     "spiele": 3,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "15:6",
-     "differenz": 9,
      "punkte": 7
     },
     {
@@ -2194,12 +2194,12 @@
      "platz": 10,
      "verein": "SV Budberg IV",
      "teamId": "01OTG3R40K000000VV0AG811VSQ2DN07",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "10:4",
-     "differenz": 6,
+     "niederlagen": 2,
+     "tore": "12:9",
+     "differenz": 3,
      "punkte": 4
     },
     {
@@ -2976,7 +2976,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/fc-viktoria-alpen-fc-viktoria-alpen-1911-niederrhein/-/saison/2627/team-id/011MIAIU2S000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 14,
+   "platz": 15,
    "punkte": 2,
    "torverhaeltnis": "5:17",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
@@ -3194,7 +3194,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/msv-moers-meerbecker-sv-moers-13-20-niederrhein/-/saison/2627/team-id/011MIA3JMS000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 3,
+   "platz": 4,
    "punkte": 9,
    "torverhaeltnis": "14:7",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
@@ -3303,7 +3303,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sc-rheinkamp-sc-rheinkamp-niederrhein/-/saison/2627/team-id/011MIDP8N4000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 2",
    "spielklasse": "Kreisliga C",
-   "platz": 10,
+   "platz": 11,
    "punkte": 5,
    "torverhaeltnis": "9:6",
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
@@ -3412,20 +3412,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/spvgg-rheurdt-schaephuysen-spvgg-rheurdt-schaephuysen-niederrhein/-/saison/2627/team-id/011MIEFG1O000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 4,
-   "punkte": 7,
-   "torverhaeltnis": "8:2",
+   "platz": 3,
+   "punkte": 10,
+   "torverhaeltnis": "12:3",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Mittwoch, 16.09.2026 - 19:45 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "TV Asberg I",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tv-asberg-i/-/spiel/031H9RCDA0000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 20.09.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3461,9 +3452,27 @@
      "url": "https://www.fussball.de/spiel/vfl-rheinhausen-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCBU8000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 11.10.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "MSV Moers",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/msv-moers-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCBD4000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 16.09.2026 - 19:45 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tv-asberg-i/-/spiel/031H9RCDA0000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3499,15 +3508,6 @@
      "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tsv-bruckhausen/-/spiel/031PLB9LN8000000VS5489BTVT8K11BC",
      "ergebnisVerschleiert": false,
      "hinweis": "Absetzung"
-    },
-    {
-     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "TSV Bruckhausen",
-     "gast": "SpVgg. Rheurdt-Schaephuysen",
-     "url": "https://www.fussball.de/spiel/tsv-bruckhausen-spvgg-rheurdt-schaephuysen/-/spiel/031R9IR878000000VS5489BTVTPHHFPR",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -4284,20 +4284,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-millingen-sv-millingen-1928-niederrhein/-/saison/2627/team-id/011MIB2M18000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 16,
-   "punkte": 0,
-   "torverhaeltnis": "4:10",
+   "platz": 12,
+   "punkte": 3,
+   "torverhaeltnis": "7:11",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Millingen",
-     "gast": "Büdericher SV",
-     "url": "https://www.fussball.de/spiel/sv-millingen-buedericher-sv/-/spiel/031H9RCDEK000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 20.09.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4333,9 +4324,27 @@
      "url": "https://www.fussball.de/spiel/sv-schwafheim-sv-millingen/-/spiel/031H9RCBRC000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 11.10.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Millingen",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/sv-millingen-sv-menzelen/-/spiel/031H9RCBIG000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 16.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Millingen",
+     "gast": "Büdericher SV",
+     "url": "https://www.fussball.de/spiel/sv-millingen-buedericher-sv/-/spiel/031H9RCDEK000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4371,15 +4380,6 @@
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-ii-sv-millingen/-/spiel/031H9RCEH4000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Alemannia Kamp",
-     "gast": "SV Millingen",
-     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-sv-millingen/-/spiel/031HUV3NSK000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -4393,7 +4393,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-orsoy-sv-orsoy-1919-niederrhein/-/saison/2627/team-id/011MIA98AC000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 5,
+   "platz": 6,
    "punkte": 9,
    "torverhaeltnis": "13:13",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
@@ -4829,7 +4829,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-vynen-marienbaum-sv-vynen-marienbaum-1997-niederrhein/-/saison/2627/team-id/011MIANO4S000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 6,
+   "platz": 7,
    "punkte": 7,
    "torverhaeltnis": "13:2",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
@@ -5156,20 +5156,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/tv-asberg-i-tv-asberg-1897-niederrhein/-/saison/2627/team-id/011MIC29SO000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 15,
+   "platz": 16,
    "punkte": 1,
-   "torverhaeltnis": "3:7",
+   "torverhaeltnis": "4:11",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Mittwoch, 16.09.2026 - 19:45 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "TV Asberg I",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tv-asberg-i/-/spiel/031H9RCDA0000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -5205,9 +5196,27 @@
      "url": "https://www.fussball.de/spiel/tv-asberg-i-fc-neukirchen-vluyn-ii/-/spiel/031H9RCC2O000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 11.10.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "GSV Moers II",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/gsv-moers-ii-tv-asberg-i/-/spiel/031H9RCBLG000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 16.09.2026 - 19:45 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tv-asberg-i/-/spiel/031H9RCDA0000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Mittwoch, 09.09.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -5243,15 +5252,6 @@
      "url": "https://www.fussball.de/spiel/tv-asberg-i-vfl-rheinhausen-ii/-/spiel/031RMHSIPS000000VS5489BUVVE0O1R6",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "TV Asberg I",
-     "gast": "SV Schwafheim II",
-     "url": "https://www.fussball.de/spiel/tv-asberg-i-sv-schwafheim-ii/-/spiel/0317URNL0S000000VS5489BUVSBBVPEU",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
     }
    ]
   },
@@ -5265,7 +5265,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/tv-kapellen-tv-kapellen-niederrhein/-/saison/2627/team-id/01HIS24VFS000000VV0AG80NVT6JKAPB",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 9,
+   "platz": 10,
    "punkte": 7,
    "torverhaeltnis": "12:8",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
