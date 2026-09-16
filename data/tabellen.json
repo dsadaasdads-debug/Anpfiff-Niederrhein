@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-16T12:06:01.410Z",
+ "aktualisiert": "2026-09-16T17:18:41.157Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4337,15 +4337,6 @@
    ],
    "letzte": [
     {
-     "datum": "Sonntag, 13.09.2026 - 17:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "DJK Vierlinden",
-     "gast": "SV Millingen",
-     "url": "https://www.fussball.de/spiel/djk-vierlinden-sv-millingen/-/spiel/03200UBFMO000000VS5489BTVT7QHFUC",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Nichtantritt GAST"
-    },
-    {
      "datum": "Mittwoch, 09.09.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SSV Rheintreu Lüttingen",
@@ -4378,6 +4369,15 @@
      "heim": "FC Neukirchen-Vluyn II",
      "gast": "SV Millingen",
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-ii-sv-millingen/-/spiel/031H9RCEH4000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SV Alemannia Kamp",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-sv-millingen/-/spiel/031HUV3NSK000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
