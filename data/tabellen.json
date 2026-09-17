@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-17T12:07:43.603Z",
+ "aktualisiert": "2026-09-17T17:18:03.666Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2240,6 +2240,18 @@
     },
     {
      "platz": 14,
+     "verein": "SV Viktoria Birten II",
+     "teamId": "01A2HO9954000000VV0AG80NVSEJ47CH",
+     "spiele": 4,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "tore": "4:6",
+     "differenz": -2,
+     "punkte": 3
+    },
+    {
+     "platz": 15,
      "verein": "FC Viktoria Alpen II",
      "teamId": "011MIE8974000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -2251,31 +2263,7 @@
      "punkte": 3
     },
     {
-     "platz": 15,
-     "verein": "SV Viktoria Birten II",
-     "teamId": "01A2HO9954000000VV0AG80NVSEJ47CH",
-     "spiele": 3,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "2:6",
-     "differenz": -4,
-     "punkte": 0
-    },
-    {
      "platz": 16,
-     "verein": "VfL Repelen III",
-     "teamId": "02Q2ELK7TK000000VS5489B2VT450JFN",
-     "spiele": 3,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "10:16",
-     "differenz": -6,
-     "punkte": 0
-    },
-    {
-     "platz": 17,
      "verein": "MSV Moers III",
      "teamId": "02MB52NDG8000000VS5489B1VV4JLPLE",
      "spiele": 4,
@@ -2287,7 +2275,7 @@
      "punkte": 0
     },
     {
-     "platz": 18,
+     "platz": 17,
      "verein": "1.FC Lintfort III",
      "teamId": "02M95SI48G000000VS5489B2VURM3E5J",
      "spiele": 4,
@@ -2296,6 +2284,18 @@
      "niederlagen": 4,
      "tore": "4:41",
      "differenz": -37,
+     "punkte": 0
+    },
+    {
+     "platz": 18,
+     "verein": "VfL Repelen III zg.",
+     "teamId": "02Q2ELK7TK000000VS5489B2VT450JFN",
+     "spiele": 4,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 4,
+     "tore": "0:0",
+     "differenz": 0,
      "punkte": 0
     }
    ]
