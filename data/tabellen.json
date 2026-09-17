@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-17T05:26:57.720Z",
+ "aktualisiert": "2026-09-17T12:07:43.603Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4078,7 +4078,7 @@
      "gast": "SV Issum",
      "url": "https://www.fussball.de/spiel/djk-twisteden-ii-sv-issum/-/spiel/031JH9A1C4000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 27.09.2026 - 15:30 Uhr",
