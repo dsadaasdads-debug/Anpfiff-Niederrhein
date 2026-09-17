@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-17T17:18:03.666Z",
+ "aktualisiert": "2026-09-17T21:47:17.367Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1912,13 +1912,13 @@
      "platz": 3,
      "verein": "SV Walbeck",
      "teamId": "011MIE876K000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 3,
-     "unentschieden": 1,
+     "unentschieden": 2,
      "niederlagen": 1,
-     "tore": "15:9",
+     "tore": "16:10",
      "differenz": 6,
-     "punkte": 10
+     "punkte": 11
     },
     {
      "platz": 4,
@@ -1972,13 +1972,13 @@
      "platz": 8,
      "verein": "SG Kessel/Ho-Ha",
      "teamId": "011MIEMFV0000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 2,
-     "unentschieden": 1,
+     "unentschieden": 2,
      "niederlagen": 2,
-     "tore": "10:12",
+     "tore": "11:13",
      "differenz": -2,
-     "punkte": 7
+     "punkte": 8
     },
     {
      "platz": 9,
@@ -2158,16 +2158,28 @@
      "platz": 7,
      "verein": "SV Vynen-Marienbaum",
      "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 2,
-     "unentschieden": 1,
+     "unentschieden": 2,
      "niederlagen": 0,
-     "tore": "13:2",
+     "tore": "16:5",
      "differenz": 11,
-     "punkte": 7
+     "punkte": 8
     },
     {
      "platz": 8,
+     "verein": "SV Sonsbeck III",
+     "teamId": "02PTDCPP68000000VS5489B2VSE05932",
+     "spiele": 4,
+     "siege": 1,
+     "unentschieden": 3,
+     "niederlagen": 0,
+     "tore": "12:9",
+     "differenz": 3,
+     "punkte": 6
+    },
+    {
+     "platz": 9,
      "verein": "SV Millingen II",
      "teamId": "011MICLI60000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -2177,18 +2189,6 @@
      "tore": "5:11",
      "differenz": -6,
      "punkte": 6
-    },
-    {
-     "platz": 9,
-     "verein": "SV Sonsbeck III",
-     "teamId": "02PTDCPP68000000VS5489B2VSE05932",
-     "spiele": 3,
-     "siege": 1,
-     "unentschieden": 2,
-     "niederlagen": 0,
-     "tore": "9:6",
-     "differenz": 3,
-     "punkte": 5
     },
     {
      "platz": 10,
@@ -2428,15 +2428,6 @@
    "staffelId": "031PMKJ4BK000004VS5489BTVT8K11BC-G",
    "naechste": [
     {
-     "datum": "Donnerstag, 17.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SV Millingen",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/sv-millingen-1fc-lintfort/-/spiel/032101IS0O000000VS5489BTVT7QHFUC",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
      "datum": "Sonntag, 20.09.2026 - 11:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "1.FC Lintfort",
@@ -2469,6 +2460,15 @@
      "heim": "SV Budberg",
      "gast": "1.FC Lintfort",
      "url": "https://www.fussball.de/spiel/sv-budberg-i-1fc-lintfort/-/spiel/031SUR0O6G000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Freitag, 30.10.2026 - 20:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1.FC Lintfort",
+     "gast": "JSG SV Straelen / SV Veert",
+     "url": "https://www.fussball.de/spiel/1fc-lintfort-jsg-sv-straelen-sv-veert/-/spiel/031SUR0NRG000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4830,19 +4830,10 @@
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
    "platz": 7,
-   "punkte": 7,
-   "torverhaeltnis": "13:2",
+   "punkte": 8,
+   "torverhaeltnis": "16:5",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Donnerstag, 17.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SV Vynen-Marienbaum",
-     "gast": "SV Sonsbeck III",
-     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-sonsbeck-iii/-/spiel/031I6NEIBO000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 20.09.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -4878,9 +4869,27 @@
      "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sc-rheinkamp-ii/-/spiel/031I6NEGFC000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Freitag, 09.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "FC Viktoria Alpen II",
+     "gast": "SV Vynen-Marienbaum",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-ii-sv-vynen-marienbaum/-/spiel/031I6NEFNC000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 17.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "SV Sonsbeck III",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-sonsbeck-iii/-/spiel/031I6NEIBO000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 13.09.2026 - 17:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -4914,15 +4923,6 @@
      "heim": "SV Vynen-Marienbaum",
      "gast": "SC Rheinkamp",
      "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sc-rheinkamp/-/spiel/031FVRL5V0000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Dienstag, 18.08.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Bislich II",
-     "gast": "SV Vynen-Marienbaum",
-     "url": "https://www.fussball.de/spiel/sv-bislich-ii-sv-vynen-marienbaum/-/spiel/031BSPPOBC000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
