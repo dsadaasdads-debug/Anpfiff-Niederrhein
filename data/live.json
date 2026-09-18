@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-18T19:28:06.066Z",
+ "aktualisiert": "2026-09-18T21:47:55.346Z",
  "tag": "18.09.",
  "datum": "2026-09-18",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -26,7 +26,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 223,
+   "seitAnpfiffMin": 363,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -54,7 +54,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 208,
+   "seitAnpfiffMin": 348,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -79,7 +79,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 208,
+   "seitAnpfiffMin": 348,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -97,16 +97,19 @@
    "zeit": "17:30",
    "heim": "SpVgg Rheurdt-Schaephuysen III",
    "gast": "VfL Rheinhausen III",
-   "tore": null,
+   "tore": {
+    "heim": 24,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 118,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 258,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -298,7 +301,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 118,
+   "seitAnpfiffMin": 258,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -316,16 +319,19 @@
    "zeit": "17:30",
    "heim": "VfR Warbeyen II",
    "gast": "FC Neukirchen-Vluyn 09/21",
-   "tore": null,
+   "tore": {
+    "heim": 13,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 118,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 258,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -342,7 +348,7 @@
    "heim": "FC Neukirchen-Vluyn 09/21",
    "gast": "SuS 21 Oberhausen",
    "tore": {
-    "heim": 3,
+    "heim": 6,
     "gast": 0
    },
    "ereignisse": [
@@ -382,10 +388,55 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Alend Said Ali",
      "fuer": null,
      "stand": {
       "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 74,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Konstantinos Siainis",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 76,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Alend Said Ali",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 77,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Phil Hardelauf",
+     "fuer": null,
+     "stand": {
+      "heim": 6,
       "gast": 0
      },
      "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
@@ -395,11 +446,11 @@
    "zuschauer": null,
    "schiedsrichter": "Seyfullah Pakel",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 88,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 228,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -416,18 +467,124 @@
    "heim": "SV Alemannia Kamp",
    "gast": "1. FC Lintfort II",
    "tore": {
-    "heim": 3,
-    "gast": 1
+    "heim": 5,
+    "gast": 2
    },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "ereignisse": [
+    {
+     "minute": 8,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dennis Kiljan",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 13,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ricardo Schiff",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 16,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ibrahima Bah",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "1-fc-lintfort-m2-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    },
+    {
+     "minute": 63,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ricardo Schiff",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 72,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Salam Yedzin Shamo",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 2
+     },
+     "teamSlug": "1-fc-lintfort-m2-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    },
+    {
+     "minute": 87,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dennis Kiljan",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 2
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 88,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Christopher Jordan",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 2
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    }
+   ],
+   "zuschauer": 50,
+   "schiedsrichter": "Julian von Tessmer",
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 88,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 228,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -445,7 +602,7 @@
    "gast": "TuS Borth II",
    "tore": {
     "heim": 1,
-    "gast": 3
+    "gast": 5
    },
    "ereignisse": [
     {
@@ -462,6 +619,18 @@
      },
      "teamSlug": "tus-borth-m2-2026-27",
      "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 8,
+     "nachspielzeit": 0,
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": "Björn Below",
+     "fuer": null,
+     "stand": null,
+     "teamSlug": "sv-millingen-m2-2026-27",
+     "clubSlug": "sv-millingen"
     },
     {
      "minute": 11,
@@ -514,7 +683,7 @@
      "art": "penalty_foul",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Maurice Diebels",
      "fuer": null,
      "stand": {
       "heim": 1,
@@ -522,94 +691,46 @@
      },
      "teamSlug": "sv-millingen-m2-2026-27",
      "clubSlug": "sv-millingen"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "goal_free_kick",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kacper Szkop",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 4
+     },
+     "teamSlug": "tus-borth-m2-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 2,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kacper Szkop",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 5
+     },
+     "teamSlug": "tus-borth-m2-2026-27",
+     "clubSlug": "tus-borth"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 20,
    "schiedsrichter": "Christoph Stutz",
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 88,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-sus-21-oberhausen/-/spiel/031ENENH6S000000VS5489BUVUR5FS5A",
-   "verein": "FC Neukirchen-Vluyn",
-   "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Bezirksliga",
-   "anpfiff": "2026-09-18T20:00:00.000Z",
-   "zeit": "20:00",
-   "heim": "FC Neukirchen-Vluyn",
-   "gast": "SuS 21 Oberhausen",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -32,
+   "seitAnpfiffMin": 228,
    "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-1fc-lintfort-ii/-/spiel/031HBDT5DS000000VS5489BTVVG7L386",
-   "verein": "SV Alemannia Kamp",
-   "heimatverein": null,
-   "ort": "Kamp-Lintfort",
-   "zone": "kern",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga B",
-   "anpfiff": "2026-09-18T20:00:00.000Z",
-   "zeit": "20:00",
-   "heim": "SV Alemannia Kamp",
-   "gast": "1.FC Lintfort II",
-   "tore": null,
-   "ergebnisGemeldet": false,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": -32,
-   "laeuft": false,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/djk-twisteden-ii-sv-issum/-/spiel/031JH9A1C4000000VS5489BUVVKNMR0J",
-   "verein": "SV Issum 1930",
-   "heimatverein": null,
-   "ort": "Issum",
-   "zone": "umland",
-   "liga": "Kreisliga B Gruppe 2",
-   "wettbewerb": "Kreisliga B",
-   "anpfiff": "2026-09-18T20:00:00.000Z",
-   "zeit": "20:00",
-   "heim": "DJK Twisteden II",
-   "gast": "SV Issum",
-   "tore": null,
-   "ergebnisGemeldet": false,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": "abgesagt",
-   "seitAnpfiffMin": -32,
-   "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   }
  ]
 }
