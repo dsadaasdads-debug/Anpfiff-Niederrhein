@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-18T21:47:55.346Z",
+ "aktualisiert": "2026-09-18T23:39:39.487Z",
  "tag": "18.09.",
  "datum": "2026-09-18",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -8,729 +8,227 @@
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/fc-neukirchen-vluyn-0921-wu17-2-djk-twisteden-wu18-1-260918",
-   "verein": "FC Neukirchen-Vluyn",
+   "url": "https://www.fupa.net/match/sv-budberg-u17-2-1-fc-lintfort-u17-2-260919",
+   "verein": "SV Budberg 1946",
    "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "Landesliga Gruppe 1",
+   "wettbewerb": "B-Junioren-Kreisliga A Moers",
+   "anpfiff": "2026-09-19T12:00:00+02:00",
+   "zeit": "10:00",
+   "heim": "SV Budberg II",
+   "gast": "1. FC Lintfort II",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "hatTicker": true,
+   "abschnitt": "PRE",
+   "hinweis": null,
+   "seitAnpfiffMin": -620,
+   "laeuft": false,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "FuPa",
+   "sportart": "Fußball",
+   "url": "https://www.fupa.net/match/sv-budberg-u19-1-sv-sonsbeck-u19-1-260919",
+   "verein": "SV Budberg 1946",
+   "heimatverein": null,
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "Landesliga Gruppe 1",
+   "wettbewerb": "A-Junioren-Landesliga Niederrhein, Gruppe 1",
+   "anpfiff": "2026-09-19T14:30:00+02:00",
+   "zeit": "12:30",
+   "heim": "SV Budberg",
+   "gast": "SV Sonsbeck",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": "Bastiaan Leenders",
+   "hatTicker": true,
+   "abschnitt": "PRE",
+   "hinweis": null,
+   "seitAnpfiffMin": -770,
+   "laeuft": false,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "FuPa",
+   "sportart": "Fußball",
+   "url": "https://www.fupa.net/match/1-fc-lintfort-u15-1-sportfreunde-9730-lowick-u15-1-260919",
+   "verein": "1. FC Lintfort",
+   "heimatverein": null,
+   "ort": "Kamp-Lintfort",
    "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "B-Juniorinnen-Kreisklasse, Gruppe 4, Niederrhein",
-   "anpfiff": "2026-09-18T17:45:00+02:00",
-   "zeit": "15:45",
-   "heim": "FC Neukirchen-Vluyn 09/21 II",
-   "gast": "DJK Twisteden",
+   "liga": "Landesliga Gruppe 1",
+   "wettbewerb": "C-Junioren-Landesliga Niederrhein, Gruppe 1",
+   "anpfiff": "2026-09-19T15:00:00+02:00",
+   "zeit": "13:00",
+   "heim": "1. FC Lintfort",
+   "gast": "Sportfreunde 97/30 Lowick",
    "tore": null,
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "POST",
+   "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": 363,
+   "seitAnpfiffMin": -800,
    "laeuft": false,
-   "abgeschlossen": true
+   "abgeschlossen": false
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/tus-baerl-u15-1-fc-neukirchen-vluyn-0921-u15-2-260918",
+   "url": "https://www.fupa.net/match/fc-neukirchen-vluyn-0921-u15-1-sv-straelen-u15-1-260919",
    "verein": "FC Neukirchen-Vluyn",
    "heimatverein": null,
    "ort": "Neukirchen-Vluyn",
    "zone": "kern",
    "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "C-Junioren-Kreisliga A Moers",
-   "anpfiff": "2026-09-18T18:00:00+02:00",
-   "zeit": "16:00",
-   "heim": "TuS Baerl",
-   "gast": "FC Neukirchen-Vluyn 09/21 II",
-   "tore": {
-    "heim": 0,
-    "gast": 2
-   },
+   "wettbewerb": "C-Junioren-Landesliga Niederrhein, Gruppe 1",
+   "anpfiff": "2026-09-19T15:00:00+02:00",
+   "zeit": "13:00",
+   "heim": "FC Neukirchen-Vluyn 09/21",
+   "gast": "SV Straelen",
+   "tore": null,
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "POST",
+   "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": 348,
+   "seitAnpfiffMin": -800,
    "laeuft": false,
-   "abgeschlossen": true
+   "abgeschlossen": false
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-issum-wu18-1-gsv-moers-wu17-1-260918",
+   "url": "https://www.fupa.net/match/gsv-moers-u15-1-sv-budberg-u15-1-260919",
    "verein": "Grafschafter SV 1910 Moers",
    "heimatverein": null,
    "ort": "Moers",
    "zone": "kern",
    "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "B-Juniorinnen-Kreisklasse, Gruppe 9, Niederrhein",
-   "anpfiff": "2026-09-18T18:00:00+02:00",
-   "zeit": "16:00",
-   "heim": "JSG Issum/Sebelen/Kapellen-Hamb",
-   "gast": "GSV Moers",
+   "wettbewerb": "C-Junioren-Landesliga Niederrhein, Gruppe 1",
+   "anpfiff": "2026-09-19T15:45:00+02:00",
+   "zeit": "13:45",
+   "heim": "GSV Moers",
+   "gast": "SV Budberg",
    "tore": null,
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "POST",
+   "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": 348,
+   "seitAnpfiffMin": -845,
    "laeuft": false,
-   "abgeschlossen": true
+   "abgeschlossen": false
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/spvgg-rheurdt-schaephuysen-m3-vfl-rheinhausen-m3-260918",
+   "url": "https://www.fupa.net/match/sc-hertha-hamborn-ah1-fc-neukirchen-vluyn-0921-ah1-260919",
+   "verein": "FC Neukirchen-Vluyn",
+   "heimatverein": null,
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "liga": "Bezirksliga Gruppe 5",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-09-19T16:00:00+02:00",
+   "zeit": "14:00",
+   "heim": "SC Hertha Hamborn",
+   "gast": "FC Neukirchen-Vluyn 09/21",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "hatTicker": false,
+   "abschnitt": "PRE",
+   "hinweis": null,
+   "seitAnpfiffMin": -860,
+   "laeuft": false,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "FuPa",
+   "sportart": "Fußball",
+   "url": "https://www.fupa.net/match/spvgg-rheurdt-schaephuysen-u19-1-fc-rumeln-kaldenhausen-u19-1-260919",
    "verein": "SpVgg. Rheurdt-Schaephuysen",
    "heimatverein": null,
    "ort": "Rheurdt",
    "zone": "umland",
    "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga C, Gruppe 2, Moers",
-   "anpfiff": "2026-09-18T19:30:00+02:00",
-   "zeit": "17:30",
-   "heim": "SpVgg Rheurdt-Schaephuysen III",
-   "gast": "VfL Rheinhausen III",
-   "tore": {
-    "heim": 24,
-    "gast": 0
-   },
+   "wettbewerb": "A-Junioren-Kreisliga A Moers",
+   "anpfiff": "2026-09-19T17:00:00+02:00",
+   "zeit": "15:00",
+   "heim": "SpVgg Rheurdt-Schaephuysen",
+   "gast": "FC Rumeln-Kaldenhausen",
+   "tore": null,
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "POST",
+   "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": 258,
+   "seitAnpfiffMin": -920,
    "laeuft": false,
-   "abgeschlossen": true
+   "abgeschlossen": false
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/fc-neukirchen-vluyn-0921-u19-2-fc-neukirchen-vluyn-0921-u19-1-260918",
-   "verein": "FC Neukirchen-Vluyn",
+   "url": "https://www.fupa.net/match/vfl-rheinhausen-u19-1-tv-kapellen-u19-1-260919",
+   "verein": "TV Kapellen",
    "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "A-Junioren-Kreispokal Moers",
-   "anpfiff": "2026-09-18T19:30:00+02:00",
-   "zeit": "17:30",
-   "heim": "JSG Repelen/Neukirchen-Vluyn II",
-   "gast": "FC Neukirchen-Vluyn 09/21",
-   "tore": {
-    "heim": 0,
-    "gast": 11
-   },
-   "ereignisse": [
-    {
-     "minute": 4,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 20,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 2
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 26,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 3
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 31,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 4
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 32,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 5
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 64,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 6
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 66,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 7
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 77,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 8
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 79,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 9
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 81,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 10
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 83,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 11
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": true,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 258,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/vfr-warbeyen-wu17-2-fc-neukirchen-vluyn-0921-wu17-1-260918",
-   "verein": "FC Neukirchen-Vluyn",
-   "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "B-Juniorinnen-Kreisklasse, Gruppe 4, Niederrhein",
-   "anpfiff": "2026-09-18T19:30:00+02:00",
-   "zeit": "17:30",
-   "heim": "VfR Warbeyen II",
-   "gast": "FC Neukirchen-Vluyn 09/21",
-   "tore": {
-    "heim": 13,
-    "gast": 0
-   },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 258,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/fc-neukirchen-vluyn-0921-m1-sus-21-oberhausen-m1-260918",
-   "verein": "FC Neukirchen-Vluyn",
-   "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "Bezirksliga Niederrhein, Gruppe 5",
-   "anpfiff": "2026-09-18T20:00:00+02:00",
-   "zeit": "18:00",
-   "heim": "FC Neukirchen-Vluyn 09/21",
-   "gast": "SuS 21 Oberhausen",
-   "tore": {
-    "heim": 6,
-    "gast": 0
-   },
-   "ereignisse": [
-    {
-     "minute": 28,
-     "nachspielzeit": 0,
-     "art": "goal_distance_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Astrit Krasniqi",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 38,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Phil Hardelauf",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 0
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 50,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Alend Said Ali",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 0
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 74,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Konstantinos Siainis",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 0
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Alend Said Ali",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 0
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    },
-    {
-     "minute": 77,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Phil Hardelauf",
-     "fuer": null,
-     "stand": {
-      "heim": 6,
-      "gast": 0
-     },
-     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
-     "clubSlug": "fc-neukirchen-vluyn-0921"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": "Seyfullah Pakel",
-   "hatTicker": true,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 228,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-alemannia-kamp-m1-1-fc-lintfort-m2-260918",
-   "verein": "SV Alemannia Kamp",
-   "heimatverein": null,
-   "ort": "Kamp-Lintfort",
+   "ort": "Moers",
    "zone": "kern",
    "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga B Moers",
-   "anpfiff": "2026-09-18T20:00:00+02:00",
-   "zeit": "18:00",
-   "heim": "SV Alemannia Kamp",
-   "gast": "1. FC Lintfort II",
-   "tore": {
-    "heim": 5,
-    "gast": 2
-   },
-   "ereignisse": [
-    {
-     "minute": 8,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dennis Kiljan",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 13,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ricardo Schiff",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 0
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 16,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ibrahima Bah",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 1
-     },
-     "teamSlug": "1-fc-lintfort-m2-2026-27",
-     "clubSlug": "1-fc-lintfort"
-    },
-    {
-     "minute": 63,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ricardo Schiff",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 1
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 72,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Salam Yedzin Shamo",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 2
-     },
-     "teamSlug": "1-fc-lintfort-m2-2026-27",
-     "clubSlug": "1-fc-lintfort"
-    },
-    {
-     "minute": 87,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Dennis Kiljan",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 2
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
-     "minute": 88,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Christopher Jordan",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 2
-     },
-     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    }
-   ],
-   "zuschauer": 50,
-   "schiedsrichter": "Julian von Tessmer",
+   "wettbewerb": "A-Junioren-Kreisliga A Moers",
+   "anpfiff": "2026-09-19T17:00:00+02:00",
+   "zeit": "15:00",
+   "heim": "VfL Rheinhausen",
+   "gast": "TV Kapellen",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "POST",
+   "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": 228,
+   "seitAnpfiffMin": -920,
    "laeuft": false,
-   "abgeschlossen": true
+   "abgeschlossen": false
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/sv-millingen-m2-tus-borth-m2-260918",
-   "verein": "SV Millingen 1928",
+   "url": "https://www.fupa.net/match/vfb-homberg-m1-sv-budberg-m1-260919",
+   "verein": "SV Budberg 1946",
    "heimatverein": null,
    "ort": "Rheinberg",
    "zone": "umland",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
-   "anpfiff": "2026-09-18T20:00:00+02:00",
-   "zeit": "18:00",
-   "heim": "SV Millingen II",
-   "gast": "TuS Borth II",
-   "tore": {
-    "heim": 1,
-    "gast": 5
-   },
-   "ereignisse": [
-    {
-     "minute": 3,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Louis Hausmann",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 8,
-     "nachspielzeit": 0,
-     "art": "card_red",
-     "name": "Rote Karte",
-     "zeichen": "🟥",
-     "spieler": "Björn Below",
-     "fuer": null,
-     "stand": null,
-     "teamSlug": "sv-millingen-m2-2026-27",
-     "clubSlug": "sv-millingen"
-    },
-    {
-     "minute": 11,
-     "nachspielzeit": 0,
-     "art": "goal_distance_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Kacper Szkop",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 2
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 25,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Kacper Szkop",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 3
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 52,
-     "nachspielzeit": 0,
-     "art": "card_red",
-     "name": "Rote Karte",
-     "zeichen": "🟥",
-     "spieler": "Hendrik Aryus",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 3
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 52,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Maurice Diebels",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 3
-     },
-     "teamSlug": "sv-millingen-m2-2026-27",
-     "clubSlug": "sv-millingen"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "goal_free_kick",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Kacper Szkop",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 4
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 2,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Kacper Szkop",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 5
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    }
-   ],
-   "zuschauer": 20,
-   "schiedsrichter": "Christoph Stutz",
+   "liga": "Landesliga Gruppe 1",
+   "wettbewerb": "Landesliga Niederrhein, Gruppe 1",
+   "anpfiff": "2026-09-19T18:00:00+02:00",
+   "zeit": "16:00",
+   "heim": "VfB Homberg",
+   "gast": "SV Budberg",
+   "tore": null,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
    "hatTicker": true,
-   "abschnitt": "POST",
+   "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": 228,
+   "seitAnpfiffMin": -980,
    "laeuft": false,
-   "abgeschlossen": true
+   "abgeschlossen": false
   }
  ]
 }
