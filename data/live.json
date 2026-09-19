@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-19T17:57:17.947Z",
+ "aktualisiert": "2026-09-19T19:55:56.395Z",
  "tag": "19.09.",
  "datum": "2026-09-19",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -150,7 +150,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 477,
+   "seitAnpfiffMin": 596,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -344,7 +344,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 327,
+   "seitAnpfiffMin": 446,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -372,7 +372,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 297,
+   "seitAnpfiffMin": 416,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -400,7 +400,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 297,
+   "seitAnpfiffMin": 416,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -422,13 +422,119 @@
     "heim": 5,
     "gast": 2
    },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "ereignisse": [
+    {
+     "minute": 13,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ilias Miran Cetin",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 15,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nick Fries",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-u15-1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 34,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Emilio Giorri",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "sv-budberg-u15-1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 36,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Maximilian Gangelhoff",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 49,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ilias Miran Cetin",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 2
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 52,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Aaron Noah Keienborg",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 2
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 61,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Aaron Noah Keienborg",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 2
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    }
+   ],
+   "zuschauer": 35,
+   "schiedsrichter": "Nils Ole Jacobsen",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 252,
+   "seitAnpfiffMin": 371,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -502,7 +608,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 237,
+   "seitAnpfiffMin": 356,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -525,11 +631,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 177,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 296,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -555,7 +661,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 177,
+   "seitAnpfiffMin": 296,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -609,12 +715,12 @@
      "clubSlug": "sv-budberg"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 800,
    "schiedsrichter": "Lukas Luthe",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 117,
+   "seitAnpfiffMin": 236,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -632,16 +738,174 @@
    "zeit": "18:00",
    "heim": "VFB Homberg",
    "gast": "SV Budberg",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 1
+   },
    "ergebnisGemeldet": true,
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 44,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 60,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 66,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 76,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 76,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "red-card",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 83,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 89,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 89,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -3,
-   "laeuft": false,
+   "seitAnpfiffMin": 116,
+   "laeuft": true,
    "abgeschlossen": false
   }
  ]
