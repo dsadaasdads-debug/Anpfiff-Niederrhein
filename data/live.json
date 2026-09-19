@@ -1,7 +1,7 @@
 {
- "aktualisiert": "2026-09-18T23:39:39.487Z",
- "tag": "18.09.",
- "datum": "2026-09-18",
+ "aktualisiert": "2026-09-19T15:01:06.103Z",
+ "tag": "19.09.",
+ "datum": "2026-09-19",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
  "hinweisNamen": "Spielernamen stammen von FuPa, wo die Vereine selbst tickern – dort sind sie offen veröffentlicht. Partien ohne FuPa-Ticker kommen von fussball.de: dort gibt es Minute und Ereignisart, aber keine Namen.",
  "partien": [
@@ -19,16 +19,140 @@
    "zeit": "10:00",
    "heim": "SV Budberg II",
    "gast": "1. FC Lintfort II",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 3,
+    "gast": 4
+   },
+   "ereignisse": [
+    {
+     "minute": 8,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Henri Kai Kanzok",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-budberg-u17-2-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 36,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jakob Kurc",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "sv-budberg-u17-2-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 39,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "1-fc-lintfort-u17-2-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    },
+    {
+     "minute": 44,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Lias Woitke",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-u17-2-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 56,
+     "nachspielzeit": 0,
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": "Laurin Lewandoswki",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-u17-2-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 57,
+     "nachspielzeit": 0,
+     "art": "penalty_hand",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 2
+     },
+     "teamSlug": "1-fc-lintfort-u17-2-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    },
+    {
+     "minute": 79,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 3
+     },
+     "teamSlug": "1-fc-lintfort-u17-2-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 1,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 4
+     },
+     "teamSlug": "1-fc-lintfort-u17-2-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    }
+   ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Florian Schöttler",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -620,
+   "seitAnpfiffMin": 301,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -44,16 +168,185 @@
    "zeit": "12:30",
    "heim": "SV Budberg",
    "gast": "SV Sonsbeck",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 8,
+    "gast": 2
+   },
+   "ereignisse": [
+    {
+     "minute": 4,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Luka Floten",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-budberg-u19-1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 22,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jannis Enters",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sv-sonsbeck-u19-1-2026-27",
+     "clubSlug": "sv-sonsbeck"
+    },
+    {
+     "minute": 28,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Liam Ingendahl",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-u19-1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 33,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Artin Luma",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-u19-1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 48,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Finn Röttges",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-u19-1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 51,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Artin Luma",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-u19-1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 72,
+     "nachspielzeit": 0,
+     "art": "card_yellow_red",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "spieler": "Robin Daude",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 1
+     },
+     "teamSlug": "sv-sonsbeck-u19-1-2026-27",
+     "clubSlug": "sv-sonsbeck"
+    },
+    {
+     "minute": 78,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jannis Enters",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 2
+     },
+     "teamSlug": "sv-sonsbeck-u19-1-2026-27",
+     "clubSlug": "sv-sonsbeck"
+    },
+    {
+     "minute": 79,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Leif Chris Willert",
+     "fuer": null,
+     "stand": {
+      "heim": 6,
+      "gast": 2
+     },
+     "teamSlug": "sv-budberg-u19-1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Liam Ingendahl",
+     "fuer": null,
+     "stand": {
+      "heim": 7,
+      "gast": 2
+     },
+     "teamSlug": "sv-budberg-u19-1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Andria Arjevanidze",
+     "fuer": null,
+     "stand": {
+      "heim": 8,
+      "gast": 2
+     },
+     "teamSlug": "sv-budberg-u19-1-2026-27",
+     "clubSlug": "sv-budberg"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": "Bastiaan Leenders",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -770,
+   "seitAnpfiffMin": 151,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -69,16 +362,19 @@
    "zeit": "13:00",
    "heim": "1. FC Lintfort",
    "gast": "Sportfreunde 97/30 Lowick",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -800,
+   "seitAnpfiffMin": 121,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -94,16 +390,19 @@
    "zeit": "13:00",
    "heim": "FC Neukirchen-Vluyn 09/21",
    "gast": "SV Straelen",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -800,
+   "seitAnpfiffMin": 121,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -124,10 +423,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -845,
-   "laeuft": false,
+   "seitAnpfiffMin": 76,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -149,10 +448,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -860,
-   "laeuft": false,
+   "seitAnpfiffMin": 61,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -176,7 +475,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -920,
+   "seitAnpfiffMin": 1,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -201,7 +500,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -920,
+   "seitAnpfiffMin": 1,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -226,7 +525,33 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -980,
+   "seitAnpfiffMin": -59,
+   "laeuft": false,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "fussball.de",
+   "sportart": "Fußball",
+   "url": "https://www.fussball.de/spiel/vfb-homberg-sv-budberg/-/spiel/031EKQ0VFS000000VS5489BTVUS470OH",
+   "verein": "SV Budberg 1946",
+   "heimatverein": null,
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "Landesliga Gruppe 1",
+   "wettbewerb": "Landesliga",
+   "anpfiff": "2026-09-19T18:00:00.000Z",
+   "zeit": "18:00",
+   "heim": "VFB Homberg",
+   "gast": "SV Budberg",
+   "tore": null,
+   "ergebnisGemeldet": true,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "hatTicker": false,
+   "abschnitt": null,
+   "hinweis": null,
+   "seitAnpfiffMin": -179,
    "laeuft": false,
    "abgeschlossen": false
   }
