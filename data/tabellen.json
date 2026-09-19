@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-18T23:36:59.295Z",
+ "aktualisiert": "2026-09-19T05:06:35.717Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2555,15 +2555,6 @@
    "staffelId": null,
    "naechste": [
     {
-     "datum": "Samstag, 19.09.2026 - ** Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "Elite Marokko FC Wuppertal e.V. (PH)",
-     "gast": "FC Mattheck Moers",
-     "url": "https://www.fussball.de/spiel/fc-mattheck-moers/-/spiel/031P3BLD3G000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
      "datum": "Samstag, 26.09.2026 - 13:00 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "DJK SG Altenessen",
@@ -2598,9 +2589,27 @@
      "url": "https://www.fussball.de/spiel/vfl-benrath-fc-mattheck-moers/-/spiel/031OPNR37C000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Samstag, 07.11.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "Croatia Geistenbeck",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-croatia-geistenbeck/-/spiel/031OPNR39G000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 19.09.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "Elite Marokko FC Wuppertal e.V. (PH)",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers/-/spiel/031P3BLD3G000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
     {
      "datum": "Samstag, 25.04.2026 - 19:00 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
