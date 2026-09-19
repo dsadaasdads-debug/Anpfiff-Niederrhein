@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-19T16:05:41.351Z",
+ "aktualisiert": "2026-09-19T21:02:42.489Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -8,27 +8,27 @@
    "zeilen": [
     {
      "platz": 1,
-     "verein": "DJK Arminia Klosterhardt",
-     "teamId": "011MIANOCS000000VTVG0001VTR8C1K7",
-     "spiele": 5,
-     "siege": 4,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "16:8",
-     "differenz": 8,
-     "punkte": 13
+     "verein": "SV Budberg",
+     "teamId": "011MIEFDHS000000VTVG0001VTR8C1K7",
+     "spiele": 6,
+     "siege": 5,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "15:6",
+     "differenz": 9,
+     "punkte": 15
     },
     {
      "platz": 2,
-     "verein": "SV Budberg",
-     "teamId": "011MIEFDHS000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "verein": "DJK Arminia Klosterhardt",
+     "teamId": "011MIANOCS000000VTVG0001VTR8C1K7",
+     "spiele": 6,
      "siege": 4,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "14:6",
+     "unentschieden": 2,
+     "niederlagen": 0,
+     "tore": "17:9",
      "differenz": 8,
-     "punkte": 12
+     "punkte": 14
     },
     {
      "platz": 3,
@@ -70,12 +70,12 @@
      "platz": 6,
      "verein": "VFB Homberg",
      "teamId": "011MIEFD0K000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 3,
      "unentschieden": 0,
-     "niederlagen": 2,
-     "tore": "10:8",
-     "differenz": 2,
+     "niederlagen": 3,
+     "tore": "10:9",
+     "differenz": 1,
      "punkte": 9
     },
     {
@@ -104,6 +104,18 @@
     },
     {
      "platz": 9,
+     "verein": "1. FC Kleve 63/03",
+     "teamId": "011MICO3BK000000VTVG0001VTR8C1K7",
+     "spiele": 6,
+     "siege": 1,
+     "unentschieden": 4,
+     "niederlagen": 1,
+     "tore": "8:6",
+     "differenz": 2,
+     "punkte": 7
+    },
+    {
+     "platz": 10,
      "verein": "1. FC Lintfort",
      "teamId": "011MI9O6GK000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -113,18 +125,6 @@
      "tore": "13:12",
      "differenz": 1,
      "punkte": 7
-    },
-    {
-     "platz": 10,
-     "verein": "1. FC Kleve 63/03",
-     "teamId": "011MICO3BK000000VTVG0001VTR8C1K7",
-     "spiele": 5,
-     "siege": 1,
-     "unentschieden": 3,
-     "niederlagen": 1,
-     "tore": "7:5",
-     "differenz": 2,
-     "punkte": 6
     },
     {
      "platz": 11,
@@ -230,6 +230,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SF 97/30 Lowick",
+     "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
+     "spiele": 2,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "7:2",
+     "differenz": 5,
+     "punkte": 6
+    },
+    {
+     "platz": 2,
      "verein": "DJK Arminia Klosterhardt",
      "teamId": "011MI97620000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -241,7 +253,7 @@
      "punkte": 3
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "FC Neukirchen-Vluyn",
      "teamId": "023UVPVJ9C000000VS548984VSVTAEJ3",
      "spiele": 1,
@@ -253,19 +265,7 @@
      "punkte": 3
     },
     {
-     "platz": 3,
-     "verein": "SF 97/30 Lowick",
-     "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
-     "spiele": 1,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "6:2",
-     "differenz": 4,
-     "punkte": 3
-    },
-    {
-     "platz": 3,
+     "platz": 4,
      "verein": "SuS 09 Dinslaken",
      "teamId": "011MIBSV6G000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -338,24 +338,24 @@
     },
     {
      "platz": 10,
-     "verein": "SV Krechting",
-     "teamId": "01ORDBHD6C000000VV0AG811VVANPB38",
-     "spiele": 1,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "1:6",
-     "differenz": -5,
-     "punkte": 0
-    },
-    {
-     "platz": 11,
      "verein": "JSG Nütterden / Kranenburg",
      "teamId": "011MID3RF4000000VTVG0001VTR8C1K7",
      "spiele": 1,
      "siege": 0,
      "unentschieden": 0,
      "niederlagen": 1,
+     "tore": "1:7",
+     "differenz": -6,
+     "punkte": 0
+    },
+    {
+     "platz": 10,
+     "verein": "SV Krechting",
+     "teamId": "01ORDBHD6C000000VV0AG811VVANPB38",
+     "spiele": 2,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 2,
      "tore": "1:7",
      "differenz": -6,
      "punkte": 0
@@ -1256,6 +1256,18 @@
     },
     {
      "platz": 2,
+     "verein": "Sportfreunde Baumberg",
+     "teamId": "011MIF5I1C000000VTVG0001VTR8C1K7",
+     "spiele": 6,
+     "siege": 4,
+     "unentschieden": 2,
+     "niederlagen": 0,
+     "tore": "17:10",
+     "differenz": 7,
+     "punkte": 14
+    },
+    {
+     "platz": 3,
      "verein": "Fortuna Düsseldorf U23",
      "teamId": "011MI96NBO000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -1265,18 +1277,6 @@
      "tore": "12:4",
      "differenz": 8,
      "punkte": 13
-    },
-    {
-     "platz": 3,
-     "verein": "Sportfreunde Baumberg",
-     "teamId": "011MIF5I1C000000VTVG0001VTR8C1K7",
-     "spiele": 5,
-     "siege": 3,
-     "unentschieden": 2,
-     "niederlagen": 0,
-     "tore": "15:9",
-     "differenz": 6,
-     "punkte": 11
     },
     {
      "platz": 4,
@@ -1294,16 +1294,28 @@
      "platz": 5,
      "verein": "Krefelder FC Uerdingen",
      "teamId": "011MIA4KF4000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 3,
      "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "15:6",
-     "differenz": 9,
+     "niederlagen": 2,
+     "tore": "15:7",
+     "differenz": 8,
      "punkte": 10
     },
     {
      "platz": 6,
+     "verein": "SV Sonsbeck",
+     "teamId": "011MIB5PAG000000VTVG0001VTR8C1K7",
+     "spiele": 6,
+     "siege": 2,
+     "unentschieden": 4,
+     "niederlagen": 0,
+     "tore": "8:5",
+     "differenz": 3,
+     "punkte": 10
+    },
+    {
+     "platz": 7,
      "verein": "SSVg Velbert 02",
      "teamId": "011MIEI1Q8000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -1315,28 +1327,16 @@
      "punkte": 9
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "1. FC Monheim",
      "teamId": "011MIAU70C000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 2,
      "unentschieden": 2,
-     "niederlagen": 1,
-     "tore": "12:8",
-     "differenz": 4,
+     "niederlagen": 2,
+     "tore": "13:10",
+     "differenz": 3,
      "punkte": 8
-    },
-    {
-     "platz": 8,
-     "verein": "SV Sonsbeck",
-     "teamId": "011MIB5PAG000000VTVG0001VTR8C1K7",
-     "spiele": 5,
-     "siege": 1,
-     "unentschieden": 4,
-     "niederlagen": 0,
-     "tore": "7:5",
-     "differenz": 2,
-     "punkte": 7
     },
     {
      "platz": 9,
@@ -1412,6 +1412,18 @@
     },
     {
      "platz": 15,
+     "verein": "Wuppertaler SV",
+     "teamId": "011MIB4F8S000000VTVG0001VTR8C1K7",
+     "spiele": 7,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 5,
+     "tore": "7:10",
+     "differenz": -3,
+     "punkte": 4
+    },
+    {
+     "platz": 16,
      "verein": "VfL Viktoria Jüchen-Garzweiler",
      "teamId": "011MICDOHK000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -1423,7 +1435,7 @@
      "punkte": 4
     },
     {
-     "platz": 16,
+     "platz": 17,
      "verein": "TSV Meerbusch",
      "teamId": "01OSKP4IVO000000VV0AG811VSQ2DN07",
      "spiele": 5,
@@ -1435,27 +1447,15 @@
      "punkte": 2
     },
     {
-     "platz": 17,
-     "verein": "Wuppertaler SV",
-     "teamId": "011MIB4F8S000000VTVG0001VTR8C1K7",
+     "platz": 18,
+     "verein": "Holzheimer SG",
+     "teamId": "011MIDAP84000000VTVG0001VTR8C1K7",
      "spiele": 6,
      "siege": 0,
      "unentschieden": 1,
      "niederlagen": 5,
-     "tore": "3:10",
-     "differenz": -7,
-     "punkte": 1
-    },
-    {
-     "platz": 18,
-     "verein": "Holzheimer SG",
-     "teamId": "011MIDAP84000000VTVG0001VTR8C1K7",
-     "spiele": 5,
-     "siege": 0,
-     "unentschieden": 1,
-     "niederlagen": 4,
-     "tore": "7:19",
-     "differenz": -12,
+     "tore": "7:23",
+     "differenz": -16,
      "punkte": 1
     }
    ]
@@ -2312,7 +2312,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/1-fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/011MI9O6GK000000VTVG0001VTR8C1K7",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 9,
+   "platz": 10,
    "punkte": 7,
    "torverhaeltnis": "13:12",
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
@@ -3966,20 +3966,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-budberg-sv-budberg-1946-niederrhein/-/saison/2627/team-id/011MIEFDHS000000VTVG0001VTR8C1K7",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 2,
-   "punkte": 12,
-   "torverhaeltnis": "14:6",
+   "platz": 1,
+   "punkte": 15,
+   "torverhaeltnis": "15:6",
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
    "naechste": [
-    {
-     "datum": "Samstag, 19.09.2026 - 18:00 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "VFB Homberg",
-     "gast": "SV Budberg",
-     "url": "https://www.fussball.de/spiel/vfb-homberg-sv-budberg/-/spiel/031EKQ0VFS000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Dienstag, 22.09.2026 - 19:30 Uhr",
      "wettbewerb": "Landesfreundschaftsspiele",
@@ -4015,9 +4006,27 @@
      "url": "https://www.fussball.de/spiel/sv-budberg-vfl-rhede/-/spiel/031EKQ0UIO000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 11.10.2026 - 15:15 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SV Biemenhorst",
+     "gast": "SV Budberg",
+     "url": "https://www.fussball.de/spiel/sv-biemenhorst-sv-budberg/-/spiel/031EKQ0U34000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 19.09.2026 - 18:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "VFB Homberg",
+     "gast": "SV Budberg",
+     "url": "https://www.fussball.de/spiel/vfb-homberg-sv-budberg/-/spiel/031EKQ0VFS000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 13.09.2026 - 15:00 Uhr",
      "wettbewerb": "Landesliga",
@@ -4051,15 +4060,6 @@
      "heim": "SC Union Nettetal",
      "gast": "SV Budberg",
      "url": "https://www.fussball.de/spiel/sc-union-nettetal-sv-budberg/-/spiel/031EKQ113C000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "SV Budberg",
-     "gast": "VfB Speldorf",
-     "url": "https://www.fussball.de/spiel/sv-budberg-vfb-speldorf/-/spiel/031EKQ11QK000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
