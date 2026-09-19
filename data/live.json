@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-19T15:01:06.103Z",
+ "aktualisiert": "2026-09-19T17:57:17.947Z",
  "tag": "19.09.",
  "datum": "2026-09-19",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -150,7 +150,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 301,
+   "seitAnpfiffMin": 477,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -344,7 +344,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 151,
+   "seitAnpfiffMin": 327,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -372,7 +372,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 121,
+   "seitAnpfiffMin": 297,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -400,7 +400,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 121,
+   "seitAnpfiffMin": 297,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -418,16 +418,19 @@
    "zeit": "13:45",
    "heim": "GSV Moers",
    "gast": "SV Budberg",
-   "tore": null,
+   "tore": {
+    "heim": 5,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 76,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 252,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -443,16 +446,65 @@
    "zeit": "14:00",
    "heim": "SC Hertha Hamborn",
    "gast": "FC Neukirchen-Vluyn 09/21",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 3,
+    "gast": 8
+   },
+   "ereignisse": [
+    {
+     "minute": 11,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Meik Schrewe",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sc-hertha-hamborn-ah1-2026-27",
+     "clubSlug": "sc-hertha-hamborn"
+    },
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Sandro Antonaci",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 8
+     },
+     "teamSlug": "sc-hertha-hamborn-ah1-2026-27",
+     "clubSlug": "sc-hertha-hamborn"
+    },
+    {
+     "minute": 78,
+     "nachspielzeit": 0,
+     "art": "goal_free_kick",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Sandro Antonaci",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 8
+     },
+     "teamSlug": "sc-hertha-hamborn-ah1-2026-27",
+     "clubSlug": "sc-hertha-hamborn"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 61,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 237,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -473,10 +525,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": 1,
-   "laeuft": false,
+   "seitAnpfiffMin": 177,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -493,16 +545,19 @@
    "zeit": "15:00",
    "heim": "VfL Rheinhausen",
    "gast": "TV Kapellen",
-   "tore": null,
+   "tore": {
+    "heim": 9,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 1,
+   "seitAnpfiffMin": 177,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -518,16 +573,50 @@
    "zeit": "16:00",
    "heim": "VfB Homberg",
    "gast": "SV Budberg",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 0,
+    "gast": 1
+   },
+   "ereignisse": [
+    {
+     "minute": 79,
+     "nachspielzeit": 0,
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": "Marcio Jordan Blank",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 0
+     },
+     "teamSlug": "vfb-homberg-m1-2026-27",
+     "clubSlug": "vfb-homberg"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Fynn Leon Eckhardt",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-m1-2026-27",
+     "clubSlug": "sv-budberg"
+    }
+   ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Lukas Luthe",
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -59,
+   "seitAnpfiffMin": 117,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -551,7 +640,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -179,
+   "seitAnpfiffMin": -3,
    "laeuft": false,
    "abgeschlossen": false
   }
