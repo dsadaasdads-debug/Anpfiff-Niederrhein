@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-19T19:55:56.395Z",
+ "aktualisiert": "2026-09-19T21:57:05.276Z",
  "tag": "19.09.",
  "datum": "2026-09-19",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -150,7 +150,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 596,
+   "seitAnpfiffMin": 717,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -344,7 +344,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 446,
+   "seitAnpfiffMin": 567,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -372,7 +372,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 416,
+   "seitAnpfiffMin": 537,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -400,7 +400,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 416,
+   "seitAnpfiffMin": 537,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -534,7 +534,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 492,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -608,7 +608,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 356,
+   "seitAnpfiffMin": 477,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -633,7 +633,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 296,
+   "seitAnpfiffMin": 417,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -661,7 +661,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 296,
+   "seitAnpfiffMin": 417,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -720,193 +720,9 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 236,
+   "seitAnpfiffMin": 357,
    "laeuft": false,
    "abgeschlossen": true
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/vfb-homberg-sv-budberg/-/spiel/031EKQ0VFS000000VS5489BTVUS470OH",
-   "verein": "SV Budberg 1946",
-   "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "Landesliga Gruppe 1",
-   "wettbewerb": "Landesliga",
-   "anpfiff": "2026-09-19T18:00:00.000Z",
-   "zeit": "18:00",
-   "heim": "VFB Homberg",
-   "gast": "SV Budberg",
-   "tore": {
-    "heim": 0,
-    "gast": 1
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 44,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 60,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 66,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 70,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 80,
-     "nachspielzeit": 0,
-     "art": "red-card",
-     "name": "Rote Karte",
-     "zeichen": "🟥",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 83,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 89,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 89,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 116,
-   "laeuft": true,
-   "abgeschlossen": false
   }
  ]
 }
