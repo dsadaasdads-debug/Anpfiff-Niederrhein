@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-19T11:35:14.332Z",
+ "aktualisiert": "2026-09-19T16:05:41.351Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -278,6 +278,18 @@
     },
     {
      "platz": 5,
+     "verein": "SV Budberg",
+     "teamId": "011MIF5K20000000VTVG0001VTR8C1K7",
+     "spiele": 2,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "10:8",
+     "differenz": 2,
+     "punkte": 3
+    },
+    {
+     "platz": 6,
      "verein": "FSV Duisburg",
      "teamId": "011MIEMHS8000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -289,7 +301,7 @@
      "punkte": 3
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "PSV Wesel",
      "teamId": "011MIDPEHG000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -301,7 +313,7 @@
      "punkte": 3
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "JSG SV Straelen / SV Veert",
      "teamId": "011MIF5LV8000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -309,18 +321,6 @@
      "unentschieden": 0,
      "niederlagen": 1,
      "tore": "2:4",
-     "differenz": -2,
-     "punkte": 0
-    },
-    {
-     "platz": 8,
-     "verein": "SV Sonsbeck",
-     "teamId": "011MIF5QVC000000VTVG0001VTR8C1K7",
-     "spiele": 1,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "1:3",
      "differenz": -2,
      "punkte": 0
     },
@@ -337,19 +337,7 @@
      "punkte": 0
     },
     {
-     "platz": 9,
-     "verein": "SV Budberg",
-     "teamId": "011MIF5K20000000VTVG0001VTR8C1K7",
-     "spiele": 1,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "2:6",
-     "differenz": -4,
-     "punkte": 0
-    },
-    {
-     "platz": 11,
+     "platz": 10,
      "verein": "SV Krechting",
      "teamId": "01ORDBHD6C000000VV0AG811VVANPB38",
      "spiele": 1,
@@ -361,7 +349,7 @@
      "punkte": 0
     },
     {
-     "platz": 12,
+     "platz": 11,
      "verein": "JSG Nütterden / Kranenburg",
      "teamId": "011MID3RF4000000VTVG0001VTR8C1K7",
      "spiele": 1,
@@ -370,6 +358,18 @@
      "niederlagen": 1,
      "tore": "1:7",
      "differenz": -6,
+     "punkte": 0
+    },
+    {
+     "platz": 12,
+     "verein": "SV Sonsbeck",
+     "teamId": "011MIF5QVC000000VTVG0001VTR8C1K7",
+     "spiele": 2,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "tore": "3:11",
+     "differenz": -8,
      "punkte": 0
     }
    ]
