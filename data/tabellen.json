@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-20T16:31:21.122Z",
+ "aktualisiert": "2026-09-20T21:05:04.233Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2180,6 +2180,18 @@
     },
     {
      "platz": 9,
+     "verein": "SV Menzelen II",
+     "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
+     "spiele": 5,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "5:10",
+     "differenz": -5,
+     "punkte": 7
+    },
+    {
+     "platz": 10,
      "verein": "SV Sonsbeck III",
      "teamId": "02PTDCPP68000000VS5489B2VSE05932",
      "spiele": 5,
@@ -2191,7 +2203,7 @@
      "punkte": 6
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "SV Millingen II",
      "teamId": "011MICLI60000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -2203,7 +2215,7 @@
      "punkte": 6
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "SC Rheinkamp II",
      "teamId": "01SIQFBN18000000VS548984VVMI9KVG",
      "spiele": 4,
@@ -2212,18 +2224,6 @@
      "niederlagen": 2,
      "tore": "20:7",
      "differenz": 13,
-     "punkte": 4
-    },
-    {
-     "platz": 12,
-     "verein": "SV Menzelen II",
-     "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
-     "spiele": 4,
-     "siege": 1,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "3:10",
-     "differenz": -7,
      "punkte": 4
     },
     {
@@ -2266,12 +2266,12 @@
      "platz": 16,
      "verein": "FC Viktoria Alpen II",
      "teamId": "011MIE8974000000VTVG0001VTR8C1K7",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "2:22",
-     "differenz": -20,
+     "niederlagen": 4,
+     "tore": "2:24",
+     "differenz": -22,
      "punkte": 0
     },
     {
@@ -2318,15 +2318,6 @@
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "VSF Amern",
-     "gast": "1. FC Lintfort",
-     "url": "https://www.fussball.de/spiel/vsf-amern-1-fc-lintfort/-/spiel/031EKQ0VE8000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Donnerstag, 24.09.2026 - 20:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "SV Schwafheim",
@@ -2361,9 +2352,27 @@
      "url": "https://www.fussball.de/spiel/1-fc-lintfort-vfl-rhede/-/spiel/031EKQ0TUK000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Freitag, 16.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1. FC Kleve 63/03",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/1-fc-kleve-63-03-1-fc-lintfort/-/spiel/031EKQ0TMO000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "VSF Amern",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/vsf-amern-1-fc-lintfort/-/spiel/031EKQ0VE8000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 13.09.2026 - 15:00 Uhr",
      "wettbewerb": "Landesliga",
@@ -2397,15 +2406,6 @@
      "heim": "DJK Arminia Klosterhardt",
      "gast": "1. FC Lintfort",
      "url": "https://www.fussball.de/spiel/djk-arminia-klosterhardt-1-fc-lintfort/-/spiel/031EKQ11E0000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 16.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "1. FC Lintfort",
-     "gast": "ASV Süchteln",
-     "url": "https://www.fussball.de/spiel/1-fc-lintfort-asv-suechteln/-/spiel/031EKQ11HK000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3100,15 +3100,6 @@
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "GSV Moers",
-     "gast": "SV Fortuna Bottrop",
-     "url": "https://www.fussball.de/spiel/gsv-moers-sv-fortuna-bottrop/-/spiel/031ENENH4O000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 27.09.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "SuS 21 Oberhausen",
@@ -3143,9 +3134,27 @@
      "url": "https://www.fussball.de/spiel/schwarz-weiss-alstaden-gsv-moers/-/spiel/031ENENF68000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 18.10.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "GSV Moers",
+     "gast": "Spvgg. Sterkrade-Nord",
+     "url": "https://www.fussball.de/spiel/gsv-moers-spvgg-sterkrade-nord/-/spiel/031ENENF14000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "GSV Moers",
+     "gast": "SV Fortuna Bottrop",
+     "url": "https://www.fussball.de/spiel/gsv-moers-sv-fortuna-bottrop/-/spiel/031ENENH4O000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 13.09.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -3179,15 +3188,6 @@
      "heim": "FC Neukirchen-Vluyn",
      "gast": "GSV Moers",
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-gsv-moers/-/spiel/031ENENJOO000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 16.08.2026 - 15:30 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "GSV Moers",
-     "gast": "FSV Duisburg",
-     "url": "https://www.fussball.de/spiel/gsv-moers-fsv-duisburg/-/spiel/031ENENKCC000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
