@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-21T13:23:19.930Z",
+ "aktualisiert": "2026-09-21T20:08:49.177Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2636,15 +2636,6 @@
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers-djk-sg-altenessen/-/spiel/0308ROT0H4000000VS5489BUVV4MIU4T",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Samstag, 21.03.2026 - 19:00 Uhr",
-     "wettbewerb": "Futsal-Landesliga",
-     "heim": "FC Mattheck Moers",
-     "gast": "GSV Duisburg",
-     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-gsv-duisburg/-/spiel/0308ROT0GG000000VS5489BUVV4MIU4T",
-     "ergebnisVerschleiert": false,
-     "hinweis": "v"
     }
    ]
   },
@@ -4737,9 +4728,9 @@
     {
      "datum": "Sonntag, 27.09.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
-     "heim": "SV 19 Sevelen",
-     "gast": "SV 1934 Veert",
-     "url": "https://www.fussball.de/spiel/sv-19-sevelen-sv-1934-veert/-/spiel/031JH223HS000000VS5489BUVVKNMR0J",
+     "heim": "SV 1934 Veert",
+     "gast": "SV 19 Sevelen",
+     "url": "https://www.fussball.de/spiel/sv-1934-veert-sv-19-sevelen/-/spiel/031JH223HS000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
