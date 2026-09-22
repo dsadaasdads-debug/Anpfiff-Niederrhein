@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-22T17:20:16.174Z",
+ "aktualisiert": "2026-09-22T21:41:09.299Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -896,6 +896,18 @@
     },
     {
      "platz": 7,
+     "verein": "ESV Hohenbudberg",
+     "teamId": "011MI9O5QC000000VTVG0001VTR8C1K7",
+     "spiele": 5,
+     "siege": 2,
+     "unentschieden": 2,
+     "niederlagen": 1,
+     "tore": "14:17",
+     "differenz": -3,
+     "punkte": 8
+    },
+    {
+     "platz": 8,
      "verein": "SV Schwafheim",
      "teamId": "011MIF5N78000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -907,19 +919,19 @@
      "punkte": 7
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "Büdericher SV",
      "teamId": "011MIASFU0000000VTVG0001VTR8C1K7",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 2,
      "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "7:5",
-     "differenz": 2,
+     "niederlagen": 2,
+     "tore": "11:10",
+     "differenz": 1,
      "punkte": 7
     },
     {
-     "platz": 9,
+     "platz": 10,
      "verein": "VfL Rheinhausen",
      "teamId": "011MI9UHFS000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -929,18 +941,6 @@
      "tore": "11:10",
      "differenz": 1,
      "punkte": 6
-    },
-    {
-     "platz": 10,
-     "verein": "ESV Hohenbudberg",
-     "teamId": "011MI9O5QC000000VTVG0001VTR8C1K7",
-     "spiele": 4,
-     "siege": 1,
-     "unentschieden": 2,
-     "niederlagen": 1,
-     "tore": "9:13",
-     "differenz": -4,
-     "punkte": 5
     },
     {
      "platz": 11,
@@ -1046,6 +1046,18 @@
     },
     {
      "platz": 3,
+     "verein": "SV Alemannia Kamp II",
+     "teamId": "0317IHGS0C000000VS5489BSVSCPI5U4",
+     "spiele": 5,
+     "siege": 4,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "17:9",
+     "differenz": 8,
+     "punkte": 13
+    },
+    {
+     "platz": 4,
      "verein": "MSV Moers II",
      "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
      "spiele": 5,
@@ -1057,7 +1069,7 @@
      "punkte": 12
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "MSV Moers IV",
      "teamId": "02PPT3VAVK000000VS5489B2VUGLP840",
      "spiele": 5,
@@ -1069,7 +1081,7 @@
      "punkte": 11
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "VfL Repelen II",
      "teamId": "011MIAP9SG000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -1081,7 +1093,7 @@
      "punkte": 10
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "FC Neukirchen-Vluyn IV",
      "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
      "spiele": 5,
@@ -1090,18 +1102,6 @@
      "niederlagen": 1,
      "tore": "19:4",
      "differenz": 15,
-     "punkte": 10
-    },
-    {
-     "platz": 7,
-     "verein": "SV Alemannia Kamp II",
-     "teamId": "0317IHGS0C000000VS5489BSVSCPI5U4",
-     "spiele": 4,
-     "siege": 3,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "14:7",
-     "differenz": 7,
      "punkte": 10
     },
     {
@@ -1168,12 +1168,12 @@
      "platz": 13,
      "verein": "SuS Rayen",
      "teamId": "011MIA98AS000000VTVG0001VTR8C1K7",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "22:17",
-     "differenz": 5,
+     "niederlagen": 4,
+     "tore": "24:20",
+     "differenz": 4,
      "punkte": 3
     },
     {
@@ -1748,6 +1748,18 @@
     },
     {
      "platz": 6,
+     "verein": "Viktoria Winnekendonk II",
+     "teamId": "011MIC4R40000000VTVG0001VTR8C1K7",
+     "spiele": 6,
+     "siege": 3,
+     "unentschieden": 2,
+     "niederlagen": 1,
+     "tore": "19:14",
+     "differenz": 5,
+     "punkte": 11
+    },
+    {
+     "platz": 7,
      "verein": "SV Germania Wemb",
      "teamId": "011MIAIU80000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -1757,18 +1769,6 @@
      "tore": "16:10",
      "differenz": 6,
      "punkte": 9
-    },
-    {
-     "platz": 7,
-     "verein": "Viktoria Winnekendonk II",
-     "teamId": "011MIC4R40000000VTVG0001VTR8C1K7",
-     "spiele": 5,
-     "siege": 2,
-     "unentschieden": 2,
-     "niederlagen": 1,
-     "tore": "16:12",
-     "differenz": 4,
-     "punkte": 8
     },
     {
      "platz": 8,
@@ -1834,12 +1834,12 @@
      "platz": 13,
      "verein": "SV 1913 Walbeck II",
      "teamId": "011MI9UEAC000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 1,
      "unentschieden": 2,
-     "niederlagen": 2,
-     "tore": "15:14",
-     "differenz": 1,
+     "niederlagen": 3,
+     "tore": "17:17",
+     "differenz": 0,
      "punkte": 5
     },
     {
@@ -3632,18 +3632,9 @@
    "spielklasse": "Kreisliga C",
    "platz": 13,
    "punkte": 3,
-   "torverhaeltnis": "22:17",
+   "torverhaeltnis": "24:20",
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Dienstag, 22.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SV Alemannia Kamp II",
-     "gast": "SuS Rayen",
-     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-ii-sus-rayen/-/spiel/031I6OV04S000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -3679,9 +3670,27 @@
      "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-ii-sus-rayen/-/spiel/031I6OUU94000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SuS Rayen",
+     "gast": "FC Rumeln-Kaldenhausen II",
+     "url": "https://www.fussball.de/spiel/sus-rayen-fc-rumeln-kaldenhausen-ii/-/spiel/031I6OUTOO000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 22.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Alemannia Kamp II",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-ii-sus-rayen/-/spiel/031I6OV04S000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 13.09.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -3715,15 +3724,6 @@
      "heim": "SuS Rayen",
      "gast": "TuS Borth III",
      "url": "https://www.fussball.de/spiel/sus-rayen-tus-borth-iii/-/spiel/031I6OV1CS000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 23.08.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SuS Rayen",
-     "gast": "TV Kapellen",
-     "url": "https://www.fussball.de/spiel/sus-rayen-tv-kapellen/-/spiel/031FVRL5TG000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3963,15 +3963,6 @@
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Dienstag, 22.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Landesfreundschaftsspiele",
-     "heim": "SV Sonsbeck",
-     "gast": "SV Budberg",
-     "url": "https://www.fussball.de/spiel/sv-sonsbeck-sv-budberg/-/spiel/0323DOQI6O000000VS5489BTVT7QHFUC",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "1. FC Lintfort",
@@ -4006,9 +3997,27 @@
      "url": "https://www.fussball.de/spiel/sv-biemenhorst-sv-budberg/-/spiel/031EKQ0U34000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 18.10.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SV Budberg",
+     "gast": "Sportfreunde 06 Neuwerk",
+     "url": "https://www.fussball.de/spiel/sv-budberg-sportfreunde-06-neuwerk/-/spiel/031EKQ0TP8000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 22.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Landesfreundschaftsspiele",
+     "heim": "SV Sonsbeck",
+     "gast": "SV Budberg",
+     "url": "https://www.fussball.de/spiel/sv-sonsbeck-sv-budberg/-/spiel/0323DOQI6O000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Samstag, 19.09.2026 - 18:00 Uhr",
      "wettbewerb": "Landesliga",
@@ -4042,15 +4051,6 @@
      "heim": "SV Budberg",
      "gast": "Duisburger FV 08",
      "url": "https://www.fussball.de/spiel/sv-budberg-duisburger-fv-08/-/spiel/031EKQ10QK000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "SC Union Nettetal",
-     "gast": "SV Budberg",
-     "url": "https://www.fussball.de/spiel/sc-union-nettetal-sv-budberg/-/spiel/031EKQ113C000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4611,7 +4611,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-schwafheim-sv-schwafheim-1932-niederrhein/-/saison/2627/team-id/011MIF5N78000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 7,
+   "platz": 8,
    "punkte": 7,
    "torverhaeltnis": "12:10",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
