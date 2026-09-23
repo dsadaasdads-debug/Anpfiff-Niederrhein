@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-23T12:13:54.500Z",
+ "aktualisiert": "2026-09-23T17:29:51.740Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1106,6 +1106,18 @@
     },
     {
      "platz": 8,
+     "verein": "VFB Homberg III",
+     "teamId": "01HDETCRBK000000VV0AG811VUIMUTIM",
+     "spiele": 5,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "tore": "14:8",
+     "differenz": 6,
+     "punkte": 10
+    },
+    {
+     "platz": 9,
      "verein": "SpVgg. Rheurdt-Schaephuysen III",
      "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
      "spiele": 5,
@@ -1114,18 +1126,6 @@
      "niederlagen": 2,
      "tore": "37:10",
      "differenz": 27,
-     "punkte": 7
-    },
-    {
-     "platz": 9,
-     "verein": "VFB Homberg III",
-     "teamId": "01HDETCRBK000000VV0AG811VUIMUTIM",
-     "spiele": 4,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "12:8",
-     "differenz": 4,
      "punkte": 7
     },
     {
@@ -1192,12 +1192,12 @@
      "platz": 15,
      "verein": "FC Rot-Weiß Moers II",
      "teamId": "011MI9IARO000000VTVG0001VTR8C1K7",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "3:25",
-     "differenz": -22,
+     "niederlagen": 4,
+     "tore": "3:27",
+     "differenz": -24,
      "punkte": 3
     },
     {
@@ -3309,7 +3309,7 @@
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Sonntag, 27.09.2026 - 13:00 Uhr",
+     "datum": "Freitag, 25.09.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisliga C",
      "heim": "SC Rheinkamp",
      "gast": "SpVgg. Rheurdt-Schaephuysen IV, 9er",
