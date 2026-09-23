@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-23T17:29:51.740Z",
+ "aktualisiert": "2026-09-23T21:48:55.395Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1772,6 +1772,18 @@
     },
     {
      "platz": 8,
+     "verein": "FC Aldekerk 1928/52 II",
+     "teamId": "011MIAE464000000VTVG0001VTR8C1K7",
+     "spiele": 6,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "tore": "18:18",
+     "differenz": 0,
+     "punkte": 9
+    },
+    {
+     "platz": 9,
      "verein": "SV BW Herongen II",
      "teamId": "011MIBT35O000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -1783,7 +1795,7 @@
      "punkte": 8
     },
     {
-     "platz": 9,
+     "platz": 10,
      "verein": "Kevelaerer SV II",
      "teamId": "011MIDHTKG000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -1795,7 +1807,7 @@
      "punkte": 7
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "DJK Twisteden II",
      "teamId": "011MIDANHK000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -1804,18 +1816,6 @@
      "niederlagen": 1,
      "tore": "10:10",
      "differenz": 0,
-     "punkte": 6
-    },
-    {
-     "platz": 11,
-     "verein": "FC Aldekerk 1928/52 II",
-     "teamId": "011MIAE464000000VTVG0001VTR8C1K7",
-     "spiele": 5,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "14:16",
-     "differenz": -2,
      "punkte": 6
     },
     {
@@ -1858,12 +1858,12 @@
      "platz": 15,
      "verein": "SV Grün-Weiß Vernum II",
      "teamId": "012F5BH3M4000000VV0AG811VT1UN0HI",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 5,
-     "tore": "1:18",
-     "differenz": -17,
+     "niederlagen": 6,
+     "tore": "3:22",
+     "differenz": -19,
      "punkte": 0
     },
     {
@@ -2564,7 +2564,7 @@
      "hinweis": null
     },
     {
-     "datum": "Samstag, 03.10.2026 - ** Uhr",
+     "datum": "Samstag, 03.10.2026 - 18:00 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "FF M'gladbach 07 II",
      "gast": "FC Mattheck Moers",
