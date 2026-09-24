@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-24T12:14:15.215Z",
+ "aktualisiert": "2026-09-24T17:34:54.148Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2991,7 +2991,7 @@
      "hinweis": null
     },
     {
-     "datum": "Mittwoch, 30.09.2026 - 19:30 Uhr",
+     "datum": "Mittwoch, 30.09.2026 - 19:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "FC Viktoria Alpen",
      "gast": "ESV Hohenbudberg",
@@ -4081,6 +4081,15 @@
      "hinweis": null
     },
     {
+     "datum": "Mittwoch, 30.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "DJK Twisteden II",
+     "gast": "SV Issum",
+     "url": "https://www.fussball.de/spiel/djk-twisteden-ii-sv-issum/-/spiel/031JH9A1C4000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 04.10.2026 - 14:00 Uhr",
      "wettbewerb": "Kreisliga B",
      "heim": "FC Aldekerk 1928/52 III",
@@ -4106,27 +4115,9 @@
      "url": "https://www.fussball.de/spiel/sv-arminia-kapellen-hamb-sv-issum/-/spiel/031JH99VHO000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 25.10.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "SV Issum",
-     "gast": "SV Germania Wemb",
-     "url": "https://www.fussball.de/spiel/sv-issum-sv-germania-wemb/-/spiel/031JH99V80000000VS5489BUVVKNMR0J",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ],
    "letzte": [
-    {
-     "datum": "Freitag, 18.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "DJK Twisteden II",
-     "gast": "SV Issum",
-     "url": "https://www.fussball.de/spiel/djk-twisteden-ii-sv-issum/-/spiel/031JH9A1C4000000VS5489BUVVKNMR0J",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
     {
      "datum": "Sonntag, 13.09.2026 - 12:30 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -4160,6 +4151,15 @@
      "heim": "SV Issum",
      "gast": "SV Grün-Weiß Vernum II",
      "url": "https://www.fussball.de/spiel/sv-issum-sv-gruen-weiss-vernum-ii/-/spiel/031JH9A3J8000000VS5489BUVVKNMR0J",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 16.08.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Issum",
+     "gast": "SV 19 Sevelen II",
+     "url": "https://www.fussball.de/spiel/sv-issum-sv-19-sevelen-ii/-/spiel/031JH9A4PO000000VS5489BUVVKNMR0J",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
