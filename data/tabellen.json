@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-24T17:34:54.148Z",
+ "aktualisiert": "2026-09-24T21:50:54.240Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2318,15 +2318,6 @@
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Donnerstag, 24.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SV Schwafheim",
-     "gast": "1. FC Lintfort",
-     "url": "https://www.fussball.de/spiel/sv-schwafheim-1-fc-lintfort/-/spiel/031QJDA408000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "1. FC Lintfort",
@@ -2361,9 +2352,27 @@
      "url": "https://www.fussball.de/spiel/1-fc-kleve-63-03-1-fc-lintfort/-/spiel/031EKQ0TMO000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1. FC Lintfort",
+     "gast": "SV Biemenhorst",
+     "url": "https://www.fussball.de/spiel/1-fc-lintfort-sv-biemenhorst/-/spiel/031EKQ0T6C000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 24.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Schwafheim",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-1-fc-lintfort/-/spiel/031QJDA408000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
      "wettbewerb": "Landesliga",
@@ -2397,15 +2406,6 @@
      "heim": "1. FC Lintfort",
      "gast": "Mülheimer FC 97",
      "url": "https://www.fussball.de/spiel/1-fc-lintfort-muelheimer-fc-97/-/spiel/031EKQ10I8000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 23.08.2026 - 15:30 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "DJK Arminia Klosterhardt",
-     "gast": "1. FC Lintfort",
-     "url": "https://www.fussball.de/spiel/djk-arminia-klosterhardt-1-fc-lintfort/-/spiel/031EKQ11E0000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4617,15 +4617,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Donnerstag, 24.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SV Schwafheim",
-     "gast": "1. FC Lintfort",
-     "url": "https://www.fussball.de/spiel/sv-schwafheim-1-fc-lintfort/-/spiel/031QJDA408000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 27.09.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "Büdericher SV",
@@ -4660,9 +4651,27 @@
      "url": "https://www.fussball.de/spiel/sv-schwafheim-msv-moers/-/spiel/031H9RCB58000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 25.10.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Schwafheim",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-sv-menzelen/-/spiel/031H9RCAPK000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 24.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Schwafheim",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-1-fc-lintfort/-/spiel/031QJDA408000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 20.09.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4696,15 +4705,6 @@
      "heim": "SV Schwafheim",
      "gast": "FC Viktoria Alpen",
      "url": "https://www.fussball.de/spiel/sv-schwafheim-fc-viktoria-alpen/-/spiel/031H9RCDNO000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 30.08.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SSV Rheintreu Lüttingen",
-     "gast": "SV Schwafheim",
-     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-sv-schwafheim/-/spiel/031H9RCE78000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
