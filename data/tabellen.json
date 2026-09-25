@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-25T12:16:49.588Z",
+ "aktualisiert": "2026-09-25T17:34:28.265Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1058,18 +1058,6 @@
     },
     {
      "platz": 4,
-     "verein": "MSV Moers II",
-     "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
-     "spiele": 5,
-     "siege": 4,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "20:5",
-     "differenz": 15,
-     "punkte": 12
-    },
-    {
-     "platz": 5,
      "verein": "MSV Moers IV",
      "teamId": "02PPT3VAVK000000VS5489B2VUGLP840",
      "spiele": 5,
@@ -1081,7 +1069,7 @@
      "punkte": 11
     },
     {
-     "platz": 6,
+     "platz": 5,
      "verein": "VfL Repelen II",
      "teamId": "011MIAP9SG000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -1090,6 +1078,18 @@
      "niederlagen": 1,
      "tore": "49:8",
      "differenz": 41,
+     "punkte": 10
+    },
+    {
+     "platz": 6,
+     "verein": "SpVgg. Rheurdt-Schaephuysen III",
+     "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
+     "spiele": 5,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "tore": "38:6",
+     "differenz": 32,
      "punkte": 10
     },
     {
@@ -1118,15 +1118,15 @@
     },
     {
      "platz": 9,
-     "verein": "SpVgg. Rheurdt-Schaephuysen III",
-     "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
+     "verein": "MSV Moers II",
+     "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
      "spiele": 5,
-     "siege": 2,
-     "unentschieden": 1,
+     "siege": 3,
+     "unentschieden": 0,
      "niederlagen": 2,
-     "tore": "37:10",
-     "differenz": 27,
-     "punkte": 7
+     "tore": "16:6",
+     "differenz": 10,
+     "punkte": 9
     },
     {
      "platz": 10,
