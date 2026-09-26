@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-26T15:21:16.463Z",
+ "aktualisiert": "2026-09-26T18:40:03.340Z",
  "tag": "26.09.",
  "datum": "2026-09-26",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 351,
+   "seitAnpfiffMin": 550,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -57,7 +57,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 321,
+   "seitAnpfiffMin": 520,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -85,7 +85,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 291,
+   "seitAnpfiffMin": 490,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -113,7 +113,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 261,
+   "seitAnpfiffMin": 460,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -141,7 +141,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 261,
+   "seitAnpfiffMin": 460,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -169,7 +169,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 231,
+   "seitAnpfiffMin": 430,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -258,7 +258,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 231,
+   "seitAnpfiffMin": 430,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -276,16 +276,19 @@
    "zeit": "13:00",
    "heim": "JSG Alpen/Menzelen/Veen",
    "gast": "TV Asberg II",
-   "tore": null,
+   "tore": {
+    "heim": 3,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 141,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 340,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -311,7 +314,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 141,
+   "seitAnpfiffMin": 340,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -334,11 +337,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 141,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 340,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -364,7 +367,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 141,
+   "seitAnpfiffMin": 340,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -392,7 +395,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 141,
+   "seitAnpfiffMin": 340,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -420,7 +423,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 141,
+   "seitAnpfiffMin": 340,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -448,33 +451,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 141,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/djk-sg-altenessen-fc-mattheck-moers/-/spiel/031OPNR30O000000VS5489BTVV1LNS7C",
-   "verein": "FC Mattheck Moers",
-   "heimatverein": null,
-   "ort": "Moers",
-   "zone": "kern",
-   "liga": null,
-   "wettbewerb": "Futsal-Niederrheinliga",
-   "anpfiff": "2026-09-26T13:00:00.000Z",
-   "zeit": "13:00",
-   "heim": "DJK SG Altenessen",
-   "gast": "FC Mattheck Moers",
-   "tore": null,
-   "ergebnisGemeldet": true,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 141,
+   "seitAnpfiffMin": 340,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -502,7 +479,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 126,
+   "seitAnpfiffMin": 325,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -530,7 +507,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 126,
+   "seitAnpfiffMin": 325,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -558,7 +535,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 111,
+   "seitAnpfiffMin": 310,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -576,16 +553,19 @@
    "zeit": "14:00",
    "heim": "GSV Moers",
    "gast": "PSV Wesel",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 3
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 81,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 280,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -601,16 +581,19 @@
    "zeit": "15:00",
    "heim": "FC Rumeln-Kaldenhausen",
    "gast": "SV Schwafheim",
-   "tore": null,
+   "tore": {
+    "heim": 4,
+    "gast": 3
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 21,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 220,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -631,11 +614,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 21,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 220,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -652,8 +635,8 @@
    "heim": "1. FC Kleve",
    "gast": "FC Neukirchen-Vluyn 09/21",
    "tore": {
-    "heim": 0,
-    "gast": 1
+    "heim": 5,
+    "gast": 2
    },
    "ereignisse": [
     {
@@ -670,16 +653,121 @@
      },
      "teamSlug": "fc-neukirchen-vluyn-0921-u17-1-2026-27",
      "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 34,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u17-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 37,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "penaltyfail",
+     "zeichen": "•",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "1-fc-kleve-u17-1-2026-27",
+     "clubSlug": "1-fc-kleve"
+    },
+    {
+     "minute": 37,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "1-fc-kleve-u17-1-2026-27",
+     "clubSlug": "1-fc-kleve"
+    },
+    {
+     "minute": 40,
+     "nachspielzeit": 2,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "1-fc-kleve-u17-1-2026-27",
+     "clubSlug": "1-fc-kleve"
+    },
+    {
+     "minute": 50,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 2
+     },
+     "teamSlug": "1-fc-kleve-u17-1-2026-27",
+     "clubSlug": "1-fc-kleve"
+    },
+    {
+     "minute": 59,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 2
+     },
+     "teamSlug": "1-fc-kleve-u17-1-2026-27",
+     "clubSlug": "1-fc-kleve"
+    },
+    {
+     "minute": 67,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 2
+     },
+     "teamSlug": "1-fc-kleve-u17-1-2026-27",
+     "clubSlug": "1-fc-kleve"
     }
    ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 21,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 220,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -695,16 +783,19 @@
    "zeit": "15:00",
    "heim": "1. FC Lintfort III",
    "gast": "VfL Rheinhausen II",
-   "tore": null,
+   "tore": {
+    "heim": 5,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 21,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 220,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -720,16 +811,19 @@
    "zeit": "15:30",
    "heim": "TV Asberg",
    "gast": "SpVgg Rheurdt-Schaephuysen",
-   "tore": null,
+   "tore": {
+    "heim": 28,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -9,
+   "seitAnpfiffMin": 190,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   }
  ]
 }
