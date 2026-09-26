@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-26T11:49:02.424Z",
+ "aktualisiert": "2026-09-26T16:47:31.868Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -8,6 +8,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "Rheinland Hamborn",
+     "teamId": "011MIC2N00000000VTVG0001VTR8C1K7",
+     "spiele": 7,
+     "siege": 4,
+     "unentschieden": 3,
+     "niederlagen": 0,
+     "tore": "20:8",
+     "differenz": 12,
+     "punkte": 15
+    },
+    {
+     "platz": 2,
      "verein": "SV Budberg",
      "teamId": "011MIEFDHS000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -19,7 +31,7 @@
      "punkte": 15
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "DJK Arminia Klosterhardt",
      "teamId": "011MIANOCS000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -31,7 +43,7 @@
      "punkte": 14
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "VfB Speldorf",
      "teamId": "011MICNMMK000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -43,27 +55,15 @@
      "punkte": 13
     },
     {
-     "platz": 4,
-     "verein": "Rheinland Hamborn",
-     "teamId": "011MIC2N00000000VTVG0001VTR8C1K7",
-     "spiele": 6,
-     "siege": 3,
-     "unentschieden": 3,
-     "niederlagen": 0,
-     "tore": "14:6",
-     "differenz": 8,
-     "punkte": 12
-    },
-    {
      "platz": 5,
      "verein": "Duisburger FV 08",
      "teamId": "011MIDHOES000000VTVG0001VTR8C1K7",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 4,
      "unentschieden": 0,
-     "niederlagen": 2,
-     "tore": "18:11",
-     "differenz": 7,
+     "niederlagen": 3,
+     "tore": "20:17",
+     "differenz": 3,
      "punkte": 12
     },
     {
@@ -1280,6 +1280,18 @@
     },
     {
      "platz": 4,
+     "verein": "Krefelder FC Uerdingen",
+     "teamId": "011MIA4KF4000000VTVG0001VTR8C1K7",
+     "spiele": 7,
+     "siege": 4,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "18:7",
+     "differenz": 11,
+     "punkte": 13
+    },
+    {
+     "platz": 5,
      "verein": "SSVg Velbert 02",
      "teamId": "011MIEI1Q8000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -1291,7 +1303,7 @@
      "punkte": 12
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "SC St. Tönis 11/20",
      "teamId": "011MIC7T0S000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -1301,18 +1313,6 @@
      "tore": "13:11",
      "differenz": 2,
      "punkte": 11
-    },
-    {
-     "platz": 6,
-     "verein": "Krefelder FC Uerdingen",
-     "teamId": "011MIA4KF4000000VTVG0001VTR8C1K7",
-     "spiele": 6,
-     "siege": 3,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "15:7",
-     "differenz": 8,
-     "punkte": 10
     },
     {
      "platz": 7,
@@ -1438,12 +1438,12 @@
      "platz": 17,
      "verein": "TSV Meerbusch",
      "teamId": "01OSKP4IVO000000VV0AG811VSQ2DN07",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 0,
      "unentschieden": 2,
-     "niederlagen": 4,
-     "tore": "2:11",
-     "differenz": -9,
+     "niederlagen": 5,
+     "tore": "2:14",
+     "differenz": -12,
      "punkte": 2
     },
     {
@@ -2555,15 +2555,6 @@
    "staffelId": null,
    "naechste": [
     {
-     "datum": "Samstag, 26.09.2026 - 13:00 Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "DJK SG Altenessen",
-     "gast": "FC Mattheck Moers",
-     "url": "https://www.fussball.de/spiel/djk-sg-altenessen-fc-mattheck-moers/-/spiel/031OPNR30O000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Samstag, 03.10.2026 - 18:00 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "FF M'gladbach 07 II",
@@ -2598,9 +2589,27 @@
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers-croatia-geistenbeck/-/spiel/031OPNR39G000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Samstag, 14.11.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "Wuppertaler SV 2",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/wuppertaler-sv-2-fc-mattheck-moers/-/spiel/031OPNR3DS000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 26.09.2026 - 13:00 Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "DJK SG Altenessen",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/djk-sg-altenessen-fc-mattheck-moers/-/spiel/031OPNR30O000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Samstag, 19.09.2026 - ** Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
@@ -3957,7 +3966,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-budberg-sv-budberg-1946-niederrhein/-/saison/2627/team-id/011MIEFDHS000000VTVG0001VTR8C1K7",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 1,
+   "platz": 2,
    "punkte": 15,
    "torverhaeltnis": "15:6",
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
