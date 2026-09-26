@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-26T18:40:03.340Z",
+ "aktualisiert": "2026-09-26T21:32:55.607Z",
  "tag": "26.09.",
  "datum": "2026-09-26",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 550,
+   "seitAnpfiffMin": 723,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -57,7 +57,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 520,
+   "seitAnpfiffMin": 693,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -85,7 +85,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 490,
+   "seitAnpfiffMin": 663,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -113,7 +113,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 460,
+   "seitAnpfiffMin": 633,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -141,7 +141,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 460,
+   "seitAnpfiffMin": 633,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -169,7 +169,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 430,
+   "seitAnpfiffMin": 603,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -258,7 +258,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 430,
+   "seitAnpfiffMin": 603,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -286,7 +286,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 340,
+   "seitAnpfiffMin": 513,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -314,7 +314,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 340,
+   "seitAnpfiffMin": 513,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -339,7 +339,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 340,
+   "seitAnpfiffMin": 513,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -367,7 +367,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 340,
+   "seitAnpfiffMin": 513,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -395,7 +395,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 340,
+   "seitAnpfiffMin": 513,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -423,7 +423,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 340,
+   "seitAnpfiffMin": 513,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -451,7 +451,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 340,
+   "seitAnpfiffMin": 513,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -479,7 +479,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 325,
+   "seitAnpfiffMin": 498,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -507,7 +507,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 325,
+   "seitAnpfiffMin": 498,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -535,7 +535,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 310,
+   "seitAnpfiffMin": 483,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -563,7 +563,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 280,
+   "seitAnpfiffMin": 453,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -591,7 +591,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 220,
+   "seitAnpfiffMin": 393,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -616,7 +616,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 220,
+   "seitAnpfiffMin": 393,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -765,7 +765,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 220,
+   "seitAnpfiffMin": 393,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -793,7 +793,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 220,
+   "seitAnpfiffMin": 393,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -821,7 +821,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 190,
+   "seitAnpfiffMin": 363,
    "laeuft": false,
    "abgeschlossen": true
   }
