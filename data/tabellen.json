@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-27T17:19:23.886Z",
+ "aktualisiert": "2026-09-27T21:39:12.362Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -488,6 +488,18 @@
     },
     {
      "platz": 10,
+     "verein": "TuS Baerl",
+     "teamId": "011IT0R0UG000000VTVG0001VV3RV7FT",
+     "spiele": 6,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "tore": "17:21",
+     "differenz": -4,
+     "punkte": 9
+    },
+    {
+     "platz": 11,
      "verein": "FC Neukirchen-Vluyn III",
      "teamId": "02BAB133P8000000VS5489B1VU20GQ5T",
      "spiele": 6,
@@ -499,7 +511,7 @@
      "punkte": 8
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "SV Viktoria Birten",
      "teamId": "011MIE0POK000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -511,7 +523,7 @@
      "punkte": 7
     },
     {
-     "platz": 12,
+     "platz": 13,
      "verein": "TV Kaldenhausen",
      "teamId": "02TCVR52IG000000VS5489BRVU522QNF",
      "spiele": 6,
@@ -523,27 +535,15 @@
      "punkte": 7
     },
     {
-     "platz": 13,
-     "verein": "TuS Baerl",
-     "teamId": "011IT0R0UG000000VTVG0001VV3RV7FT",
-     "spiele": 5,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "14:20",
-     "differenz": -6,
-     "punkte": 6
-    },
-    {
      "platz": 14,
      "verein": "1.FC Lintfort II",
      "teamId": "011MI9UEU4000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 3,
-     "tore": "9:14",
-     "differenz": -5,
+     "niederlagen": 4,
+     "tore": "10:17",
+     "differenz": -7,
      "punkte": 4
     },
     {
@@ -1070,6 +1070,18 @@
     },
     {
      "platz": 5,
+     "verein": "VFB Homberg III",
+     "teamId": "01HDETCRBK000000VV0AG811VUIMUTIM",
+     "spiele": 6,
+     "siege": 4,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "tore": "19:10",
+     "differenz": 9,
+     "punkte": 13
+    },
+    {
+     "platz": 6,
      "verein": "VfL Repelen II",
      "teamId": "011MIAP9SG000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -1081,7 +1093,7 @@
      "punkte": 11
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "SpVgg. Rheurdt-Schaephuysen III",
      "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
      "spiele": 6,
@@ -1093,7 +1105,7 @@
      "punkte": 11
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "FC Neukirchen-Vluyn IV",
      "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
      "spiele": 6,
@@ -1103,18 +1115,6 @@
      "tore": "20:5",
      "differenz": 15,
      "punkte": 11
-    },
-    {
-     "platz": 8,
-     "verein": "VFB Homberg III",
-     "teamId": "01HDETCRBK000000VV0AG811VUIMUTIM",
-     "spiele": 5,
-     "siege": 3,
-     "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "14:8",
-     "differenz": 6,
-     "punkte": 10
     },
     {
      "platz": 9,
@@ -1168,12 +1168,12 @@
      "platz": 13,
      "verein": "FC Moers-Meerfeld II",
      "teamId": "02PPPC0NSO000000VS5489B2VUGLP840",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 2,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "8:13",
-     "differenz": -5,
+     "niederlagen": 4,
+     "tore": "10:18",
+     "differenz": -8,
      "punkte": 6
     },
     {
