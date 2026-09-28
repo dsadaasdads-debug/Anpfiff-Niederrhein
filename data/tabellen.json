@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-28T14:31:36.296Z",
+ "aktualisiert": "2026-09-28T21:24:35.368Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2636,15 +2636,6 @@
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers-wsv-futsal-youngsters-3/-/spiel/0308ROT0IG000000VS5489BUVV4MIU4T",
      "ergebnisVerschleiert": false,
      "hinweis": "w"
-    },
-    {
-     "datum": "Samstag, 28.03.2026 - 19:00 Uhr",
-     "wettbewerb": "Futsal-Landesliga",
-     "heim": "FC Mattheck Moers",
-     "gast": "DJK SG Altenessen",
-     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-djk-sg-altenessen/-/spiel/0308ROT0H4000000VS5489BUVV4MIU4T",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
