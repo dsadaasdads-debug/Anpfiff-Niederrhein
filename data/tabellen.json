@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-29T18:16:57.599Z",
+ "aktualisiert": "2026-09-29T22:39:04.796Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -3200,15 +3200,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Dienstag, 29.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "FC Rumeln-Kaldenhausen",
-     "gast": "MSV Moers",
-     "url": "https://www.fussball.de/spiel/fc-rumeln-kaldenhausen-msv-moers/-/spiel/031QJDA48S000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 04.10.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "ESV Hohenbudberg",
@@ -3243,9 +3234,27 @@
      "url": "https://www.fussball.de/spiel/msv-moers-ssv-rheintreu-luettingen/-/spiel/031H9RCAN4000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Freitag, 06.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Menzelen",
+     "gast": "MSV Moers",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-msv-moers/-/spiel/031H9RCAE4000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 29.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "FC Rumeln-Kaldenhausen",
+     "gast": "MSV Moers",
+     "url": "https://www.fussball.de/spiel/fc-rumeln-kaldenhausen-msv-moers/-/spiel/031QJDA48S000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 27.09.2026 - 16:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3279,15 +3288,6 @@
      "heim": "MSV Moers",
      "gast": "TV Asberg I",
      "url": "https://www.fussball.de/spiel/msv-moers-tv-asberg-i/-/spiel/031H9RCF5S000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 06.09.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "Büdericher SV",
-     "gast": "MSV Moers",
-     "url": "https://www.fussball.de/spiel/buedericher-sv-msv-moers/-/spiel/031H9RCDT8000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3963,15 +3963,6 @@
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Dienstag, 29.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SV Viktoria Birten",
-     "gast": "SV Budberg",
-     "url": "https://www.fussball.de/spiel/sv-viktoria-birten-sv-budberg/-/spiel/031QJDA3RS000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 04.10.2026 - 15:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "SV Budberg",
@@ -4006,9 +3997,27 @@
      "url": "https://www.fussball.de/spiel/rheinland-hamborn-sv-budberg/-/spiel/031EKQ0T7O000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 08.11.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SV Budberg",
+     "gast": "VfB Bottrop",
+     "url": "https://www.fussball.de/spiel/sv-budberg-vfb-bottrop/-/spiel/031EKQ0T1C000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 29.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Viktoria Birten",
+     "gast": "SV Budberg",
+     "url": "https://www.fussball.de/spiel/sv-viktoria-birten-sv-budberg/-/spiel/031QJDA3RS000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
      "wettbewerb": "Landesliga",
@@ -4042,15 +4051,6 @@
      "heim": "SV Budberg",
      "gast": "Mülheimer FC 97",
      "url": "https://www.fussball.de/spiel/sv-budberg-muelheimer-fc-97/-/spiel/031EKQ0VSK000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 06.09.2026 - 15:45 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "ASV Süchteln",
-     "gast": "SV Budberg",
-     "url": "https://www.fussball.de/spiel/asv-suechteln-sv-budberg/-/spiel/031EKQ10GG000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4290,15 +4290,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Dienstag, 29.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "VfL Rheinhausen",
-     "gast": "SV Millingen",
-     "url": "https://www.fussball.de/spiel/vfl-rheinhausen-sv-millingen/-/spiel/031QJDA47C000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 04.10.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Schwafheim",
@@ -4333,9 +4324,27 @@
      "url": "https://www.fussball.de/spiel/sv-millingen-tv-asberg-i/-/spiel/031H9RCASC000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 08.11.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Sonsbeck II",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/sv-sonsbeck-ii-sv-millingen/-/spiel/031H9RCAKK000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Dienstag, 29.09.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "VfL Rheinhausen",
+     "gast": "SV Millingen",
+     "url": "https://www.fussball.de/spiel/vfl-rheinhausen-sv-millingen/-/spiel/031QJDA47C000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4369,15 +4378,6 @@
      "heim": "SSV Rheintreu Lüttingen",
      "gast": "SV Millingen",
      "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-sv-millingen/-/spiel/031H9RCF9S000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 06.09.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Millingen",
-     "gast": "GSV Moers II",
-     "url": "https://www.fussball.de/spiel/sv-millingen-gsv-moers-ii/-/spiel/031H9RCDR8000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
