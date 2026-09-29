@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-29T10:10:05.484Z",
+ "aktualisiert": "2026-09-29T18:16:57.599Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2770,7 +2770,7 @@
      "gast": "FC Neukirchen-Vluyn",
      "url": "https://www.fussball.de/spiel/tus-baerl-fc-neukirchen-vluyn/-/spiel/031QJDA42O000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 04.10.2026 - 15:30 Uhr",
@@ -4408,7 +4408,7 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 11.10.2026 - 13:00 Uhr",
+     "datum": "Sonntag, 11.10.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga C",
      "heim": "Büdericher SV II",
      "gast": "SV Orsoy",
