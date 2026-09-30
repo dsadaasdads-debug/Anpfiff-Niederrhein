@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-09-30T13:02:32.726Z",
+ "aktualisiert": "2026-09-30T20:20:25.251Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1130,6 +1130,18 @@
     },
     {
      "platz": 10,
+     "verein": "SV Schwafheim III",
+     "teamId": "02T8NOOT10000000VS5489BSVV9JRPRB",
+     "spiele": 6,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "tore": "36:15",
+     "differenz": 21,
+     "punkte": 9
+    },
+    {
+     "platz": 11,
      "verein": "MSV Moers II",
      "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
      "spiele": 6,
@@ -1141,7 +1153,7 @@
      "punkte": 9
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "SC Rheinkamp",
      "teamId": "011MIDP8N4000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -1151,18 +1163,6 @@
      "tore": "19:12",
      "differenz": 7,
      "punkte": 8
-    },
-    {
-     "platz": 12,
-     "verein": "SV Schwafheim III",
-     "teamId": "02T8NOOT10000000VS5489BSVV9JRPRB",
-     "spiele": 5,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "14:15",
-     "differenz": -1,
-     "punkte": 6
     },
     {
      "platz": 13,
@@ -1228,12 +1228,12 @@
      "platz": 18,
      "verein": "SpVgg. Rheurdt-Schaephuysen IV, 9er",
      "teamId": "0320PK26DC000000VS5489BSVUFGIR4E",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 5,
-     "tore": "1:73",
-     "differenz": -72,
+     "niederlagen": 6,
+     "tore": "1:95",
+     "differenz": -94,
      "punkte": 0
     }
    ]
@@ -2982,15 +2982,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 30.09.2026 - 19:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "FC Viktoria Alpen",
-     "gast": "ESV Hohenbudberg",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-esv-hohenbudberg/-/spiel/031QJDA4B0000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 04.10.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Sonsbeck II",
@@ -3025,9 +3016,27 @@
      "url": "https://www.fussball.de/spiel/vfl-rheinhausen-fc-viktoria-alpen/-/spiel/031H9RCB7S000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 08.11.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SSV Rheintreu Lüttingen",
+     "gast": "FC Viktoria Alpen",
+     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-fc-viktoria-alpen/-/spiel/031H9RCAFC000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 30.09.2026 - 19:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "FC Viktoria Alpen",
+     "gast": "ESV Hohenbudberg",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-esv-hohenbudberg/-/spiel/031QJDA4B0000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3061,15 +3070,6 @@
      "heim": "FC Viktoria Alpen",
      "gast": "Büdericher SV",
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-buedericher-sv/-/spiel/031H9RCF80000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 06.09.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Schwafheim",
-     "gast": "FC Viktoria Alpen",
-     "url": "https://www.fussball.de/spiel/sv-schwafheim-fc-viktoria-alpen/-/spiel/031H9RCDNO000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3303,7 +3303,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sc-rheinkamp-sc-rheinkamp-niederrhein/-/saison/2627/team-id/011MIDP8N4000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 2",
    "spielklasse": "Kreisliga C",
-   "platz": 11,
+   "platz": 12,
    "punkte": 8,
    "torverhaeltnis": "19:12",
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
@@ -3881,7 +3881,7 @@
      "hinweis": null
     },
     {
-     "datum": "Mittwoch, 14.10.2026 - 19:30 Uhr",
+     "datum": "Donnerstag, 15.10.2026 - 19:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "SF 97/30 Lowick",
      "gast": "SV Borussia Veen 1920",
