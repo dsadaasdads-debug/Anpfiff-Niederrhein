@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-01T18:35:57.346Z",
+ "aktualisiert": "2026-10-01T22:56:50.025Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1690,13 +1690,13 @@
      "platz": 1,
      "verein": "SV Arminia Kapellen-Hamb",
      "teamId": "011MIBAN7K000000VTVG0001VTR8C1K7",
-     "spiele": 7,
-     "siege": 6,
+     "spiele": 8,
+     "siege": 7,
      "unentschieden": 1,
      "niederlagen": 0,
-     "tore": "33:10",
-     "differenz": 23,
-     "punkte": 19
+     "tore": "35:11",
+     "differenz": 24,
+     "punkte": 22
     },
     {
      "platz": 2,
@@ -1726,12 +1726,12 @@
      "platz": 4,
      "verein": "SV BW Herongen",
      "teamId": "011MIAE71G000000VTVG0001VTR8C1K7",
-     "spiele": 7,
+     "spiele": 8,
      "siege": 5,
      "unentschieden": 0,
-     "niederlagen": 2,
-     "tore": "30:11",
-     "differenz": 19,
+     "niederlagen": 3,
+     "tore": "31:13",
+     "differenz": 18,
      "punkte": 15
     },
     {
