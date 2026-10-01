@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-01T10:29:25.975Z",
+ "aktualisiert": "2026-10-01T18:35:57.346Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2120,18 +2120,6 @@
     },
     {
      "platz": 4,
-     "verein": "Concordia Rheinberg II",
-     "teamId": "02EK6VH7AO000000VS5489B1VV8GJNNG",
-     "spiele": 5,
-     "siege": 4,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "17:10",
-     "differenz": 7,
-     "punkte": 12
-    },
-    {
-     "platz": 5,
      "verein": "SV Rheinkraft Ginderich",
      "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -2143,7 +2131,7 @@
      "punkte": 10
     },
     {
-     "platz": 6,
+     "platz": 5,
      "verein": "SV Budberg IV",
      "teamId": "01OTG3R40K000000VV0AG811VSQ2DN07",
      "spiele": 6,
@@ -2155,7 +2143,31 @@
      "punkte": 10
     },
     {
+     "platz": 6,
+     "verein": "SV Sonsbeck III",
+     "teamId": "02PTDCPP68000000VS5489B2VSE05932",
+     "spiele": 6,
+     "siege": 2,
+     "unentschieden": 3,
+     "niederlagen": 1,
+     "tore": "15:11",
+     "differenz": 4,
+     "punkte": 9
+    },
+    {
      "platz": 7,
+     "verein": "Concordia Rheinberg II",
+     "teamId": "02EK6VH7AO000000VS5489B1VV8GJNNG",
+     "spiele": 5,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "tore": "12:10",
+     "differenz": 2,
+     "punkte": 9
+    },
+    {
+     "platz": 8,
      "verein": "SV Orsoy",
      "teamId": "011MIA98AC000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -2167,7 +2179,7 @@
      "punkte": 9
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "SV Vynen-Marienbaum",
      "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -2179,7 +2191,7 @@
      "punkte": 8
     },
     {
-     "platz": 9,
+     "platz": 10,
      "verein": "SC Rheinkamp II",
      "teamId": "01SIQFBN18000000VS548984VVMI9KVG",
      "spiele": 5,
@@ -2191,7 +2203,7 @@
      "punkte": 7
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "SV Menzelen II",
      "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
      "spiele": 6,
@@ -2203,7 +2215,7 @@
      "punkte": 7
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "Büdericher SV II",
      "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
      "spiele": 6,
@@ -2213,18 +2225,6 @@
      "tore": "12:25",
      "differenz": -13,
      "punkte": 7
-    },
-    {
-     "platz": 12,
-     "verein": "SV Sonsbeck III",
-     "teamId": "02PTDCPP68000000VS5489B2VSE05932",
-     "spiele": 6,
-     "siege": 1,
-     "unentschieden": 3,
-     "niederlagen": 2,
-     "tore": "15:16",
-     "differenz": -1,
-     "punkte": 6
     },
     {
      "platz": 13,
@@ -2817,7 +2817,7 @@
      "gast": "FC Neukirchen-Vluyn",
      "url": "https://www.fussball.de/spiel/tus-baerl-fc-neukirchen-vluyn/-/spiel/031QJDA42O000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
+     "hinweis": null
     },
     {
      "datum": "Sonntag, 27.09.2026 - 15:30 Uhr",
@@ -2926,7 +2926,7 @@
      "gast": "SpVgg. Rheurdt-Schaephuysen",
      "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-spvgg-rheurdt-schaephuysen/-/spiel/031QJDA4A0000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
+     "hinweis": null
     },
     {
      "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
@@ -2982,7 +2982,7 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Sonntag, 04.10.2026 - 15:00 Uhr",
+     "datum": "Sonntag, 04.10.2026 - 15:15 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Sonsbeck II",
      "gast": "FC Viktoria Alpen",
@@ -3471,7 +3471,7 @@
      "gast": "SpVgg. Rheurdt-Schaephuysen",
      "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-spvgg-rheurdt-schaephuysen/-/spiel/031QJDA4A0000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
+     "hinweis": null
     },
     {
      "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
@@ -4190,7 +4190,7 @@
      "hinweis": null
     },
     {
-     "datum": "Donnerstag, 08.10.2026 - 20:00 Uhr",
+     "datum": "Sonntag, 11.10.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Millingen",
      "gast": "SV Menzelen",
@@ -4299,7 +4299,7 @@
      "hinweis": null
     },
     {
-     "datum": "Donnerstag, 08.10.2026 - 20:00 Uhr",
+     "datum": "Sonntag, 11.10.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Millingen",
      "gast": "SV Menzelen",
@@ -4393,7 +4393,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-orsoy-sv-orsoy-1919-niederrhein/-/saison/2627/team-id/011MIA98AC000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 7,
+   "platz": 8,
    "punkte": 9,
    "torverhaeltnis": "17:23",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
@@ -4829,7 +4829,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-vynen-marienbaum-sv-vynen-marienbaum-1997-niederrhein/-/saison/2627/team-id/011MIANO4S000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 8,
+   "platz": 9,
    "punkte": 8,
    "torverhaeltnis": "17:13",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
