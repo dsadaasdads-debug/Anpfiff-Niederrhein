@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-03T18:45:19.046Z",
+ "aktualisiert": "2026-10-03T21:48:11.032Z",
  "tag": "03.10.",
  "datum": "2026-10-03",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 540,
+   "seitAnpfiffMin": 723,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -88,7 +88,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 465,
+   "seitAnpfiffMin": 648,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -116,7 +116,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 405,
+   "seitAnpfiffMin": 588,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -144,7 +144,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 375,
+   "seitAnpfiffMin": 558,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -172,7 +172,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 345,
+   "seitAnpfiffMin": 528,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -200,7 +200,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 285,
+   "seitAnpfiffMin": 468,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -228,7 +228,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 225,
+   "seitAnpfiffMin": 408,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -256,7 +256,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 165,
+   "seitAnpfiffMin": 348,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -435,7 +435,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 165,
+   "seitAnpfiffMin": 348,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -718,9 +718,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 45,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 228,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "fussball.de",
@@ -990,9 +990,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 45,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 228,
+   "laeuft": false,
+   "abgeschlossen": true
   }
  ]
 }
