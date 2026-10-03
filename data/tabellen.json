@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-03T14:27:07.427Z",
+ "aktualisiert": "2026-10-03T18:51:23.681Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1082,6 +1082,18 @@
     },
     {
      "platz": 6,
+     "verein": "TuS Borth III",
+     "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
+     "spiele": 7,
+     "siege": 4,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "26:21",
+     "differenz": 5,
+     "punkte": 13
+    },
+    {
+     "platz": 7,
      "verein": "VfL Repelen II",
      "teamId": "011MIAP9SG000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -1093,7 +1105,7 @@
      "punkte": 11
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "SpVgg. Rheurdt-Schaephuysen III",
      "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
      "spiele": 7,
@@ -1105,7 +1117,7 @@
      "punkte": 11
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "FC Neukirchen-Vluyn IV",
      "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
      "spiele": 6,
@@ -1115,18 +1127,6 @@
      "tore": "20:5",
      "differenz": 15,
      "punkte": 11
-    },
-    {
-     "platz": 9,
-     "verein": "TuS Borth III",
-     "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
-     "spiele": 6,
-     "siege": 3,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "18:19",
-     "differenz": -1,
-     "punkte": 10
     },
     {
      "platz": 10,
@@ -1156,12 +1156,12 @@
      "platz": 12,
      "verein": "SC Rheinkamp",
      "teamId": "011MIDP8N4000000VTVG0001VTR8C1K7",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 2,
      "unentschieden": 2,
-     "niederlagen": 2,
-     "tore": "19:12",
-     "differenz": 7,
+     "niederlagen": 3,
+     "tore": "21:20",
+     "differenz": 1,
      "punkte": 8
     },
     {
@@ -3305,7 +3305,7 @@
    "spielklasse": "Kreisliga C",
    "platz": 12,
    "punkte": 8,
-   "torverhaeltnis": "19:12",
+   "torverhaeltnis": "21:20",
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
    "naechste": [
     {
