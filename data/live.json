@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-03T00:33:09.724Z",
+ "aktualisiert": "2026-10-03T15:25:38.574Z",
  "tag": "03.10.",
  "datum": "2026-10-03",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -19,16 +19,19 @@
    "zeit": "09:45",
    "heim": "SV Budberg II",
    "gast": "FC Neukirchen-Vluyn 09/21 II",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -552,
+   "seitAnpfiffMin": 341,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -44,16 +47,50 @@
    "zeit": "11:00",
    "heim": "TV Kapellen",
    "gast": "JSG Repelen/Neukirchen-Vluyn II",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 2,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 64,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Vitalie Kurz",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "tv-kapellen-u19-1-2026-27",
+     "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 84,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Vitalie Kurz",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "tv-kapellen-u19-1-2026-27",
+     "clubSlug": "tv-kapellen"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -627,
+   "seitAnpfiffMin": 266,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -69,16 +106,19 @@
    "zeit": "12:00",
    "heim": "SV Budberg",
    "gast": "SV Sonsbeck",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 4
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": "Tim Krüger",
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -687,
+   "seitAnpfiffMin": 206,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -94,16 +134,19 @@
    "zeit": "12:30",
    "heim": "OSC Rheinhausen III",
    "gast": "FC Neukirchen-Vluyn 09/21 IV",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 9
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -717,
+   "seitAnpfiffMin": 176,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -119,16 +162,19 @@
    "zeit": "13:00",
    "heim": "FC Neukirchen-Vluyn 09/21 III",
    "gast": "SV Sonsbeck II",
-   "tore": null,
+   "tore": {
+    "heim": 3,
+    "gast": 4
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -747,
+   "seitAnpfiffMin": 146,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -149,10 +195,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -807,
-   "laeuft": false,
+   "seitAnpfiffMin": 86,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -174,10 +220,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -867,
-   "laeuft": false,
+   "seitAnpfiffMin": 26,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -201,7 +247,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -927,
+   "seitAnpfiffMin": -34,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -223,10 +269,10 @@
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
-   "hatTicker": false,
+   "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -927,
+   "seitAnpfiffMin": -34,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -252,7 +298,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -1047,
+   "seitAnpfiffMin": -154,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -278,7 +324,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -1047,
+   "seitAnpfiffMin": -154,
    "laeuft": false,
    "abgeschlossen": false
   }
