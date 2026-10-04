@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-04T19:34:14.227Z",
+ "aktualisiert": "2026-10-04T22:29:41.182Z",
  "tag": "04.10.",
  "datum": "2026-10-04",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -135,7 +135,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 649,
+   "seitAnpfiffMin": 825,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -329,7 +329,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 574,
+   "seitAnpfiffMin": 750,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -478,7 +478,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 544,
+   "seitAnpfiffMin": 720,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -537,7 +537,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 544,
+   "seitAnpfiffMin": 720,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -606,6 +606,18 @@
      "clubSlug": "sv-alemannia-kamp"
     },
     {
+     "minute": 85,
+     "nachspielzeit": 0,
+     "art": "card_yellow_red",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "spieler": "Koray Er",
+     "fuer": null,
+     "stand": null,
+     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
      "minute": 86,
      "nachspielzeit": 0,
      "art": "goal_shoot",
@@ -651,12 +663,12 @@
      "clubSlug": "sv-alemannia-kamp"
     }
    ],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "zuschauer": 50,
+   "schiedsrichter": "Birol Demirhan",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 529,
+   "seitAnpfiffMin": 705,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -715,7 +727,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 514,
+   "seitAnpfiffMin": 690,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -800,11 +812,11 @@
     }
    ],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Tommy Thielen",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 514,
+   "seitAnpfiffMin": 690,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -968,7 +980,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 514,
+   "seitAnpfiffMin": 690,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1057,7 +1069,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 514,
+   "seitAnpfiffMin": 690,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1131,7 +1143,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 514,
+   "seitAnpfiffMin": 690,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1190,7 +1202,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 514,
+   "seitAnpfiffMin": 690,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1276,7 +1288,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 514,
+   "seitAnpfiffMin": 690,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1410,7 +1422,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 514,
+   "seitAnpfiffMin": 690,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1484,7 +1496,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1633,7 +1645,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1812,7 +1824,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1913,7 +1925,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2017,7 +2029,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2106,7 +2118,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2210,7 +2222,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2674,7 +2686,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2988,7 +3000,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3013,7 +3025,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3162,7 +3174,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 394,
+   "seitAnpfiffMin": 570,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3281,7 +3293,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 379,
+   "seitAnpfiffMin": 555,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3304,6 +3316,66 @@
     "gast": 4
    },
    "ereignisse": [
+    {
+     "minute": 27,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dennis Kiljan",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 33,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dominic Grelck",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 36,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Haydar Alas",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 3
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 48,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dennis Kiljan",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 4
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
     {
      "minute": 67,
      "nachspielzeit": 0,
@@ -3365,12 +3437,12 @@
      "clubSlug": "fc-moers-meerfeld"
     }
    ],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "zuschauer": 85,
+   "schiedsrichter": "Mike Kartheuser",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 379,
+   "seitAnpfiffMin": 555,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3459,7 +3531,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 364,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3548,7 +3620,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 364,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3847,7 +3919,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 364,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3936,7 +4008,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 364,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4100,7 +4172,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 364,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4174,7 +4246,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 364,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4333,12 +4405,12 @@
      "clubSlug": "rumelner-tv"
     }
    ],
-   "zuschauer": 120,
+   "zuschauer": 70,
    "schiedsrichter": "Marlon Theißen",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 364,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4472,7 +4544,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 364,
+   "seitAnpfiffMin": 540,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4696,7 +4768,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 274,
+   "seitAnpfiffMin": 450,
    "laeuft": false,
    "abgeschlossen": true
   }
