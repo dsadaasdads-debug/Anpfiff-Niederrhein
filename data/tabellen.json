@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-03T18:51:23.681Z",
+ "aktualisiert": "2026-10-04T00:04:37.853Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2555,15 +2555,6 @@
    "staffelId": null,
    "naechste": [
     {
-     "datum": "Samstag, 03.10.2026 - 18:00 Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "FF M'gladbach 07 II",
-     "gast": "FC Mattheck Moers",
-     "url": "https://www.fussball.de/spiel/ff-m%27gladbach-07-ii-fc-mattheck-moers/-/spiel/031OPNR318000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Samstag, 10.10.2026 - ** Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "FC Mattheck Moers",
@@ -2598,9 +2589,27 @@
      "url": "https://www.fussball.de/spiel/wuppertaler-sv-2-fc-mattheck-moers/-/spiel/031OPNR3DS000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Samstag, 28.11.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "FF M'gladbach 07",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-ff-m%27gladbach-1/-/spiel/031OPNR3FC000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 03.10.2026 - 18:00 Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FF M'gladbach 07 II",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/ff-m%27gladbach-07-ii-fc-mattheck-moers/-/spiel/031OPNR318000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Samstag, 26.09.2026 - 13:00 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
@@ -3309,15 +3318,6 @@
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Samstag, 03.10.2026 - 18:00 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "TuS Borth III",
-     "gast": "SC Rheinkamp",
-     "url": "https://www.fussball.de/spiel/tus-borth-iii-sc-rheinkamp/-/spiel/031I6OUV88000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 11.10.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisliga C",
      "heim": "SC Rheinkamp",
@@ -3352,9 +3352,27 @@
      "url": "https://www.fussball.de/spiel/fc-rumeln-kaldenhausen-ii-sc-rheinkamp/-/spiel/031I6OUTHG000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 15.11.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SuS Rayen",
+     "gast": "SC Rheinkamp",
+     "url": "https://www.fussball.de/spiel/sus-rayen-sc-rheinkamp/-/spiel/031I6OUT38000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 03.10.2026 - 18:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "TuS Borth III",
+     "gast": "SC Rheinkamp",
+     "url": "https://www.fussball.de/spiel/tus-borth-iii-sc-rheinkamp/-/spiel/031I6OUV88000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Freitag, 25.09.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -3388,15 +3406,6 @@
      "heim": "SC Rheinkamp",
      "gast": "SV Alemannia Kamp II",
      "url": "https://www.fussball.de/spiel/sc-rheinkamp-sv-alemannia-kamp-ii/-/spiel/031I6OV2G0000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Freitag, 04.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SpVgg. Rheurdt-Schaephuysen III",
-     "gast": "SC Rheinkamp",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-iii-sc-rheinkamp/-/spiel/031I6OV0VC000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
