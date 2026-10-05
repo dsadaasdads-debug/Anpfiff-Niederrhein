@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-05T15:18:33.479Z",
+ "aktualisiert": "2026-10-05T22:12:54.435Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2555,15 +2555,6 @@
    "staffelId": null,
    "naechste": [
     {
-     "datum": "Samstag, 10.10.2026 - ** Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "FC Mattheck Moers",
-     "gast": "GTSV Essen",
-     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-gtsv-essen/-/spiel/031OPNR33S000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Samstag, 31.10.2026 - ** Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "VfL Benrath",
@@ -2596,6 +2587,15 @@
      "heim": "FC Mattheck Moers",
      "gast": "FF M'gladbach 07",
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers-ff-m%27gladbach-1/-/spiel/031OPNR3FC000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 05.12.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "DJK SG Altenessen",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-djk-sg-altenessen/-/spiel/031OPNR3LO000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
