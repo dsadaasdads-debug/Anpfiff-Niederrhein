@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-07T13:58:28.482Z",
+ "aktualisiert": "2026-10-07T20:48:21.635Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2086,13 +2086,13 @@
      "platz": 1,
      "verein": "SpVgg. Rheurdt-Schaephuysen II",
      "teamId": "02Q88TMF08000000VS5489B1VURITBKO",
-     "spiele": 7,
+     "spiele": 8,
      "siege": 7,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 0,
-     "tore": "47:3",
+     "tore": "48:4",
      "differenz": 44,
-     "punkte": 21
+     "punkte": 22
     },
     {
      "platz": 2,
@@ -2108,6 +2108,30 @@
     },
     {
      "platz": 3,
+     "verein": "Concordia Rheinberg II",
+     "teamId": "02EK6VH7AO000000VS5489B1VV8GJNNG",
+     "spiele": 7,
+     "siege": 5,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "tore": "23:20",
+     "differenz": 3,
+     "punkte": 15
+    },
+    {
+     "platz": 4,
+     "verein": "SV Budberg IV",
+     "teamId": "01OTG3R40K000000VV0AG811VSQ2DN07",
+     "spiele": 8,
+     "siege": 4,
+     "unentschieden": 2,
+     "niederlagen": 2,
+     "tore": "27:16",
+     "differenz": 11,
+     "punkte": 14
+    },
+    {
+     "platz": 5,
      "verein": "SV Borussia Veen 1920 II",
      "teamId": "011MIA3L2K000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -2119,19 +2143,19 @@
      "punkte": 13
     },
     {
-     "platz": 4,
-     "verein": "SV Budberg IV",
-     "teamId": "01OTG3R40K000000VV0AG811VSQ2DN07",
+     "platz": 6,
+     "verein": "SV Rheinkraft Ginderich",
+     "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
      "spiele": 7,
      "siege": 4,
      "unentschieden": 1,
      "niederlagen": 2,
-     "tore": "26:15",
-     "differenz": 11,
+     "tore": "26:14",
+     "differenz": 12,
      "punkte": 13
     },
     {
-     "platz": 5,
+     "platz": 7,
      "verein": "SV Vynen-Marienbaum",
      "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
      "spiele": 7,
@@ -2141,30 +2165,6 @@
      "tore": "20:14",
      "differenz": 6,
      "punkte": 11
-    },
-    {
-     "platz": 6,
-     "verein": "SV Rheinkraft Ginderich",
-     "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
-     "spiele": 6,
-     "siege": 3,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "24:14",
-     "differenz": 10,
-     "punkte": 10
-    },
-    {
-     "platz": 7,
-     "verein": "SV Sonsbeck III",
-     "teamId": "02PTDCPP68000000VS5489B2VSE05932",
-     "spiele": 7,
-     "siege": 2,
-     "unentschieden": 3,
-     "niederlagen": 2,
-     "tore": "15:12",
-     "differenz": 3,
-     "punkte": 9
     },
     {
      "platz": 8,
@@ -2180,18 +2180,6 @@
     },
     {
      "platz": 9,
-     "verein": "Concordia Rheinberg II",
-     "teamId": "02EK6VH7AO000000VS5489B1VV8GJNNG",
-     "spiele": 6,
-     "siege": 3,
-     "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "16:19",
-     "differenz": -3,
-     "punkte": 9
-    },
-    {
-     "platz": 10,
      "verein": "SV Orsoy",
      "teamId": "011MIA98AC000000VTVG0001VTR8C1K7",
      "spiele": 7,
@@ -2203,7 +2191,7 @@
      "punkte": 9
     },
     {
-     "platz": 11,
+     "platz": 10,
      "verein": "SV Menzelen II",
      "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
      "spiele": 7,
@@ -2215,7 +2203,7 @@
      "punkte": 8
     },
     {
-     "platz": 12,
+     "platz": 11,
      "verein": "SC Rheinkamp II",
      "teamId": "01SIQFBN18000000VS548984VVMI9KVG",
      "spiele": 6,
@@ -2227,7 +2215,7 @@
      "punkte": 7
     },
     {
-     "platz": 13,
+     "platz": 12,
      "verein": "Büdericher SV II",
      "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
      "spiele": 6,
@@ -2239,19 +2227,19 @@
      "punkte": 7
     },
     {
-     "platz": 14,
-     "verein": "SV Millingen II",
-     "teamId": "011MICLI60000000VTVG0001VTR8C1K7",
+     "platz": 13,
+     "verein": "SV Sonsbeck III",
+     "teamId": "02PTDCPP68000000VS5489B2VSE05932",
      "spiele": 7,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 5,
-     "tore": "9:22",
-     "differenz": -13,
+     "siege": 1,
+     "unentschieden": 3,
+     "niederlagen": 3,
+     "tore": "15:17",
+     "differenz": -2,
      "punkte": 6
     },
     {
-     "platz": 15,
+     "platz": 14,
      "verein": "MSV Moers III",
      "teamId": "02MB52NDG8000000VS5489B1VV4JLPLE",
      "spiele": 7,
@@ -2259,6 +2247,18 @@
      "unentschieden": 0,
      "niederlagen": 5,
      "tore": "12:26",
+     "differenz": -14,
+     "punkte": 6
+    },
+    {
+     "platz": 15,
+     "verein": "SV Millingen II",
+     "teamId": "011MICLI60000000VTVG0001VTR8C1K7",
+     "spiele": 8,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 6,
+     "tore": "10:24",
      "differenz": -14,
      "punkte": 6
     },
@@ -2278,12 +2278,12 @@
      "platz": 17,
      "verein": "FC Viktoria Alpen II",
      "teamId": "011MIE8974000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 5,
-     "tore": "3:27",
-     "differenz": -24,
+     "niederlagen": 6,
+     "tore": "3:29",
+     "differenz": -26,
      "punkte": 0
     },
     {
@@ -2446,6 +2446,15 @@
      "hinweis": null
     },
     {
+     "datum": "Donnerstag, 05.11.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "FC Rumeln-Kaldenhausen",
+     "gast": "1.FC Lintfort",
+     "url": "https://www.fussball.de/spiel/fc-rumeln-kaldenhausen-1fc-lintfort/-/spiel/032APQTE28000000VS5489BUVV5V31CI",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 08.11.2026 - 11:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "JSG Nütterden / Kranenburg",
@@ -2460,15 +2469,6 @@
      "heim": "1.FC Lintfort",
      "gast": "SV Sonsbeck",
      "url": "https://www.fussball.de/spiel/1fc-lintfort-sv-sonsbeck/-/spiel/031SUR0NDK000000VS5489BTVT7QHFUC",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Freitag, 20.11.2026 - 19:30 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "1.FC Lintfort",
-     "gast": "SV Krechting",
-     "url": "https://www.fussball.de/spiel/1fc-lintfort-sv-krechting/-/spiel/031SUR0N6S000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4402,7 +4402,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-orsoy-sv-orsoy-1919-niederrhein/-/saison/2627/team-id/011MIA98AC000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 10,
+   "platz": 9,
    "punkte": 9,
    "torverhaeltnis": "19:33",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
@@ -4838,7 +4838,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-vynen-marienbaum-sv-vynen-marienbaum-1997-niederrhein/-/saison/2627/team-id/011MIANO4S000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 5,
+   "platz": 7,
    "punkte": 11,
    "torverhaeltnis": "20:14",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
