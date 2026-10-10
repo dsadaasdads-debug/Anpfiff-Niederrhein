@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-10T16:34:32.598Z",
+ "aktualisiert": "2026-10-10T20:18:28.876Z",
  "tag": "10.10.",
  "datum": "2026-10-10",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 335,
+   "seitAnpfiffMin": 558,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -57,7 +57,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 335,
+   "seitAnpfiffMin": 558,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -85,7 +85,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 320,
+   "seitAnpfiffMin": 543,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -113,7 +113,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 230,
+   "seitAnpfiffMin": 453,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -141,7 +141,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 215,
+   "seitAnpfiffMin": 438,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -169,7 +169,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 215,
+   "seitAnpfiffMin": 438,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -197,7 +197,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 215,
+   "seitAnpfiffMin": 438,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -225,7 +225,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 215,
+   "seitAnpfiffMin": 438,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -253,7 +253,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 215,
+   "seitAnpfiffMin": 438,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -281,7 +281,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 185,
+   "seitAnpfiffMin": 408,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -385,7 +385,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 155,
+   "seitAnpfiffMin": 378,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -413,7 +413,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 155,
+   "seitAnpfiffMin": 378,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -441,7 +441,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 155,
+   "seitAnpfiffMin": 378,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -469,7 +469,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 155,
+   "seitAnpfiffMin": 378,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -497,7 +497,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 155,
+   "seitAnpfiffMin": 378,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -525,7 +525,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 125,
+   "seitAnpfiffMin": 348,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -543,16 +543,19 @@
    "zeit": "15:00",
    "heim": "FC Rumeln-Kaldenhausen",
    "gast": "TV Kapellen",
-   "tore": null,
+   "tore": {
+    "heim": 12,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 95,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 318,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -568,16 +571,19 @@
    "zeit": "15:00",
    "heim": "1. FC Lintfort II",
    "gast": "OSC Rheinhausen",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 12
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 95,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 318,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -593,16 +599,19 @@
    "zeit": "15:30",
    "heim": "TV Asberg",
    "gast": "VfL Rheinhausen",
-   "tore": null,
+   "tore": {
+    "heim": 6,
+    "gast": 3
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 65,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 288,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -623,228 +632,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 35,
-   "laeuft": true,
-   "abgeschlossen": false
-  },
-  {
-   "quelle": "fussball.de",
-   "sportart": "Fußball",
-   "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-sv-budberg-iii/-/spiel/031H9RCBEG000000VS5489BUVSJ4CRAP",
-   "verein": "FC Viktoria Alpen 1911",
-   "heimatverein": null,
-   "ort": "Alpen",
-   "zone": "umland",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga A",
-   "anpfiff": "2026-10-10T16:00:00.000Z",
-   "zeit": "16:00",
-   "heim": "FC Viktoria Alpen",
-   "gast": "SV Budberg III",
-   "tore": {
-    "heim": 4,
-    "gast": 1
-   },
-   "ergebnisGemeldet": true,
-   "ereignisse": [
-    {
-     "minute": 27,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 31,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 34,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 45,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 46,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 68,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 71,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 74,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 76,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 79,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 84,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "gast"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "substitute",
-     "name": "Wechsel",
-     "zeichen": "🔁",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 86,
-     "nachspielzeit": 0,
-     "art": "yellow-card",
-     "name": "Gelbe Karte",
-     "zeichen": "🟨",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    },
-    {
-     "minute": 90,
-     "nachspielzeit": 0,
-     "art": "goal",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": null,
-     "seite": "heim"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": null,
-   "hinweis": null,
-   "seitAnpfiffMin": 35,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 258,
+   "laeuft": false,
+   "abgeschlossen": true
   }
  ]
 }
