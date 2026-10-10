@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-10T01:11:37.210Z",
+ "aktualisiert": "2026-10-10T16:34:32.598Z",
  "tag": "10.10.",
  "datum": "2026-10-10",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -19,16 +19,19 @@
    "zeit": "11:00",
    "heim": "JSG Alpen/Menzelen/Veen",
    "gast": "SV Schwafheim",
-   "tore": null,
+   "tore": {
+    "heim": 7,
+    "gast": 3
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -588,
+   "seitAnpfiffMin": 335,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -44,16 +47,19 @@
    "zeit": "11:00",
    "heim": "SV Rhenania Hamborn",
    "gast": "SV Budberg",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 16
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -588,
+   "seitAnpfiffMin": 335,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -69,16 +75,19 @@
    "zeit": "11:15",
    "heim": "GSV Moers II",
    "gast": "SV Alemannia Kamp",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 12
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -603,
+   "seitAnpfiffMin": 320,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -94,16 +103,19 @@
    "zeit": "12:45",
    "heim": "TV Asberg",
    "gast": "SpVgg Rheurdt-Schaephuysen",
-   "tore": null,
+   "tore": {
+    "heim": 5,
+    "gast": 5
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -693,
+   "seitAnpfiffMin": 230,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -119,16 +131,19 @@
    "zeit": "13:00",
    "heim": "1. FC Lintfort",
    "gast": "SV Straelen",
-   "tore": null,
+   "tore": {
+    "heim": 3,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -708,
+   "seitAnpfiffMin": 215,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -144,16 +159,19 @@
    "zeit": "13:00",
    "heim": "PSV Wesel",
    "gast": "SV Budberg",
-   "tore": null,
+   "tore": {
+    "heim": 5,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -708,
+   "seitAnpfiffMin": 215,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -169,16 +187,19 @@
    "zeit": "13:00",
    "heim": "VfL Rheinhausen",
    "gast": "MSV Moers",
-   "tore": null,
+   "tore": {
+    "heim": 5,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -708,
+   "seitAnpfiffMin": 215,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -194,16 +215,19 @@
    "zeit": "13:00",
    "heim": "1. FC Lintfort III",
    "gast": "OSC Rheinhausen III",
-   "tore": null,
+   "tore": {
+    "heim": 7,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -708,
+   "seitAnpfiffMin": 215,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -219,16 +243,19 @@
    "zeit": "13:00",
    "heim": "MSV Moers II",
    "gast": "Rumelner TV III",
-   "tore": null,
+   "tore": {
+    "heim": 6,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -708,
+   "seitAnpfiffMin": 215,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -244,16 +271,19 @@
    "zeit": "13:30",
    "heim": "FC Neukirchen-Vluyn 09/21 II",
    "gast": "VfL Repelen",
-   "tore": null,
+   "tore": {
+    "heim": 5,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -738,
+   "seitAnpfiffMin": 185,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -269,16 +299,95 @@
    "zeit": "14:00",
    "heim": "FC Viktoria Alpen 1911 e.V.",
    "gast": "SV Budberg III",
-   "tore": null,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": true,
-   "abschnitt": "PRE",
+   "tore": {
+    "heim": 4,
+    "gast": 1
+   },
+   "ereignisse": [
+    {
+     "minute": 31,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nils Speicher",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "fc-viktoria-alpen-1911-ev-m1-2026-27",
+     "clubSlug": "fc-viktoria-alpen-1911-ev"
+    },
+    {
+     "minute": 63,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nils Speicher",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "fc-viktoria-alpen-1911-ev-m1-2026-27",
+     "clubSlug": "fc-viktoria-alpen-1911-ev"
+    },
+    {
+     "minute": 76,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nils Speicher",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "fc-viktoria-alpen-1911-ev-m1-2026-27",
+     "clubSlug": "fc-viktoria-alpen-1911-ev"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Moritz Münster",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-m3-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mohamed Camara",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 1
+     },
+     "teamSlug": "fc-viktoria-alpen-1911-ev-m1-2026-27",
+     "clubSlug": "fc-viktoria-alpen-1911-ev"
+    }
+   ],
+   "zuschauer": 50,
+   "schiedsrichter": "Julian von Tessmer",
+   "hatTicker": false,
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -768,
+   "seitAnpfiffMin": 155,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -294,16 +403,19 @@
    "zeit": "14:00",
    "heim": "Kevelaerer SV",
    "gast": "GSV Moers",
-   "tore": null,
+   "tore": {
+    "heim": 4,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -768,
+   "seitAnpfiffMin": 155,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -319,16 +431,19 @@
    "zeit": "14:00",
    "heim": "SV Budberg II",
    "gast": "TuS Baerl",
-   "tore": null,
+   "tore": {
+    "heim": 3,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -768,
+   "seitAnpfiffMin": 155,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -344,16 +459,19 @@
    "zeit": "14:00",
    "heim": "SV Millingen",
    "gast": "FC Neukirchen-Vluyn 09/21 III",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 4
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -768,
+   "seitAnpfiffMin": 155,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -369,16 +487,19 @@
    "zeit": "14:00",
    "heim": "TV Asberg III",
    "gast": "JSG Budberg/Orsoy III",
-   "tore": null,
+   "tore": {
+    "heim": 10,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -768,
+   "seitAnpfiffMin": 155,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -394,16 +515,19 @@
    "zeit": "14:30",
    "heim": "SV Sonsbeck II",
    "gast": "TV Asberg II",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -798,
+   "seitAnpfiffMin": 125,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -424,10 +548,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -828,
-   "laeuft": false,
+   "seitAnpfiffMin": 95,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -449,10 +573,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -828,
-   "laeuft": false,
+   "seitAnpfiffMin": 95,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -474,10 +598,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -858,
-   "laeuft": false,
+   "seitAnpfiffMin": 65,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -499,10 +623,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -888,
-   "laeuft": false,
+   "seitAnpfiffMin": 35,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -519,16 +643,207 @@
    "zeit": "16:00",
    "heim": "FC Viktoria Alpen",
    "gast": "SV Budberg III",
-   "tore": null,
+   "tore": {
+    "heim": 4,
+    "gast": 1
+   },
    "ergebnisGemeldet": true,
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 27,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 31,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 34,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 45,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 46,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 46,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 46,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 68,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 71,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 74,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 76,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 79,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 84,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "substitute",
+     "name": "Wechsel",
+     "zeichen": "🔁",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 86,
+     "nachspielzeit": 0,
+     "art": "yellow-card",
+     "name": "Gelbe Karte",
+     "zeichen": "🟨",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "heim"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": -888,
-   "laeuft": false,
+   "seitAnpfiffMin": 35,
+   "laeuft": true,
    "abgeschlossen": false
   }
  ]
