@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-12T00:45:25.929Z",
+ "aktualisiert": "2026-10-12T11:21:37.948Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1760,6 +1760,18 @@
     },
     {
      "platz": 7,
+     "verein": "Kevelaerer SV II",
+     "teamId": "011MIDHTKG000000VTVG0001VTR8C1K7",
+     "spiele": 9,
+     "siege": 5,
+     "unentschieden": 1,
+     "niederlagen": 3,
+     "tore": "22:19",
+     "differenz": 3,
+     "punkte": 16
+    },
+    {
+     "platz": 8,
      "verein": "SC Blau-Weiß Auwel-Holt",
      "teamId": "011MIBSV1S000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -1771,7 +1783,7 @@
      "punkte": 15
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "Viktoria Winnekendonk II",
      "teamId": "011MIC4R40000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -1781,18 +1793,6 @@
      "tore": "22:18",
      "differenz": 4,
      "punkte": 14
-    },
-    {
-     "platz": 9,
-     "verein": "Kevelaerer SV II",
-     "teamId": "011MIDHTKG000000VTVG0001VTR8C1K7",
-     "spiele": 8,
-     "siege": 4,
-     "unentschieden": 1,
-     "niederlagen": 3,
-     "tore": "20:19",
-     "differenz": 1,
-     "punkte": 13
     },
     {
      "platz": 10,
@@ -1870,12 +1870,12 @@
      "platz": 16,
      "verein": "TSV Nieukerk II",
      "teamId": "011MIDJU5C000000VTVG0001VTR8C1K7",
-     "spiele": 8,
+     "spiele": 9,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 8,
-     "tore": "13:57",
-     "differenz": -44,
+     "niederlagen": 9,
+     "tore": "13:59",
+     "differenz": -46,
      "punkte": 0
     }
    ]
