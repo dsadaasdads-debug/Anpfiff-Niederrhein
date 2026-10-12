@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-12T11:21:37.948Z",
+ "aktualisiert": "2026-10-12T21:26:18.763Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2782,20 +2782,20 @@
      "hinweis": null
     },
     {
-     "datum": "Donnerstag, 22.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "TV Kapellen",
-     "gast": "FC Neukirchen-Vluyn",
-     "url": "https://www.fussball.de/spiel/tv-kapellen-fc-neukirchen-vluyn/-/spiel/032A3QRT18000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Samstag, 24.10.2026 - 17:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "VFB Homberg II",
      "gast": "FC Neukirchen-Vluyn",
      "url": "https://www.fussball.de/spiel/vfb-homberg-ii-fc-neukirchen-vluyn/-/spiel/031ENENEG4000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 29.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "TV Kapellen",
+     "gast": "FC Neukirchen-Vluyn",
+     "url": "https://www.fussball.de/spiel/tv-kapellen-fc-neukirchen-vluyn/-/spiel/032A3QRT18000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
@@ -5289,20 +5289,20 @@
      "hinweis": null
     },
     {
-     "datum": "Donnerstag, 22.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "TV Kapellen",
-     "gast": "FC Neukirchen-Vluyn",
-     "url": "https://www.fussball.de/spiel/tv-kapellen-fc-neukirchen-vluyn/-/spiel/032A3QRT18000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga B",
      "heim": "FC Rot-Weiß Moers",
      "gast": "TV Kapellen",
      "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-tv-kapellen/-/spiel/031HBDT2TC000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Donnerstag, 29.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "TV Kapellen",
+     "gast": "FC Neukirchen-Vluyn",
+     "url": "https://www.fussball.de/spiel/tv-kapellen-fc-neukirchen-vluyn/-/spiel/032A3QRT18000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
