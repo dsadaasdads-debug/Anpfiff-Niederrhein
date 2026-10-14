@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-14T17:38:12.196Z",
+ "aktualisiert": "2026-10-14T21:58:25.697Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -476,6 +476,18 @@
     },
     {
      "platz": 9,
+     "verein": "SV Viktoria Birten",
+     "teamId": "011MIE0POK000000VTVG0001VTR8C1K7",
+     "spiele": 9,
+     "siege": 4,
+     "unentschieden": 1,
+     "niederlagen": 4,
+     "tore": "42:28",
+     "differenz": 14,
+     "punkte": 13
+    },
+    {
+     "platz": 10,
      "verein": "SV Alemannia Kamp",
      "teamId": "011MIA986S000000VTVG0001VTR8C1K7",
      "spiele": 7,
@@ -487,7 +499,7 @@
      "punkte": 11
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "FC Neukirchen-Vluyn III",
      "teamId": "02BAB133P8000000VS5489B1VU20GQ5T",
      "spiele": 8,
@@ -497,18 +509,6 @@
      "tore": "22:15",
      "differenz": 7,
      "punkte": 11
-    },
-    {
-     "platz": 11,
-     "verein": "SV Viktoria Birten",
-     "teamId": "011MIE0POK000000VTVG0001VTR8C1K7",
-     "spiele": 8,
-     "siege": 3,
-     "unentschieden": 1,
-     "niederlagen": 4,
-     "tore": "32:27",
-     "differenz": 5,
-     "punkte": 10
     },
     {
      "platz": 12,
@@ -548,18 +548,6 @@
     },
     {
      "platz": 15,
-     "verein": "TV Asberg II",
-     "teamId": "011MI9IAK8000000VTVG0001VTR8C1K7",
-     "spiele": 8,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 7,
-     "tore": "16:75",
-     "differenz": -59,
-     "punkte": 3
-    },
-    {
-     "platz": 16,
      "verein": "TuS Asterlagen II",
      "teamId": "011MI973MK000000VTVG0001VTR8C1K7",
      "spiele": 8,
@@ -568,6 +556,18 @@
      "niederlagen": 7,
      "tore": "9:74",
      "differenz": -65,
+     "punkte": 3
+    },
+    {
+     "platz": 16,
+     "verein": "TV Asberg II",
+     "teamId": "011MI9IAK8000000VTVG0001VTR8C1K7",
+     "spiele": 9,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 8,
+     "tore": "17:85",
+     "differenz": -68,
      "punkte": 3
     },
     {
@@ -3748,7 +3748,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-alemannia-kamp-sv-alemannia-kamp-niederrhein/-/saison/2627/team-id/011MIA986S000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 9,
+   "platz": 10,
    "punkte": 11,
    "torverhaeltnis": "32:20",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
