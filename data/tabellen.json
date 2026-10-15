@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-15T17:23:48.337Z",
+ "aktualisiert": "2026-10-15T21:48:42.791Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -176,6 +176,18 @@
     },
     {
      "platz": 15,
+     "verein": "VfL Rhede",
+     "teamId": "011MIBAORC000000VTVG0001VTR8C1K7",
+     "spiele": 10,
+     "siege": 1,
+     "unentschieden": 4,
+     "niederlagen": 5,
+     "tore": "11:22",
+     "differenz": -11,
+     "punkte": 7
+    },
+    {
+     "platz": 16,
      "verein": "SV Viktoria Goch",
      "teamId": "011MIAIVPK000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -187,7 +199,7 @@
      "punkte": 7
     },
     {
-     "platz": 16,
+     "platz": 17,
      "verein": "VfB Bottrop",
      "teamId": "011MIASA78000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -199,28 +211,16 @@
      "punkte": 6
     },
     {
-     "platz": 17,
-     "verein": "VfL Rhede",
-     "teamId": "011MIBAORC000000VTVG0001VTR8C1K7",
-     "spiele": 9,
-     "siege": 1,
-     "unentschieden": 3,
-     "niederlagen": 5,
-     "tore": "10:21",
-     "differenz": -11,
-     "punkte": 6
-    },
-    {
      "platz": 18,
      "verein": "SV Biemenhorst",
      "teamId": "011MIBAN1G000000VTVG0001VTR8C1K7",
-     "spiele": 9,
+     "spiele": 10,
      "siege": 1,
-     "unentschieden": 2,
+     "unentschieden": 3,
      "niederlagen": 6,
-     "tore": "13:22",
+     "tore": "14:23",
      "differenz": -9,
-     "punkte": 5
+     "punkte": 6
     }
    ]
   },
@@ -230,6 +230,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SuS 09 Dinslaken",
+     "teamId": "011MIBSV6G000000VTVG0001VTR8C1K7",
+     "spiele": 6,
+     "siege": 6,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "tore": "29:10",
+     "differenz": 19,
+     "punkte": 18
+    },
+    {
+     "platz": 2,
      "verein": "DJK Arminia Klosterhardt",
      "teamId": "011MI97620000000VTVG0001VTR8C1K7",
      "spiele": 5,
@@ -241,7 +253,7 @@
      "punkte": 15
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "SF 97/30 Lowick",
      "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
      "spiele": 5,
@@ -250,18 +262,6 @@
      "niederlagen": 0,
      "tore": "24:5",
      "differenz": 19,
-     "punkte": 15
-    },
-    {
-     "platz": 3,
-     "verein": "SuS 09 Dinslaken",
-     "teamId": "011MIBSV6G000000VTVG0001VTR8C1K7",
-     "spiele": 5,
-     "siege": 5,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "tore": "27:9",
-     "differenz": 18,
      "punkte": 15
     },
     {
@@ -304,12 +304,12 @@
      "platz": 7,
      "verein": "PSV Wesel",
      "teamId": "011MIDPEHG000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 1,
      "unentschieden": 2,
-     "niederlagen": 2,
-     "tore": "7:14",
-     "differenz": -7,
+     "niederlagen": 3,
+     "tore": "8:16",
+     "differenz": -8,
      "punkte": 5
     },
     {
@@ -602,6 +602,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SV Genc Osman Duisburg",
+     "teamId": "011MIB8DCS000000VTVG0001VTR8C1K7",
+     "spiele": 10,
+     "siege": 7,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "66:15",
+     "differenz": 51,
+     "punkte": 22
+    },
+    {
+     "platz": 2,
      "verein": "SV Fortuna Bottrop",
      "teamId": "011MI96Q1S000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -613,7 +625,7 @@
      "punkte": 22
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "Spvgg. Sterkrade-Nord",
      "teamId": "011MIEFJGO000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -625,7 +637,7 @@
      "punkte": 22
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "FSV Duisburg",
      "teamId": "011MIFCRO8000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -635,18 +647,6 @@
      "tore": "33:15",
      "differenz": 18,
      "punkte": 20
-    },
-    {
-     "platz": 4,
-     "verein": "SV Genc Osman Duisburg",
-     "teamId": "011MIB8DCS000000VTVG0001VTR8C1K7",
-     "spiele": 9,
-     "siege": 6,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "62:14",
-     "differenz": 48,
-     "punkte": 19
     },
     {
      "platz": 5,
@@ -724,12 +724,12 @@
      "platz": 11,
      "verein": "SV Rhenania Hamborn",
      "teamId": "011MIBH4BK000000VTVG0001VTR8C1K7",
-     "spiele": 9,
+     "spiele": 10,
      "siege": 4,
      "unentschieden": 0,
-     "niederlagen": 5,
-     "tore": "25:36",
-     "differenz": -11,
+     "niederlagen": 6,
+     "tore": "26:40",
+     "differenz": -14,
      "punkte": 12
     },
     {
@@ -1478,6 +1478,30 @@
     },
     {
      "platz": 2,
+     "verein": "SF 97/30 Lowick",
+     "teamId": "011MIBAO80000000VTVG0001VTR8C1K7",
+     "spiele": 10,
+     "siege": 6,
+     "unentschieden": 2,
+     "niederlagen": 2,
+     "tore": "23:16",
+     "differenz": 7,
+     "punkte": 20
+    },
+    {
+     "platz": 3,
+     "verein": "BW Dingden II",
+     "teamId": "011MIC7T8S000000VTVG0001VTR8C1K7",
+     "spiele": 10,
+     "siege": 5,
+     "unentschieden": 4,
+     "niederlagen": 1,
+     "tore": "29:11",
+     "differenz": 18,
+     "punkte": 19
+    },
+    {
+     "platz": 4,
      "verein": "SuS 09 Dinslaken",
      "teamId": "011MIAE2VS000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -1489,43 +1513,31 @@
      "punkte": 18
     },
     {
-     "platz": 3,
+     "platz": 5,
      "verein": "Hamminkelner SV",
      "teamId": "011MIEUEQG000000VTVG0001VTR8C1K7",
-     "spiele": 9,
+     "spiele": 10,
      "siege": 5,
      "unentschieden": 2,
-     "niederlagen": 2,
-     "tore": "22:15",
-     "differenz": 7,
+     "niederlagen": 3,
+     "tore": "22:18",
+     "differenz": 4,
      "punkte": 17
-    },
-    {
-     "platz": 4,
-     "verein": "SF 97/30 Lowick",
-     "teamId": "011MIBAO80000000VTVG0001VTR8C1K7",
-     "spiele": 9,
-     "siege": 5,
-     "unentschieden": 2,
-     "niederlagen": 2,
-     "tore": "22:16",
-     "differenz": 6,
-     "punkte": 17
-    },
-    {
-     "platz": 5,
-     "verein": "BW Dingden II",
-     "teamId": "011MIC7T8S000000VTVG0001VTR8C1K7",
-     "spiele": 9,
-     "siege": 4,
-     "unentschieden": 4,
-     "niederlagen": 1,
-     "tore": "26:11",
-     "differenz": 15,
-     "punkte": 16
     },
     {
      "platz": 6,
+     "verein": "TuS Stenern",
+     "teamId": "011MIBT1TC000000VTVG0001VTR8C1K7",
+     "spiele": 10,
+     "siege": 5,
+     "unentschieden": 1,
+     "niederlagen": 4,
+     "tore": "22:17",
+     "differenz": 5,
+     "punkte": 16
+    },
+    {
+     "platz": 7,
      "verein": "SV Budberg II",
      "teamId": "011MIEFG78000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -1537,7 +1549,7 @@
      "punkte": 15
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "Kevelaerer SV",
      "teamId": "011MI9I8B0000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -1546,18 +1558,6 @@
      "niederlagen": 4,
      "tore": "20:16",
      "differenz": 4,
-     "punkte": 13
-    },
-    {
-     "platz": 8,
-     "verein": "TuS Stenern",
-     "teamId": "011MIBT1TC000000VTVG0001VTR8C1K7",
-     "spiele": 9,
-     "siege": 4,
-     "unentschieden": 1,
-     "niederlagen": 4,
-     "tore": "19:16",
-     "differenz": 3,
      "punkte": 13
     },
     {
@@ -1576,24 +1576,24 @@
      "platz": 10,
      "verein": "SV Borussia Veen 1920",
      "teamId": "011MIBNBS0000000VTVG0001VTR8C1K7",
-     "spiele": 9,
+     "spiele": 10,
      "siege": 4,
      "unentschieden": 0,
-     "niederlagen": 5,
-     "tore": "15:25",
-     "differenz": -10,
+     "niederlagen": 6,
+     "tore": "15:26",
+     "differenz": -11,
      "punkte": 12
     },
     {
      "platz": 11,
      "verein": "Westfalia Anholt",
      "teamId": "011MI9I9NC000000VTVG0001VTR8C1K7",
-     "spiele": 9,
+     "spiele": 10,
      "siege": 3,
      "unentschieden": 2,
-     "niederlagen": 4,
-     "tore": "10:11",
-     "differenz": -1,
+     "niederlagen": 5,
+     "tore": "11:14",
+     "differenz": -3,
      "punkte": 11
     },
     {
@@ -3859,18 +3859,9 @@
    "spielklasse": "Bezirksliga",
    "platz": 10,
    "punkte": 12,
-   "torverhaeltnis": "15:25",
+   "torverhaeltnis": "15:26",
    "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
    "naechste": [
-    {
-     "datum": "Donnerstag, 15.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "SF 97/30 Lowick",
-     "gast": "SV Borussia Veen 1920",
-     "url": "https://www.fussball.de/spiel/sf-97-30-lowick-sv-borussia-veen-1920/-/spiel/031EO9MPQ4000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
      "wettbewerb": "Kreispokal",
@@ -3906,9 +3897,27 @@
      "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-kevelaerer-sv/-/spiel/031EO9MONC000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 29.11.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV 08/29 Friedrichsfeld",
+     "gast": "SV Borussia Veen 1920",
+     "url": "https://www.fussball.de/spiel/sv-08-29-friedrichsfeld-sv-borussia-veen-1920/-/spiel/031EO9MO9S000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 15.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SF 97/30 Lowick",
+     "gast": "SV Borussia Veen 1920",
+     "url": "https://www.fussball.de/spiel/sf-97-30-lowick-sv-borussia-veen-1920/-/spiel/031EO9MPQ4000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Freitag, 09.10.2026 - 19:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -3942,15 +3951,6 @@
      "heim": "SV Borussia Veen 1920",
      "gast": "PSV Wesel-Lackhausen",
      "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-psv-wesel-lackhausen/-/spiel/031EO9MQVK000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 20.09.2026 - 15:00 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "TuS Stenern",
-     "gast": "SV Borussia Veen 1920",
-     "url": "https://www.fussball.de/spiel/tus-stenern-sv-borussia-veen-1920/-/spiel/031EO9MR7O000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
