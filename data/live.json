@@ -1,7 +1,7 @@
 {
- "aktualisiert": "2026-10-16T22:16:08.997Z",
- "tag": "16.10.",
- "datum": "2026-10-16",
+ "aktualisiert": "2026-10-17T14:38:01.335Z",
+ "tag": "17.10.",
+ "datum": "2026-10-17",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
  "hinweisNamen": "Spielernamen stammen von FuPa, wo die Vereine selbst tickern – dort sind sie offen veröffentlicht. Partien ohne FuPa-Ticker kommen von fussball.de: dort gibt es Minute und Ereignisart, aber keine Namen.",
  "partien": [
@@ -19,16 +19,19 @@
    "zeit": "10:30",
    "heim": "1. FC Kleve II",
    "gast": "1. FC Lintfort",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -734,
+   "seitAnpfiffMin": 248,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -44,16 +47,19 @@
    "zeit": "11:00",
    "heim": "Rumelner TV III",
    "gast": "TV Kapellen",
-   "tore": null,
+   "tore": {
+    "heim": 9,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -764,
+   "seitAnpfiffMin": 218,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -69,16 +75,19 @@
    "zeit": "11:30",
    "heim": "OSC Rheinhausen III",
    "gast": "MSV Moers II",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 7
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -794,
+   "seitAnpfiffMin": 188,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -99,10 +108,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -794,
-   "laeuft": false,
+   "seitAnpfiffMin": 188,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -119,16 +128,19 @@
    "zeit": "12:00",
    "heim": "SV Budberg",
    "gast": "SC Rot-Weiß Oberhausen",
-   "tore": null,
+   "tore": {
+    "heim": 3,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
-   "schiedsrichter": null,
+   "schiedsrichter": "Julian Jochum",
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -824,
+   "seitAnpfiffMin": 158,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -144,16 +156,19 @@
    "zeit": "12:30",
    "heim": "TV Asberg II",
    "gast": "SV Millingen",
-   "tore": null,
+   "tore": {
+    "heim": 6,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -854,
+   "seitAnpfiffMin": 128,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -174,10 +189,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -884,
-   "laeuft": false,
+   "seitAnpfiffMin": 98,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -199,10 +214,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -884,
-   "laeuft": false,
+   "seitAnpfiffMin": 98,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -224,10 +239,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -884,
-   "laeuft": false,
+   "seitAnpfiffMin": 98,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -249,10 +264,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -884,
-   "laeuft": false,
+   "seitAnpfiffMin": 98,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -274,10 +289,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -884,
-   "laeuft": false,
+   "seitAnpfiffMin": 98,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -299,10 +314,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -944,
-   "laeuft": false,
+   "seitAnpfiffMin": 38,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -326,7 +341,7 @@
    "hatTicker": true,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -1004,
+   "seitAnpfiffMin": -22,
    "laeuft": false,
    "abgeschlossen": false
   },
@@ -351,7 +366,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -1064,
+   "seitAnpfiffMin": -82,
    "laeuft": false,
    "abgeschlossen": false
   }
