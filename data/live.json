@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-17T14:38:01.335Z",
+ "aktualisiert": "2026-10-17T17:31:40.408Z",
  "tag": "17.10.",
  "datum": "2026-10-17",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 248,
+   "seitAnpfiffMin": 422,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -57,7 +57,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 218,
+   "seitAnpfiffMin": 392,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -85,7 +85,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 188,
+   "seitAnpfiffMin": 362,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -108,11 +108,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 188,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 362,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -138,7 +138,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 158,
+   "seitAnpfiffMin": 332,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -166,7 +166,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 128,
+   "seitAnpfiffMin": 302,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -184,16 +184,19 @@
    "zeit": "13:00",
    "heim": "VfL Repelen",
    "gast": "1. FC Lintfort II",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 3
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 98,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 272,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -209,16 +212,19 @@
    "zeit": "13:00",
    "heim": "MSV Moers",
    "gast": "Rumelner TV II",
-   "tore": null,
+   "tore": {
+    "heim": 3,
+    "gast": 2
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 98,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 272,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -234,16 +240,19 @@
    "zeit": "13:00",
    "heim": "FC Moers-Meerfeld",
    "gast": "1. FC Lintfort III",
-   "tore": null,
+   "tore": {
+    "heim": 0,
+    "gast": 4
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 98,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 272,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -259,16 +268,19 @@
    "zeit": "13:00",
    "heim": "JSG RW Moers / Schwafheim",
    "gast": "FC Neukirchen-Vluyn 09/21 IV",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 10
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 98,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 272,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -284,16 +296,19 @@
    "zeit": "13:00",
    "heim": "VfL Rheinhausen II",
    "gast": "TV Asberg III",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 4
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 98,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 272,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -309,16 +324,19 @@
    "zeit": "14:00",
    "heim": "Viktoria Winnekendonk",
    "gast": "FC Neukirchen-Vluyn 09/21",
-   "tore": null,
+   "tore": {
+    "heim": 3,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 38,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 212,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -334,16 +352,19 @@
    "zeit": "15:00",
    "heim": "JSG Birten/Lüttingen/Xanten",
    "gast": "SV Budberg II",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
-   "hatTicker": true,
-   "abschnitt": "PRE",
+   "hatTicker": false,
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -22,
+   "seitAnpfiffMin": 152,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -364,10 +385,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -82,
-   "laeuft": false,
+   "seitAnpfiffMin": 92,
+   "laeuft": true,
    "abgeschlossen": false
   }
  ]
