@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-17T15:58:58.894Z",
+ "aktualisiert": "2026-10-17T21:00:20.981Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -416,6 +416,18 @@
     },
     {
      "platz": 4,
+     "verein": "OSC 04 Rheinhausen",
+     "teamId": "011MI9O3Q8000000VTVG0001VTR8C1K7",
+     "spiele": 9,
+     "siege": 6,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "45:14",
+     "differenz": 31,
+     "punkte": 19
+    },
+    {
+     "platz": 5,
      "verein": "FC Rumeln-Kaldenhausen",
      "teamId": "011MI97ALK000000VTVG0001VTR8C1K7",
      "spiele": 8,
@@ -425,18 +437,6 @@
      "tore": "39:14",
      "differenz": 25,
      "punkte": 17
-    },
-    {
-     "platz": 5,
-     "verein": "OSC 04 Rheinhausen",
-     "teamId": "011MI9O3Q8000000VTVG0001VTR8C1K7",
-     "spiele": 8,
-     "siege": 5,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "40:13",
-     "differenz": 27,
-     "punkte": 16
     },
     {
      "platz": 6,
@@ -514,12 +514,12 @@
      "platz": 12,
      "verein": "TV Kaldenhausen",
      "teamId": "02TCVR52IG000000VS5489BRVU522QNF",
-     "spiele": 8,
+     "spiele": 9,
      "siege": 3,
      "unentschieden": 1,
-     "niederlagen": 4,
-     "tore": "16:11",
-     "differenz": 5,
+     "niederlagen": 5,
+     "tore": "17:16",
+     "differenz": 1,
      "punkte": 10
     },
     {
@@ -1082,6 +1082,18 @@
     },
     {
      "platz": 6,
+     "verein": "TuS Borth III",
+     "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
+     "spiele": 9,
+     "siege": 5,
+     "unentschieden": 1,
+     "niederlagen": 3,
+     "tore": "38:27",
+     "differenz": 11,
+     "punkte": 16
+    },
+    {
+     "platz": 7,
      "verein": "MSV Moers II",
      "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
      "spiele": 8,
@@ -1093,7 +1105,7 @@
      "punkte": 15
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "FC Rumeln-Kaldenhausen II",
      "teamId": "011MIDCRUK000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -1105,7 +1117,7 @@
      "punkte": 15
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "SpVgg. Rheurdt-Schaephuysen III",
      "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
      "spiele": 9,
@@ -1117,7 +1129,7 @@
      "punkte": 14
     },
     {
-     "platz": 9,
+     "platz": 10,
      "verein": "FC Neukirchen-Vluyn IV",
      "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
      "spiele": 8,
@@ -1127,18 +1139,6 @@
      "tore": "28:11",
      "differenz": 17,
      "punkte": 14
-    },
-    {
-     "platz": 10,
-     "verein": "TuS Borth III",
-     "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
-     "spiele": 8,
-     "siege": 4,
-     "unentschieden": 1,
-     "niederlagen": 3,
-     "tore": "28:24",
-     "differenz": 4,
-     "punkte": 13
     },
     {
      "platz": 11,
@@ -1216,12 +1216,12 @@
      "platz": 17,
      "verein": "VfL Rheinhausen III",
      "teamId": "031BQIOKV4000000VS5489BSVU7CJV8J",
-     "spiele": 8,
+     "spiele": 9,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 7,
-     "tore": "13:68",
-     "differenz": -55,
+     "niederlagen": 8,
+     "tore": "16:78",
+     "differenz": -62,
      "punkte": 3
     },
     {
