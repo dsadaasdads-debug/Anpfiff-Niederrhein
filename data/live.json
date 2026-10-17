@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-17T17:31:40.408Z",
+ "aktualisiert": "2026-10-17T19:41:05.723Z",
  "tag": "17.10.",
  "datum": "2026-10-17",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 551,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -57,7 +57,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 392,
+   "seitAnpfiffMin": 521,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -85,32 +85,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 362,
-   "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/fc-neukirchen-vluyn-0921-wu17-2-vfr-warbeyen-wu17-2-261017",
-   "verein": "FC Neukirchen-Vluyn",
-   "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
-   "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "B-Juniorinnen-Kreisklasse, Gruppe 4, Niederrhein",
-   "anpfiff": "2026-10-17T13:30:00+02:00",
-   "zeit": "11:30",
-   "heim": "FC Neukirchen-Vluyn 09/21 II",
-   "gast": "VfR Warbeyen II",
-   "tore": null,
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
-   "hatTicker": false,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 362,
+   "seitAnpfiffMin": 491,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -138,7 +113,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 332,
+   "seitAnpfiffMin": 461,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -166,7 +141,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 302,
+   "seitAnpfiffMin": 431,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -194,7 +169,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 401,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -222,7 +197,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 401,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -250,7 +225,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 401,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -278,7 +253,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 401,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -306,35 +281,111 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 401,
    "laeuft": false,
    "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/viktoria-winnekendonk-wu18-1-fc-neukirchen-vluyn-0921-wu17-1-261017",
-   "verein": "FC Neukirchen-Vluyn",
+   "url": "https://www.fupa.net/match/vfb-homberg-o32-1-1-fc-lintfort-ah1-261017",
+   "verein": "1. FC Lintfort",
    "heimatverein": null,
-   "ort": "Neukirchen-Vluyn",
+   "ort": "Kamp-Lintfort",
    "zone": "kern",
-   "liga": "Bezirksliga Gruppe 5",
-   "wettbewerb": "B-Juniorinnen-Kreisklasse, Gruppe 4, Niederrhein",
-   "anpfiff": "2026-10-17T16:00:00+02:00",
-   "zeit": "14:00",
-   "heim": "Viktoria Winnekendonk",
-   "gast": "FC Neukirchen-Vluyn 09/21",
+   "liga": "Landesliga Gruppe 1",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-10-17T16:30:00+02:00",
+   "zeit": "14:30",
+   "heim": "VfB Homberg",
+   "gast": "1. FC Lintfort",
    "tore": {
-    "heim": 3,
-    "gast": 1
+    "heim": 2,
+    "gast": 3
    },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "ereignisse": [
+    {
+     "minute": 19,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "vfb-homberg-o32-1-2026-27",
+     "clubSlug": "vfb-homberg"
+    },
+    {
+     "minute": 21,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Sascha Schmotzer",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "1-fc-lintfort-ah1-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    },
+    {
+     "minute": 42,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "vfb-homberg-o32-1-2026-27",
+     "clubSlug": "vfb-homberg"
+    },
+    {
+     "minute": 56,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Nazim Mahammadov",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "1-fc-lintfort-ah1-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    },
+    {
+     "minute": 65,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Frank Ramburger",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 3
+     },
+     "teamSlug": "1-fc-lintfort-ah1-2026-27",
+     "clubSlug": "1-fc-lintfort"
+    }
+   ],
+   "zuschauer": 20,
+   "schiedsrichter": "Werner Röös",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 212,
+   "seitAnpfiffMin": 311,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -362,7 +413,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 152,
+   "seitAnpfiffMin": 281,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -380,16 +431,89 @@
    "zeit": "16:00",
    "heim": "TuS Borth III",
    "gast": "VfL Rheinhausen III",
-   "tore": null,
-   "ereignisse": [],
-   "zuschauer": null,
+   "tore": {
+    "heim": 10,
+    "gast": 3
+   },
+   "ereignisse": [
+    {
+     "minute": 5,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Shadi Hamida",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "vfl-rheinhausen-m3-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 17,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Shadi Hamida",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "vfl-rheinhausen-m3-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 31,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Xaver Rene Höffken",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 3
+     },
+     "teamSlug": "vfl-rheinhausen-m3-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 38,
+     "nachspielzeit": 0,
+     "art": "card_yellow_red",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "spieler": "Mahmoud Merhi",
+     "fuer": null,
+     "stand": null,
+     "teamSlug": "vfl-rheinhausen-m3-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    },
+    {
+     "minute": 87,
+     "nachspielzeit": 0,
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": "Dennis Wiezorek",
+     "fuer": null,
+     "stand": null,
+     "teamSlug": "vfl-rheinhausen-m3-2026-27",
+     "clubSlug": "vfl-rheinhausen"
+    }
+   ],
+   "zuschauer": 50,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 92,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 221,
+   "laeuft": false,
+   "abgeschlossen": true
   }
  ]
 }
