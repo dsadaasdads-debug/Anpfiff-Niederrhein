@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-18T18:01:33.901Z",
+ "aktualisiert": "2026-10-18T20:33:30.791Z",
  "tag": "18.10.",
  "datum": "2026-10-18",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,126 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 482,
+   "seitAnpfiffMin": 634,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "sportart": "Fußball",
+   "url": "https://www.fupa.net/match/spvgg-meiderich-0695-m2-msv-moers-m3-261018",
+   "verein": "Meerbecker SV Moers 13/20",
+   "heimatverein": null,
+   "ort": "Moers",
+   "zone": "kern",
+   "liga": "Kreisliga A",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-10-18T12:00:00+02:00",
+   "zeit": "10:00",
+   "heim": "SpVgg Meiderich 06/95 II",
+   "gast": "MSV Moers III",
+   "tore": {
+    "heim": 4,
+    "gast": 2
+   },
+   "ereignisse": [
+    {
+     "minute": 13,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dominique Püttmann",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-meiderich-0695-m2-2026-27",
+     "clubSlug": "spvgg-meiderich-0695"
+    },
+    {
+     "minute": 15,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Janik Wisniewski",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-meiderich-0695-m2-2026-27",
+     "clubSlug": "spvgg-meiderich-0695"
+    },
+    {
+     "minute": 18,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Janik Wisniewski",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-meiderich-0695-m2-2026-27",
+     "clubSlug": "spvgg-meiderich-0695"
+    },
+    {
+     "minute": 60,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Oliver Roman",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "spvgg-meiderich-0695-m2-2026-27",
+     "clubSlug": "spvgg-meiderich-0695"
+    },
+    {
+     "minute": 68,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ali Yildiz",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 1
+     },
+     "teamSlug": "msv-moers-m3-2026-27",
+     "clubSlug": "msv-moers"
+    },
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Kubilay Aslan",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 2
+     },
+     "teamSlug": "msv-moers-m3-2026-27",
+     "clubSlug": "msv-moers"
+    }
+   ],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "hatTicker": false,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 634,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -88,7 +207,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 437,
+   "seitAnpfiffMin": 589,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -174,7 +293,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -202,7 +321,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -396,7 +515,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -530,7 +649,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -604,7 +723,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -630,10 +749,10 @@
     {
      "minute": 3,
      "nachspielzeit": 0,
-     "art": "goal_own_goal",
+     "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": "Tobias Waschek",
+     "spieler": "Tim Hagen Hilker",
      "fuer": null,
      "stand": {
       "heim": 0,
@@ -645,7 +764,7 @@
     {
      "minute": 12,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "goal_own_goal",
      "name": "Tor",
      "zeichen": "⚽",
      "spieler": null,
@@ -663,7 +782,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Lukas Witt",
      "fuer": null,
      "stand": {
       "heim": 0,
@@ -708,7 +827,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Lukas Witt",
      "fuer": null,
      "stand": {
       "heim": 2,
@@ -738,7 +857,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Christopher Koch",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -765,7 +884,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Samir Jabri",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -780,7 +899,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Ibrahim Korkut",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -795,7 +914,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Dzenis Muminovic",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -810,7 +929,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Tim Hagen Hilker",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -825,7 +944,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Jannis Nöthen",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -840,7 +959,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Noah Kahlen",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -855,7 +974,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Elias Grunert",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -870,7 +989,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Elias Grunert",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -885,7 +1004,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Robert Kuchta",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -900,7 +1019,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Amar Okic",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -915,7 +1034,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1019,7 +1138,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1063,7 +1182,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1392,7 +1511,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1415,6 +1534,21 @@
     "gast": 4
    },
    "ereignisse": [
+    {
+     "minute": 16,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Sinan Atabay",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "osc-rheinhausen-m2-2026-27",
+     "clubSlug": "osc-rheinhausen"
+    },
     {
      "minute": 28,
      "nachspielzeit": 0,
@@ -1481,7 +1615,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1509,7 +1643,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 422,
+   "seitAnpfiffMin": 574,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1628,7 +1762,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 332,
+   "seitAnpfiffMin": 484,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1732,7 +1866,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 302,
+   "seitAnpfiffMin": 454,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1821,7 +1955,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 302,
+   "seitAnpfiffMin": 454,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1940,7 +2074,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 302,
+   "seitAnpfiffMin": 454,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2059,7 +2193,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 302,
+   "seitAnpfiffMin": 454,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2223,7 +2357,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 302,
+   "seitAnpfiffMin": 454,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2248,7 +2382,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 302,
+   "seitAnpfiffMin": 454,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2307,7 +2441,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 287,
+   "seitAnpfiffMin": 439,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2396,7 +2530,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 424,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2515,7 +2649,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 424,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2634,7 +2768,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 424,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2753,7 +2887,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 424,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2842,7 +2976,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 424,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2991,7 +3125,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 424,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3080,7 +3214,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 424,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3102,13 +3236,119 @@
     "heim": 3,
     "gast": 4
    },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "ereignisse": [
+    {
+     "minute": 0,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Pascal Böhmer",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 3,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Haydar Alas",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 25,
+     "nachspielzeit": 0,
+     "art": "goal_free_kick",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Pascal Böhmer",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 58,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noah Schönwetter",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "tv-kapellen-m1-2026-27",
+     "clubSlug": "tv-kapellen"
+    },
+    {
+     "minute": 83,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Cem Akdemir",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 2
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 85,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Cem Akdemir",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 3
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dennis Kiljan",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 4
+     },
+     "teamSlug": "sv-alemannia-kamp-m1-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    }
+   ],
+   "zuschauer": 80,
+   "schiedsrichter": "Burak Öztürk",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 272,
+   "seitAnpfiffMin": 424,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3197,7 +3437,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 242,
+   "seitAnpfiffMin": 394,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3219,13 +3459,161 @@
     "heim": 5,
     "gast": 4
    },
-   "ereignisse": [],
-   "zuschauer": null,
+   "ereignisse": [
+    {
+     "minute": 34,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Gianluca Poelman",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-budberg-m4-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 51,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Maximilian Bock",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "sv-budberg-m4-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 57,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Adem Yildiz",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "sc-rheinkamp-m2-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 65,
+     "nachspielzeit": 0,
+     "art": "goal_free_kick",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Eren Kayman",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 2
+     },
+     "teamSlug": "sc-rheinkamp-m2-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 68,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Eren Kayman",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 3
+     },
+     "teamSlug": "sc-rheinkamp-m2-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 84,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Maximilian Bock",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 3
+     },
+     "teamSlug": "sv-budberg-m4-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 88,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Gianluca Poelman",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 3
+     },
+     "teamSlug": "sv-budberg-m4-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 3,
+     "art": "card_yellow_red",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "spieler": "Moussa Bou Hamdan",
+     "fuer": null,
+     "stand": null,
+     "teamSlug": "sv-budberg-m4-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 3,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Sasa Aleksic",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 4
+     },
+     "teamSlug": "sc-rheinkamp-m2-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 5,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Felix Lorenz",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 4
+     },
+     "teamSlug": "sv-budberg-m4-2026-27",
+     "clubSlug": "sv-budberg"
+    }
+   ],
+   "zuschauer": 45,
    "schiedsrichter": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 182,
+   "seitAnpfiffMin": 334,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3332,7 +3720,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 167,
+   "seitAnpfiffMin": 319,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3571,7 +3959,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 152,
+   "seitAnpfiffMin": 304,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3898,7 +4286,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 152,
+   "seitAnpfiffMin": 304,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4126,7 +4514,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 152,
+   "seitAnpfiffMin": 304,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4321,7 +4709,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 152,
+   "seitAnpfiffMin": 304,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4582,7 +4970,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 152,
+   "seitAnpfiffMin": 304,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4821,7 +5209,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 152,
+   "seitAnpfiffMin": 304,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5082,7 +5470,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 152,
+   "seitAnpfiffMin": 304,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5244,7 +5632,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 152,
+   "seitAnpfiffMin": 304,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5494,7 +5882,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 122,
+   "seitAnpfiffMin": 274,
    "laeuft": false,
    "abgeschlossen": true
   }
