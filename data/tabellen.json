@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-20T05:22:40.170Z",
+ "aktualisiert": "2026-10-20T12:14:43.511Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1036,24 +1036,24 @@
      "platz": 2,
      "verein": "MSV Moers IV",
      "teamId": "02PPT3VAVK000000VS5489B2VUGLP840",
-     "spiele": 8,
-     "siege": 6,
+     "spiele": 9,
+     "siege": 7,
      "unentschieden": 2,
      "niederlagen": 0,
-     "tore": "45:12",
-     "differenz": 33,
-     "punkte": 20
+     "tore": "47:12",
+     "differenz": 35,
+     "punkte": 23
     },
     {
      "platz": 3,
      "verein": "VFB Homberg III",
      "teamId": "01HDETCRBK000000VV0AG811VUIMUTIM",
-     "spiele": 8,
+     "spiele": 9,
      "siege": 6,
      "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "34:12",
-     "differenz": 22,
+     "niederlagen": 2,
+     "tore": "34:14",
+     "differenz": 20,
      "punkte": 19
     },
     {
