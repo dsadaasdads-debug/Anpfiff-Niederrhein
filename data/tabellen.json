@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-20T12:14:43.511Z",
+ "aktualisiert": "2026-10-20T17:33:31.458Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2324,7 +2324,7 @@
      "gast": "1. FC Lintfort",
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-1-fc-lintfort/-/spiel/032A3QRT40000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
@@ -2988,7 +2988,7 @@
      "gast": "1. FC Lintfort",
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-1-fc-lintfort/-/spiel/032A3QRT40000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
