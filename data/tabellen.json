@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-21T17:41:27.952Z",
+ "aktualisiert": "2026-10-21T22:01:01.956Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1072,16 +1072,28 @@
      "platz": 5,
      "verein": "FC Neukirchen-Vluyn IV",
      "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
-     "spiele": 9,
+     "spiele": 10,
      "siege": 5,
-     "unentschieden": 2,
+     "unentschieden": 3,
      "niederlagen": 2,
-     "tore": "46:13",
+     "tore": "47:14",
      "differenz": 33,
-     "punkte": 17
+     "punkte": 18
     },
     {
      "platz": 6,
+     "verein": "TuS Borth III",
+     "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
+     "spiele": 10,
+     "siege": 5,
+     "unentschieden": 2,
+     "niederlagen": 3,
+     "tore": "39:28",
+     "differenz": 11,
+     "punkte": 17
+    },
+    {
+     "platz": 7,
      "verein": "VfL Repelen II",
      "teamId": "011MIAP9SG000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -1093,7 +1105,7 @@
      "punkte": 16
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "OSC 04 Rheinhausen II",
      "teamId": "01L7FAASLK000000VV0AG80NVT9OCUEA",
      "spiele": 9,
@@ -1102,18 +1114,6 @@
      "niederlagen": 1,
      "tore": "37:20",
      "differenz": 17,
-     "punkte": 16
-    },
-    {
-     "platz": 8,
-     "verein": "TuS Borth III",
-     "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
-     "spiele": 9,
-     "siege": 5,
-     "unentschieden": 1,
-     "niederlagen": 3,
-     "tore": "38:27",
-     "differenz": 11,
      "punkte": 16
     },
     {
@@ -2318,15 +2318,6 @@
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "FC Viktoria Alpen",
-     "gast": "1. FC Lintfort",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-1-fc-lintfort/-/spiel/032A3QRT40000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
      "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "1. FC Lintfort",
@@ -2361,9 +2352,27 @@
      "url": "https://www.fussball.de/spiel/sc-union-nettetal-1-fc-lintfort/-/spiel/031EKQ0S7K000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.12.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1. FC Lintfort",
+     "gast": "Rheinland Hamborn",
+     "url": "https://www.fussball.de/spiel/1-fc-lintfort-rheinland-hamborn/-/spiel/031EKQ0RRC000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "FC Viktoria Alpen",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-1-fc-lintfort/-/spiel/032A3QRT40000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
     {
      "datum": "Freitag, 16.10.2026 - 19:30 Uhr",
      "wettbewerb": "Landesliga",
@@ -2397,15 +2406,6 @@
      "heim": "1. FC Lintfort",
      "gast": "SV Budberg",
      "url": "https://www.fussball.de/spiel/1-fc-lintfort-sv-budberg/-/spiel/031EKQ0UOS000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Donnerstag, 24.09.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SV Schwafheim",
-     "gast": "1. FC Lintfort",
-     "url": "https://www.fussball.de/spiel/sv-schwafheim-1-fc-lintfort/-/spiel/031QJDA408000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -2982,15 +2982,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "FC Viktoria Alpen",
-     "gast": "1. FC Lintfort",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-1-fc-lintfort/-/spiel/032A3QRT40000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
      "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "FC Viktoria Alpen",
@@ -3025,9 +3016,27 @@
      "url": "https://www.fussball.de/spiel/msv-moers-fc-viktoria-alpen/-/spiel/031H9RCA2S000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Freitag, 20.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Millingen",
+     "gast": "FC Viktoria Alpen",
+     "url": "https://www.fussball.de/spiel/sv-millingen-fc-viktoria-alpen/-/spiel/031H9RCESO000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "FC Viktoria Alpen",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-1-fc-lintfort/-/spiel/032A3QRT40000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
     {
      "datum": "Samstag, 10.10.2026 - 16:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3063,15 +3072,6 @@
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-tv-asberg-i/-/spiel/031H9RCC6C000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 20.09.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "Rumelner TV",
-     "gast": "FC Viktoria Alpen",
-     "url": "https://www.fussball.de/spiel/rumelner-tv-fc-viktoria-alpen/-/spiel/031H9RCCIS000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -3090,15 +3090,6 @@
    "torverhaeltnis": "17:29",
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
    "naechste": [
-    {
-     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "GSV Moers",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-gsv-moers/-/spiel/032A3QRSRO000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 25.10.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -3134,9 +3125,27 @@
      "url": "https://www.fussball.de/spiel/spvgg-sterkrade-06-07-gsv-moers/-/spiel/031ENENDG8000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 29.11.2026 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "GSV Moers",
+     "gast": "SV Genc Osman Duisburg",
+     "url": "https://www.fussball.de/spiel/gsv-moers-sv-genc-osman-duisburg/-/spiel/031ENEND60000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "GSV Moers",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-gsv-moers/-/spiel/032A3QRSRO000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 18.10.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -3172,15 +3181,6 @@
      "url": "https://www.fussball.de/spiel/gsv-moers-rhenania-bottrop/-/spiel/031ENENG14000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Mittwoch, 30.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SSV Rheintreu Lüttingen",
-     "gast": "GSV Moers",
-     "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-gsv-moers/-/spiel/031QJDA3V4000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -3199,15 +3199,6 @@
    "torverhaeltnis": "31:14",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "MSV Moers",
-     "gast": "SV Borussia Veen 1920",
-     "url": "https://www.fussball.de/spiel/msv-moers-sv-borussia-veen-1920/-/spiel/032A3QRSUS000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 25.10.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3243,9 +3234,27 @@
      "url": "https://www.fussball.de/spiel/gsv-moers-ii-msv-moers/-/spiel/031H9RCF1K000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "MSV Moers",
+     "gast": "Rumelner TV",
+     "url": "https://www.fussball.de/spiel/msv-moers-rumelner-tv/-/spiel/031H9RC9PS000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "MSV Moers",
+     "gast": "SV Borussia Veen 1920",
+     "url": "https://www.fussball.de/spiel/msv-moers-sv-borussia-veen-1920/-/spiel/032A3QRSUS000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 18.10.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3279,15 +3288,6 @@
      "heim": "FC Rumeln-Kaldenhausen",
      "gast": "MSV Moers",
      "url": "https://www.fussball.de/spiel/fc-rumeln-kaldenhausen-msv-moers/-/spiel/031QJDA48S000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 27.09.2026 - 16:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "MSV Moers",
-     "gast": "VfL Rheinhausen",
-     "url": "https://www.fussball.de/spiel/msv-moers-vfl-rheinhausen/-/spiel/031H9RCC4G000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3418,15 +3418,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "GSV Moers",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-gsv-moers/-/spiel/032A3QRSRO000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "FC Viktoria Alpen",
@@ -3461,9 +3452,27 @@
      "url": "https://www.fussball.de/spiel/sv-schwafheim-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCENG000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Samstag, 28.11.2026 - 16:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "Büdericher SV",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-buedericher-sv/-/spiel/031H9RC9TC000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "GSV Moers",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-gsv-moers/-/spiel/032A3QRSRO000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 18.10.2026 - 16:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3497,15 +3506,6 @@
      "heim": "FC Rot-Weiß Moers",
      "gast": "SpVgg. Rheurdt-Schaephuysen",
      "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-spvgg-rheurdt-schaephuysen/-/spiel/031QJDA4A0000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "SV Budberg III",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-sv-budberg-iii/-/spiel/031H9RCC9S000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3854,15 +3854,6 @@
    "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "MSV Moers",
-     "gast": "SV Borussia Veen 1920",
-     "url": "https://www.fussball.de/spiel/msv-moers-sv-borussia-veen-1920/-/spiel/032A3QRSUS000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "SV Borussia Veen 1920",
@@ -3897,9 +3888,27 @@
      "url": "https://www.fussball.de/spiel/sv-08-29-friedrichsfeld-sv-borussia-veen-1920/-/spiel/031EO9MO9S000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.12.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-tus-xanten/-/spiel/031EO9MO3K000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "MSV Moers",
+     "gast": "SV Borussia Veen 1920",
+     "url": "https://www.fussball.de/spiel/msv-moers-sv-borussia-veen-1920/-/spiel/032A3QRSUS000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Donnerstag, 15.10.2026 - 19:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -3933,15 +3942,6 @@
      "heim": "TV Kaldenhausen",
      "gast": "SV Borussia Veen 1920",
      "url": "https://www.fussball.de/spiel/tv-kaldenhausen-sv-borussia-veen-1920/-/spiel/031QJDA3PO000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "SV Borussia Veen 1920",
-     "gast": "PSV Wesel-Lackhausen",
-     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-psv-wesel-lackhausen/-/spiel/031EO9MQVK000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4835,15 +4835,6 @@
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SV Vynen-Marienbaum",
-     "gast": "TUS Xanten",
-     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-tus-xanten/-/spiel/032A3QRT58000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 25.10.2026 - 12:45 Uhr",
      "wettbewerb": "Kreisliga C",
      "heim": "SV Borussia Veen 1920 II",
@@ -4878,9 +4869,27 @@
      "url": "https://www.fussball.de/spiel/sv-rheinkraft-ginderich-sv-vynen-marienbaum/-/spiel/031I6NEJES000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 29.11.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "SV Millingen II",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-millingen-ii/-/spiel/031I6NEE30000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-tus-xanten/-/spiel/032A3QRT58000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 18.10.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -4916,15 +4925,6 @@
      "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-alemannia-kamp/-/spiel/031QJDA4C4000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 27.09.2026 - 12:15 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SpVgg. Rheurdt-Schaephuysen II",
-     "gast": "SV Vynen-Marienbaum",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-ii-sv-vynen-marienbaum/-/spiel/031I6NEGN4000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -4943,15 +4943,6 @@
    "torverhaeltnis": "56:13",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "TuS Borth",
-     "gast": "VFB Homberg",
-     "url": "https://www.fussball.de/spiel/tus-borth-vfb-homberg/-/spiel/032A3QRT2O000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Donnerstag, 29.10.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -4987,9 +4978,27 @@
      "url": "https://www.fussball.de/spiel/tus-borth-sv-viktoria-birten/-/spiel/031HBDT7OC000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "TuS Borth",
+     "gast": "TuS Baerl",
+     "url": "https://www.fussball.de/spiel/tus-borth-tus-baerl/-/spiel/031HBDT1NC000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "TuS Borth",
+     "gast": "VFB Homberg",
+     "url": "https://www.fussball.de/spiel/tus-borth-vfb-homberg/-/spiel/032A3QRT2O000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 18.10.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -5025,15 +5034,6 @@
      "url": "https://www.fussball.de/spiel/sv-schwafheim-ii-tus-borth/-/spiel/031HBDT45S000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Mittwoch, 30.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "TuS Borth",
-     "gast": "VfL Repelen",
-     "url": "https://www.fussball.de/spiel/tus-borth-vfl-repelen/-/spiel/031QJDA440000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -5052,15 +5052,6 @@
    "torverhaeltnis": "25:26",
    "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
    "naechste": [
-    {
-     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SV Vynen-Marienbaum",
-     "gast": "TUS Xanten",
-     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-tus-xanten/-/spiel/032A3QRT58000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -5096,9 +5087,27 @@
      "url": "https://www.fussball.de/spiel/tus-xanten-vfb-rheingold-emmerich/-/spiel/031EO9MO8S000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.12.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Borussia Veen 1920",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/sv-borussia-veen-1920-tus-xanten/-/spiel/031EO9MO3K000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SV Vynen-Marienbaum",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-tus-xanten/-/spiel/032A3QRT58000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 18.10.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -5132,15 +5141,6 @@
      "heim": "TV Asberg I",
      "gast": "TUS Xanten",
      "url": "https://www.fussball.de/spiel/tv-asberg-i-tus-xanten/-/spiel/031QJDA3T0000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "TUS Xanten",
-     "gast": "Alemannia Pfalzdorf",
-     "url": "https://www.fussball.de/spiel/tus-xanten-alemannia-pfalzdorf/-/spiel/031EO9MQPC000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
