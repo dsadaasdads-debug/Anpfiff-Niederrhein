@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-22T17:40:05.655Z",
+ "aktualisiert": "2026-10-22T21:57:11.013Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -836,6 +836,18 @@
     },
     {
      "platz": 2,
+     "verein": "FC Neukirchen-Vluyn II",
+     "teamId": "023U3COCV4000000VS548984VSVTAEJ3",
+     "spiele": 10,
+     "siege": 7,
+     "unentschieden": 2,
+     "niederlagen": 1,
+     "tore": "33:9",
+     "differenz": 24,
+     "punkte": 23
+    },
+    {
+     "platz": 3,
      "verein": "SpVgg. Rheurdt-Schaephuysen",
      "teamId": "011MIEFG1O000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -844,18 +856,6 @@
      "niederlagen": 1,
      "tore": "35:9",
      "differenz": 26,
-     "punkte": 20
-    },
-    {
-     "platz": 3,
-     "verein": "FC Neukirchen-Vluyn II",
-     "teamId": "023U3COCV4000000VS548984VSVTAEJ3",
-     "spiele": 9,
-     "siege": 6,
-     "unentschieden": 2,
-     "niederlagen": 1,
-     "tore": "31:8",
-     "differenz": 23,
      "punkte": 20
     },
     {
@@ -958,12 +958,12 @@
      "platz": 12,
      "verein": "VfL Rheinhausen",
      "teamId": "011MI9UHFS000000VTVG0001VTR8C1K7",
-     "spiele": 8,
+     "spiele": 9,
      "siege": 1,
      "unentschieden": 3,
-     "niederlagen": 4,
-     "tore": "12:28",
-     "differenz": -16,
+     "niederlagen": 5,
+     "tore": "13:30",
+     "differenz": -17,
      "punkte": 6
     },
     {
@@ -3412,7 +3412,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/spvgg-rheurdt-schaephuysen-spvgg-rheurdt-schaephuysen-niederrhein/-/saison/2627/team-id/011MIEFG1O000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 2,
+   "platz": 3,
    "punkte": 20,
    "torverhaeltnis": "35:9",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
