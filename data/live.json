@@ -1,8 +1,172 @@
 {
- "aktualisiert": "2026-10-18T22:34:09.152Z",
- "tag": "18.10.",
- "datum": "2026-10-18",
+ "aktualisiert": "2026-10-23T20:14:43.824Z",
+ "tag": "23.10.",
+ "datum": "2026-10-23",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
  "hinweisNamen": "Spielernamen stammen von FuPa, wo die Vereine selbst tickern – dort sind sie offen veröffentlicht. Partien ohne FuPa-Ticker kommen von fussball.de: dort gibt es Minute und Ereignisart, aber keine Namen.",
- "partien": []
+ "partien": [
+  {
+   "quelle": "FuPa",
+   "sportart": "Fußball",
+   "url": "https://www.fupa.net/match/fc-viktoria-alpen-1911-ev-m2-sv-budberg-m4-261023",
+   "verein": "FC Viktoria Alpen 1911",
+   "heimatverein": null,
+   "ort": "Alpen",
+   "zone": "umland",
+   "liga": "Kreisliga A",
+   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
+   "anpfiff": "2026-10-23T19:30:00+02:00",
+   "zeit": "17:30",
+   "heim": "FC Viktoria Alpen 1911 e.V. II",
+   "gast": "SV Budberg IV",
+   "tore": {
+    "heim": 0,
+    "gast": 2
+   },
+   "ereignisse": [
+    {
+     "minute": 42,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ben Gehrke",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-m4-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 79,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Gianluca Poelman",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "sv-budberg-m4-2026-27",
+     "clubSlug": "sv-budberg"
+    }
+   ],
+   "zuschauer": null,
+   "schiedsrichter": "Richard Zdzieblo",
+   "hatTicker": true,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 165,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "sportart": "Fußball",
+   "url": "https://www.fupa.net/match/tus-borth-m2-sv-rheinkraft-ginderich-m1-261023",
+   "verein": "TuS Borth 71",
+   "heimatverein": null,
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "Kreisliga B",
+   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
+   "anpfiff": "2026-10-23T20:00:00+02:00",
+   "zeit": "18:00",
+   "heim": "TuS Borth II",
+   "gast": "SV Rheinkraft Ginderich",
+   "tore": {
+    "heim": 5,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 15,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Louis Hausmann",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m2-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 31,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Justin Schraven",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m2-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 40,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Marc Schmidt",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m2-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 43,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Louis Hausmann",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m2-2026-27",
+     "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 74,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jan Luca Milutin",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 0
+     },
+     "teamSlug": "tus-borth-m2-2026-27",
+     "clubSlug": "tus-borth"
+    }
+   ],
+   "zuschauer": null,
+   "schiedsrichter": "Daniel Spolders",
+   "hatTicker": true,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 135,
+   "laeuft": false,
+   "abgeschlossen": true
+  }
+ ]
 }
