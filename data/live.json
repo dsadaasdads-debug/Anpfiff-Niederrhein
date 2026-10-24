@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-24T18:03:59.856Z",
+ "aktualisiert": "2026-10-24T20:40:21.252Z",
  "tag": "24.10.",
  "datum": "2026-10-24",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -180,7 +180,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 484,
+   "seitAnpfiffMin": 640,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -205,7 +205,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 424,
+   "seitAnpfiffMin": 580,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -334,12 +334,12 @@
      "clubSlug": "rheinland-hamborn"
     }
    ],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "zuschauer": 130,
+   "schiedsrichter": "Linus Podeschwa",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 304,
+   "seitAnpfiffMin": 460,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -364,7 +364,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 304,
+   "seitAnpfiffMin": 460,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -386,13 +386,59 @@
     "heim": 2,
     "gast": 1
    },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "ereignisse": [
+    {
+     "minute": 28,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Maurice Laroche",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "vfb-homberg-m2-2026-27",
+     "clubSlug": "vfb-homberg"
+    },
+    {
+     "minute": 39,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Maurice Laroche",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "vfb-homberg-m2-2026-27",
+     "clubSlug": "vfb-homberg"
+    },
+    {
+     "minute": 52,
+     "nachspielzeit": 0,
+     "art": "goal_own_goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Samuel Lindner",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-m1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
+   "zuschauer": 100,
+   "schiedsrichter": "Moritz Dannenberg",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 154,
+   "seitAnpfiffMin": 310,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -642,9 +688,9 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 34,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 190,
+   "laeuft": false,
+   "abgeschlossen": true
   }
  ]
 }
