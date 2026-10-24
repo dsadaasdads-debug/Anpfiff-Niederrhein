@@ -1,7 +1,7 @@
 {
- "aktualisiert": "2026-10-23T23:13:50.671Z",
- "tag": "23.10.",
- "datum": "2026-10-23",
+ "aktualisiert": "2026-10-24T15:02:50.134Z",
+ "tag": "24.10.",
+ "datum": "2026-10-24",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
  "hinweisNamen": "Spielernamen stammen von FuPa, wo die Vereine selbst tickern – dort sind sie offen veröffentlicht. Partien ohne FuPa-Ticker kommen von fussball.de: dort gibt es Minute und Ereignisart, aber keine Namen.",
  "partien": [
@@ -19,16 +19,195 @@
    "zeit": "10:00",
    "heim": "GSV Moers",
    "gast": "SC Westfalia 04 Herne",
+   "tore": {
+    "heim": 10,
+    "gast": 0
+   },
+   "ereignisse": [
+    {
+     "minute": 1,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Alan Lale",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 6,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Alan Lale",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 11,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Aaron Noah Keienborg",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 20,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Alan Lale",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 24,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Vito Velimir Cerovic",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 35,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ali Kanaan",
+     "fuer": null,
+     "stand": {
+      "heim": 6,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 46,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Alan Lale",
+     "fuer": null,
+     "stand": {
+      "heim": 7,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 47,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Maximilian Gangelhoff",
+     "fuer": null,
+     "stand": {
+      "heim": 8,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 53,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Aaron Noah Keienborg",
+     "fuer": null,
+     "stand": {
+      "heim": 9,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    },
+    {
+     "minute": 56,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Aaron Noah Keienborg",
+     "fuer": null,
+     "stand": {
+      "heim": 10,
+      "gast": 0
+     },
+     "teamSlug": "gsv-moers-u15-1-2026-27",
+     "clubSlug": "gsv-moers"
+    }
+   ],
+   "zuschauer": 20,
+   "schiedsrichter": "Florian Schöttler",
+   "hatTicker": false,
+   "abschnitt": "POST",
+   "hinweis": null,
+   "seitAnpfiffMin": 303,
+   "laeuft": false,
+   "abgeschlossen": true
+  },
+  {
+   "quelle": "FuPa",
+   "sportart": "Fußball",
+   "url": "https://www.fupa.net/match/sv-budberg-u19-2-sus-09-dinslaken-u19-2-261024",
+   "verein": "SV Budberg 1946",
+   "heimatverein": null,
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "Landesliga Gruppe 1",
+   "wettbewerb": "Testspiele",
+   "anpfiff": "2026-10-24T13:00:00+02:00",
+   "zeit": "11:00",
+   "heim": "SV Budberg II",
+   "gast": "SuS 09 Dinslaken II",
    "tore": null,
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -646,
+   "seitAnpfiffMin": 243,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -44,16 +223,125 @@
    "zeit": "13:00",
    "heim": "Rheinland Hamborn",
    "gast": "SV Budberg",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 4,
+    "gast": 1
+   },
+   "ereignisse": [
+    {
+     "minute": 13,
+     "nachspielzeit": 0,
+     "art": "goal_headed",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Samet Sadiklar",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "rheinland-hamborn-m1-2026-27",
+     "clubSlug": "rheinland-hamborn"
+    },
+    {
+     "minute": 24,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Samet Sadiklar",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "rheinland-hamborn-m1-2026-27",
+     "clubSlug": "rheinland-hamborn"
+    },
+    {
+     "minute": 39,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Fynn Leon Eckhardt",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-m1-2026-27",
+     "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 50,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Eren Taskin",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "rheinland-hamborn-m1-2026-27",
+     "clubSlug": "rheinland-hamborn"
+    },
+    {
+     "minute": 82,
+     "nachspielzeit": 0,
+     "art": "card_yellow_red",
+     "name": "Gelb-Rote Karte",
+     "zeichen": "🟨🟥",
+     "spieler": "Serhat Sat",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "rheinland-hamborn-m1-2026-27",
+     "clubSlug": "rheinland-hamborn"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 0,
+     "art": "card_red",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": "Ömer Talha Yurdakul",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 1
+     },
+     "teamSlug": "rheinland-hamborn-m1-2026-27",
+     "clubSlug": "rheinland-hamborn"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 3,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Tunahan Yardimci",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 1
+     },
+     "teamSlug": "rheinland-hamborn-m1-2026-27",
+     "clubSlug": "rheinland-hamborn"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": true,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -826,
+   "seitAnpfiffMin": 123,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -74,10 +362,36 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -826,
-   "laeuft": false,
+   "seitAnpfiffMin": 123,
+   "laeuft": true,
+   "abgeschlossen": false
+  },
+  {
+   "quelle": "fussball.de",
+   "sportart": "Fußball",
+   "url": "https://www.fussball.de/spiel/rheinland-hamborn-sv-budberg/-/spiel/031EKQ0T7O000000VS5489BTVUS470OH",
+   "verein": "SV Budberg 1946",
+   "heimatverein": null,
+   "ort": "Rheinberg",
+   "zone": "umland",
+   "liga": "Landesliga Gruppe 1",
+   "wettbewerb": "Landesliga",
+   "anpfiff": "2026-10-24T15:00:00.000Z",
+   "zeit": "15:00",
+   "heim": "Rheinland Hamborn",
+   "gast": "SV Budberg",
+   "tore": null,
+   "ergebnisGemeldet": true,
+   "ereignisse": [],
+   "zuschauer": null,
+   "schiedsrichter": null,
+   "hatTicker": false,
+   "abschnitt": null,
+   "hinweis": null,
+   "seitAnpfiffMin": 3,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -101,172 +415,35 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -976,
+   "seitAnpfiffMin": -27,
    "laeuft": false,
    "abgeschlossen": false
   },
   {
-   "quelle": "FuPa",
+   "quelle": "fussball.de",
    "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/fc-viktoria-alpen-1911-ev-m2-sv-budberg-m4-261023",
-   "verein": "FC Viktoria Alpen 1911",
+   "url": "https://www.fussball.de/spiel/vfb-homberg-ii-fc-neukirchen-vluyn/-/spiel/031ENENEG4000000VS5489BUVUR5FS5A",
+   "verein": "FC Neukirchen-Vluyn",
    "heimatverein": null,
-   "ort": "Alpen",
-   "zone": "umland",
-   "liga": "Kreisliga A",
-   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
-   "anpfiff": "2026-10-23T19:30:00+02:00",
+   "ort": "Neukirchen-Vluyn",
+   "zone": "kern",
+   "liga": "Bezirksliga Gruppe 5",
+   "wettbewerb": "Bezirksliga",
+   "anpfiff": "2026-10-24T17:30:00.000Z",
    "zeit": "17:30",
-   "heim": "FC Viktoria Alpen 1911 e.V. II",
-   "gast": "SV Budberg IV",
-   "tore": {
-    "heim": 0,
-    "gast": 2
-   },
-   "ereignisse": [
-    {
-     "minute": 42,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Ben Gehrke",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 1
-     },
-     "teamSlug": "sv-budberg-m4-2026-27",
-     "clubSlug": "sv-budberg"
-    },
-    {
-     "minute": 79,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Gianluca Poelman",
-     "fuer": null,
-     "stand": {
-      "heim": 0,
-      "gast": 2
-     },
-     "teamSlug": "sv-budberg-m4-2026-27",
-     "clubSlug": "sv-budberg"
-    }
-   ],
+   "heim": "VFB Homberg II",
+   "gast": "FC Neukirchen-Vluyn",
+   "tore": null,
+   "ergebnisGemeldet": true,
+   "ereignisse": [],
    "zuschauer": null,
-   "schiedsrichter": "Richard Zdzieblo",
-   "hatTicker": true,
-   "abschnitt": "POST",
+   "schiedsrichter": null,
+   "hatTicker": false,
+   "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 344,
+   "seitAnpfiffMin": -147,
    "laeuft": false,
-   "abgeschlossen": true
-  },
-  {
-   "quelle": "FuPa",
-   "sportart": "Fußball",
-   "url": "https://www.fupa.net/match/tus-borth-m2-sv-rheinkraft-ginderich-m1-261023",
-   "verein": "TuS Borth 71",
-   "heimatverein": null,
-   "ort": "Rheinberg",
-   "zone": "umland",
-   "liga": "Kreisliga B",
-   "wettbewerb": "Kreisliga C, Gruppe 1, Moers",
-   "anpfiff": "2026-10-23T20:00:00+02:00",
-   "zeit": "18:00",
-   "heim": "TuS Borth II",
-   "gast": "SV Rheinkraft Ginderich",
-   "tore": {
-    "heim": 5,
-    "gast": 0
-   },
-   "ereignisse": [
-    {
-     "minute": 15,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Louis Hausmann",
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 0
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 31,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Justin Schraven",
-     "fuer": null,
-     "stand": {
-      "heim": 2,
-      "gast": 0
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 40,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Marc Schmidt",
-     "fuer": null,
-     "stand": {
-      "heim": 3,
-      "gast": 0
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 43,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Louis Hausmann",
-     "fuer": null,
-     "stand": {
-      "heim": 4,
-      "gast": 0
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    },
-    {
-     "minute": 74,
-     "nachspielzeit": 0,
-     "art": "goal_shoot",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": "Jan Luca Milutin",
-     "fuer": null,
-     "stand": {
-      "heim": 5,
-      "gast": 0
-     },
-     "teamSlug": "tus-borth-m2-2026-27",
-     "clubSlug": "tus-borth"
-    }
-   ],
-   "zuschauer": null,
-   "schiedsrichter": "Daniel Spolders",
-   "hatTicker": true,
-   "abschnitt": "POST",
-   "hinweis": null,
-   "seitAnpfiffMin": 314,
-   "laeuft": false,
-   "abgeschlossen": true
+   "abgeschlossen": false
   }
  ]
 }
