@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-25T18:25:16.423Z",
+ "aktualisiert": "2026-10-25T21:01:05.466Z",
  "tag": "25.10.",
  "datum": "2026-10-25",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -135,7 +135,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 505,
+   "seitAnpfiffMin": 661,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -160,7 +160,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 505,
+   "seitAnpfiffMin": 661,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -264,7 +264,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 445,
+   "seitAnpfiffMin": 601,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -368,7 +368,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 415,
+   "seitAnpfiffMin": 571,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -407,21 +407,6 @@
      "clubSlug": "msv-moers"
     },
     {
-     "minute": 18,
-     "nachspielzeit": 0,
-     "art": "penalty_foul",
-     "name": "Tor",
-     "zeichen": "⚽",
-     "spieler": null,
-     "fuer": null,
-     "stand": {
-      "heim": 1,
-      "gast": 1
-     },
-     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
-     "clubSlug": "sv-alemannia-kamp"
-    },
-    {
      "minute": 20,
      "nachspielzeit": 0,
      "art": "card_yellow_red",
@@ -434,12 +419,27 @@
      "clubSlug": "msv-moers"
     },
     {
+     "minute": 24,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Denis Kasic",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
      "minute": 30,
      "nachspielzeit": 0,
      "art": "penalty_foul",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Baris Özcelik",
      "fuer": null,
      "stand": {
       "heim": 2,
@@ -484,7 +484,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Jeton Shaqiri",
      "fuer": null,
      "stand": {
       "heim": 3,
@@ -499,7 +499,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 415,
+   "seitAnpfiffMin": 571,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -648,7 +648,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 400,
+   "seitAnpfiffMin": 556,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -737,7 +737,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 400,
+   "seitAnpfiffMin": 556,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -781,7 +781,7 @@
      "art": "goal_free_kick",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Naim Aziz Hajjaoui",
      "fuer": null,
      "stand": {
       "heim": 1,
@@ -791,12 +791,12 @@
      "clubSlug": "gsv-moers"
     }
    ],
-   "zuschauer": 15,
+   "zuschauer": 45,
    "schiedsrichter": "Markus Nebor",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 385,
+   "seitAnpfiffMin": 541,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -824,7 +824,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 385,
+   "seitAnpfiffMin": 541,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -898,7 +898,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 385,
+   "seitAnpfiffMin": 541,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -987,7 +987,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 385,
+   "seitAnpfiffMin": 541,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1009,13 +1009,104 @@
     "heim": 1,
     "gast": 6
    },
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 19,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Yunus Burak Eskici",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    },
+    {
+     "minute": 23,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Zeki Erdogan",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    },
+    {
+     "minute": 28,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Yunus Burak Eskici",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    },
+    {
+     "minute": 60,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Yunus Burak Eskici",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 1
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    },
+    {
+     "minute": 65,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mohammad Al Hadi Abo Arah",
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 1
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    },
+    {
+     "minute": 87,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ersan Ali Orhan",
+     "fuer": null,
+     "stand": {
+      "heim": 6,
+      "gast": 1
+     },
+     "teamSlug": "vfl-repelen-m2-2026-27",
+     "clubSlug": "vfl-repelen"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 385,
+   "seitAnpfiffMin": 541,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1119,7 +1210,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 385,
+   "seitAnpfiffMin": 541,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1144,7 +1235,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 385,
+   "seitAnpfiffMin": 541,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1593,7 +1684,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 370,
+   "seitAnpfiffMin": 526,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1712,7 +1803,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 355,
+   "seitAnpfiffMin": 511,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1786,7 +1877,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 265,
+   "seitAnpfiffMin": 421,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1905,7 +1996,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 265,
+   "seitAnpfiffMin": 421,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2009,7 +2100,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 265,
+   "seitAnpfiffMin": 421,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2128,7 +2219,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 265,
+   "seitAnpfiffMin": 421,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2292,7 +2383,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 265,
+   "seitAnpfiffMin": 421,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2426,7 +2517,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 265,
+   "seitAnpfiffMin": 421,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2545,7 +2636,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 265,
+   "seitAnpfiffMin": 421,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2644,12 +2735,12 @@
      "clubSlug": "rumelner-tv"
     }
    ],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "zuschauer": 50,
+   "schiedsrichter": "Sven Bien",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 265,
+   "seitAnpfiffMin": 421,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2813,7 +2904,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 265,
+   "seitAnpfiffMin": 421,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2838,7 +2929,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 265,
+   "seitAnpfiffMin": 421,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2863,7 +2954,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 250,
+   "seitAnpfiffMin": 406,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2967,7 +3058,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 235,
+   "seitAnpfiffMin": 391,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3071,7 +3162,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 235,
+   "seitAnpfiffMin": 391,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3220,7 +3311,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 235,
+   "seitAnpfiffMin": 391,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3309,7 +3400,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 235,
+   "seitAnpfiffMin": 391,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3515,7 +3606,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 205,
+   "seitAnpfiffMin": 361,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3754,7 +3845,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 205,
+   "seitAnpfiffMin": 361,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3993,7 +4084,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 205,
+   "seitAnpfiffMin": 361,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4019,7 +4110,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 205,
+   "seitAnpfiffMin": 361,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4203,7 +4294,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 205,
+   "seitAnpfiffMin": 361,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4442,7 +4533,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 205,
+   "seitAnpfiffMin": 361,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4714,7 +4805,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 205,
+   "seitAnpfiffMin": 361,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4909,7 +5000,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 205,
+   "seitAnpfiffMin": 361,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4954,6 +5045,17 @@
      "fuer": null,
      "stand": null,
      "seite": "heim"
+    },
+    {
+     "minute": 41,
+     "nachspielzeit": 0,
+     "art": "red-card",
+     "name": "Rote Karte",
+     "zeichen": "🟥",
+     "spieler": null,
+     "fuer": null,
+     "stand": null,
+     "seite": "gast"
     },
     {
      "minute": 43,
@@ -5170,7 +5272,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 205,
+   "seitAnpfiffMin": 361,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5196,7 +5298,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "ausgefallen",
-   "seitAnpfiffMin": 190,
+   "seitAnpfiffMin": 346,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5435,7 +5537,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 175,
+   "seitAnpfiffMin": 331,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5674,7 +5776,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 175,
+   "seitAnpfiffMin": 331,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5946,7 +6048,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 175,
+   "seitAnpfiffMin": 331,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -6141,7 +6243,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 175,
+   "seitAnpfiffMin": 331,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -6347,7 +6449,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 175,
+   "seitAnpfiffMin": 331,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -6597,7 +6699,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 175,
+   "seitAnpfiffMin": 331,
    "laeuft": false,
    "abgeschlossen": true
   }
