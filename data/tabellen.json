@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-25T05:20:59.941Z",
+ "aktualisiert": "2026-10-25T12:01:37.767Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2555,7 +2555,7 @@
    "staffelId": null,
    "naechste": [
     {
-     "datum": "Samstag, 31.10.2026 - ** Uhr",
+     "datum": "Mittwoch, 28.10.2026 - 20:30 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "VfL Benrath",
      "gast": "FC Mattheck Moers",
@@ -3642,7 +3642,7 @@
      "gast": "FC Rumeln-Kaldenhausen II",
      "url": "https://www.fussball.de/spiel/sus-rayen-fc-rumeln-kaldenhausen-ii/-/spiel/031I6OUTOO000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Freitag, 06.11.2026 - 19:30 Uhr",
