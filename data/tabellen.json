@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-26T13:36:37.015Z",
+ "aktualisiert": "2026-10-26T20:47:02.900Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -3627,6 +3627,15 @@
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
    "naechste": [
     {
+     "datum": "Dienstag, 03.11.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SuS Rayen",
+     "gast": "FC Rumeln-Kaldenhausen II",
+     "url": "https://www.fussball.de/spiel/sus-rayen-fc-rumeln-kaldenhausen-ii/-/spiel/031I6OUTOO000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Freitag, 06.11.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga C",
      "heim": "SpVgg. Rheurdt-Schaephuysen III",
@@ -3661,27 +3670,9 @@
      "url": "https://www.fussball.de/spiel/tv-kapellen-ii-sus-rayen/-/spiel/031I6OUSQG000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 06.12.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SuS Rayen",
-     "gast": "MSV Moers II",
-     "url": "https://www.fussball.de/spiel/sus-rayen-msv-moers-ii/-/spiel/031I6OUSFK000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ],
    "letzte": [
-    {
-     "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SuS Rayen",
-     "gast": "FC Rumeln-Kaldenhausen II",
-     "url": "https://www.fussball.de/spiel/sus-rayen-fc-rumeln-kaldenhausen-ii/-/spiel/031I6OUTOO000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
     {
      "datum": "Sonntag, 18.10.2026 - 12:45 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -3715,6 +3706,15 @@
      "heim": "SuS Rayen",
      "gast": "SV Schwafheim III",
      "url": "https://www.fussball.de/spiel/sus-rayen-sv-schwafheim-iii/-/spiel/031I6OUVCO000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 22.09.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Alemannia Kamp II",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-ii-sus-rayen/-/spiel/031I6OV04S000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
