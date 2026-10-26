@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-26T05:20:14.304Z",
+ "aktualisiert": "2026-10-26T13:36:37.015Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2646,6 +2646,15 @@
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
     {
+     "datum": "Donnerstag, 29.10.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "SV Schwafheim II",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-sv-schwafheim-ii/-/spiel/031HBDT2RC000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Freitag, 06.11.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga B",
      "heim": "TV Kapellen",
@@ -2680,27 +2689,9 @@
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-iii-fc-moers-meerfeld/-/spiel/031HBDT1RC000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 06.12.2026 - 15:15 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "FC Moers-Meerfeld",
-     "gast": "TV Asberg II",
-     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-tv-asberg-ii/-/spiel/031HBDT18S000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ],
    "letzte": [
-    {
-     "datum": "Sonntag, 25.10.2026 - 15:15 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "FC Moers-Meerfeld",
-     "gast": "SV Schwafheim II",
-     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-sv-schwafheim-ii/-/spiel/031HBDT2RC000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Ausfall"
-    },
     {
      "datum": "Sonntag, 18.10.2026 - 15:15 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -2734,6 +2725,15 @@
      "heim": "FC Moers-Meerfeld",
      "gast": "Tus Asterlagen",
      "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-tus-asterlagen/-/spiel/031QJDA3U4000000VS5489BUVSV0FPBG",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "TuS Borth",
+     "gast": "FC Moers-Meerfeld",
+     "url": "https://www.fussball.de/spiel/tus-borth-fc-moers-meerfeld/-/spiel/031HBDT4V8000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4281,7 +4281,7 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Sonntag, 08.11.2026 - 15:00 Uhr",
+     "datum": "Sonntag, 08.11.2026 - 15:15 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Sonsbeck II",
      "gast": "SV Millingen",
