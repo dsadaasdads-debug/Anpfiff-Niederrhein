@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-27T15:34:24.749Z",
+ "aktualisiert": "2026-10-27T20:16:20.030Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2582,20 +2582,20 @@
      "hinweis": null
     },
     {
+     "datum": "Samstag, 21.11.2026 - 12:15 Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Elite Marokko",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/fc-elite-marokko-fc-mattheck-moers/-/spiel/032H744V98000000VS5489BUVSGKI48U",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Samstag, 28.11.2026 - ** Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "FC Mattheck Moers",
      "gast": "FF M'gladbach 07",
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers-ff-m%27gladbach-1/-/spiel/031OPNR3FC000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Samstag, 05.12.2026 - ** Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "FC Mattheck Moers",
-     "gast": "DJK SG Altenessen",
-     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-djk-sg-altenessen/-/spiel/031OPNR3LO000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -2618,15 +2618,6 @@
      "url": "https://www.fussball.de/spiel/djk-sg-altenessen-fc-mattheck-moers/-/spiel/031OPNR30O000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Samstag, 19.09.2026 - ** Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "Elite Marokko FC Wuppertal e.V. (PH)",
-     "gast": "FC Mattheck Moers",
-     "url": "https://www.fussball.de/spiel/fc-mattheck-moers/-/spiel/031P3BLD3G000000VS5489BUVSV0FPBG",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
     }
    ]
   },
