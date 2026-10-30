@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-30T10:29:33.406Z",
+ "aktualisiert": "2026-10-30T18:14:31.215Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2327,7 +2327,7 @@
      "hinweis": null
     },
     {
-     "datum": "Mittwoch, 11.11.2026 - 19:30 Uhr",
+     "datum": "Donnerstag, 12.11.2026 - 19:30 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "MSV Moers",
      "gast": "1. FC Lintfort",
@@ -2761,7 +2761,7 @@
      "gast": "SV Budberg II",
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-sv-budberg-ii/-/spiel/032BV9OUSC000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 08.11.2026 - 15:30 Uhr",
@@ -3200,7 +3200,7 @@
      "hinweis": null
     },
     {
-     "datum": "Mittwoch, 11.11.2026 - 19:30 Uhr",
+     "datum": "Donnerstag, 12.11.2026 - 19:30 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "MSV Moers",
      "gast": "1. FC Lintfort",
@@ -3445,7 +3445,7 @@
      "hinweis": null
     },
     {
-     "datum": "Samstag, 28.11.2026 - 16:00 Uhr",
+     "datum": "Samstag, 28.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SpVgg. Rheurdt-Schaephuysen",
      "gast": "Büdericher SV",
@@ -5371,6 +5371,15 @@
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
    "naechste": [
     {
+     "datum": "Dienstag, 03.11.2026 - 19:30 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Repelen",
+     "gast": "1.FC Lintfort II",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-1fc-lintfort-ii/-/spiel/032I44QK7C000000VS5489BUVSGKI48U",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 08.11.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "SF Hamborn 07",
@@ -5403,15 +5412,6 @@
      "heim": "VfL Repelen",
      "gast": "GSV Moers",
      "url": "https://www.fussball.de/spiel/vfl-repelen-gsv-moers/-/spiel/031ENENCK4000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 13.12.2026 - 15:15 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "SC 1920 Oberhausen",
-     "gast": "VfL Repelen",
-     "url": "https://www.fussball.de/spiel/sc-1920-oberhausen-vfl-repelen/-/spiel/031ENENCC4000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
