@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-30T18:14:31.215Z",
+ "aktualisiert": "2026-10-30T22:40:38.290Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -268,16 +268,28 @@
      "platz": 4,
      "verein": "FSV Duisburg",
      "teamId": "011MIEMHS8000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 4,
      "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "18:5",
-     "differenz": 13,
+     "niederlagen": 1,
+     "tore": "20:8",
+     "differenz": 12,
      "punkte": 13
     },
     {
      "platz": 5,
+     "verein": "FC Neukirchen-Vluyn",
+     "teamId": "023UVPVJ9C000000VS548984VSVTAEJ3",
+     "spiele": 6,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "13:16",
+     "differenz": -3,
+     "punkte": 10
+    },
+    {
+     "platz": 6,
      "verein": "SV Budberg",
      "teamId": "011MIF5K20000000VTVG0001VTR8C1K7",
      "spiele": 4,
@@ -287,18 +299,6 @@
      "tore": "22:11",
      "differenz": 11,
      "punkte": 9
-    },
-    {
-     "platz": 6,
-     "verein": "FC Neukirchen-Vluyn",
-     "teamId": "023UVPVJ9C000000VS548984VSVTAEJ3",
-     "spiele": 5,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "10:14",
-     "differenz": -4,
-     "punkte": 7
     },
     {
      "platz": 7,
@@ -316,28 +316,52 @@
      "platz": 8,
      "verein": "SV Sonsbeck",
      "teamId": "011MIF5QVC000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 1,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 4,
-     "tore": "9:19",
+     "tore": "10:20",
      "differenz": -10,
-     "punkte": 3
+     "punkte": 4
     },
     {
      "platz": 9,
-     "verein": "JSG SV Straelen / SV Veert",
-     "teamId": "011MIF5LV8000000VTVG0001VTR8C1K7",
-     "spiele": 4,
+     "verein": "1.FC Lintfort",
+     "teamId": "023R4O6F1G000000VS548985VT5V9K59",
+     "spiele": 6,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "tore": "8:18",
-     "differenz": -10,
+     "niederlagen": 5,
+     "tore": "12:26",
+     "differenz": -14,
      "punkte": 3
     },
     {
      "platz": 10,
+     "verein": "JSG SV Straelen / SV Veert",
+     "teamId": "011MIF5LV8000000VTVG0001VTR8C1K7",
+     "spiele": 5,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 4,
+     "tore": "9:24",
+     "differenz": -15,
+     "punkte": 3
+    },
+    {
+     "platz": 11,
+     "verein": "JSG Nütterden / Kranenburg",
+     "teamId": "011MID3RF4000000VTVG0001VTR8C1K7",
+     "spiele": 6,
+     "siege": 0,
+     "unentschieden": 1,
+     "niederlagen": 5,
+     "tore": "6:24",
+     "differenz": -18,
+     "punkte": 1
+    },
+    {
+     "platz": 12,
      "verein": "SV Krechting",
      "teamId": "01ORDBHD6C000000VV0AG811VVANPB38",
      "spiele": 5,
@@ -346,30 +370,6 @@
      "niederlagen": 5,
      "tore": "7:24",
      "differenz": -17,
-     "punkte": 0
-    },
-    {
-     "platz": 11,
-     "verein": "JSG Nütterden / Kranenburg",
-     "teamId": "011MID3RF4000000VTVG0001VTR8C1K7",
-     "spiele": 5,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 5,
-     "tore": "5:23",
-     "differenz": -18,
-     "punkte": 0
-    },
-    {
-     "platz": 12,
-     "verein": "1.FC Lintfort",
-     "teamId": "023R4O6F1G000000VS548985VT5V9K59",
-     "spiele": 5,
-     "siege": 0,
-     "unentschieden": 0,
-     "niederlagen": 5,
-     "tore": "6:25",
-     "differenz": -19,
      "punkte": 0
     }
    ]
@@ -2422,20 +2422,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/1fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/023R4O6F1G000000VS548985VT5V9K59",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 12,
-   "punkte": 0,
-   "torverhaeltnis": "6:25",
+   "platz": 9,
+   "punkte": 3,
+   "torverhaeltnis": "12:26",
    "staffelId": "031PMKJ4BK000004VS5489BTVT8K11BC-G",
    "naechste": [
-    {
-     "datum": "Freitag, 30.10.2026 - 20:00 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "1.FC Lintfort",
-     "gast": "JSG SV Straelen / SV Veert",
-     "url": "https://www.fussball.de/spiel/1fc-lintfort-jsg-sv-straelen-sv-veert/-/spiel/031SUR0NRG000000VS5489BTVT7QHFUC",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Donnerstag, 05.11.2026 - 19:30 Uhr",
      "wettbewerb": "Kreispokal",
@@ -2469,6 +2460,15 @@
      "heim": "1.FC Lintfort",
      "gast": "SV Krechting",
      "url": "https://www.fussball.de/spiel/1fc-lintfort-sv-krechting/-/spiel/031SUR0N6S000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 29.11.2026 - 11:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "PSV Wesel",
+     "gast": "1.FC Lintfort",
+     "url": "https://www.fussball.de/spiel/psv-wesel-1fc-lintfort/-/spiel/031SUR0N4K000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
