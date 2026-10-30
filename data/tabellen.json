@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-29T20:38:20.567Z",
+ "aktualisiert": "2026-10-30T01:22:43.647Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -380,6 +380,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "TuS Borth",
+     "teamId": "011MIAIST4000000VTVG0001VTR8C1K7",
+     "spiele": 10,
+     "siege": 9,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "tore": "61:14",
+     "differenz": 47,
+     "punkte": 27
+    },
+    {
+     "platz": 2,
      "verein": "VfL Rheinhausen II",
      "teamId": "02Q1FNPOVS000000VS5489B2VT450JFN",
      "spiele": 10,
@@ -389,18 +401,6 @@
      "tore": "47:16",
      "differenz": 31,
      "punkte": 26
-    },
-    {
-     "platz": 2,
-     "verein": "TuS Borth",
-     "teamId": "011MIAIST4000000VTVG0001VTR8C1K7",
-     "spiele": 9,
-     "siege": 8,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "56:13",
-     "differenz": 43,
-     "punkte": 24
     },
     {
      "platz": 3,
@@ -454,16 +454,28 @@
      "platz": 7,
      "verein": "SV Schwafheim II",
      "teamId": "01A27RRKS0000000VV0AG811VSDJU768",
-     "spiele": 9,
+     "spiele": 10,
      "siege": 6,
      "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "39:22",
-     "differenz": 17,
+     "niederlagen": 3,
+     "tore": "40:25",
+     "differenz": 15,
      "punkte": 19
     },
     {
      "platz": 8,
+     "verein": "FC Moers-Meerfeld",
+     "teamId": "011MIEUGA0000000VTVG0001VTR8C1K7",
+     "spiele": 10,
+     "siege": 5,
+     "unentschieden": 3,
+     "niederlagen": 2,
+     "tore": "45:15",
+     "differenz": 30,
+     "punkte": 18
+    },
+    {
+     "platz": 9,
      "verein": "SV Alemannia Kamp",
      "teamId": "011MIA986S000000VTVG0001VTR8C1K7",
      "spiele": 10,
@@ -475,27 +487,15 @@
      "punkte": 17
     },
     {
-     "platz": 9,
-     "verein": "FC Moers-Meerfeld",
-     "teamId": "011MIEUGA0000000VTVG0001VTR8C1K7",
-     "spiele": 9,
-     "siege": 4,
-     "unentschieden": 3,
-     "niederlagen": 2,
-     "tore": "42:14",
-     "differenz": 28,
-     "punkte": 15
-    },
-    {
      "platz": 10,
      "verein": "FC Neukirchen-Vluyn III",
      "teamId": "02BAB133P8000000VS5489B1VU20GQ5T",
-     "spiele": 9,
+     "spiele": 10,
      "siege": 4,
      "unentschieden": 2,
-     "niederlagen": 3,
-     "tore": "34:15",
-     "differenz": 19,
+     "niederlagen": 4,
+     "tore": "35:20",
+     "differenz": 15,
      "punkte": 14
     },
     {
@@ -2640,20 +2640,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/fc-moers-meerfeld-fc-moers-meerfeld-1980-niederrhein/-/saison/2627/team-id/011MIEUGA0000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 9,
-   "punkte": 15,
-   "torverhaeltnis": "42:14",
+   "platz": 8,
+   "punkte": 18,
+   "torverhaeltnis": "45:15",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Donnerstag, 29.10.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "FC Moers-Meerfeld",
-     "gast": "SV Schwafheim II",
-     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-sv-schwafheim-ii/-/spiel/031HBDT2RC000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Freitag, 06.11.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -2689,9 +2680,27 @@
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-iii-fc-moers-meerfeld/-/spiel/031HBDT1RC000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.12.2026 - 15:15 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "TV Asberg II",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-tv-asberg-ii/-/spiel/031HBDT18S000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 29.10.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Moers-Meerfeld",
+     "gast": "SV Schwafheim II",
+     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-sv-schwafheim-ii/-/spiel/031HBDT2RC000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 18.10.2026 - 15:15 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -2727,15 +2736,6 @@
      "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-tus-asterlagen/-/spiel/031QJDA3U4000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 27.09.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "TuS Borth",
-     "gast": "FC Moers-Meerfeld",
-     "url": "https://www.fussball.de/spiel/tus-borth-fc-moers-meerfeld/-/spiel/031HBDT4V8000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -2754,15 +2754,6 @@
    "torverhaeltnis": "32:27",
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
    "naechste": [
-    {
-     "datum": "Donnerstag, 29.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "TV Kapellen",
-     "gast": "FC Neukirchen-Vluyn",
-     "url": "https://www.fussball.de/spiel/tv-kapellen-fc-neukirchen-vluyn/-/spiel/032A3QRT18000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Dienstag, 03.11.2026 - 20:00 Uhr",
      "wettbewerb": "Bezirksfreundschaftsspiele",
@@ -2798,9 +2789,27 @@
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-vfl-repelen/-/spiel/031ENEND7C000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Freitag, 04.12.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Rhenania Hamborn",
+     "gast": "FC Neukirchen-Vluyn",
+     "url": "https://www.fussball.de/spiel/sv-rhenania-hamborn-fc-neukirchen-vluyn/-/spiel/031ENENCIK000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 29.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "TV Kapellen",
+     "gast": "FC Neukirchen-Vluyn",
+     "url": "https://www.fussball.de/spiel/tv-kapellen-fc-neukirchen-vluyn/-/spiel/032A3QRT18000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Samstag, 24.10.2026 - 17:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -2834,15 +2843,6 @@
      "heim": "FC Neukirchen-Vluyn",
      "gast": "Schwarz-Weiss Alstaden",
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-schwarz-weiss-alstaden/-/spiel/031ENENG30000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Mittwoch, 30.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "TuS Baerl",
-     "gast": "FC Neukirchen-Vluyn",
-     "url": "https://www.fussball.de/spiel/tus-baerl-fc-neukirchen-vluyn/-/spiel/031QJDA42O000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3730,7 +3730,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-alemannia-kamp-sv-alemannia-kamp-niederrhein/-/saison/2627/team-id/011MIA986S000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 8,
+   "platz": 9,
    "punkte": 17,
    "torverhaeltnis": "47:28",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
@@ -4929,20 +4929,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/tus-borth-tus-borth-71-niederrhein/-/saison/2627/team-id/011MIAIST4000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 2,
-   "punkte": 24,
-   "torverhaeltnis": "56:13",
+   "platz": 1,
+   "punkte": 27,
+   "torverhaeltnis": "61:14",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Donnerstag, 29.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "TuS Borth",
-     "gast": "FC Neukirchen-Vluyn III",
-     "url": "https://www.fussball.de/spiel/tus-borth-fc-neukirchen-vluyn-iii/-/spiel/031HBDT31C000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 08.11.2026 - 12:30 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -4978,9 +4969,27 @@
      "url": "https://www.fussball.de/spiel/tus-borth-tus-baerl/-/spiel/031HBDT1NC000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.12.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "TuS Borth",
+     "gast": "VfL Rheinhausen II",
+     "url": "https://www.fussball.de/spiel/tus-borth-vfl-rheinhausen-ii/-/spiel/031HBDT1CG000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 29.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "TuS Borth",
+     "gast": "FC Neukirchen-Vluyn III",
+     "url": "https://www.fussball.de/spiel/tus-borth-fc-neukirchen-vluyn-iii/-/spiel/031HBDT31C000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
      "wettbewerb": "Kreispokal",
@@ -5014,15 +5023,6 @@
      "heim": "TuS Borth",
      "gast": "TV Kapellen",
      "url": "https://www.fussball.de/spiel/tus-borth-tv-kapellen/-/spiel/031HBDT3TS000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 04.10.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "SV Schwafheim II",
-     "gast": "TuS Borth",
-     "url": "https://www.fussball.de/spiel/sv-schwafheim-ii-tus-borth/-/spiel/031HBDT45S000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -5262,15 +5262,6 @@
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Donnerstag, 29.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "TV Kapellen",
-     "gast": "FC Neukirchen-Vluyn",
-     "url": "https://www.fussball.de/spiel/tv-kapellen-fc-neukirchen-vluyn/-/spiel/032A3QRT18000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Freitag, 06.11.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga B",
      "heim": "TV Kapellen",
@@ -5305,9 +5296,27 @@
      "url": "https://www.fussball.de/spiel/tv-kapellen-1fc-lintfort-ii/-/spiel/031HBDT1I0000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.12.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "TV Kapellen",
+     "gast": "Rumelner TV II",
+     "url": "https://www.fussball.de/spiel/tv-kapellen-rumelner-tv-ii/-/spiel/031HBDT160000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 29.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "TV Kapellen",
+     "gast": "FC Neukirchen-Vluyn",
+     "url": "https://www.fussball.de/spiel/tv-kapellen-fc-neukirchen-vluyn/-/spiel/032A3QRT18000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -5341,15 +5350,6 @@
      "heim": "TV Kapellen",
      "gast": "TuS Asterlagen II",
      "url": "https://www.fussball.de/spiel/tv-kapellen-tus-asterlagen-ii/-/spiel/031HBDT448000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Mittwoch, 30.09.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "TV Kapellen",
-     "gast": "Büdericher SV",
-     "url": "https://www.fussball.de/spiel/tv-kapellen-buedericher-sv/-/spiel/031QJDA468000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
