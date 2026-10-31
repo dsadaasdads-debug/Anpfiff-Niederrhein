@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-31T00:58:00.934Z",
+ "aktualisiert": "2026-10-31T16:30:02.097Z",
  "tag": "31.10.",
  "datum": "2026-10-31",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -19,16 +19,19 @@
    "zeit": "10:00",
    "heim": "GSV Moers",
    "gast": "Sportfreunde 97/30 Lowick",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -542,
+   "seitAnpfiffMin": 390,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -49,11 +52,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -557,
+   "seitAnpfiffMin": 375,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -74,11 +77,11 @@
    "zuschauer": null,
    "schiedsrichter": "Loay Chergui El Ghiati",
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -662,
+   "seitAnpfiffMin": 270,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -94,16 +97,19 @@
    "zeit": "12:30",
    "heim": "SG Unterrath",
    "gast": "GSV Moers",
-   "tore": null,
+   "tore": {
+    "heim": 6,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -692,
+   "seitAnpfiffMin": 240,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -119,16 +125,19 @@
    "zeit": "14:15",
    "heim": "KFC Uerdingen 05",
    "gast": "SV Budberg",
-   "tore": null,
+   "tore": {
+    "heim": 9,
+    "gast": 3
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -797,
+   "seitAnpfiffMin": 135,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -144,16 +153,19 @@
    "zeit": "14:30",
    "heim": "FC Neukirchen-Vluyn 09/21 III",
    "gast": "SC Grimlinghausen II",
-   "tore": null,
+   "tore": {
+    "heim": 1,
+    "gast": 0
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -812,
+   "seitAnpfiffMin": 120,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -174,10 +186,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -902,
-   "laeuft": false,
+   "seitAnpfiffMin": 30,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -199,10 +211,10 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "LIVE",
    "hinweis": null,
-   "seitAnpfiffMin": -902,
-   "laeuft": false,
+   "seitAnpfiffMin": 30,
+   "laeuft": true,
    "abgeschlossen": false
   },
   {
@@ -226,7 +238,7 @@
    "hatTicker": false,
    "abschnitt": "PRE",
    "hinweis": null,
-   "seitAnpfiffMin": -1022,
+   "seitAnpfiffMin": -90,
    "laeuft": false,
    "abgeschlossen": false
   }
