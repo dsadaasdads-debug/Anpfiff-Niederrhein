@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-10-31T16:30:02.097Z",
+ "aktualisiert": "2026-10-31T20:11:02.823Z",
  "tag": "31.10.",
  "datum": "2026-10-31",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 390,
+   "seitAnpfiffMin": 611,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -54,7 +54,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 375,
+   "seitAnpfiffMin": 596,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -79,7 +79,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 270,
+   "seitAnpfiffMin": 491,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -107,7 +107,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 240,
+   "seitAnpfiffMin": 461,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -135,7 +135,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 135,
+   "seitAnpfiffMin": 356,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -157,13 +157,29 @@
     "heim": 1,
     "gast": 0
    },
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 21,
+     "nachspielzeit": 0,
+     "art": "goal_own_goal",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Katharina Schürmann",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-w3-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 120,
+   "seitAnpfiffMin": 341,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -186,11 +202,11 @@
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 30,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 251,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -206,16 +222,19 @@
    "zeit": "16:00",
    "heim": "SV Krechting",
    "gast": "SV Budberg",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 3
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 30,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 251,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -231,16 +250,19 @@
    "zeit": "18:00",
    "heim": "FC Neukirchen-Vluyn 09/21",
    "gast": "1. FC Lintfort",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -90,
+   "seitAnpfiffMin": 131,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   }
  ]
 }
