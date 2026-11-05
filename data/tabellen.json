@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-05T11:31:52.948Z",
+ "aktualisiert": "2026-11-05T20:18:02.051Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2327,7 +2327,7 @@
      "hinweis": null
     },
     {
-     "datum": "Donnerstag, 12.11.2026 - 19:30 Uhr",
+     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "MSV Moers",
      "gast": "1. FC Lintfort",
@@ -2764,20 +2764,20 @@
      "hinweis": null
     },
     {
-     "datum": "Mittwoch, 11.11.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "FC Neukirchen-Vluyn",
-     "gast": "VFB Homberg",
-     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-vfb-homberg/-/spiel/032I3DL53S000000VS5489BUVSGKI48U",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 15.11.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "SV Genc Osman Duisburg",
      "gast": "FC Neukirchen-Vluyn",
      "url": "https://www.fussball.de/spiel/sv-genc-osman-duisburg-fc-neukirchen-vluyn/-/spiel/031ENENDEO000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 21.11.2026 - 17:15 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "FC Neukirchen-Vluyn",
+     "gast": "VFB Homberg",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-vfb-homberg/-/spiel/032I3DL53S000000VS5489BUVSGKI48U",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
@@ -3200,7 +3200,7 @@
      "hinweis": null
     },
     {
-     "datum": "Donnerstag, 12.11.2026 - 19:30 Uhr",
+     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "MSV Moers",
      "gast": "1. FC Lintfort",
@@ -3963,7 +3963,7 @@
      "hinweis": null
     },
     {
-     "datum": "Dienstag, 10.11.2026 - 19:30 Uhr",
+     "datum": "Dienstag, 10.11.2026 - 20:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "Tus Asterlagen",
      "gast": "SV Budberg",
