@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-05T20:18:02.051Z",
+ "aktualisiert": "2026-11-06T01:50:10.381Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -230,6 +230,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SF 97/30 Lowick",
+     "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
+     "spiele": 7,
+     "siege": 6,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "29:7",
+     "differenz": 22,
+     "punkte": 19
+    },
+    {
+     "platz": 2,
      "verein": "SuS 09 Dinslaken",
      "teamId": "011MIBSV6G000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -241,7 +253,7 @@
      "punkte": 18
     },
     {
-     "platz": 2,
+     "platz": 3,
      "verein": "DJK Arminia Klosterhardt",
      "teamId": "011MI97620000000VTVG0001VTR8C1K7",
      "spiele": 6,
@@ -250,18 +262,6 @@
      "niederlagen": 0,
      "tore": "29:5",
      "differenz": 24,
-     "punkte": 16
-    },
-    {
-     "platz": 3,
-     "verein": "SF 97/30 Lowick",
-     "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
-     "spiele": 6,
-     "siege": 5,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "26:7",
-     "differenz": 19,
      "punkte": 16
     },
     {
@@ -340,12 +340,12 @@
      "platz": 10,
      "verein": "JSG SV Straelen / SV Veert",
      "teamId": "011MIF5LV8000000VTVG0001VTR8C1K7",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 4,
-     "tore": "9:24",
-     "differenz": -15,
+     "niederlagen": 5,
+     "tore": "9:27",
+     "differenz": -18,
      "punkte": 3
     },
     {
@@ -956,6 +956,18 @@
     },
     {
      "platz": 12,
+     "verein": "VfL Rheinhausen",
+     "teamId": "011MI9UHFS000000VTVG0001VTR8C1K7",
+     "spiele": 10,
+     "siege": 2,
+     "unentschieden": 3,
+     "niederlagen": 5,
+     "tore": "17:33",
+     "differenz": -16,
+     "punkte": 9
+    },
+    {
+     "platz": 13,
      "verein": "SV Millingen",
      "teamId": "011MIB2M18000000VTVG0001VTR8C1K7",
      "spiele": 10,
@@ -965,18 +977,6 @@
      "tore": "20:37",
      "differenz": -17,
      "punkte": 7
-    },
-    {
-     "platz": 13,
-     "verein": "VfL Rheinhausen",
-     "teamId": "011MI9UHFS000000VTVG0001VTR8C1K7",
-     "spiele": 9,
-     "siege": 1,
-     "unentschieden": 3,
-     "niederlagen": 5,
-     "tore": "13:30",
-     "differenz": -17,
-     "punkte": 6
     },
     {
      "platz": 14,
@@ -994,12 +994,12 @@
      "platz": 15,
      "verein": "FC Viktoria Alpen",
      "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
-     "spiele": 9,
+     "spiele": 10,
      "siege": 1,
      "unentschieden": 2,
-     "niederlagen": 6,
-     "tore": "12:38",
-     "differenz": -26,
+     "niederlagen": 7,
+     "tore": "15:42",
+     "differenz": -27,
      "punkte": 5
     },
     {
@@ -2428,15 +2428,6 @@
    "staffelId": "031PMKJ4BK000004VS5489BTVT8K11BC-G",
    "naechste": [
     {
-     "datum": "Donnerstag, 05.11.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "FC Rumeln-Kaldenhausen",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/fc-rumeln-kaldenhausen-1fc-lintfort/-/spiel/032APQTE28000000VS5489BUVV5V31CI",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 08.11.2026 - 11:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "JSG Nütterden / Kranenburg",
@@ -2469,6 +2460,15 @@
      "heim": "PSV Wesel",
      "gast": "1.FC Lintfort",
      "url": "https://www.fussball.de/spiel/psv-wesel-1fc-lintfort/-/spiel/031SUR0N4K000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.12.2026 - 11:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "1.FC Lintfort",
+     "gast": "FC Neukirchen-Vluyn",
+     "url": "https://www.fussball.de/spiel/1fc-lintfort-fc-neukirchen-vluyn/-/spiel/031SUR0MQ4000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -2969,18 +2969,9 @@
    "spielklasse": "Kreisliga A",
    "platz": 15,
    "punkte": 5,
-   "torverhaeltnis": "12:38",
+   "torverhaeltnis": "15:42",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Donnerstag, 05.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "VfL Rheinhausen",
-     "gast": "FC Viktoria Alpen",
-     "url": "https://www.fussball.de/spiel/vfl-rheinhausen-fc-viktoria-alpen/-/spiel/031H9RCB7S000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 08.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3016,9 +3007,27 @@
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-fc-neukirchen-vluyn-ii/-/spiel/031H9RC9R0000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 06.12.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "GSV Moers II",
+     "gast": "FC Viktoria Alpen",
+     "url": "https://www.fussball.de/spiel/gsv-moers-ii-fc-viktoria-alpen/-/spiel/031H9RC9NK000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 05.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "VfL Rheinhausen",
+     "gast": "FC Viktoria Alpen",
+     "url": "https://www.fussball.de/spiel/vfl-rheinhausen-fc-viktoria-alpen/-/spiel/031H9RCB7S000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 25.10.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3052,15 +3061,6 @@
      "heim": "SV Sonsbeck II",
      "gast": "FC Viktoria Alpen",
      "url": "https://www.fussball.de/spiel/sv-sonsbeck-ii-fc-viktoria-alpen/-/spiel/031H9RCC18000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Mittwoch, 30.09.2026 - 19:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "FC Viktoria Alpen",
-     "gast": "ESV Hohenbudberg",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-esv-hohenbudberg/-/spiel/031QJDA4B0000000VS5489BUVSV0FPBG",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4275,7 +4275,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-millingen-sv-millingen-1928-niederrhein/-/saison/2627/team-id/011MIB2M18000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 12,
+   "platz": 13,
    "punkte": 7,
    "torverhaeltnis": "20:37",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
