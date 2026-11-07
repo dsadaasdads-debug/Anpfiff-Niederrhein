@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-07T10:42:50.723Z",
+ "aktualisiert": "2026-11-07T17:52:59.755Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2555,15 +2555,6 @@
    "staffelId": null,
    "naechste": [
     {
-     "datum": "Samstag, 07.11.2026 - 14:30 Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "Croatia Geistenbeck",
-     "gast": "FC Mattheck Moers",
-     "url": "https://www.fussball.de/spiel/croatia-geistenbeck-fc-mattheck-moers/-/spiel/031OPNR39G000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Samstag, 14.11.2026 - ** Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "Wuppertaler SV 2",
@@ -2598,9 +2589,27 @@
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers-djk-sg-altenessen/-/spiel/031OPNR3LO000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Samstag, 19.12.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "GTSV Essen",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-gtsv-essen/-/spiel/031OPNR33S000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 07.11.2026 - 14:30 Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "Croatia Geistenbeck",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/croatia-geistenbeck-fc-mattheck-moers/-/spiel/031OPNR39G000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Mittwoch, 28.10.2026 - 20:30 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
