@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-09T01:15:18.712Z",
+ "aktualisiert": "2026-11-09T12:10:16.290Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -826,13 +826,13 @@
      "platz": 1,
      "verein": "SSV Rheintreu Lüttingen",
      "teamId": "011MIAE4R0000000VTVG0001VTR8C1K7",
-     "spiele": 10,
-     "siege": 9,
+     "spiele": 11,
+     "siege": 10,
      "unentschieden": 1,
      "niederlagen": 0,
-     "tore": "26:11",
-     "differenz": 15,
-     "punkte": 28
+     "tore": "28:11",
+     "differenz": 17,
+     "punkte": 31
     },
     {
      "platz": 2,
@@ -994,12 +994,12 @@
      "platz": 15,
      "verein": "FC Viktoria Alpen",
      "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
-     "spiele": 10,
+     "spiele": 11,
      "siege": 1,
      "unentschieden": 2,
-     "niederlagen": 7,
-     "tore": "15:42",
-     "differenz": -27,
+     "niederlagen": 8,
+     "tore": "15:44",
+     "differenz": -29,
      "punkte": 5
     },
     {
@@ -2978,7 +2978,7 @@
    "spielklasse": "Kreisliga A",
    "platz": 15,
    "punkte": 5,
-   "torverhaeltnis": "15:42",
+   "torverhaeltnis": "15:44",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
@@ -3418,7 +3418,7 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 11.11.2026 - 19:30 Uhr",
+     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "SpVgg. Rheurdt-Schaephuysen",
      "gast": "TUS Xanten",
@@ -3522,8 +3522,8 @@
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
    "platz": 1,
-   "punkte": 28,
-   "torverhaeltnis": "26:11",
+   "punkte": 31,
+   "torverhaeltnis": "28:11",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
@@ -3580,7 +3580,7 @@
      "gast": "FC Viktoria Alpen",
      "url": "https://www.fussball.de/spiel/ssv-rheintreu-luettingen-fc-viktoria-alpen/-/spiel/031H9RCAFC000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
+     "hinweis": null
     },
     {
      "datum": "Sonntag, 25.10.2026 - 15:30 Uhr",
@@ -5053,7 +5053,7 @@
    "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 11.11.2026 - 19:30 Uhr",
+     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
      "wettbewerb": "Kreispokal",
      "heim": "SpVgg. Rheurdt-Schaephuysen",
      "gast": "TUS Xanten",
