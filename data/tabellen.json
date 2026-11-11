@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-11T07:11:20.702Z",
+ "aktualisiert": "2026-11-11T17:29:27.739Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2561,7 +2561,7 @@
      "gast": "FC Mattheck Moers",
      "url": "https://www.fussball.de/spiel/wuppertaler-sv-2-fc-mattheck-moers/-/spiel/031OPNR3DS000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Nichtantritt GAST"
     },
     {
      "datum": "Samstag, 21.11.2026 - 12:15 Uhr",
@@ -3127,7 +3127,7 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 20.12.2026 - 14:15 Uhr",
+     "datum": "Sonntag, 20.12.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "SF Hamborn 07",
      "gast": "GSV Moers",
@@ -3554,7 +3554,7 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 06.12.2026 - 15:30 Uhr",
+     "datum": "Freitag, 04.12.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "Büdericher SV",
      "gast": "SSV Rheintreu Lüttingen",
@@ -4308,7 +4308,7 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
+     "datum": "Sonntag, 29.11.2026 - 14:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "VfL Rheinhausen",
      "gast": "SV Millingen",
