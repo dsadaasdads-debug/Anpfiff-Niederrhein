@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-11T17:29:27.739Z",
+ "aktualisiert": "2026-11-12T01:01:28.785Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -268,13 +268,13 @@
      "platz": 4,
      "verein": "SV Budberg",
      "teamId": "011MIF5K20000000VTVG0001VTR8C1K7",
-     "spiele": 6,
-     "siege": 4,
+     "spiele": 7,
+     "siege": 5,
      "unentschieden": 1,
      "niederlagen": 1,
-     "tore": "29:17",
-     "differenz": 12,
-     "punkte": 13
+     "tore": "36:19",
+     "differenz": 17,
+     "punkte": 16
     },
     {
      "platz": 5,
@@ -326,18 +326,6 @@
     },
     {
      "platz": 9,
-     "verein": "JSG SV Straelen / SV Veert",
-     "teamId": "011MIF5LV8000000VTVG0001VTR8C1K7",
-     "spiele": 7,
-     "siege": 1,
-     "unentschieden": 1,
-     "niederlagen": 5,
-     "tore": "12:30",
-     "differenz": -18,
-     "punkte": 4
-    },
-    {
-     "platz": 10,
      "verein": "SV Sonsbeck",
      "teamId": "011MIF5QVC000000VTVG0001VTR8C1K7",
      "spiele": 7,
@@ -346,6 +334,18 @@
      "niederlagen": 5,
      "tore": "10:29",
      "differenz": -19,
+     "punkte": 4
+    },
+    {
+     "platz": 10,
+     "verein": "JSG SV Straelen / SV Veert",
+     "teamId": "011MIF5LV8000000VTVG0001VTR8C1K7",
+     "spiele": 8,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 6,
+     "tore": "14:37",
+     "differenz": -23,
      "punkte": 4
     },
     {
@@ -2318,15 +2318,6 @@
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "MSV Moers",
-     "gast": "1. FC Lintfort",
-     "url": "https://www.fussball.de/spiel/msv-moers-1-fc-lintfort/-/spiel/032I3DL54O000000VS5489BUVSGKI48U",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 15.11.2026 - 15:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "1. FC Lintfort",
@@ -2361,9 +2352,27 @@
      "url": "https://www.fussball.de/spiel/1-fc-lintfort-duisburger-fv-08/-/spiel/031EKQ0RIS000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Samstag, 19.12.2026 - 15:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "VfB Bottrop",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/vfb-bottrop-1-fc-lintfort/-/spiel/031EKQ0RI0000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "MSV Moers",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/msv-moers-1-fc-lintfort/-/spiel/032I3DL54O000000VS5489BUVSGKI48U",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 08.11.2026 - 15:30 Uhr",
      "wettbewerb": "Landesliga",
@@ -2397,15 +2406,6 @@
      "heim": "1. FC Kleve 63/03",
      "gast": "1. FC Lintfort",
      "url": "https://www.fussball.de/spiel/1-fc-kleve-63-03-1-fc-lintfort/-/spiel/031EKQ0TMO000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Freitag, 09.10.2026 - 20:00 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "1. FC Lintfort",
-     "gast": "VfL Rhede",
-     "url": "https://www.fussball.de/spiel/1-fc-lintfort-vfl-rhede/-/spiel/031EKQ0TUK000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3200,15 +3200,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "MSV Moers",
-     "gast": "1. FC Lintfort",
-     "url": "https://www.fussball.de/spiel/msv-moers-1-fc-lintfort/-/spiel/032I3DL54O000000VS5489BUVSGKI48U",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 15.11.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "MSV Moers",
@@ -3243,9 +3234,27 @@
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-ii-msv-moers/-/spiel/031H9RC9OK000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.12.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "TV Asberg I",
+     "gast": "MSV Moers",
+     "url": "https://www.fussball.de/spiel/tv-asberg-i-msv-moers/-/spiel/031H9RCP58000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "MSV Moers",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/msv-moers-1-fc-lintfort/-/spiel/032I3DL54O000000VS5489BUVSGKI48U",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Freitag, 06.11.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3279,15 +3288,6 @@
      "heim": "SV Schwafheim",
      "gast": "MSV Moers",
      "url": "https://www.fussball.de/spiel/sv-schwafheim-msv-moers/-/spiel/031H9RCB58000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 11.10.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "MSV Moers",
-     "gast": "SpVgg. Rheurdt-Schaephuysen",
-     "url": "https://www.fussball.de/spiel/msv-moers-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCBD4000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3418,15 +3418,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "TUS Xanten",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tus-xanten/-/spiel/032I3DL55G000000VS5489BUVSGKI48U",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "GSV Moers II",
@@ -3461,9 +3452,27 @@
      "url": "https://www.fussball.de/spiel/sv-millingen-spvgg-rheurdt-schaephuysen/-/spiel/031H9RC9LK000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 13.12.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "ESV Hohenbudberg",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/esv-hohenbudberg-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCPI4000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tus-xanten/-/spiel/032I3DL55G000000VS5489BUVSGKI48U",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 08.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3497,15 +3506,6 @@
      "heim": "SpVgg. Rheurdt-Schaephuysen",
      "gast": "SSV Rheintreu Lüttingen",
      "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-ssv-rheintreu-luettingen/-/spiel/031H9RCB6G000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 11.10.2026 - 15:30 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "MSV Moers",
-     "gast": "SpVgg. Rheurdt-Schaephuysen",
-     "url": "https://www.fussball.de/spiel/msv-moers-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCBD4000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3854,7 +3854,7 @@
    "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Sonntag, 15.11.2026 - 15:00 Uhr",
+     "datum": "Sonntag, 15.11.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "SV Borussia Veen 1920",
      "gast": "Kevelaerer SV",
@@ -4535,7 +4535,7 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 13.12.2026 - 14:15 Uhr",
+     "datum": "Samstag, 12.12.2026 - 16:00 Uhr",
      "wettbewerb": "Oberliga Niederrhein",
      "heim": "Sportfreunde Baumberg",
      "gast": "SV Scherpenberg",
@@ -5053,15 +5053,6 @@
    "staffelId": "0311F9OJU4000000VS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "TUS Xanten",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tus-xanten/-/spiel/032I3DL55G000000VS5489BUVSGKI48U",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 15.11.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "DJK Twisteden",
@@ -5096,9 +5087,27 @@
      "url": "https://www.fussball.de/spiel/tus-xanten-bw-dingden-ii/-/spiel/031EO9MNNG000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 20.12.2026 - 15:00 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "SV Budberg II",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/sv-budberg-ii-tus-xanten/-/spiel/031EO9MNEG000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "TUS Xanten",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-tus-xanten/-/spiel/032I3DL55G000000VS5489BUVSGKI48U",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 08.11.2026 - 14:30 Uhr",
      "wettbewerb": "Bezirksliga",
@@ -5132,15 +5141,6 @@
      "heim": "SV 08/29 Friedrichsfeld",
      "gast": "TUS Xanten",
      "url": "https://www.fussball.de/spiel/sv-08-29-friedrichsfeld-tus-xanten/-/spiel/031EO9MPK4000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 11.10.2026 - 15:00 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "TUS Xanten",
-     "gast": "Kevelaerer SV",
-     "url": "https://www.fussball.de/spiel/tus-xanten-kevelaerer-sv/-/spiel/031EO9MPVC000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
