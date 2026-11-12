@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-12T01:01:28.785Z",
+ "aktualisiert": "2026-11-12T11:53:02.645Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -430,13 +430,13 @@
      "platz": 5,
      "verein": "FC Rumeln-Kaldenhausen",
      "teamId": "011MI97ALK000000VTVG0001VTR8C1K7",
-     "spiele": 10,
-     "siege": 6,
+     "spiele": 11,
+     "siege": 7,
      "unentschieden": 2,
      "niederlagen": 2,
-     "tore": "46:19",
-     "differenz": 27,
-     "punkte": 20
+     "tore": "48:19",
+     "differenz": 29,
+     "punkte": 23
     },
     {
      "platz": 6,
@@ -574,12 +574,12 @@
      "platz": 17,
      "verein": "SSV Rheintreu Lüttingen II",
      "teamId": "011MIDHPQC000000VTVG0001VTR8C1K7",
-     "spiele": 10,
+     "spiele": 11,
      "siege": 0,
      "unentschieden": 1,
-     "niederlagen": 9,
-     "tore": "10:54",
-     "differenz": -44,
+     "niederlagen": 10,
+     "tore": "10:56",
+     "differenz": -46,
      "punkte": 1
     },
     {
