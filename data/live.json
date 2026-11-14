@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-14T17:28:01.371Z",
+ "aktualisiert": "2026-11-14T21:38:30.851Z",
  "tag": "14.11.",
  "datum": "2026-11-14",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -29,7 +29,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 208,
+   "seitAnpfiffMin": 459,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -57,7 +57,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 208,
+   "seitAnpfiffMin": 459,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -85,7 +85,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 193,
+   "seitAnpfiffMin": 444,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -103,16 +103,50 @@
    "zeit": "15:00",
    "heim": "SV Straelen",
    "gast": "SV Budberg",
-   "tore": null,
-   "ereignisse": [],
+   "tore": {
+    "heim": 1,
+    "gast": 1
+   },
+   "ereignisse": [
+    {
+     "minute": 25,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Fynn Eymael",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-straelen-u17-1-2026-27",
+     "clubSlug": "sv-straelen"
+    },
+    {
+     "minute": 51,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Paul Thör",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "sv-budberg-u17-1-2026-27",
+     "clubSlug": "sv-budberg"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": "Adrian Shala",
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 148,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 399,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -138,7 +172,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 148,
+   "seitAnpfiffMin": 399,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -166,7 +200,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 133,
+   "seitAnpfiffMin": 384,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -185,18 +219,34 @@
    "heim": "SV Budberg II",
    "gast": "Eintracht Emmerich",
    "tore": {
-    "heim": 0,
+    "heim": 1,
     "gast": 0
    },
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Dana Morawa",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-budberg-w2-2026-27",
+     "clubSlug": "sv-budberg"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 88,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 339,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -213,8 +263,8 @@
    "heim": "FC Neukirchen-Vluyn 09/21",
    "gast": "SV Budberg",
    "tore": {
-    "heim": 0,
-    "gast": 1
+    "heim": 1,
+    "gast": 2
    },
    "ereignisse": [
     {
@@ -231,16 +281,46 @@
      },
      "teamSlug": "sv-budberg-u19-1-2026-27",
      "clubSlug": "sv-budberg"
+    },
+    {
+     "minute": 57,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Noel Chiduch",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 1
+     },
+     "teamSlug": "fc-neukirchen-vluyn-0921-u19-1-2026-27",
+     "clubSlug": "fc-neukirchen-vluyn-0921"
+    },
+    {
+     "minute": 74,
+     "nachspielzeit": 0,
+     "art": "penalty_foul",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Finn Röttges",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "sv-budberg-u19-1-2026-27",
+     "clubSlug": "sv-budberg"
     }
    ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 88,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 339,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -256,16 +336,19 @@
    "zeit": "16:00",
    "heim": "TSV Meerbusch",
    "gast": "GSV Moers",
-   "tore": null,
+   "tore": {
+    "heim": 4,
+    "gast": 1
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 88,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 339,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -282,7 +365,7 @@
    "heim": "JSG Birten/Lüttingen/Xanten",
    "gast": "SV Schwafheim",
    "tore": {
-    "heim": 4,
+    "heim": 9,
     "gast": 2
    },
    "ereignisse": [
@@ -375,16 +458,91 @@
      },
      "teamSlug": "sg-sv-birten-luettingen-tus-xanten-u19-1-2026-27",
      "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 74,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 5,
+      "gast": 2
+     },
+     "teamSlug": "sg-sv-birten-luettingen-tus-xanten-u19-1-2026-27",
+     "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 80,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 6,
+      "gast": 2
+     },
+     "teamSlug": "sg-sv-birten-luettingen-tus-xanten-u19-1-2026-27",
+     "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 82,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 7,
+      "gast": 2
+     },
+     "teamSlug": "sg-sv-birten-luettingen-tus-xanten-u19-1-2026-27",
+     "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 87,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 8,
+      "gast": 2
+     },
+     "teamSlug": "sg-sv-birten-luettingen-tus-xanten-u19-1-2026-27",
+     "clubSlug": "sv-viktoria-birten"
+    },
+    {
+     "minute": 90,
+     "nachspielzeit": 3,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": null,
+     "fuer": null,
+     "stand": {
+      "heim": 9,
+      "gast": 2
+     },
+     "teamSlug": "sg-sv-birten-luettingen-tus-xanten-u19-1-2026-27",
+     "clubSlug": "sv-viktoria-birten"
     }
    ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": true,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 88,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 339,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -400,16 +558,19 @@
    "zeit": "16:30",
    "heim": "TV Asberg II",
    "gast": "SpVgg Rheurdt-Schaephuysen",
-   "tore": null,
+   "tore": {
+    "heim": 7,
+    "gast": 3
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "LIVE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 58,
-   "laeuft": true,
-   "abgeschlossen": false
+   "seitAnpfiffMin": 309,
+   "laeuft": false,
+   "abgeschlossen": true
   },
   {
    "quelle": "FuPa",
@@ -425,16 +586,19 @@
    "zeit": "18:00",
    "heim": "SV Budberg II",
    "gast": "TV Asberg",
-   "tore": null,
+   "tore": {
+    "heim": 2,
+    "gast": 8
+   },
    "ereignisse": [],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
-   "abschnitt": "PRE",
+   "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": -32,
+   "seitAnpfiffMin": 219,
    "laeuft": false,
-   "abgeschlossen": false
+   "abgeschlossen": true
   }
  ]
 }
