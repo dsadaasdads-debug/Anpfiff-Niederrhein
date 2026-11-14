@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-14T18:31:23.385Z",
+ "aktualisiert": "2026-11-14T22:46:44.095Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -230,6 +230,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "SF 97/30 Lowick",
+     "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
+     "spiele": 9,
+     "siege": 8,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "34:7",
+     "differenz": 27,
+     "punkte": 25
+    },
+    {
+     "platz": 2,
      "verein": "DJK Arminia Klosterhardt",
      "teamId": "011MI97620000000VTVG0001VTR8C1K7",
      "spiele": 8,
@@ -241,40 +253,28 @@
      "punkte": 22
     },
     {
-     "platz": 2,
-     "verein": "SF 97/30 Lowick",
-     "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
-     "spiele": 8,
-     "siege": 7,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "31:7",
-     "differenz": 24,
-     "punkte": 22
-    },
-    {
      "platz": 3,
-     "verein": "SuS 09 Dinslaken",
-     "teamId": "011MIBSV6G000000VTVG0001VTR8C1K7",
-     "spiele": 7,
+     "verein": "SV Budberg",
+     "teamId": "011MIF5K20000000VTVG0001VTR8C1K7",
+     "spiele": 8,
      "siege": 6,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 1,
-     "tore": "29:12",
-     "differenz": 17,
-     "punkte": 18
+     "tore": "38:20",
+     "differenz": 18,
+     "punkte": 19
     },
     {
      "platz": 4,
-     "verein": "SV Budberg",
-     "teamId": "011MIF5K20000000VTVG0001VTR8C1K7",
-     "spiele": 7,
-     "siege": 5,
-     "unentschieden": 1,
-     "niederlagen": 1,
-     "tore": "36:19",
-     "differenz": 17,
-     "punkte": 16
+     "verein": "SuS 09 Dinslaken",
+     "teamId": "011MIBSV6G000000VTVG0001VTR8C1K7",
+     "spiele": 8,
+     "siege": 6,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "tore": "29:15",
+     "differenz": 14,
+     "punkte": 18
     },
     {
      "platz": 5,
@@ -292,12 +292,12 @@
      "platz": 6,
      "verein": "FC Neukirchen-Vluyn",
      "teamId": "023UVPVJ9C000000VS548984VSVTAEJ3",
-     "spiele": 7,
+     "spiele": 8,
      "siege": 4,
      "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "15:16",
-     "differenz": -1,
+     "niederlagen": 3,
+     "tore": "16:18",
+     "differenz": -2,
      "punkte": 13
     },
     {
@@ -686,6 +686,18 @@
     },
     {
      "platz": 8,
+     "verein": "SC 1920 Oberhausen",
+     "teamId": "011MIE0KMG000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 6,
+     "unentschieden": 1,
+     "niederlagen": 6,
+     "tore": "28:26",
+     "differenz": 2,
+     "punkte": 19
+    },
+    {
+     "platz": 9,
      "verein": "Tus Asterlagen",
      "teamId": "011MI9UGRO000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -697,7 +709,7 @@
      "punkte": 19
     },
     {
-     "platz": 9,
+     "platz": 10,
      "verein": "Spvgg Sterkrade 06/07",
      "teamId": "011MICSTMG000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -709,7 +721,7 @@
      "punkte": 16
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "FC Neukirchen-Vluyn",
      "teamId": "023Q5785LS000000VS548985VT5V9K59",
      "spiele": 12,
@@ -718,18 +730,6 @@
      "niederlagen": 6,
      "tore": "37:29",
      "differenz": 8,
-     "punkte": 16
-    },
-    {
-     "platz": 11,
-     "verein": "SC 1920 Oberhausen",
-     "teamId": "011MIE0KMG000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 5,
-     "unentschieden": 1,
-     "niederlagen": 6,
-     "tore": "26:26",
-     "differenz": 0,
      "punkte": 16
     },
     {
@@ -748,12 +748,12 @@
      "platz": 13,
      "verein": "VFB Homberg II",
      "teamId": "011MI9I87C000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 4,
      "unentschieden": 1,
-     "niederlagen": 7,
-     "tore": "33:35",
-     "differenz": -2,
+     "niederlagen": 8,
+     "tore": "33:37",
+     "differenz": -4,
      "punkte": 13
     },
     {
@@ -1292,18 +1292,6 @@
     },
     {
      "platz": 5,
-     "verein": "Wuppertaler SV",
-     "teamId": "011MIB4F8S000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 6,
-     "unentschieden": 1,
-     "niederlagen": 5,
-     "tore": "22:13",
-     "differenz": 9,
-     "punkte": 19
-    },
-    {
-     "platz": 6,
      "verein": "1. FC Monheim",
      "teamId": "011MIAU70C000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1311,6 +1299,18 @@
      "unentschieden": 4,
      "niederlagen": 3,
      "tore": "24:17",
+     "differenz": 7,
+     "punkte": 19
+    },
+    {
+     "platz": 6,
+     "verein": "Wuppertaler SV",
+     "teamId": "011MIB4F8S000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 6,
+     "unentschieden": 1,
+     "niederlagen": 6,
+     "tore": "22:15",
      "differenz": 7,
      "punkte": 19
     },
@@ -1352,6 +1352,18 @@
     },
     {
      "platz": 10,
+     "verein": "Krefelder FC Uerdingen",
+     "teamId": "011MIA4KF4000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 5,
+     "unentschieden": 2,
+     "niederlagen": 6,
+     "tore": "24:17",
+     "differenz": 7,
+     "punkte": 17
+    },
+    {
+     "platz": 11,
      "verein": "SV Sonsbeck",
      "teamId": "011MIB5PAG000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1363,7 +1375,7 @@
      "punkte": 16
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "BW Dingden",
      "teamId": "011MIDCROO000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1375,7 +1387,7 @@
      "punkte": 16
     },
     {
-     "platz": 12,
+     "platz": 13,
      "verein": "1. Spvg. Solingen-Wald",
      "teamId": "011MIBT0IK000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1385,18 +1397,6 @@
      "tore": "24:29",
      "differenz": -5,
      "punkte": 16
-    },
-    {
-     "platz": 13,
-     "verein": "Krefelder FC Uerdingen",
-     "teamId": "011MIA4KF4000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 4,
-     "unentschieden": 2,
-     "niederlagen": 6,
-     "tore": "22:17",
-     "differenz": 5,
-     "punkte": 14
     },
     {
      "platz": 14,
@@ -2767,7 +2767,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/fc-neukirchen-vluyn-fc-neukirchen-vluyn-niederrhein/-/saison/2627/team-id/023Q5785LS000000VS548985VT5V9K59",
    "liga": "Bezirksliga Gruppe 5",
    "spielklasse": "Bezirksliga",
-   "platz": 10,
+   "platz": 11,
    "punkte": 16,
    "torverhaeltnis": "37:29",
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
