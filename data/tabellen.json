@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-14T01:49:55.409Z",
+ "aktualisiert": "2026-11-14T10:57:59.360Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2555,15 +2555,6 @@
    "staffelId": null,
    "naechste": [
     {
-     "datum": "Samstag, 14.11.2026 - ** Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "Wuppertaler SV 2",
-     "gast": "FC Mattheck Moers",
-     "url": "https://www.fussball.de/spiel/wuppertaler-sv-2-fc-mattheck-moers/-/spiel/031OPNR3DS000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Nichtantritt GAST"
-    },
-    {
      "datum": "Samstag, 21.11.2026 - 12:15 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "FC Elite Marokko",
@@ -2598,9 +2589,27 @@
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers-gtsv-essen/-/spiel/031OPNR33S000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Samstag, 23.01.2027 - 15:30 Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "FF M'gladbach 07 II",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-ff-m%27gladbach-07-ii/-/spiel/031OPNR3MK000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 14.11.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "Wuppertaler SV 2",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/wuppertaler-sv-2-fc-mattheck-moers/-/spiel/031OPNR3DS000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Nichtantritt GAST"
+    },
     {
      "datum": "Samstag, 07.11.2026 - 14:30 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
