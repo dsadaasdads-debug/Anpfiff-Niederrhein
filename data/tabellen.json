@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-14T10:57:59.360Z",
+ "aktualisiert": "2026-11-14T18:31:23.385Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -230,6 +230,18 @@
    "zeilen": [
     {
      "platz": 1,
+     "verein": "DJK Arminia Klosterhardt",
+     "teamId": "011MI97620000000VTVG0001VTR8C1K7",
+     "spiele": 8,
+     "siege": 7,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "tore": "42:7",
+     "differenz": 35,
+     "punkte": 22
+    },
+    {
+     "platz": 2,
      "verein": "SF 97/30 Lowick",
      "teamId": "01KVGB3TUS000000VV0AG811VUP4Q6U8",
      "spiele": 8,
@@ -239,18 +251,6 @@
      "tore": "31:7",
      "differenz": 24,
      "punkte": 22
-    },
-    {
-     "platz": 2,
-     "verein": "DJK Arminia Klosterhardt",
-     "teamId": "011MI97620000000VTVG0001VTR8C1K7",
-     "spiele": 7,
-     "siege": 6,
-     "unentschieden": 1,
-     "niederlagen": 0,
-     "tore": "38:5",
-     "differenz": 33,
-     "punkte": 19
     },
     {
      "platz": 3,
@@ -280,12 +280,12 @@
      "platz": 5,
      "verein": "FSV Duisburg",
      "teamId": "011MIEMHS8000000VTVG0001VTR8C1K7",
-     "spiele": 7,
+     "spiele": 8,
      "siege": 4,
      "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "20:10",
-     "differenz": 10,
+     "niederlagen": 3,
+     "tore": "22:14",
+     "differenz": 8,
      "punkte": 13
     },
     {
@@ -304,13 +304,13 @@
      "platz": 7,
      "verein": "PSV Wesel",
      "teamId": "011MIDPEHG000000VTVG0001VTR8C1K7",
-     "spiele": 7,
-     "siege": 1,
+     "spiele": 8,
+     "siege": 2,
      "unentschieden": 3,
      "niederlagen": 3,
-     "tore": "12:20",
-     "differenz": -8,
-     "punkte": 6
+     "tore": "17:22",
+     "differenz": -5,
+     "punkte": 9
     },
     {
      "platz": 8,
@@ -326,18 +326,30 @@
     },
     {
      "platz": 9,
-     "verein": "JSG Nütterden / Kranenburg",
-     "teamId": "011MID3RF4000000VTVG0001VTR8C1K7",
-     "spiele": 7,
+     "verein": "SV Krechting",
+     "teamId": "01ORDBHD6C000000VV0AG811VVANPB38",
+     "spiele": 8,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 5,
-     "tore": "10:27",
-     "differenz": -17,
+     "niederlagen": 6,
+     "tore": "18:32",
+     "differenz": -14,
      "punkte": 4
     },
     {
      "platz": 10,
+     "verein": "JSG Nütterden / Kranenburg",
+     "teamId": "011MID3RF4000000VTVG0001VTR8C1K7",
+     "spiele": 8,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 6,
+     "tore": "12:33",
+     "differenz": -21,
+     "punkte": 4
+    },
+    {
+     "platz": 11,
      "verein": "SV Sonsbeck",
      "teamId": "011MIF5QVC000000VTVG0001VTR8C1K7",
      "spiele": 8,
@@ -349,28 +361,16 @@
      "punkte": 4
     },
     {
-     "platz": 11,
+     "platz": 12,
      "verein": "JSG SV Straelen / SV Veert",
      "teamId": "011MIF5LV8000000VTVG0001VTR8C1K7",
-     "spiele": 8,
+     "spiele": 9,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 6,
-     "tore": "14:37",
-     "differenz": -23,
+     "niederlagen": 7,
+     "tore": "16:42",
+     "differenz": -26,
      "punkte": 4
-    },
-    {
-     "platz": 12,
-     "verein": "SV Krechting",
-     "teamId": "01ORDBHD6C000000VV0AG811VVANPB38",
-     "spiele": 7,
-     "siege": 0,
-     "unentschieden": 1,
-     "niederlagen": 6,
-     "tore": "12:30",
-     "differenz": -18,
-     "punkte": 1
     }
    ]
   },
