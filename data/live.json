@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-15T18:11:12.363Z",
+ "aktualisiert": "2026-11-15T22:50:53.087Z",
  "tag": "15.11.",
  "datum": "2026-11-15",
  "hinweisVerzoegerung": "Der Stand wird während der Spiele alle paar Minuten geholt. Für die Minute bitte dem Link zur Quelle folgen.",
@@ -180,7 +180,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -254,7 +254,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -415,7 +415,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -559,12 +559,12 @@
      "clubSlug": "sv-budberg"
     }
    ],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "zuschauer": 20,
+   "schiedsrichter": "Dieter Cao",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -683,7 +683,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -757,7 +757,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -831,7 +831,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -980,7 +980,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1002,13 +1002,44 @@
     "heim": 0,
     "gast": 2
    },
-   "ereignisse": [],
+   "ereignisse": [
+    {
+     "minute": 39,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ender Lale",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "sc-rheinkamp-m2-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    },
+    {
+     "minute": 43,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "John Effah Hockman",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "sc-rheinkamp-m2-2026-27",
+     "clubSlug": "sc-rheinkamp"
+    }
+   ],
    "zuschauer": null,
    "schiedsrichter": null,
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1097,7 +1128,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1216,7 +1247,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1245,7 +1276,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Laura Rekus",
      "fuer": null,
      "stand": {
       "heim": 1,
@@ -1260,7 +1291,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Laura Rekus",
      "fuer": null,
      "stand": {
       "heim": 2,
@@ -1290,7 +1321,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Isabell Marie Hirschberger",
      "fuer": null,
      "stand": {
       "heim": 4,
@@ -1305,7 +1336,7 @@
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Eva Hilsenberg",
      "fuer": null,
      "stand": {
       "heim": 5,
@@ -1360,12 +1391,12 @@
      "clubSlug": "sv-budberg"
     },
     {
-     "minute": 42,
+     "minute": 41,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Eva Hilsenberg",
      "fuer": null,
      "stand": {
       "heim": 9,
@@ -1450,12 +1481,12 @@
      "clubSlug": "sv-budberg"
     },
     {
-     "minute": 80,
+     "minute": 79,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
      "zeichen": "⚽",
-     "spieler": null,
+     "spieler": "Ronja Lenz",
      "fuer": null,
      "stand": {
       "heim": 15,
@@ -1465,7 +1496,7 @@
      "clubSlug": "sv-budberg"
     },
     {
-     "minute": 85,
+     "minute": 83,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
@@ -1480,12 +1511,12 @@
      "clubSlug": "sv-budberg"
     }
    ],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "zuschauer": 100,
+   "schiedsrichter": "Jörg Boymanns",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 371,
+   "seitAnpfiffMin": 651,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1529,7 +1560,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 531,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1603,7 +1634,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 531,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1627,7 +1658,7 @@
    },
    "ereignisse": [
     {
-     "minute": 16,
+     "minute": 13,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
@@ -1644,7 +1675,7 @@
     {
      "minute": 26,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "penalty_foul",
      "name": "Tor",
      "zeichen": "⚽",
      "spieler": "Jamie Caspers",
@@ -1692,7 +1723,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 531,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1718,7 +1749,7 @@
     {
      "minute": 18,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "goal_distance_shoot",
      "name": "Tor",
      "zeichen": "⚽",
      "spieler": "Hans Schaath",
@@ -1748,7 +1779,7 @@
     {
      "minute": 86,
      "nachspielzeit": 0,
-     "art": "goal_shoot",
+     "art": "goal_headed",
      "name": "Tor",
      "zeichen": "⚽",
      "spieler": "Luca Heinrich",
@@ -1761,7 +1792,7 @@
      "clubSlug": "sv-budberg"
     },
     {
-     "minute": 89,
+     "minute": 88,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
@@ -1781,7 +1812,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 531,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -1900,7 +1931,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 531,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2124,7 +2155,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 531,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2168,7 +2199,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 531,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2191,6 +2222,51 @@
     "gast": 5
    },
    "ereignisse": [
+    {
+     "minute": 12,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Timo Samusch",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 23,
+     "nachspielzeit": 0,
+     "art": "goal_distance_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Denis Kasic",
+     "fuer": null,
+     "stand": {
+      "heim": 2,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
+    {
+     "minute": 25,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Tunahan Celik",
+     "fuer": null,
+     "stand": {
+      "heim": 3,
+      "gast": 0
+     },
+     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
+    },
     {
      "minute": 36,
      "nachspielzeit": 0,
@@ -2265,6 +2341,21 @@
      },
      "teamSlug": "tus-borth-m3-2026-27",
      "clubSlug": "tus-borth"
+    },
+    {
+     "minute": 70,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Mevlüt Furkan Celik",
+     "fuer": null,
+     "stand": {
+      "heim": 4,
+      "gast": 5
+     },
+     "teamSlug": "sv-alemannia-kamp-m2-2026-27",
+     "clubSlug": "sv-alemannia-kamp"
     }
    ],
    "zuschauer": null,
@@ -2272,7 +2363,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 531,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2376,7 +2467,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 531,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2401,7 +2492,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 251,
+   "seitAnpfiffMin": 531,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2423,13 +2514,89 @@
     "heim": 1,
     "gast": 4
    },
-   "ereignisse": [],
-   "zuschauer": null,
-   "schiedsrichter": null,
+   "ereignisse": [
+    {
+     "minute": 27,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Domenic van Meegen",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 1
+     },
+     "teamSlug": "rumelner-tv-m2-2026-27",
+     "clubSlug": "rumelner-tv"
+    },
+    {
+     "minute": 45,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Ben Hampel",
+     "fuer": null,
+     "stand": {
+      "heim": 0,
+      "gast": 2
+     },
+     "teamSlug": "rumelner-tv-m2-2026-27",
+     "clubSlug": "rumelner-tv"
+    },
+    {
+     "minute": 65,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Jerome-Oliver Scharfeld",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 2
+     },
+     "teamSlug": "fc-moers-meerfeld-m1-2026-27",
+     "clubSlug": "fc-moers-meerfeld"
+    },
+    {
+     "minute": 66,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Domenic van Meegen",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 3
+     },
+     "teamSlug": "rumelner-tv-m2-2026-27",
+     "clubSlug": "rumelner-tv"
+    },
+    {
+     "minute": 85,
+     "nachspielzeit": 0,
+     "art": "goal_shoot",
+     "name": "Tor",
+     "zeichen": "⚽",
+     "spieler": "Niklas Engels",
+     "fuer": null,
+     "stand": {
+      "heim": 1,
+      "gast": 4
+     },
+     "teamSlug": "rumelner-tv-m2-2026-27",
+     "clubSlug": "rumelner-tv"
+    }
+   ],
+   "zuschauer": 80,
+   "schiedsrichter": "Bosko Tarbuk",
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 236,
+   "seitAnpfiffMin": 516,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2518,7 +2685,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 501,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2637,7 +2804,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 501,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2681,7 +2848,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 501,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -2935,7 +3102,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 501,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3069,7 +3236,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 501,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3158,7 +3325,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 501,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3197,7 +3364,7 @@
      "clubSlug": "ssv-luettingen"
     },
     {
-     "minute": 10,
+     "minute": 11,
      "nachspielzeit": 0,
      "art": "goal_shoot",
      "name": "Tor",
@@ -3247,7 +3414,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 501,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3301,12 +3468,12 @@
      "clubSlug": "rumelner-tv"
     }
    ],
-   "zuschauer": null,
+   "zuschauer": 150,
    "schiedsrichter": "Andreas Temming",
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 501,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3500,7 +3667,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 221,
+   "seitAnpfiffMin": 501,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -3784,7 +3951,7 @@
    "hatTicker": false,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 191,
+   "seitAnpfiffMin": 471,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4034,7 +4201,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 191,
+   "seitAnpfiffMin": 471,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4306,7 +4473,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 191,
+   "seitAnpfiffMin": 471,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4332,7 +4499,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgesagt",
-   "seitAnpfiffMin": 191,
+   "seitAnpfiffMin": 471,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4516,7 +4683,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 191,
+   "seitAnpfiffMin": 471,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4667,7 +4834,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 191,
+   "seitAnpfiffMin": 471,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -4972,7 +5139,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 191,
+   "seitAnpfiffMin": 471,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5167,7 +5334,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 176,
+   "seitAnpfiffMin": 456,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5362,7 +5529,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5601,7 +5768,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -5818,7 +5985,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -6024,7 +6191,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -6252,7 +6419,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -6491,7 +6658,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -6752,7 +6919,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -6925,7 +7092,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -7109,7 +7276,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -7282,7 +7449,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": null,
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -7308,7 +7475,7 @@
    "hatTicker": false,
    "abschnitt": null,
    "hinweis": "abgebrochen",
-   "seitAnpfiffMin": 161,
+   "seitAnpfiffMin": 441,
    "laeuft": false,
    "abgeschlossen": true
   },
@@ -7412,7 +7579,7 @@
    "hatTicker": true,
    "abschnitt": "POST",
    "hinweis": null,
-   "seitAnpfiffMin": 131,
+   "seitAnpfiffMin": 411,
    "laeuft": false,
    "abgeschlossen": true
   }
