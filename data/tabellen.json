@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-15T07:14:23.165Z",
+ "aktualisiert": "2026-11-15T16:37:45.751Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -10,16 +10,28 @@
      "platz": 1,
      "verein": "Rheinland Hamborn",
      "teamId": "011MIC2N00000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 8,
+     "spiele": 13,
+     "siege": 9,
      "unentschieden": 3,
      "niederlagen": 1,
-     "tore": "35:15",
-     "differenz": 20,
-     "punkte": 27
+     "tore": "39:16",
+     "differenz": 23,
+     "punkte": 30
     },
     {
      "platz": 2,
+     "verein": "1. FC Lintfort",
+     "teamId": "011MI9O6GK000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 9,
+     "unentschieden": 2,
+     "niederlagen": 2,
+     "tore": "32:18",
+     "differenz": 14,
+     "punkte": 29
+    },
+    {
+     "platz": 3,
      "verein": "VfB Speldorf",
      "teamId": "011MICNMMK000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -31,19 +43,19 @@
      "punkte": 27
     },
     {
-     "platz": 3,
-     "verein": "1. FC Lintfort",
-     "teamId": "011MI9O6GK000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "platz": 4,
+     "verein": "VFB Homberg",
+     "teamId": "011MIEFD0K000000VTVG0001VTR8C1K7",
+     "spiele": 13,
      "siege": 8,
-     "unentschieden": 2,
-     "niederlagen": 2,
-     "tore": "30:17",
-     "differenz": 13,
-     "punkte": 26
+     "unentschieden": 1,
+     "niederlagen": 4,
+     "tore": "25:19",
+     "differenz": 6,
+     "punkte": 25
     },
     {
-     "platz": 4,
+     "platz": 5,
      "verein": "SV Budberg",
      "teamId": "011MIEFDHS000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -53,18 +65,6 @@
      "tore": "28:19",
      "differenz": 9,
      "punkte": 24
-    },
-    {
-     "platz": 5,
-     "verein": "VFB Homberg",
-     "teamId": "011MIEFD0K000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 7,
-     "unentschieden": 1,
-     "niederlagen": 4,
-     "tore": "21:17",
-     "differenz": 4,
-     "punkte": 22
     },
     {
      "platz": 6,
@@ -94,37 +94,37 @@
      "platz": 8,
      "verein": "Duisburger FV 08",
      "teamId": "011MIDHOES000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 6,
      "unentschieden": 1,
-     "niederlagen": 5,
-     "tore": "34:29",
-     "differenz": 5,
+     "niederlagen": 6,
+     "tore": "37:33",
+     "differenz": 4,
      "punkte": 19
     },
     {
      "platz": 9,
-     "verein": "Sportfreunde 06 Neuwerk",
-     "teamId": "011MIF5M24000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 5,
-     "unentschieden": 1,
-     "niederlagen": 6,
-     "tore": "15:20",
-     "differenz": -5,
-     "punkte": 16
+     "verein": "1. FC Kleve 63/03",
+     "teamId": "011MICO3BK000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 4,
+     "unentschieden": 6,
+     "niederlagen": 3,
+     "tore": "25:16",
+     "differenz": 9,
+     "punkte": 18
     },
     {
      "platz": 10,
-     "verein": "1. FC Kleve 63/03",
-     "teamId": "011MICO3BK000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 3,
-     "unentschieden": 6,
-     "niederlagen": 3,
-     "tore": "21:13",
-     "differenz": 8,
-     "punkte": 15
+     "verein": "Sportfreunde 06 Neuwerk",
+     "teamId": "011MIF5M24000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 5,
+     "unentschieden": 1,
+     "niederlagen": 7,
+     "tore": "16:22",
+     "differenz": -6,
+     "punkte": 16
     },
     {
      "platz": 11,
@@ -152,18 +152,6 @@
     },
     {
      "platz": 13,
-     "verein": "SV Viktoria Goch",
-     "teamId": "011MIAIVPK000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 3,
-     "unentschieden": 2,
-     "niederlagen": 7,
-     "tore": "19:35",
-     "differenz": -16,
-     "punkte": 11
-    },
-    {
-     "platz": 14,
      "verein": "Mülheimer FC 97",
      "teamId": "011MIE8CPG000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -172,6 +160,18 @@
      "niederlagen": 7,
      "tore": "14:30",
      "differenz": -16,
+     "punkte": 11
+    },
+    {
+     "platz": 14,
+     "verein": "SV Viktoria Goch",
+     "teamId": "011MIAIVPK000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 3,
+     "unentschieden": 2,
+     "niederlagen": 8,
+     "tore": "21:39",
+     "differenz": -18,
      "punkte": 11
     },
     {
@@ -214,12 +214,12 @@
      "platz": 18,
      "verein": "SV Biemenhorst",
      "teamId": "011MIBAN1G000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 1,
      "unentschieden": 3,
-     "niederlagen": 8,
-     "tore": "16:28",
-     "differenz": -12,
+     "niederlagen": 9,
+     "tore": "17:32",
+     "differenz": -15,
      "punkte": 6
     }
    ]
@@ -382,16 +382,28 @@
      "platz": 1,
      "verein": "TuS Borth",
      "teamId": "011MIAIST4000000VTVG0001VTR8C1K7",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 10,
      "unentschieden": 0,
-     "niederlagen": 1,
-     "tore": "72:15",
-     "differenz": 57,
+     "niederlagen": 2,
+     "tore": "72:20",
+     "differenz": 52,
      "punkte": 30
     },
     {
      "platz": 2,
+     "verein": "OSC 04 Rheinhausen",
+     "teamId": "011MI9O3Q8000000VTVG0001VTR8C1K7",
+     "spiele": 12,
+     "siege": 9,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "tore": "64:16",
+     "differenz": 48,
+     "punkte": 28
+    },
+    {
+     "platz": 3,
      "verein": "VfL Rheinhausen II",
      "teamId": "02Q1FNPOVS000000VS5489B2VT450JFN",
      "spiele": 11,
@@ -401,18 +413,6 @@
      "tore": "49:19",
      "differenz": 30,
      "punkte": 26
-    },
-    {
-     "platz": 3,
-     "verein": "OSC 04 Rheinhausen",
-     "teamId": "011MI9O3Q8000000VTVG0001VTR8C1K7",
-     "spiele": 11,
-     "siege": 8,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "tore": "59:16",
-     "differenz": 43,
-     "punkte": 25
     },
     {
      "platz": 4,
@@ -430,16 +430,28 @@
      "platz": 5,
      "verein": "FC Rumeln-Kaldenhausen",
      "teamId": "011MI97ALK000000VTVG0001VTR8C1K7",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 7,
      "unentschieden": 2,
-     "niederlagen": 2,
-     "tore": "48:19",
-     "differenz": 29,
+     "niederlagen": 3,
+     "tore": "49:23",
+     "differenz": 26,
      "punkte": 23
     },
     {
      "platz": 6,
+     "verein": "TV Kapellen",
+     "teamId": "01HIS24VFS000000VV0AG80NVT6JKAPB",
+     "spiele": 12,
+     "siege": 7,
+     "unentschieden": 2,
+     "niederlagen": 3,
+     "tore": "43:20",
+     "differenz": 23,
+     "punkte": 23
+    },
+    {
+     "platz": 7,
      "verein": "SV Alemannia Kamp",
      "teamId": "011MIA986S000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -449,18 +461,6 @@
      "tore": "64:34",
      "differenz": 30,
      "punkte": 21
-    },
-    {
-     "platz": 7,
-     "verein": "TV Kapellen",
-     "teamId": "01HIS24VFS000000VV0AG80NVT6JKAPB",
-     "spiele": 11,
-     "siege": 6,
-     "unentschieden": 2,
-     "niederlagen": 3,
-     "tore": "40:20",
-     "differenz": 20,
-     "punkte": 20
     },
     {
      "platz": 8,
@@ -478,16 +478,40 @@
      "platz": 9,
      "verein": "SV Schwafheim II",
      "teamId": "01A27RRKS0000000VV0AG811VSDJU768",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 6,
      "unentschieden": 1,
-     "niederlagen": 4,
-     "tore": "40:30",
-     "differenz": 10,
+     "niederlagen": 5,
+     "tore": "40:33",
+     "differenz": 7,
      "punkte": 19
     },
     {
      "platz": 10,
+     "verein": "FC Neukirchen-Vluyn III",
+     "teamId": "02BAB133P8000000VS5489B1VU20GQ5T",
+     "spiele": 12,
+     "siege": 5,
+     "unentschieden": 3,
+     "niederlagen": 4,
+     "tore": "52:24",
+     "differenz": 28,
+     "punkte": 18
+    },
+    {
+     "platz": 11,
+     "verein": "TV Kaldenhausen",
+     "teamId": "02TCVR52IG000000VS5489BRVU522QNF",
+     "spiele": 12,
+     "siege": 5,
+     "unentschieden": 2,
+     "niederlagen": 5,
+     "tore": "25:20",
+     "differenz": 5,
+     "punkte": 17
+    },
+    {
+     "platz": 12,
      "verein": "SV Viktoria Birten",
      "teamId": "011MIE0POK000000VTVG0001VTR8C1K7",
      "spiele": 11,
@@ -499,40 +523,16 @@
      "punkte": 16
     },
     {
-     "platz": 11,
-     "verein": "FC Neukirchen-Vluyn III",
-     "teamId": "02BAB133P8000000VS5489B1VU20GQ5T",
-     "spiele": 11,
-     "siege": 4,
-     "unentschieden": 3,
-     "niederlagen": 4,
-     "tore": "39:24",
-     "differenz": 15,
-     "punkte": 15
-    },
-    {
-     "platz": 12,
-     "verein": "TV Kaldenhausen",
-     "teamId": "02TCVR52IG000000VS5489BRVU522QNF",
-     "spiele": 11,
-     "siege": 4,
-     "unentschieden": 2,
-     "niederlagen": 5,
-     "tore": "21:19",
-     "differenz": 2,
-     "punkte": 14
-    },
-    {
      "platz": 13,
      "verein": "TuS Baerl",
      "teamId": "011IT0R0UG000000VTVG0001VV3RV7FT",
-     "spiele": 11,
-     "siege": 4,
+     "spiele": 12,
+     "siege": 5,
      "unentschieden": 1,
      "niederlagen": 6,
-     "tore": "25:34",
-     "differenz": -9,
-     "punkte": 13
+     "tore": "31:35",
+     "differenz": -4,
+     "punkte": 16
     },
     {
      "platz": 14,
@@ -562,12 +562,12 @@
      "platz": 16,
      "verein": "TuS Asterlagen II",
      "teamId": "011MI973MK000000VTVG0001VTR8C1K7",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 10,
-     "tore": "9:99",
-     "differenz": -90,
+     "niederlagen": 11,
+     "tore": "10:105",
+     "differenz": -95,
      "punkte": 3
     },
     {
@@ -586,12 +586,12 @@
      "platz": 18,
      "verein": "FC Rot-Weiß Moers",
      "teamId": "011MIATPVO000000VTVG0001VTR8C1K7",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 11,
-     "tore": "13:92",
-     "differenz": -79,
+     "niederlagen": 12,
+     "tore": "13:105",
+     "differenz": -92,
      "punkte": 0
     }
    ]
@@ -838,16 +838,28 @@
      "platz": 2,
      "verein": "SpVgg. Rheurdt-Schaephuysen",
      "teamId": "011MIEFG1O000000VTVG0001VTR8C1K7",
-     "spiele": 11,
-     "siege": 8,
+     "spiele": 12,
+     "siege": 9,
      "unentschieden": 2,
      "niederlagen": 1,
-     "tore": "42:11",
-     "differenz": 31,
-     "punkte": 26
+     "tore": "52:11",
+     "differenz": 41,
+     "punkte": 29
     },
     {
      "platz": 3,
+     "verein": "MSV Moers",
+     "teamId": "011MIA3JMS000000VTVG0001VTR8C1K7",
+     "spiele": 12,
+     "siege": 7,
+     "unentschieden": 4,
+     "niederlagen": 1,
+     "tore": "49:21",
+     "differenz": 28,
+     "punkte": 25
+    },
+    {
+     "platz": 4,
      "verein": "FC Neukirchen-Vluyn II",
      "teamId": "023U3COCV4000000VS548984VSVTAEJ3",
      "spiele": 11,
@@ -859,19 +871,19 @@
      "punkte": 23
     },
     {
-     "platz": 4,
-     "verein": "MSV Moers",
-     "teamId": "011MIA3JMS000000VTVG0001VTR8C1K7",
-     "spiele": 11,
+     "platz": 5,
+     "verein": "ESV Hohenbudberg",
+     "teamId": "011MI9O5QC000000VTVG0001VTR8C1K7",
+     "spiele": 12,
      "siege": 6,
      "unentschieden": 4,
-     "niederlagen": 1,
-     "tore": "39:20",
-     "differenz": 19,
+     "niederlagen": 2,
+     "tore": "34:33",
+     "differenz": 1,
      "punkte": 22
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "SV Schwafheim",
      "teamId": "011MIF5N78000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -880,18 +892,6 @@
      "niederlagen": 3,
      "tore": "34:23",
      "differenz": 11,
-     "punkte": 19
-    },
-    {
-     "platz": 6,
-     "verein": "ESV Hohenbudberg",
-     "teamId": "011MI9O5QC000000VTVG0001VTR8C1K7",
-     "spiele": 11,
-     "siege": 5,
-     "unentschieden": 4,
-     "niederlagen": 2,
-     "tore": "28:31",
-     "differenz": -3,
      "punkte": 19
     },
     {
@@ -934,12 +934,12 @@
      "platz": 10,
      "verein": "SV Sonsbeck II",
      "teamId": "011MIBANR4000000VTVG0001VTR8C1K7",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 4,
      "unentschieden": 2,
-     "niederlagen": 5,
-     "tore": "24:32",
-     "differenz": -8,
+     "niederlagen": 6,
+     "tore": "26:38",
+     "differenz": -12,
      "punkte": 14
     },
     {
@@ -968,50 +968,50 @@
     },
     {
      "platz": 13,
-     "verein": "SV Millingen",
-     "teamId": "011MIB2M18000000VTVG0001VTR8C1K7",
-     "spiele": 11,
+     "verein": "SV Budberg III",
+     "teamId": "011MIBSVNC000000VTVG0001VTR8C1K7",
+     "spiele": 12,
      "siege": 2,
-     "unentschieden": 1,
+     "unentschieden": 2,
      "niederlagen": 8,
-     "tore": "24:42",
-     "differenz": -18,
-     "punkte": 7
+     "tore": "9:30",
+     "differenz": -21,
+     "punkte": 8
     },
     {
      "platz": 14,
-     "verein": "SV Budberg III",
-     "teamId": "011MIBSVNC000000VTVG0001VTR8C1K7",
-     "spiele": 11,
-     "siege": 1,
-     "unentschieden": 2,
-     "niederlagen": 8,
-     "tore": "6:29",
-     "differenz": -23,
-     "punkte": 5
+     "verein": "SV Millingen",
+     "teamId": "011MIB2M18000000VTVG0001VTR8C1K7",
+     "spiele": 12,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 9,
+     "tore": "25:45",
+     "differenz": -20,
+     "punkte": 7
     },
     {
      "platz": 15,
      "verein": "FC Viktoria Alpen",
      "teamId": "011MIAIU2S000000VTVG0001VTR8C1K7",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 1,
      "unentschieden": 2,
-     "niederlagen": 8,
-     "tore": "15:44",
-     "differenz": -29,
+     "niederlagen": 9,
+     "tore": "16:54",
+     "differenz": -38,
      "punkte": 5
     },
     {
      "platz": 16,
      "verein": "GSV Moers II",
      "teamId": "011MIE7Q0C000000VTVG0001VTR8C1K7",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 9,
-     "tore": "22:44",
-     "differenz": -22,
+     "niederlagen": 10,
+     "tore": "22:54",
+     "differenz": -32,
      "punkte": 4
     }
    ]
@@ -1022,42 +1022,54 @@
    "zeilen": [
     {
      "platz": 1,
-     "verein": "SV Alemannia Kamp II",
-     "teamId": "0317IHGS0C000000VS5489BSVSCPI5U4",
-     "spiele": 11,
+     "verein": "MSV Moers IV",
+     "teamId": "02PPT3VAVK000000VS5489B2VUGLP840",
+     "spiele": 12,
      "siege": 9,
-     "unentschieden": 2,
+     "unentschieden": 3,
      "niederlagen": 0,
-     "tore": "44:19",
-     "differenz": 25,
-     "punkte": 29
+     "tore": "68:15",
+     "differenz": 53,
+     "punkte": 30
     },
     {
      "platz": 2,
-     "verein": "MSV Moers IV",
-     "teamId": "02PPT3VAVK000000VS5489B2VUGLP840",
-     "spiele": 11,
-     "siege": 8,
-     "unentschieden": 3,
-     "niederlagen": 0,
-     "tore": "62:15",
-     "differenz": 47,
-     "punkte": 27
+     "verein": "SV Alemannia Kamp II",
+     "teamId": "0317IHGS0C000000VS5489BSVSCPI5U4",
+     "spiele": 12,
+     "siege": 9,
+     "unentschieden": 2,
+     "niederlagen": 1,
+     "tore": "48:24",
+     "differenz": 24,
+     "punkte": 29
     },
     {
      "platz": 3,
      "verein": "VFB Homberg III",
      "teamId": "01HDETCRBK000000VV0AG811VUIMUTIM",
-     "spiele": 11,
-     "siege": 8,
+     "spiele": 12,
+     "siege": 9,
      "unentschieden": 1,
      "niederlagen": 2,
-     "tore": "71:14",
-     "differenz": 57,
-     "punkte": 25
+     "tore": "74:16",
+     "differenz": 58,
+     "punkte": 28
     },
     {
      "platz": 4,
+     "verein": "MSV Moers II",
+     "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
+     "spiele": 12,
+     "siege": 8,
+     "unentschieden": 0,
+     "niederlagen": 4,
+     "tore": "62:19",
+     "differenz": 43,
+     "punkte": 24
+    },
+    {
+     "platz": 5,
      "verein": "VfL Repelen II",
      "teamId": "011MIAP9SG000000VTVG0001VTR8C1K7",
      "spiele": 11,
@@ -1069,19 +1081,19 @@
      "punkte": 22
     },
     {
-     "platz": 5,
-     "verein": "MSV Moers II",
-     "teamId": "02MB2T3TL8000000VS5489B1VV4JLPLE",
-     "spiele": 11,
-     "siege": 7,
-     "unentschieden": 0,
-     "niederlagen": 4,
-     "tore": "57:19",
-     "differenz": 38,
-     "punkte": 21
+     "platz": 6,
+     "verein": "FC Neukirchen-Vluyn IV",
+     "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
+     "spiele": 12,
+     "siege": 6,
+     "unentschieden": 4,
+     "niederlagen": 2,
+     "tore": "51:17",
+     "differenz": 34,
+     "punkte": 22
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "SpVgg. Rheurdt-Schaephuysen III",
      "teamId": "02TF6K4F0O000000VS5489BRVU522QNF",
      "spiele": 12,
@@ -1093,63 +1105,51 @@
      "punkte": 20
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "OSC 04 Rheinhausen II",
      "teamId": "01L7FAASLK000000VV0AG80NVT9OCUEA",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 5,
      "unentschieden": 5,
-     "niederlagen": 1,
-     "tore": "46:24",
-     "differenz": 22,
+     "niederlagen": 2,
+     "tore": "48:27",
+     "differenz": 21,
      "punkte": 20
     },
     {
-     "platz": 8,
-     "verein": "FC Neukirchen-Vluyn IV",
-     "teamId": "02EODI3BJS000000VS5489B1VU24SJ9U",
-     "spiele": 11,
-     "siege": 5,
-     "unentschieden": 4,
-     "niederlagen": 2,
-     "tore": "50:17",
-     "differenz": 33,
-     "punkte": 19
-    },
-    {
      "platz": 9,
-     "verein": "FC Rumeln-Kaldenhausen II",
-     "teamId": "011MIDCRUK000000VTVG0001VTR8C1K7",
-     "spiele": 11,
-     "siege": 5,
-     "unentschieden": 3,
-     "niederlagen": 3,
-     "tore": "46:19",
-     "differenz": 27,
-     "punkte": 18
+     "verein": "TuS Borth III",
+     "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
+     "spiele": 12,
+     "siege": 6,
+     "unentschieden": 2,
+     "niederlagen": 4,
+     "tore": "44:42",
+     "differenz": 2,
+     "punkte": 20
     },
     {
      "platz": 10,
-     "verein": "TuS Borth III",
-     "teamId": "02TNNUV658000000VS5489BSVTNMVP4D",
-     "spiele": 11,
+     "verein": "FC Rumeln-Kaldenhausen II",
+     "teamId": "011MIDCRUK000000VTVG0001VTR8C1K7",
+     "spiele": 12,
      "siege": 5,
-     "unentschieden": 2,
+     "unentschieden": 3,
      "niederlagen": 4,
-     "tore": "39:38",
-     "differenz": 1,
-     "punkte": 17
+     "tore": "46:24",
+     "differenz": 22,
+     "punkte": 18
     },
     {
      "platz": 11,
      "verein": "SV Schwafheim III",
      "teamId": "02T8NOOT10000000VS5489BSVV9JRPRB",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 5,
      "unentschieden": 1,
-     "niederlagen": 5,
-     "tore": "47:29",
-     "differenz": 18,
+     "niederlagen": 6,
+     "tore": "47:30",
+     "differenz": 17,
      "punkte": 16
     },
     {
@@ -1168,16 +1168,28 @@
      "platz": 13,
      "verein": "FC Moers-Meerfeld II",
      "teamId": "02PPPC0NSO000000VS5489B2VUGLP840",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 4,
      "unentschieden": 1,
-     "niederlagen": 6,
-     "tore": "22:29",
-     "differenz": -7,
+     "niederlagen": 7,
+     "tore": "22:35",
+     "differenz": -13,
      "punkte": 13
     },
     {
      "platz": 14,
+     "verein": "FC Rot-Weiß Moers II",
+     "teamId": "011MI9IARO000000VTVG0001VTR8C1K7",
+     "spiele": 12,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 8,
+     "tore": "11:59",
+     "differenz": -48,
+     "punkte": 10
+    },
+    {
+     "platz": 15,
      "verein": "TV Kapellen II",
      "teamId": "031CD9A8T4000000VS5489BRVTPI24NQ",
      "spiele": 12,
@@ -1187,18 +1199,6 @@
      "tore": "19:70",
      "differenz": -51,
      "punkte": 9
-    },
-    {
-     "platz": 15,
-     "verein": "FC Rot-Weiß Moers II",
-     "teamId": "011MI9IARO000000VTVG0001VTR8C1K7",
-     "spiele": 11,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 8,
-     "tore": "8:58",
-     "differenz": -50,
-     "punkte": 7
     },
     {
      "platz": 16,
@@ -1228,12 +1228,12 @@
      "platz": 18,
      "verein": "SpVgg. Rheurdt-Schaephuysen IV, 9er",
      "teamId": "0320PK26DC000000VS5489BSVUFGIR4E",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 11,
-     "tore": "7:185",
-     "differenz": -178,
+     "niederlagen": 12,
+     "tore": "8:188",
+     "differenz": -180,
      "punkte": 0
     }
    ]
@@ -1246,13 +1246,13 @@
      "platz": 1,
      "verein": "SpVg Schonnebeck",
      "teamId": "011MID3NIC000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 10,
+     "spiele": 13,
+     "siege": 11,
      "unentschieden": 2,
      "niederlagen": 0,
-     "tore": "47:16",
-     "differenz": 31,
-     "punkte": 32
+     "tore": "49:17",
+     "differenz": 32,
+     "punkte": 35
     },
     {
      "platz": 2,
@@ -1282,25 +1282,25 @@
      "platz": 4,
      "verein": "SC St. Tönis 11/20",
      "teamId": "011MIC7T0S000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 6,
+     "spiele": 13,
+     "siege": 7,
      "unentschieden": 3,
      "niederlagen": 3,
-     "tore": "22:16",
-     "differenz": 6,
-     "punkte": 21
+     "tore": "23:16",
+     "differenz": 7,
+     "punkte": 24
     },
     {
      "platz": 5,
      "verein": "1. FC Monheim",
      "teamId": "011MIAU70C000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 5,
-     "unentschieden": 4,
+     "unentschieden": 5,
      "niederlagen": 3,
-     "tore": "24:17",
+     "tore": "25:18",
      "differenz": 7,
-     "punkte": 19
+     "punkte": 20
     },
     {
      "platz": 6,
@@ -1316,18 +1316,54 @@
     },
     {
      "platz": 7,
-     "verein": "Sportfreunde Baumberg",
-     "teamId": "011MIF5I1C000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "verein": "SV Sonsbeck",
+     "teamId": "011MIB5PAG000000VTVG0001VTR8C1K7",
+     "spiele": 13,
      "siege": 5,
      "unentschieden": 4,
-     "niederlagen": 3,
-     "tore": "23:21",
+     "niederlagen": 4,
+     "tore": "25:23",
      "differenz": 2,
      "punkte": 19
     },
     {
      "platz": 8,
+     "verein": "Sportfreunde Baumberg",
+     "teamId": "011MIF5I1C000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 5,
+     "unentschieden": 4,
+     "niederlagen": 4,
+     "tore": "24:23",
+     "differenz": 1,
+     "punkte": 19
+    },
+    {
+     "platz": 9,
+     "verein": "VfL Viktoria Jüchen-Garzweiler",
+     "teamId": "011MICDOHK000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 5,
+     "unentschieden": 4,
+     "niederlagen": 4,
+     "tore": "26:26",
+     "differenz": 0,
+     "punkte": 19
+    },
+    {
+     "platz": 10,
+     "verein": "BW Dingden",
+     "teamId": "011MIDCROO000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 6,
+     "unentschieden": 1,
+     "niederlagen": 6,
+     "tore": "17:19",
+     "differenz": -2,
+     "punkte": 19
+    },
+    {
+     "platz": 11,
      "verein": "Ratingen 04/19",
      "teamId": "011MIERO8C000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1339,19 +1375,7 @@
      "punkte": 18
     },
     {
-     "platz": 9,
-     "verein": "VfL Viktoria Jüchen-Garzweiler",
-     "teamId": "011MICDOHK000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 5,
-     "unentschieden": 3,
-     "niederlagen": 4,
-     "tore": "25:25",
-     "differenz": 0,
-     "punkte": 18
-    },
-    {
-     "platz": 10,
+     "platz": 12,
      "verein": "Krefelder FC Uerdingen",
      "teamId": "011MIA4KF4000000VTVG0001VTR8C1K7",
      "spiele": 13,
@@ -1361,30 +1385,6 @@
      "tore": "24:17",
      "differenz": 7,
      "punkte": 17
-    },
-    {
-     "platz": 11,
-     "verein": "SV Sonsbeck",
-     "teamId": "011MIB5PAG000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 4,
-     "unentschieden": 4,
-     "niederlagen": 4,
-     "tore": "20:23",
-     "differenz": -3,
-     "punkte": 16
-    },
-    {
-     "platz": 12,
-     "verein": "BW Dingden",
-     "teamId": "011MIDCROO000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 5,
-     "unentschieden": 1,
-     "niederlagen": 6,
-     "tore": "16:19",
-     "differenz": -3,
-     "punkte": 16
     },
     {
      "platz": 13,
@@ -1402,61 +1402,61 @@
      "platz": 14,
      "verein": "SV Scherpenberg",
      "teamId": "011MIB5RU0000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 4,
      "unentschieden": 2,
-     "niederlagen": 6,
-     "tore": "18:26",
-     "differenz": -8,
+     "niederlagen": 7,
+     "tore": "18:27",
+     "differenz": -9,
      "punkte": 14
     },
     {
      "platz": 15,
      "verein": "ETB SW Essen",
      "teamId": "011MIBKRU0000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 2,
      "unentschieden": 3,
-     "niederlagen": 7,
-     "tore": "15:26",
-     "differenz": -11,
+     "niederlagen": 8,
+     "tore": "15:27",
+     "differenz": -12,
      "punkte": 9
     },
     {
      "platz": 16,
      "verein": "FC Büderich",
      "teamId": "011MID3PO0000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 1,
      "unentschieden": 4,
-     "niederlagen": 7,
-     "tore": "12:32",
-     "differenz": -20,
+     "niederlagen": 8,
+     "tore": "12:37",
+     "differenz": -25,
      "punkte": 7
     },
     {
      "platz": 17,
-     "verein": "TSV Meerbusch",
-     "teamId": "01OSKP4IVO000000VV0AG811VSQ2DN07",
-     "spiele": 12,
-     "siege": 1,
-     "unentschieden": 3,
-     "niederlagen": 8,
-     "tore": "15:30",
-     "differenz": -15,
-     "punkte": 6
+     "verein": "Holzheimer SG",
+     "teamId": "011MIDAP84000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 10,
+     "tore": "15:41",
+     "differenz": -26,
+     "punkte": 7
     },
     {
      "platz": 18,
-     "verein": "Holzheimer SG",
-     "teamId": "011MIDAP84000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "verein": "TSV Meerbusch",
+     "teamId": "01OSKP4IVO000000VV0AG811VSQ2DN07",
+     "spiele": 13,
      "siege": 1,
-     "unentschieden": 1,
-     "niederlagen": 10,
-     "tore": "13:40",
-     "differenz": -27,
-     "punkte": 4
+     "unentschieden": 3,
+     "niederlagen": 9,
+     "tore": "16:32",
+     "differenz": -16,
+     "punkte": 6
     }
    ]
   },
@@ -1468,12 +1468,12 @@
      "platz": 1,
      "verein": "SV 08/29 Friedrichsfeld",
      "teamId": "011MICLEFK000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 8,
      "unentschieden": 4,
-     "niederlagen": 0,
-     "tore": "36:10",
-     "differenz": 26,
+     "niederlagen": 1,
+     "tore": "36:13",
+     "differenz": 23,
      "punkte": 28
     },
     {
@@ -1490,6 +1490,30 @@
     },
     {
      "platz": 3,
+     "verein": "Hamminkelner SV",
+     "teamId": "011MIEUEQG000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 7,
+     "unentschieden": 3,
+     "niederlagen": 3,
+     "tore": "32:21",
+     "differenz": 11,
+     "punkte": 24
+    },
+    {
+     "platz": 4,
+     "verein": "SuS 09 Dinslaken",
+     "teamId": "011MIAE2VS000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 7,
+     "unentschieden": 2,
+     "niederlagen": 4,
+     "tore": "22:14",
+     "differenz": 8,
+     "punkte": 23
+    },
+    {
+     "platz": 5,
      "verein": "SF 97/30 Lowick",
      "teamId": "011MIBAO80000000VTVG0001VTR8C1K7",
      "spiele": 13,
@@ -1501,7 +1525,7 @@
      "punkte": 23
     },
     {
-     "platz": 4,
+     "platz": 6,
      "verein": "Kevelaerer SV",
      "teamId": "011MI9I8B0000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1513,40 +1537,16 @@
      "punkte": 22
     },
     {
-     "platz": 5,
+     "platz": 7,
      "verein": "TuS Stenern",
      "teamId": "011MIBT1TC000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 7,
      "unentschieden": 1,
-     "niederlagen": 4,
-     "tore": "30:20",
-     "differenz": 10,
+     "niederlagen": 5,
+     "tore": "30:22",
+     "differenz": 8,
      "punkte": 22
-    },
-    {
-     "platz": 6,
-     "verein": "Hamminkelner SV",
-     "teamId": "011MIEUEQG000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 6,
-     "unentschieden": 3,
-     "niederlagen": 3,
-     "tore": "30:21",
-     "differenz": 9,
-     "punkte": 21
-    },
-    {
-     "platz": 7,
-     "verein": "SuS 09 Dinslaken",
-     "teamId": "011MIAE2VS000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 6,
-     "unentschieden": 2,
-     "niederlagen": 4,
-     "tore": "21:14",
-     "differenz": 7,
-     "punkte": 20
     },
     {
      "platz": 8,
@@ -1576,40 +1576,52 @@
      "platz": 10,
      "verein": "SV Budberg II",
      "teamId": "011MIEFG78000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 4,
-     "unentschieden": 4,
+     "unentschieden": 5,
      "niederlagen": 4,
-     "tore": "25:28",
+     "tore": "27:30",
      "differenz": -3,
-     "punkte": 16
+     "punkte": 17
     },
     {
      "platz": 11,
      "verein": "Westfalia Anholt",
      "teamId": "011MI9I9NC000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 4,
      "unentschieden": 3,
-     "niederlagen": 5,
-     "tore": "17:18",
-     "differenz": -1,
+     "niederlagen": 6,
+     "tore": "17:19",
+     "differenz": -2,
      "punkte": 15
     },
     {
      "platz": 12,
      "verein": "SV 1926 Rindern",
      "teamId": "011MIDAPGO000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 4,
      "unentschieden": 2,
-     "niederlagen": 6,
-     "tore": "28:29",
-     "differenz": -1,
+     "niederlagen": 7,
+     "tore": "28:30",
+     "differenz": -2,
      "punkte": 14
     },
     {
      "platz": 13,
+     "verein": "Alemannia Pfalzdorf",
+     "teamId": "011MIC2OH0000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 4,
+     "unentschieden": 1,
+     "niederlagen": 8,
+     "tore": "29:28",
+     "differenz": 1,
+     "punkte": 13
+    },
+    {
+     "platz": 14,
      "verein": "DJK Twisteden",
      "teamId": "011MIA3J6S000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1619,18 +1631,6 @@
      "tore": "15:34",
      "differenz": -19,
      "punkte": 13
-    },
-    {
-     "platz": 14,
-     "verein": "Alemannia Pfalzdorf",
-     "teamId": "011MIC2OH0000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 4,
-     "unentschieden": 0,
-     "niederlagen": 8,
-     "tore": "27:26",
-     "differenz": 1,
-     "punkte": 12
     },
     {
      "platz": 15,
@@ -1660,25 +1660,25 @@
      "platz": 17,
      "verein": "PSV Wesel-Lackhausen",
      "teamId": "011MIBNAEG000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 2,
+     "spiele": 13,
+     "siege": 3,
      "unentschieden": 2,
      "niederlagen": 8,
-     "tore": "15:28",
-     "differenz": -13,
-     "punkte": 8
+     "tore": "16:28",
+     "differenz": -12,
+     "punkte": 11
     },
     {
      "platz": 18,
      "verein": "VfB Rheingold Emmerich",
      "teamId": "011MICUVNG000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 2,
+     "spiele": 13,
+     "siege": 3,
      "unentschieden": 2,
      "niederlagen": 8,
-     "tore": "23:47",
-     "differenz": -24,
-     "punkte": 8
+     "tore": "26:47",
+     "differenz": -21,
+     "punkte": 11
     }
    ]
   },
@@ -1690,16 +1690,28 @@
      "platz": 1,
      "verein": "SV Arminia Kapellen-Hamb",
      "teamId": "011MIBAN7K000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 10,
+     "spiele": 13,
+     "siege": 11,
      "unentschieden": 2,
      "niederlagen": 0,
-     "tore": "45:13",
-     "differenz": 32,
-     "punkte": 32
+     "tore": "48:13",
+     "differenz": 35,
+     "punkte": 35
     },
     {
      "platz": 2,
+     "verein": "SV 19 Sevelen II",
+     "teamId": "011MICDOKO000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 10,
+     "unentschieden": 2,
+     "niederlagen": 1,
+     "tore": "55:15",
+     "differenz": 40,
+     "punkte": 32
+    },
+    {
+     "platz": 3,
      "verein": "SV Issum",
      "teamId": "011MIB5RB8000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1711,31 +1723,31 @@
      "punkte": 31
     },
     {
-     "platz": 3,
-     "verein": "SV 19 Sevelen II",
-     "teamId": "011MICDOKO000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 9,
-     "unentschieden": 2,
-     "niederlagen": 1,
-     "tore": "51:14",
-     "differenz": 37,
-     "punkte": 29
-    },
-    {
      "platz": 4,
      "verein": "SC Blau-Weiß Auwel-Holt",
      "teamId": "011MIBSV1S000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 7,
+     "spiele": 13,
+     "siege": 8,
      "unentschieden": 3,
      "niederlagen": 2,
-     "tore": "37:23",
-     "differenz": 14,
-     "punkte": 24
+     "tore": "39:23",
+     "differenz": 16,
+     "punkte": 27
     },
     {
      "platz": 5,
+     "verein": "SV BW Herongen II",
+     "teamId": "011MIBT35O000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 7,
+     "unentschieden": 2,
+     "niederlagen": 4,
+     "tore": "43:31",
+     "differenz": 12,
+     "punkte": 23
+    },
+    {
+     "platz": 6,
      "verein": "SV BW Herongen",
      "teamId": "011MIAE71G000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1747,7 +1759,7 @@
      "punkte": 22
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "Kevelaerer SV II",
      "teamId": "011MIDHTKG000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1759,7 +1771,7 @@
      "punkte": 22
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "SV Germania Wemb",
      "teamId": "011MIAIU80000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1771,27 +1783,15 @@
      "punkte": 20
     },
     {
-     "platz": 8,
-     "verein": "SV BW Herongen II",
-     "teamId": "011MIBT35O000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 6,
-     "unentschieden": 2,
-     "niederlagen": 4,
-     "tore": "40:29",
-     "differenz": 11,
-     "punkte": 20
-    },
-    {
      "platz": 9,
      "verein": "Viktoria Winnekendonk II",
      "teamId": "011MIC4R40000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 6,
      "unentschieden": 2,
-     "niederlagen": 4,
-     "tore": "29:24",
-     "differenz": 5,
+     "niederlagen": 5,
+     "tore": "30:28",
+     "differenz": 2,
      "punkte": 20
     },
     {
@@ -1810,13 +1810,13 @@
      "platz": 11,
      "verein": "DJK Twisteden II",
      "teamId": "011MIDANHK000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 3,
+     "spiele": 13,
+     "siege": 4,
      "unentschieden": 3,
      "niederlagen": 6,
-     "tore": "24:29",
-     "differenz": -5,
-     "punkte": 12
+     "tore": "28:30",
+     "differenz": -2,
+     "punkte": 15
     },
     {
      "platz": 12,
@@ -1834,48 +1834,48 @@
      "platz": 13,
      "verein": "SV 1913 Walbeck II",
      "teamId": "011MI9UEAC000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 2,
      "unentschieden": 2,
-     "niederlagen": 8,
-     "tore": "25:48",
-     "differenz": -23,
+     "niederlagen": 9,
+     "tore": "25:50",
+     "differenz": -25,
      "punkte": 8
     },
     {
      "platz": 14,
      "verein": "SV Grün-Weiß Vernum II",
      "teamId": "012F5BH3M4000000VV0AG811VT1UN0HI",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 10,
-     "tore": "14:45",
-     "differenz": -31,
+     "niederlagen": 11,
+     "tore": "14:48",
+     "differenz": -34,
      "punkte": 4
     },
     {
      "platz": 15,
      "verein": "FC Aldekerk 1928/52 III",
      "teamId": "011MI9UHUS000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 0,
      "unentschieden": 2,
-     "niederlagen": 10,
-     "tore": "17:58",
-     "differenz": -41,
+     "niederlagen": 11,
+     "tore": "19:61",
+     "differenz": -42,
      "punkte": 2
     },
     {
      "platz": 16,
      "verein": "TSV Nieukerk II",
      "teamId": "011MIDJU5C000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 0,
      "unentschieden": 1,
-     "niederlagen": 11,
-     "tore": "16:72",
-     "differenz": -56,
+     "niederlagen": 12,
+     "tore": "17:76",
+     "differenz": -59,
      "punkte": 1
     }
    ]
@@ -1888,28 +1888,40 @@
      "platz": 1,
      "verein": "Uedemer SV",
      "teamId": "011MIA97LK000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 11,
+     "spiele": 13,
+     "siege": 12,
      "unentschieden": 1,
      "niederlagen": 0,
-     "tore": "44:12",
-     "differenz": 32,
-     "punkte": 34
+     "tore": "49:13",
+     "differenz": 36,
+     "punkte": 37
     },
     {
      "platz": 2,
      "verein": "SV Siegfried Materborn",
      "teamId": "011MIB19AO000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 9,
+     "spiele": 13,
+     "siege": 10,
      "unentschieden": 1,
      "niederlagen": 2,
-     "tore": "42:16",
-     "differenz": 26,
-     "punkte": 28
+     "tore": "48:16",
+     "differenz": 32,
+     "punkte": 31
     },
     {
      "platz": 3,
+     "verein": "SV Straelen",
+     "teamId": "011MIASHNC000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 8,
+     "unentschieden": 0,
+     "niederlagen": 5,
+     "tore": "43:24",
+     "differenz": 19,
+     "punkte": 24
+    },
+    {
+     "platz": 4,
      "verein": "SV Grün-Weiß Vernum",
      "teamId": "011MIC5HHK000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1919,18 +1931,6 @@
      "tore": "34:24",
      "differenz": 10,
      "punkte": 24
-    },
-    {
-     "platz": 4,
-     "verein": "SV Straelen",
-     "teamId": "011MIASHNC000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 7,
-     "unentschieden": 0,
-     "niederlagen": 5,
-     "tore": "38:22",
-     "differenz": 16,
-     "punkte": 21
     },
     {
      "platz": 5,
@@ -1946,6 +1946,18 @@
     },
     {
      "platz": 6,
+     "verein": "SV 1934 Veert",
+     "teamId": "011MI9IAQ4000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 6,
+     "unentschieden": 1,
+     "niederlagen": 6,
+     "tore": "32:25",
+     "differenz": 7,
+     "punkte": 19
+    },
+    {
+     "platz": 7,
      "verein": "Viktoria Winnekendonk",
      "teamId": "011MIBSVOS000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1957,28 +1969,16 @@
      "punkte": 18
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "SV Walbeck",
      "teamId": "011MIE876K000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 5,
      "unentschieden": 2,
-     "niederlagen": 5,
-     "tore": "29:31",
-     "differenz": -2,
-     "punkte": 17
-    },
-    {
-     "platz": 8,
-     "verein": "SV 1934 Veert",
-     "teamId": "011MI9IAQ4000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 5,
-     "unentschieden": 1,
      "niederlagen": 6,
-     "tore": "29:24",
-     "differenz": 5,
-     "punkte": 16
+     "tore": "30:36",
+     "differenz": -6,
+     "punkte": 17
     },
     {
      "platz": 9,
@@ -1996,12 +1996,12 @@
      "platz": 10,
      "verein": "SV Viktoria Goch II",
      "teamId": "011MIC7VT0000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 5,
      "unentschieden": 1,
-     "niederlagen": 6,
-     "tore": "17:23",
-     "differenz": -6,
+     "niederlagen": 7,
+     "tore": "19:28",
+     "differenz": -9,
      "punkte": 16
     },
     {
@@ -2044,24 +2044,24 @@
      "platz": 14,
      "verein": "BV Sturm Wissel",
      "teamId": "011MIEUE0S000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 2,
      "unentschieden": 2,
-     "niederlagen": 8,
-     "tore": "21:50",
-     "differenz": -29,
+     "niederlagen": 9,
+     "tore": "21:56",
+     "differenz": -35,
      "punkte": 8
     },
     {
      "platz": 15,
      "verein": "TSV Nieukerk",
      "teamId": "011MIE0NA8000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 2,
      "unentschieden": 1,
-     "niederlagen": 9,
-     "tore": "25:45",
-     "differenz": -20,
+     "niederlagen": 10,
+     "tore": "26:48",
+     "differenz": -22,
      "punkte": 7
     },
     {
@@ -2098,169 +2098,169 @@
      "platz": 2,
      "verein": "TuS Borth II",
      "teamId": "011MIB16NS000000VTVG0001VTR8C1K7",
-     "spiele": 10,
-     "siege": 9,
+     "spiele": 11,
+     "siege": 10,
      "unentschieden": 0,
      "niederlagen": 1,
-     "tore": "65:7",
-     "differenz": 58,
-     "punkte": 27
+     "tore": "71:7",
+     "differenz": 64,
+     "punkte": 30
     },
     {
      "platz": 3,
      "verein": "SV Budberg IV",
      "teamId": "01OTG3R40K000000VV0AG811VSQ2DN07",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 7,
-     "unentschieden": 2,
+     "unentschieden": 3,
      "niederlagen": 2,
-     "tore": "38:21",
+     "tore": "42:25",
      "differenz": 17,
-     "punkte": 23
+     "punkte": 24
     },
     {
      "platz": 4,
      "verein": "SV Borussia Veen 1920 II",
      "teamId": "011MIA3L2K000000VTVG0001VTR8C1K7",
-     "spiele": 10,
+     "spiele": 11,
      "siege": 7,
-     "unentschieden": 1,
+     "unentschieden": 2,
      "niederlagen": 2,
-     "tore": "41:12",
+     "tore": "45:16",
      "differenz": 29,
-     "punkte": 22
+     "punkte": 23
     },
     {
      "platz": 5,
      "verein": "Concordia Rheinberg II",
      "teamId": "02EK6VH7AO000000VS5489B1VV8GJNNG",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 7,
      "unentschieden": 1,
-     "niederlagen": 3,
-     "tore": "42:43",
-     "differenz": -1,
+     "niederlagen": 4,
+     "tore": "45:48",
+     "differenz": -3,
      "punkte": 22
     },
     {
      "platz": 6,
-     "verein": "SV Vynen-Marienbaum",
-     "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
+     "verein": "SV Viktoria Birten II",
+     "teamId": "01A2HO9954000000VV0AG80NVSEJ47CH",
      "spiele": 11,
-     "siege": 5,
-     "unentschieden": 2,
+     "siege": 6,
+     "unentschieden": 1,
      "niederlagen": 4,
-     "tore": "25:25",
-     "differenz": 0,
-     "punkte": 17
+     "tore": "27:23",
+     "differenz": 4,
+     "punkte": 19
     },
     {
      "platz": 7,
-     "verein": "SV Sonsbeck III",
-     "teamId": "02PTDCPP68000000VS5489B2VSE05932",
+     "verein": "SV Menzelen II",
+     "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
      "spiele": 11,
-     "siege": 4,
-     "unentschieden": 4,
-     "niederlagen": 3,
-     "tore": "27:23",
-     "differenz": 4,
-     "punkte": 16
+     "siege": 5,
+     "unentschieden": 2,
+     "niederlagen": 4,
+     "tore": "20:22",
+     "differenz": -2,
+     "punkte": 17
     },
     {
      "platz": 8,
-     "verein": "SV Viktoria Birten II",
-     "teamId": "01A2HO9954000000VV0AG80NVSEJ47CH",
-     "spiele": 10,
+     "verein": "SV Vynen-Marienbaum",
+     "teamId": "011MIANO4S000000VTVG0001VTR8C1K7",
+     "spiele": 12,
      "siege": 5,
-     "unentschieden": 1,
-     "niederlagen": 4,
-     "tore": "22:20",
-     "differenz": 2,
-     "punkte": 16
+     "unentschieden": 2,
+     "niederlagen": 5,
+     "tore": "25:28",
+     "differenz": -3,
+     "punkte": 17
     },
     {
      "platz": 9,
-     "verein": "SV Rheinkraft Ginderich",
-     "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
+     "verein": "Büdericher SV II",
+     "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
      "spiele": 11,
-     "siege": 4,
+     "siege": 5,
      "unentschieden": 2,
-     "niederlagen": 5,
-     "tore": "29:26",
-     "differenz": 3,
-     "punkte": 14
+     "niederlagen": 4,
+     "tore": "24:30",
+     "differenz": -6,
+     "punkte": 17
     },
     {
      "platz": 10,
-     "verein": "SV Menzelen II",
-     "teamId": "01DN339CDC000000VV0AG80NVSQ3PCMQ",
-     "spiele": 10,
+     "verein": "SV Sonsbeck III",
+     "teamId": "02PTDCPP68000000VS5489B2VSE05932",
+     "spiele": 12,
      "siege": 4,
-     "unentschieden": 2,
+     "unentschieden": 4,
      "niederlagen": 4,
-     "tore": "13:20",
-     "differenz": -7,
-     "punkte": 14
+     "tore": "27:29",
+     "differenz": -2,
+     "punkte": 16
     },
     {
      "platz": 11,
-     "verein": "Büdericher SV II",
-     "teamId": "01SIFVG3E8000000VS548984VVMI9KVG",
-     "spiele": 10,
+     "verein": "SV Rheinkraft Ginderich",
+     "teamId": "011MIB5TAO000000VTVG0001VTR8C1K7",
+     "spiele": 12,
      "siege": 4,
      "unentschieden": 2,
-     "niederlagen": 4,
-     "tore": "21:30",
-     "differenz": -9,
+     "niederlagen": 6,
+     "tore": "30:28",
+     "differenz": 2,
      "punkte": 14
     },
     {
      "platz": 12,
-     "verein": "SV Orsoy",
-     "teamId": "011MIA98AC000000VTVG0001VTR8C1K7",
-     "spiele": 10,
+     "verein": "SV Millingen II",
+     "teamId": "011MICLI60000000VTVG0001VTR8C1K7",
+     "spiele": 12,
      "siege": 4,
      "unentschieden": 0,
-     "niederlagen": 6,
-     "tore": "28:44",
-     "differenz": -16,
+     "niederlagen": 8,
+     "tore": "16:34",
+     "differenz": -18,
      "punkte": 12
     },
     {
      "platz": 13,
-     "verein": "MSV Moers III",
-     "teamId": "02MB52NDG8000000VS5489B1VV4JLPLE",
-     "spiele": 10,
-     "siege": 3,
-     "unentschieden": 1,
-     "niederlagen": 6,
-     "tore": "19:38",
-     "differenz": -19,
-     "punkte": 10
+     "verein": "SV Orsoy",
+     "teamId": "011MIA98AC000000VTVG0001VTR8C1K7",
+     "spiele": 11,
+     "siege": 4,
+     "unentschieden": 0,
+     "niederlagen": 7,
+     "tore": "30:51",
+     "differenz": -21,
+     "punkte": 12
     },
     {
      "platz": 14,
-     "verein": "SV Millingen II",
-     "teamId": "011MICLI60000000VTVG0001VTR8C1K7",
+     "verein": "SC Rheinkamp II",
+     "teamId": "01SIQFBN18000000VS548984VVMI9KVG",
      "spiele": 11,
      "siege": 3,
-     "unentschieden": 0,
-     "niederlagen": 8,
-     "tore": "14:33",
-     "differenz": -19,
-     "punkte": 9
+     "unentschieden": 1,
+     "niederlagen": 7,
+     "tore": "35:29",
+     "differenz": 6,
+     "punkte": 10
     },
     {
      "platz": 15,
-     "verein": "SC Rheinkamp II",
-     "teamId": "01SIQFBN18000000VS548984VVMI9KVG",
-     "spiele": 10,
-     "siege": 2,
+     "verein": "MSV Moers III",
+     "teamId": "02MB52NDG8000000VS5489B1VV4JLPLE",
+     "spiele": 11,
+     "siege": 3,
      "unentschieden": 1,
      "niederlagen": 7,
-     "tore": "33:29",
-     "differenz": 4,
-     "punkte": 7
+     "tore": "19:40",
+     "differenz": -21,
+     "punkte": 10
     },
     {
      "platz": 16,
@@ -2312,9 +2312,9 @@
    "teamUrl": "https://www.fussball.de/mannschaft/1-fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/011MI9O6GK000000VTVG0001VTR8C1K7",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 3,
-   "punkte": 26,
-   "torverhaeltnis": "30:17",
+   "platz": 2,
+   "punkte": 29,
+   "torverhaeltnis": "32:18",
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
    "naechste": [
     {
@@ -2878,7 +2878,7 @@
    "spielklasse": "Kreisliga B",
    "platz": 18,
    "punkte": 0,
-   "torverhaeltnis": "13:92",
+   "torverhaeltnis": "13:105",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
     {
@@ -2987,7 +2987,7 @@
    "spielklasse": "Kreisliga A",
    "platz": 15,
    "punkte": 5,
-   "torverhaeltnis": "15:44",
+   "torverhaeltnis": "16:54",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
@@ -3203,9 +3203,9 @@
    "teamUrl": "https://www.fussball.de/mannschaft/msv-moers-meerbecker-sv-moers-13-20-niederrhein/-/saison/2627/team-id/011MIA3JMS000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 4,
-   "punkte": 22,
-   "torverhaeltnis": "39:20",
+   "platz": 3,
+   "punkte": 25,
+   "torverhaeltnis": "49:21",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
@@ -3324,7 +3324,7 @@
      "gast": "SC Rheinkamp",
      "url": "https://www.fussball.de/spiel/sus-rayen-sc-rheinkamp/-/spiel/031I6OUT38000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Samstag, 21.11.2026 - 16:00 Uhr",
@@ -3422,19 +3422,10 @@
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
    "platz": 2,
-   "punkte": 26,
-   "torverhaeltnis": "42:11",
+   "punkte": 29,
+   "torverhaeltnis": "52:11",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
-    {
-     "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "GSV Moers II",
-     "gast": "SpVgg. Rheurdt-Schaephuysen",
-     "url": "https://www.fussball.de/spiel/gsv-moers-ii-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCAAC000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Samstag, 21.11.2026 - 18:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3470,9 +3461,27 @@
      "url": "https://www.fussball.de/spiel/esv-hohenbudberg-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCPI4000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 31.01.2027 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "TV Kapellen",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/tv-kapellen-spvgg-rheurdt-schaephuysen/-/spiel/032JDL4878000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
     }
    ],
    "letzte": [
+    {
+     "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "GSV Moers II",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/gsv-moers-ii-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCAAC000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Mittwoch, 11.11.2026 - 20:00 Uhr",
      "wettbewerb": "Kreispokal",
@@ -3506,15 +3515,6 @@
      "heim": "SpVgg. Rheurdt-Schaephuysen",
      "gast": "GSV Moers",
      "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-gsv-moers/-/spiel/032A3QRSRO000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 18.10.2026 - 16:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "SSV Rheintreu Lüttingen",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-ssv-rheintreu-luettingen/-/spiel/031H9RCB6G000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3651,7 +3651,7 @@
      "gast": "SC Rheinkamp",
      "url": "https://www.fussball.de/spiel/sus-rayen-sc-rheinkamp/-/spiel/031I6OUT38000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Samstag, 21.11.2026 - 18:15 Uhr",
@@ -3748,7 +3748,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-alemannia-kamp-sv-alemannia-kamp-niederrhein/-/saison/2627/team-id/011MIA986S000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 6,
+   "platz": 7,
    "punkte": 21,
    "torverhaeltnis": "64:34",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
@@ -3966,7 +3966,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-budberg-sv-budberg-1946-niederrhein/-/saison/2627/team-id/011MIEFDHS000000VTVG0001VTR8C1K7",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 4,
+   "platz": 5,
    "punkte": 24,
    "torverhaeltnis": "28:19",
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
@@ -4075,7 +4075,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-issum-sv-issum-1930-niederrhein/-/saison/2627/team-id/011MIB5RB8000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga B Gruppe 2",
    "spielklasse": "Kreisliga B",
-   "platz": 2,
+   "platz": 3,
    "punkte": 31,
    "torverhaeltnis": "43:18",
    "staffelId": "031JAMD8UG000009VS5489BUVVKNMR0J-G",
@@ -4293,9 +4293,9 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-millingen-sv-millingen-1928-niederrhein/-/saison/2627/team-id/011MIB2M18000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 13,
+   "platz": 14,
    "punkte": 7,
-   "torverhaeltnis": "24:42",
+   "torverhaeltnis": "25:45",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
@@ -4402,20 +4402,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-orsoy-sv-orsoy-1919-niederrhein/-/saison/2627/team-id/011MIA98AC000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 12,
+   "platz": 13,
    "punkte": 12,
-   "torverhaeltnis": "28:44",
+   "torverhaeltnis": "30:51",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SV Orsoy",
-     "gast": "SV Menzelen II",
-     "url": "https://www.fussball.de/spiel/sv-orsoy-sv-menzelen-ii/-/spiel/031I6NEE84000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Freitag, 20.11.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -4451,9 +4442,27 @@
      "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-orsoy/-/spiel/031I6NEDEG000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Freitag, 18.12.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Orsoy",
+     "gast": "SV Sonsbeck III",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-sv-sonsbeck-iii/-/spiel/031I6NED10000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Orsoy",
+     "gast": "SV Menzelen II",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-sv-menzelen-ii/-/spiel/031I6NEE84000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Freitag, 06.11.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -4489,15 +4498,6 @@
      "url": "https://www.fussball.de/spiel/buedericher-sv-ii-sv-orsoy/-/spiel/031I6NEFU0000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Freitag, 02.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SV Orsoy",
-     "gast": "TuS Borth II",
-     "url": "https://www.fussball.de/spiel/sv-orsoy-tus-borth-ii/-/spiel/031I6NEG78000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -4513,7 +4513,7 @@
    "spielklasse": "Oberliga Niederrhein",
    "platz": 14,
    "punkte": 14,
-   "torverhaeltnis": "18:26",
+   "torverhaeltnis": "18:27",
    "staffelId": "0311F9LVPS00000FVS5489BUVVARDA0V-G",
    "naechste": [
     {
@@ -4620,7 +4620,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-schwafheim-sv-schwafheim-1932-niederrhein/-/saison/2627/team-id/011MIF5N78000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 5,
+   "platz": 6,
    "punkte": 19,
    "torverhaeltnis": "34:23",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
@@ -4838,20 +4838,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-vynen-marienbaum-sv-vynen-marienbaum-1997-niederrhein/-/saison/2627/team-id/011MIANO4S000000VTVG0001VTR8C1K7",
    "liga": "KL C Gruppe 1",
    "spielklasse": "Kreisliga C",
-   "platz": 6,
+   "platz": 8,
    "punkte": 17,
-   "torverhaeltnis": "25:25",
+   "torverhaeltnis": "25:28",
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "Büdericher SV II",
-     "gast": "SV Vynen-Marienbaum",
-     "url": "https://www.fussball.de/spiel/buedericher-sv-ii-sv-vynen-marienbaum/-/spiel/031I6NEEBO000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Samstag, 21.11.2026 - 16:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -4887,9 +4878,27 @@
      "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-orsoy/-/spiel/031I6NEDEG000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 20.12.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Menzelen II",
+     "gast": "SV Vynen-Marienbaum",
+     "url": "https://www.fussball.de/spiel/sv-menzelen-ii-sv-vynen-marienbaum/-/spiel/031I6NED00000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "Büdericher SV II",
+     "gast": "SV Vynen-Marienbaum",
+     "url": "https://www.fussball.de/spiel/buedericher-sv-ii-sv-vynen-marienbaum/-/spiel/031I6NEEBO000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 08.11.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -4925,15 +4934,6 @@
      "url": "https://www.fussball.de/spiel/sv-vynen-marienbaum-sv-viktoria-birten-ii/-/spiel/031I6NEFIS000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Freitag, 09.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "FC Viktoria Alpen II",
-     "gast": "SV Vynen-Marienbaum",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-ii-sv-vynen-marienbaum/-/spiel/031I6NEFNC000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -4949,7 +4949,7 @@
    "spielklasse": "Kreisliga B",
    "platz": 1,
    "punkte": 30,
-   "torverhaeltnis": "72:15",
+   "torverhaeltnis": "72:20",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
     {
@@ -5274,20 +5274,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/tv-kapellen-tv-kapellen-niederrhein/-/saison/2627/team-id/01HIS24VFS000000VV0AG80NVT6JKAPB",
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
-   "platz": 7,
-   "punkte": 20,
-   "torverhaeltnis": "40:20",
+   "platz": 6,
+   "punkte": 23,
+   "torverhaeltnis": "43:20",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "SV Schwafheim II",
-     "gast": "TV Kapellen",
-     "url": "https://www.fussball.de/spiel/sv-schwafheim-ii-tv-kapellen/-/spiel/031HBDT1VC000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Samstag, 21.11.2026 - 17:00 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -5323,9 +5314,27 @@
      "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-iii-tv-kapellen/-/spiel/031HBDT138000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Freitag, 18.12.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "TV Kapellen",
+     "gast": "TV Asberg II",
+     "url": "https://www.fussball.de/spiel/tv-kapellen-tv-asberg-ii/-/spiel/031HBDT0E8000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "SV Schwafheim II",
+     "gast": "TV Kapellen",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-ii-tv-kapellen/-/spiel/031HBDT1VC000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Freitag, 06.11.2026 - 19:30 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -5361,15 +5370,6 @@
      "url": "https://www.fussball.de/spiel/tv-kapellen-sv-alemannia-kamp/-/spiel/031HBDT384000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 11.10.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "TuS Borth",
-     "gast": "TV Kapellen",
-     "url": "https://www.fussball.de/spiel/tus-borth-tv-kapellen/-/spiel/031HBDT3TS000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ]
   },
@@ -5395,7 +5395,7 @@
      "gast": "FSV Duisburg",
      "url": "https://www.fussball.de/spiel/vfl-repelen-fsv-duisburg/-/spiel/031ENENDD8000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Abbruch"
     },
     {
      "datum": "Sonntag, 29.11.2026 - 15:30 Uhr",
