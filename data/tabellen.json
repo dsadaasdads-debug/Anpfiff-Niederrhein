@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-17T04:13:07.902Z",
+ "aktualisiert": "2026-11-17T16:31:01.028Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -3245,11 +3245,11 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 21.02.2027 - 15:30 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "TSV Bruckhausen",
+     "datum": "Sonntag, 07.02.2027 - 15:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "CSV Marathon Krefeld",
      "gast": "MSV Moers",
-     "url": "https://www.fussball.de/spiel/tsv-bruckhausen-msv-moers/-/spiel/032I23UP94000000VS5489BTVU989P58",
+     "url": "https://www.fussball.de/spiel/csv-marathon-krefeld-msv-moers/-/spiel/032NUJ2Q0S000000VS5489BTVSIO88SN",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3645,11 +3645,11 @@
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Samstag, 21.11.2026 - 18:15 Uhr",
+     "datum": "Samstag, 21.11.2026 - 16:00 Uhr",
      "wettbewerb": "Kreisliga C",
-     "heim": "FC Neukirchen-Vluyn IV",
-     "gast": "SuS Rayen",
-     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-iv-sus-rayen/-/spiel/031I6OV290000000VS5489BTVSRD0UH9",
+     "heim": "SuS Rayen",
+     "gast": "FC Neukirchen-Vluyn IV",
+     "url": "https://www.fussball.de/spiel/sus-rayen-fc-neukirchen-vluyn-iv/-/spiel/031I6OV290000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
@@ -5389,6 +5389,15 @@
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
    "naechste": [
     {
+     "datum": "Donnerstag, 19.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "VfL Repelen",
+     "gast": "SpVgg. Rheurdt-Schaephuysen II",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-spvgg-rheurdt-schaephuysen-ii/-/spiel/032NS2NMS8000000VS5489BUVT7T9F23",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 29.11.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "FC Neukirchen-Vluyn",
@@ -5421,15 +5430,6 @@
      "heim": "VfL Repelen",
      "gast": "Dostlukspor Bottrop",
      "url": "https://www.fussball.de/spiel/vfl-repelen-dostlukspor-bottrop/-/spiel/031ENENBPS000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 14.02.2027 - 15:30 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "VfL Repelen",
-     "gast": "SV Fortuna Bottrop",
-     "url": "https://www.fussball.de/spiel/vfl-repelen-sv-fortuna-bottrop/-/spiel/031ENEO3DS000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
