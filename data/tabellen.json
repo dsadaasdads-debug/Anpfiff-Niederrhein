@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-17T16:31:01.028Z",
+ "aktualisiert": "2026-11-18T01:20:40.782Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -5207,11 +5207,11 @@
      "hinweis": null
     },
     {
-     "datum": "Freitag, 05.02.2027 - 20:00 Uhr",
+     "datum": "Sonntag, 31.01.2027 - 15:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
      "heim": "TV Asberg I",
-     "gast": "Duisburger SV 1900",
-     "url": "https://www.fussball.de/spiel/tv-asberg-i-duisburger-sv-1900/-/spiel/032GQPIIF0000000VS5489BUVSGKI48U",
+     "gast": "VfB Homberg",
+     "url": "https://www.fussball.de/spiel/tv-asberg-i-vfb-homberg/-/spiel/032NVFSG1G000000VS5489BUVT7T9F23",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -5389,15 +5389,6 @@
    "staffelId": "0311F9OK7C00000NVS5489BUVVARDA0V-G",
    "naechste": [
     {
-     "datum": "Donnerstag, 19.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Bezirksfreundschaftsspiele",
-     "heim": "VfL Repelen",
-     "gast": "SpVgg. Rheurdt-Schaephuysen II",
-     "url": "https://www.fussball.de/spiel/vfl-repelen-spvgg-rheurdt-schaephuysen-ii/-/spiel/032NS2NMS8000000VS5489BUVT7T9F23",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 29.11.2026 - 15:30 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "FC Neukirchen-Vluyn",
@@ -5430,6 +5421,15 @@
      "heim": "VfL Repelen",
      "gast": "Dostlukspor Bottrop",
      "url": "https://www.fussball.de/spiel/vfl-repelen-dostlukspor-bottrop/-/spiel/031ENENBPS000000VS5489BUVUR5FS5A",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 14.02.2027 - 15:30 Uhr",
+     "wettbewerb": "Bezirksliga",
+     "heim": "VfL Repelen",
+     "gast": "SV Fortuna Bottrop",
+     "url": "https://www.fussball.de/spiel/vfl-repelen-sv-fortuna-bottrop/-/spiel/031ENEO3DS000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
