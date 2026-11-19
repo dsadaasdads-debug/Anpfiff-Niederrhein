@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-19T12:11:39.921Z",
+ "aktualisiert": "2026-11-19T21:00:19.731Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2108,6 +2108,18 @@
     },
     {
      "platz": 3,
+     "verein": "SV Borussia Veen 1920 II",
+     "teamId": "011MIA3L2K000000VTVG0001VTR8C1K7",
+     "spiele": 12,
+     "siege": 8,
+     "unentschieden": 2,
+     "niederlagen": 2,
+     "tore": "49:19",
+     "differenz": 30,
+     "punkte": 26
+    },
+    {
+     "platz": 4,
      "verein": "SV Budberg IV",
      "teamId": "01OTG3R40K000000VV0AG811VSQ2DN07",
      "spiele": 12,
@@ -2117,18 +2129,6 @@
      "tore": "42:25",
      "differenz": 17,
      "punkte": 24
-    },
-    {
-     "platz": 4,
-     "verein": "SV Borussia Veen 1920 II",
-     "teamId": "011MIA3L2K000000VTVG0001VTR8C1K7",
-     "spiele": 11,
-     "siege": 7,
-     "unentschieden": 2,
-     "niederlagen": 2,
-     "tore": "45:16",
-     "differenz": 29,
-     "punkte": 23
     },
     {
      "platz": 5,
@@ -2254,12 +2254,12 @@
      "platz": 15,
      "verein": "MSV Moers III",
      "teamId": "02MB52NDG8000000VS5489B1VV4JLPLE",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 3,
      "unentschieden": 1,
-     "niederlagen": 7,
-     "tore": "19:40",
-     "differenz": -21,
+     "niederlagen": 8,
+     "tore": "22:44",
+     "differenz": -22,
      "punkte": 10
     },
     {
