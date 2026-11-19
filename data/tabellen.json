@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-19T02:50:31.288Z",
+ "aktualisiert": "2026-11-19T12:11:39.921Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2437,6 +2437,15 @@
      "hinweis": null
     },
     {
+     "datum": "Donnerstag, 26.11.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "1.FC Lintfort",
+     "gast": "SV Sonsbeck",
+     "url": "https://www.fussball.de/spiel/1fc-lintfort-sv-sonsbeck/-/spiel/032LDISPHK000000VS5489BUVT7T9F23",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 29.11.2026 - 11:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "PSV Wesel",
@@ -2460,15 +2469,6 @@
      "heim": "1.FC Lintfort",
      "gast": "SF 97/30 Lowick",
      "url": "https://www.fussball.de/spiel/1fc-lintfort-sf-97-30-lowick/-/spiel/031SUR0SPS000000VS5489BTVT7QHFUC",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 28.02.2027 - 11:00 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "DJK Arminia Klosterhardt",
-     "gast": "1.FC Lintfort",
-     "url": "https://www.fussball.de/spiel/djk-arminia-u19-1fc-lintfort/-/spiel/031SUR0SA8000000VS5489BTVT7QHFUC",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
