@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-19T21:00:19.731Z",
+ "aktualisiert": "2026-11-20T02:37:55.244Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -382,13 +382,13 @@
      "platz": 1,
      "verein": "TuS Borth",
      "teamId": "011MIAIST4000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 10,
+     "spiele": 13,
+     "siege": 11,
      "unentschieden": 0,
      "niederlagen": 2,
-     "tore": "72:20",
-     "differenz": 52,
-     "punkte": 30
+     "tore": "85:20",
+     "differenz": 65,
+     "punkte": 33
     },
     {
      "platz": 2,
@@ -500,18 +500,6 @@
     },
     {
      "platz": 11,
-     "verein": "SV Viktoria Birten",
-     "teamId": "011MIE0POK000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 5,
-     "unentschieden": 2,
-     "niederlagen": 5,
-     "tore": "50:34",
-     "differenz": 16,
-     "punkte": 17
-    },
-    {
-     "platz": 12,
      "verein": "TV Kaldenhausen",
      "teamId": "02TCVR52IG000000VS5489BRVU522QNF",
      "spiele": 12,
@@ -520,6 +508,18 @@
      "niederlagen": 5,
      "tore": "25:20",
      "differenz": 5,
+     "punkte": 17
+    },
+    {
+     "platz": 12,
+     "verein": "SV Viktoria Birten",
+     "teamId": "011MIE0POK000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 5,
+     "unentschieden": 2,
+     "niederlagen": 6,
+     "tore": "50:47",
+     "differenz": 3,
      "punkte": 17
     },
     {
@@ -884,6 +884,18 @@
     },
     {
      "platz": 6,
+     "verein": "Rumelner TV",
+     "teamId": "011MIBJ5B4000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 6,
+     "unentschieden": 3,
+     "niederlagen": 4,
+     "tore": "36:20",
+     "differenz": 16,
+     "punkte": 21
+    },
+    {
+     "platz": 7,
      "verein": "Büdericher SV",
      "teamId": "011MIASFU0000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -895,7 +907,7 @@
      "punkte": 20
     },
     {
-     "platz": 7,
+     "platz": 8,
      "verein": "SV Schwafheim",
      "teamId": "011MIF5N78000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -905,18 +917,6 @@
      "tore": "34:23",
      "differenz": 11,
      "punkte": 19
-    },
-    {
-     "platz": 8,
-     "verein": "Rumelner TV",
-     "teamId": "011MIBJ5B4000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 5,
-     "unentschieden": 3,
-     "niederlagen": 4,
-     "tore": "34:20",
-     "differenz": 14,
-     "punkte": 18
     },
     {
      "platz": 9,
@@ -970,12 +970,12 @@
      "platz": 13,
      "verein": "SV Budberg III",
      "teamId": "011MIBSVNC000000VTVG0001VTR8C1K7",
-     "spiele": 12,
+     "spiele": 13,
      "siege": 2,
      "unentschieden": 2,
-     "niederlagen": 8,
-     "tore": "9:30",
-     "differenz": -21,
+     "niederlagen": 9,
+     "tore": "9:32",
+     "differenz": -23,
      "punkte": 8
     },
     {
@@ -4620,7 +4620,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-schwafheim-sv-schwafheim-1932-niederrhein/-/saison/2627/team-id/011MIF5N78000000VTVG0001VTR8C1K7",
    "liga": "Kreisliga A",
    "spielklasse": "Kreisliga A",
-   "platz": 7,
+   "platz": 8,
    "punkte": 19,
    "torverhaeltnis": "34:23",
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
@@ -4948,19 +4948,10 @@
    "liga": "Kreisliga B",
    "spielklasse": "Kreisliga B",
    "platz": 1,
-   "punkte": 30,
-   "torverhaeltnis": "72:20",
+   "punkte": 33,
+   "torverhaeltnis": "85:20",
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Donnerstag, 19.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "TuS Borth",
-     "gast": "SV Viktoria Birten",
-     "url": "https://www.fussball.de/spiel/tus-borth-sv-viktoria-birten/-/spiel/031HBDT7OC000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -4996,9 +4987,27 @@
      "url": "https://www.fussball.de/spiel/tus-borth-ssv-rheintreu-luettingen-ii/-/spiel/031HBDT0LC000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 31.01.2027 - 15:00 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "FC Viktoria Alpen",
+     "gast": "TuS Borth",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-tus-borth/-/spiel/0328P9SCQO000000VS5489BUVV5V31CI",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Donnerstag, 19.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "TuS Borth",
+     "gast": "SV Viktoria Birten",
+     "url": "https://www.fussball.de/spiel/tus-borth-sv-viktoria-birten/-/spiel/031HBDT7OC000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 15.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -5032,15 +5041,6 @@
      "heim": "TuS Borth",
      "gast": "VFB Homberg",
      "url": "https://www.fussball.de/spiel/tus-borth-vfb-homberg/-/spiel/032A3QRT2O000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 18.10.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "Rumelner TV II",
-     "gast": "TuS Borth",
-     "url": "https://www.fussball.de/spiel/rumelner-tv-ii-tus-borth/-/spiel/031HBDT36K000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
