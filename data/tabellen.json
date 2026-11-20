@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-20T02:37:55.244Z",
+ "aktualisiert": "2026-11-20T12:13:33.368Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -4414,7 +4414,7 @@
      "gast": "Concordia Rheinberg II",
      "url": "https://www.fussball.de/spiel/sv-orsoy-concordia-rheinberg-ii/-/spiel/031I6NEJ3S000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
@@ -4989,11 +4989,11 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 31.01.2027 - 15:00 Uhr",
+     "datum": "Sonntag, 24.01.2027 - 13:00 Uhr",
      "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "FC Viktoria Alpen",
+     "heim": "SV 19 Sevelen II",
      "gast": "TuS Borth",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-tus-borth/-/spiel/0328P9SCQO000000VS5489BUVV5V31CI",
+     "url": "https://www.fussball.de/spiel/sv-19-sevelen-ii-tus-borth/-/spiel/032OSD3KJK000000VS5489BUVT7T9F23",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
