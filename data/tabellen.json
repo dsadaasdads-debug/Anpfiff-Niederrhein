@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-22T01:37:06.400Z",
+ "aktualisiert": "2026-11-22T12:01:04.366Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2991,6 +2991,15 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
+     "datum": "Mittwoch, 25.11.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Millingen",
+     "gast": "FC Viktoria Alpen",
+     "url": "https://www.fussball.de/spiel/sv-millingen-fc-viktoria-alpen/-/spiel/031H9RCESO000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "FC Viktoria Alpen",
@@ -3025,27 +3034,9 @@
      "url": "https://www.fussball.de/spiel/tv-kapellen-fc-viktoria-alpen/-/spiel/032JDJIS34000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 31.01.2027 - 15:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "FC Viktoria Alpen",
-     "gast": "TuS Borth",
-     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-tus-borth/-/spiel/0328P9SCQO000000VS5489BUVV5V31CI",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ],
    "letzte": [
-    {
-     "datum": "Freitag, 20.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Millingen",
-     "gast": "FC Viktoria Alpen",
-     "url": "https://www.fussball.de/spiel/sv-millingen-fc-viktoria-alpen/-/spiel/031H9RCESO000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
     {
      "datum": "Sonntag, 15.11.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3079,6 +3070,15 @@
      "heim": "FC Viktoria Alpen",
      "gast": "SpVgg. Rheurdt-Schaephuysen",
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCAOG000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "FC Viktoria Alpen",
+     "gast": "1. FC Lintfort",
+     "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-1-fc-lintfort/-/spiel/032A3QRT40000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4299,6 +4299,15 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
+     "datum": "Mittwoch, 25.11.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Millingen",
+     "gast": "FC Viktoria Alpen",
+     "url": "https://www.fussball.de/spiel/sv-millingen-fc-viktoria-alpen/-/spiel/031H9RCESO000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 29.11.2026 - 14:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "VfL Rheinhausen",
@@ -4333,27 +4342,9 @@
      "url": "https://www.fussball.de/spiel/osterather-sv-meerbusch-2-sv-millingen/-/spiel/032JCVVQVS000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 21.02.2027 - 17:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "SV Budberg III",
-     "gast": "SV Millingen",
-     "url": "https://www.fussball.de/spiel/sv-budberg-iii-sv-millingen/-/spiel/032DR6GC0G000000VS5489BUVSGKI48U",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ],
    "letzte": [
-    {
-     "datum": "Freitag, 20.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Millingen",
-     "gast": "FC Viktoria Alpen",
-     "url": "https://www.fussball.de/spiel/sv-millingen-fc-viktoria-alpen/-/spiel/031H9RCESO000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
     {
      "datum": "Sonntag, 15.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4387,6 +4378,15 @@
      "heim": "Rumelner TV",
      "gast": "SV Millingen",
      "url": "https://www.fussball.de/spiel/rumelner-tv-sv-millingen/-/spiel/031H9RCB28000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 11.10.2026 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Millingen",
+     "gast": "SV Menzelen",
+     "url": "https://www.fussball.de/spiel/sv-millingen-sv-menzelen/-/spiel/031H9RCBIG000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
