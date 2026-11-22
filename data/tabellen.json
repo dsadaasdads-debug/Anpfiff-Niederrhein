@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-22T12:01:04.366Z",
+ "aktualisiert": "2026-11-22T20:00:11.961Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -278,6 +278,18 @@
     },
     {
      "platz": 5,
+     "verein": "FSV Duisburg",
+     "teamId": "011MIEMHS8000000VTVG0001VTR8C1K7",
+     "spiele": 9,
+     "siege": 5,
+     "unentschieden": 1,
+     "niederlagen": 3,
+     "tore": "24:14",
+     "differenz": 10,
+     "punkte": 16
+    },
+    {
+     "platz": 6,
      "verein": "FC Neukirchen-Vluyn",
      "teamId": "023UVPVJ9C000000VS548984VSVTAEJ3",
      "spiele": 9,
@@ -287,18 +299,6 @@
      "tore": "20:19",
      "differenz": 1,
      "punkte": 16
-    },
-    {
-     "platz": 6,
-     "verein": "FSV Duisburg",
-     "teamId": "011MIEMHS8000000VTVG0001VTR8C1K7",
-     "spiele": 8,
-     "siege": 4,
-     "unentschieden": 1,
-     "niederlagen": 3,
-     "tore": "22:14",
-     "differenz": 8,
-     "punkte": 13
     },
     {
      "platz": 7,
@@ -338,18 +338,6 @@
     },
     {
      "platz": 10,
-     "verein": "SV Sonsbeck",
-     "teamId": "011MIF5QVC000000VTVG0001VTR8C1K7",
-     "spiele": 8,
-     "siege": 1,
-     "unentschieden": 1,
-     "niederlagen": 6,
-     "tore": "11:32",
-     "differenz": -21,
-     "punkte": 4
-    },
-    {
-     "platz": 11,
      "verein": "JSG Nütterden / Kranenburg",
      "teamId": "011MID3RF4000000VTVG0001VTR8C1K7",
      "spiele": 9,
@@ -357,6 +345,18 @@
      "unentschieden": 1,
      "niederlagen": 7,
      "tore": "12:35",
+     "differenz": -23,
+     "punkte": 4
+    },
+    {
+     "platz": 11,
+     "verein": "SV Sonsbeck",
+     "teamId": "011MIF5QVC000000VTVG0001VTR8C1K7",
+     "spiele": 9,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 7,
+     "tore": "11:34",
      "differenz": -23,
      "punkte": 4
     },
@@ -1118,6 +1118,18 @@
     },
     {
      "platz": 9,
+     "verein": "FC Rumeln-Kaldenhausen II",
+     "teamId": "011MIDCRUK000000VTVG0001VTR8C1K7",
+     "spiele": 13,
+     "siege": 6,
+     "unentschieden": 3,
+     "niederlagen": 4,
+     "tore": "48:24",
+     "differenz": 24,
+     "punkte": 21
+    },
+    {
+     "platz": 10,
      "verein": "OSC 04 Rheinhausen II",
      "teamId": "01L7FAASLK000000VV0AG80NVT9OCUEA",
      "spiele": 13,
@@ -1129,7 +1141,7 @@
      "punkte": 20
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "SV Schwafheim III",
      "teamId": "02T8NOOT10000000VS5489BSVV9JRPRB",
      "spiele": 13,
@@ -1139,18 +1151,6 @@
      "tore": "53:32",
      "differenz": 21,
      "punkte": 19
-    },
-    {
-     "platz": 11,
-     "verein": "FC Rumeln-Kaldenhausen II",
-     "teamId": "011MIDCRUK000000VTVG0001VTR8C1K7",
-     "spiele": 12,
-     "siege": 5,
-     "unentschieden": 3,
-     "niederlagen": 4,
-     "tore": "46:24",
-     "differenz": 22,
-     "punkte": 18
     },
     {
      "platz": 12,
@@ -1168,13 +1168,13 @@
      "platz": 13,
      "verein": "FC Moers-Meerfeld II",
      "teamId": "02PPPC0NSO000000VS5489B2VUGLP840",
-     "spiele": 12,
-     "siege": 4,
+     "spiele": 13,
+     "siege": 5,
      "unentschieden": 1,
      "niederlagen": 7,
-     "tore": "22:35",
-     "differenz": -13,
-     "punkte": 13
+     "tore": "22:37",
+     "differenz": -15,
+     "punkte": 16
     },
     {
      "platz": 14,
