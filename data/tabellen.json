@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-21T19:49:18.384Z",
+ "aktualisiert": "2026-11-22T01:37:06.400Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2582,20 +2582,20 @@
      "hinweis": null
     },
     {
+     "datum": "Samstag, 19.12.2026 - 15:30 Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "GSV Duisburg",
+     "gast": "FC Mattheck Moers",
+     "url": "https://www.fussball.de/spiel/gsv-duisburg-fc-mattheck-moers/-/spiel/032BLCKJCS000000VS5489BUVV5V31CI",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Samstag, 23.01.2027 - 15:30 Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "FC Mattheck Moers",
      "gast": "FF M'gladbach 07 II",
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers-ff-m%27gladbach-07-ii/-/spiel/031OPNR3MK000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Samstag, 06.02.2027 - ** Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "GTSV Essen",
-     "gast": "FC Mattheck Moers",
-     "url": "https://www.fussball.de/spiel/gtsv-essen-fc-mattheck-moers/-/spiel/031OPNR3Q0000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -2882,15 +2882,6 @@
    "staffelId": "031HBBJSK4000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Samstag, 21.11.2026 - 18:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "FC Rot-Weiß Moers",
-     "gast": "SSV Rheintreu Lüttingen II",
-     "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-ssv-rheintreu-luettingen-ii/-/spiel/031HBDT7KK000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 29.11.2026 - 12:30 Uhr",
      "wettbewerb": "Kreisliga B",
      "heim": "TV Asberg II",
@@ -2925,9 +2916,27 @@
      "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-vfl-rheinhausen-ii/-/spiel/031HBDT0IO000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 14.02.2027 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Rot-Weiß Moers",
+     "gast": "FC Rumeln-Kaldenhausen",
+     "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-fc-rumeln-kaldenhausen/-/spiel/031HBDTKUK000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 21.11.2026 - 18:00 Uhr",
+     "wettbewerb": "Kreisliga B",
+     "heim": "FC Rot-Weiß Moers",
+     "gast": "SSV Rheintreu Lüttingen II",
+     "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-ssv-rheintreu-luettingen-ii/-/spiel/031HBDT7KK000000VS5489BTVVG7L386",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 15.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga B",
@@ -2961,15 +2970,6 @@
      "heim": "SV Schwafheim II",
      "gast": "FC Rot-Weiß Moers",
      "url": "https://www.fussball.de/spiel/sv-schwafheim-ii-fc-rot-weiss-moers/-/spiel/031HBDT39K000000VS5489BTVVG7L386",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 11.10.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga B",
-     "heim": "FC Rot-Weiß Moers",
-     "gast": "FC Moers-Meerfeld",
-     "url": "https://www.fussball.de/spiel/fc-rot-weiss-moers-fc-moers-meerfeld/-/spiel/031HBDT3QK000000VS5489BTVVG7L386",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3427,15 +3427,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Samstag, 21.11.2026 - 18:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Schwafheim",
-     "gast": "SpVgg. Rheurdt-Schaephuysen",
-     "url": "https://www.fussball.de/spiel/sv-schwafheim-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCENG000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Samstag, 28.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SpVgg. Rheurdt-Schaephuysen",
@@ -3470,9 +3461,27 @@
      "url": "https://www.fussball.de/spiel/tv-kapellen-spvgg-rheurdt-schaephuysen/-/spiel/032JDL4878000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
      "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Sonntag, 28.02.2027 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SpVgg. Rheurdt-Schaephuysen",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-sv-schwafheim/-/spiel/031H9RCOFK000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 21.11.2026 - 18:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Schwafheim",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCENG000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -3506,15 +3515,6 @@
      "heim": "FC Viktoria Alpen",
      "gast": "SpVgg. Rheurdt-Schaephuysen",
      "url": "https://www.fussball.de/spiel/fc-viktoria-alpen-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCAOG000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Mittwoch, 21.10.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "SpVgg. Rheurdt-Schaephuysen",
-     "gast": "GSV Moers",
-     "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-gsv-moers/-/spiel/032A3QRSRO000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4626,15 +4626,6 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Samstag, 21.11.2026 - 18:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "SV Schwafheim",
-     "gast": "SpVgg. Rheurdt-Schaephuysen",
-     "url": "https://www.fussball.de/spiel/sv-schwafheim-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCENG000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Sonsbeck II",
@@ -4669,9 +4660,27 @@
      "url": "https://www.fussball.de/spiel/sv-gelb-weiss-hamborn-1930-e-v-sv-schwafheim/-/spiel/032NL7CE9G000000VS5489BTVSIO88SN",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 24.01.2027 - 15:30 Uhr",
+     "wettbewerb": "Kreisfreundschaftsspiele",
+     "heim": "SF Königshardt",
+     "gast": "SV Schwafheim",
+     "url": "https://www.fussball.de/spiel/sf-koenigshardt-sv-schwafheim/-/spiel/0328MGD9JO000000VS5489BTVU989P58",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Samstag, 21.11.2026 - 18:00 Uhr",
+     "wettbewerb": "Kreisliga A",
+     "heim": "SV Schwafheim",
+     "gast": "SpVgg. Rheurdt-Schaephuysen",
+     "url": "https://www.fussball.de/spiel/sv-schwafheim-spvgg-rheurdt-schaephuysen/-/spiel/031H9RCENG000000VS5489BUVSJ4CRAP",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Freitag, 13.11.2026 - 20:00 Uhr",
      "wettbewerb": "Kreisliga A",
@@ -4705,15 +4714,6 @@
      "heim": "SV Schwafheim",
      "gast": "MSV Moers",
      "url": "https://www.fussball.de/spiel/sv-schwafheim-msv-moers/-/spiel/031H9RCB58000000VS5489BUVSJ4CRAP",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 11.10.2026 - 15:00 Uhr",
-     "wettbewerb": "Kreisliga A",
-     "heim": "ESV Hohenbudberg",
-     "gast": "SV Schwafheim",
-     "url": "https://www.fussball.de/spiel/esv-hohenbudberg-sv-schwafheim/-/spiel/031H9RCBH8000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
