@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-23T13:41:48.999Z",
+ "aktualisiert": "2026-11-24T02:37:00.278Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -2428,20 +2428,20 @@
    "staffelId": "031PMKJ4BK000004VS5489BTVT8K11BC-G",
    "naechste": [
     {
-     "datum": "Donnerstag, 26.11.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreispokal",
-     "heim": "1.FC Lintfort",
-     "gast": "SV Sonsbeck",
-     "url": "https://www.fussball.de/spiel/1fc-lintfort-sv-sonsbeck/-/spiel/032LDISPHK000000VS5489BUVT7T9F23",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Sonntag, 29.11.2026 - 11:00 Uhr",
      "wettbewerb": "Landesliga",
      "heim": "PSV Wesel",
      "gast": "1.FC Lintfort",
      "url": "https://www.fussball.de/spiel/psv-wesel-1fc-lintfort/-/spiel/031SUR0N4K000000VS5489BTVT7QHFUC",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Dienstag, 01.12.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreispokal",
+     "heim": "1.FC Lintfort",
+     "gast": "SV Sonsbeck",
+     "url": "https://www.fussball.de/spiel/1fc-lintfort-sv-sonsbeck/-/spiel/032LDISPHK000000VS5489BUVT7T9F23",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
@@ -3106,6 +3106,15 @@
      "gast": "TuS Union 09 Mülheim",
      "url": "https://www.fussball.de/spiel/gsv-moers-tus-union-09-muelheim/-/spiel/032O6HG970000000VS5489BUVT7T9F23",
      "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
+    {
+     "datum": "Dienstag, 24.11.2026 - 20:15 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "GSV Moers",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/gsv-moers-tv-asberg-i/-/spiel/032PT8FH94000000VS5489BUVT7T9F23",
+     "ergebnisVerschleiert": false,
      "hinweis": null
     },
     {
@@ -3132,15 +3141,6 @@
      "heim": "GSV Moers",
      "gast": "SV Rhenania Hamborn",
      "url": "https://www.fussball.de/spiel/gsv-moers-sv-rhenania-hamborn/-/spiel/031ENENCDC000000VS5489BUVUR5FS5A",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 20.12.2026 - 15:30 Uhr",
-     "wettbewerb": "Bezirksliga",
-     "heim": "SF Hamborn 07",
-     "gast": "GSV Moers",
-     "url": "https://www.fussball.de/spiel/sf-hamborn-07-gsv-moers/-/spiel/031ENENBNC000000VS5489BUVUR5FS5A",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3656,18 +3656,18 @@
     {
      "datum": "Sonntag, 06.12.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga C",
-     "heim": "SuS Rayen",
-     "gast": "MSV Moers II",
-     "url": "https://www.fussball.de/spiel/sus-rayen-msv-moers-ii/-/spiel/031I6OUSFK000000VS5489BTVSRD0UH9",
+     "heim": "MSV Moers II",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/msv-moers-ii-sus-rayen/-/spiel/031I6OUSFK000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 13.12.2026 - 15:00 Uhr",
+     "datum": "Sonntag, 13.12.2026 - 17:00 Uhr",
      "wettbewerb": "Kreisliga C",
-     "heim": "SuS Rayen",
-     "gast": "MSV Moers IV",
-     "url": "https://www.fussball.de/spiel/sus-rayen-msv-moers-iv/-/spiel/031I6OUS6G000000VS5489BTVSRD0UH9",
+     "heim": "MSV Moers IV",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/msv-moers-iv-sus-rayen/-/spiel/031I6OUS6G000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
@@ -4408,6 +4408,15 @@
    "staffelId": "031HJBFEMO000004VS5489BTVVG7L386-G",
    "naechste": [
     {
+     "datum": "Mittwoch, 25.11.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Orsoy",
+     "gast": "Concordia Rheinberg II",
+     "url": "https://www.fussball.de/spiel/sv-orsoy-concordia-rheinberg-ii/-/spiel/031I6NEJ3S000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga C",
      "heim": "1.FC Lintfort III",
@@ -4442,27 +4451,9 @@
      "url": "https://www.fussball.de/spiel/sv-orsoy-sv-sonsbeck-iii/-/spiel/031I6NED10000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
-    },
-    {
-     "datum": "Freitag, 12.02.2027 - 18:30 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SV Budberg IV",
-     "gast": "SV Orsoy",
-     "url": "https://www.fussball.de/spiel/sv-budberg-iv-sv-orsoy/-/spiel/031I6NF0BC000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
     }
    ],
    "letzte": [
-    {
-     "datum": "Freitag, 20.11.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SV Orsoy",
-     "gast": "Concordia Rheinberg II",
-     "url": "https://www.fussball.de/spiel/sv-orsoy-concordia-rheinberg-ii/-/spiel/031I6NEJ3S000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
     {
      "datum": "Sonntag, 15.11.2026 - 13:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -4496,6 +4487,15 @@
      "heim": "SV Orsoy",
      "gast": "SV Millingen II",
      "url": "https://www.fussball.de/spiel/sv-orsoy-sv-millingen-ii/-/spiel/031I6NEFBG000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 11.10.2026 - 15:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "Büdericher SV II",
+     "gast": "SV Orsoy",
+     "url": "https://www.fussball.de/spiel/buedericher-sv-ii-sv-orsoy/-/spiel/031I6NEFU0000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -5089,7 +5089,7 @@
      "hinweis": null
     },
     {
-     "datum": "Sonntag, 20.12.2026 - 15:00 Uhr",
+     "datum": "Freitag, 18.12.2026 - 20:00 Uhr",
      "wettbewerb": "Bezirksliga",
      "heim": "SV Budberg II",
      "gast": "TUS Xanten",
@@ -5171,6 +5171,15 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
+     "datum": "Dienstag, 24.11.2026 - 20:15 Uhr",
+     "wettbewerb": "Bezirksfreundschaftsspiele",
+     "heim": "GSV Moers",
+     "gast": "TV Asberg I",
+     "url": "https://www.fussball.de/spiel/gsv-moers-tv-asberg-i/-/spiel/032PT8FH94000000VS5489BUVT7T9F23",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
      "datum": "Sonntag, 29.11.2026 - 15:30 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "TV Asberg I",
@@ -5203,15 +5212,6 @@
      "heim": "TV Asberg I",
      "gast": "VfB Homberg",
      "url": "https://www.fussball.de/spiel/tv-asberg-i-vfb-homberg/-/spiel/032NVFSG1G000000VS5489BUVT7T9F23",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Freitag, 05.02.2027 - 20:00 Uhr",
-     "wettbewerb": "Kreisfreundschaftsspiele",
-     "heim": "TV Asberg I",
-     "gast": "Duisburger SV 1900",
-     "url": "https://www.fussball.de/spiel/tv-asberg-i-duisburger-sv-1900/-/spiel/032GQPIIF0000000VS5489BUVSGKI48U",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
