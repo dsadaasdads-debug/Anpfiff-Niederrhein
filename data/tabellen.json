@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-25T09:11:46.186Z",
+ "aktualisiert": "2026-11-25T19:37:19.796Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -1958,6 +1958,18 @@
     },
     {
      "platz": 7,
+     "verein": "SV Walbeck",
+     "teamId": "011MIE876K000000VTVG0001VTR8C1K7",
+     "spiele": 14,
+     "siege": 6,
+     "unentschieden": 2,
+     "niederlagen": 6,
+     "tore": "32:36",
+     "differenz": -4,
+     "punkte": 20
+    },
+    {
+     "platz": 8,
      "verein": "SV 1934 Veert",
      "teamId": "011MI9IAQ4000000VTVG0001VTR8C1K7",
      "spiele": 13,
@@ -1969,7 +1981,7 @@
      "punkte": 19
     },
     {
-     "platz": 8,
+     "platz": 9,
      "verein": "SF Broekhuysen II",
      "teamId": "011MIASBEO000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1981,7 +1993,7 @@
      "punkte": 18
     },
     {
-     "platz": 9,
+     "platz": 10,
      "verein": "TSV Wachtendonk-Wankum",
      "teamId": "011MICDPGK000000VTVG0001VTR8C1K7",
      "spiele": 12,
@@ -1993,7 +2005,7 @@
      "punkte": 18
     },
     {
-     "platz": 10,
+     "platz": 11,
      "verein": "SG Kessel/Ho-Ha",
      "teamId": "011MIEMFV0000000VTVG0001VTR8C1K7",
      "spiele": 13,
@@ -2002,18 +2014,6 @@
      "niederlagen": 4,
      "tore": "20:23",
      "differenz": -3,
-     "punkte": 17
-    },
-    {
-     "platz": 11,
-     "verein": "SV Walbeck",
-     "teamId": "011MIE876K000000VTVG0001VTR8C1K7",
-     "spiele": 13,
-     "siege": 5,
-     "unentschieden": 2,
-     "niederlagen": 6,
-     "tore": "30:36",
-     "differenz": -6,
      "punkte": 17
     },
     {
@@ -2044,12 +2044,12 @@
      "platz": 14,
      "verein": "BV Sturm Wissel",
      "teamId": "011MIEUE0S000000VTVG0001VTR8C1K7",
-     "spiele": 13,
+     "spiele": 14,
      "siege": 2,
      "unentschieden": 2,
-     "niederlagen": 9,
-     "tore": "21:56",
-     "differenz": -35,
+     "niederlagen": 10,
+     "tore": "21:58",
+     "differenz": -37,
      "punkte": 8
     },
     {
@@ -2555,20 +2555,20 @@
    "staffelId": null,
    "naechste": [
     {
-     "datum": "Samstag, 28.11.2026 - ** Uhr",
-     "wettbewerb": "Futsal-Niederrheinliga",
-     "heim": "FC Mattheck Moers",
-     "gast": "FF M'gladbach 07",
-     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-ff-m%27gladbach-1/-/spiel/031OPNR3FC000000VS5489BTVV1LNS7C",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
      "datum": "Samstag, 05.12.2026 - ** Uhr",
      "wettbewerb": "Futsal-Niederrheinliga",
      "heim": "FC Mattheck Moers",
      "gast": "DJK SG Altenessen",
      "url": "https://www.fussball.de/spiel/fc-mattheck-moers-djk-sg-altenessen/-/spiel/031OPNR3LO000000VS5489BTVV1LNS7C",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
+    {
+     "datum": "Samstag, 12.12.2026 - ** Uhr",
+     "wettbewerb": "Futsal-Niederrheinliga",
+     "heim": "FC Mattheck Moers",
+     "gast": "FF M'gladbach 07",
+     "url": "https://www.fussball.de/spiel/fc-mattheck-moers-ff-m%27gladbach-1/-/spiel/031OPNR3FC000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
      "hinweis": null
     },
@@ -2997,7 +2997,7 @@
      "gast": "FC Viktoria Alpen",
      "url": "https://www.fussball.de/spiel/sv-millingen-fc-viktoria-alpen/-/spiel/031H9RCESO000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
@@ -4305,7 +4305,7 @@
      "gast": "FC Viktoria Alpen",
      "url": "https://www.fussball.de/spiel/sv-millingen-fc-viktoria-alpen/-/spiel/031H9RCESO000000VS5489BUVSJ4CRAP",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 29.11.2026 - 14:30 Uhr",
@@ -4414,7 +4414,7 @@
      "gast": "Concordia Rheinberg II",
      "url": "https://www.fussball.de/spiel/sv-orsoy-concordia-rheinberg-ii/-/spiel/031I6NEJ3S000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
