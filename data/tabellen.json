@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T13:09:14.736Z",
+ "aktualisiert": "2026-11-27T23:45:32.985Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -20,6 +20,18 @@
     },
     {
      "platz": 2,
+     "verein": "SV Budberg",
+     "teamId": "011MIEFDHS000000VTVG0001VTR8C1K7",
+     "spiele": 14,
+     "siege": 10,
+     "unentschieden": 0,
+     "niederlagen": 4,
+     "tore": "35:21",
+     "differenz": 14,
+     "punkte": 30
+    },
+    {
+     "platz": 3,
      "verein": "VfB Speldorf",
      "teamId": "011MICNMMK000000VTVG0001VTR8C1K7",
      "spiele": 13,
@@ -31,7 +43,7 @@
      "punkte": 30
     },
     {
-     "platz": 3,
+     "platz": 4,
      "verein": "1. FC Lintfort",
      "teamId": "011MI9O6GK000000VTVG0001VTR8C1K7",
      "spiele": 13,
@@ -41,18 +53,6 @@
      "tore": "32:18",
      "differenz": 14,
      "punkte": 29
-    },
-    {
-     "platz": 4,
-     "verein": "SV Budberg",
-     "teamId": "011MIEFDHS000000VTVG0001VTR8C1K7",
-     "spiele": 13,
-     "siege": 9,
-     "unentschieden": 0,
-     "niederlagen": 4,
-     "tore": "31:20",
-     "differenz": 11,
-     "punkte": 27
     },
     {
      "platz": 5,
@@ -190,12 +190,12 @@
      "platz": 16,
      "verein": "SV Viktoria Goch",
      "teamId": "011MIAIVPK000000VTVG0001VTR8C1K7",
-     "spiele": 13,
+     "spiele": 14,
      "siege": 3,
      "unentschieden": 2,
-     "niederlagen": 8,
-     "tore": "21:39",
-     "differenz": -18,
+     "niederlagen": 9,
+     "tore": "22:43",
+     "differenz": -21,
      "punkte": 11
     },
     {
@@ -1192,25 +1192,25 @@
      "platz": 15,
      "verein": "SuS Rayen",
      "teamId": "011MIA98AS000000VTVG0001VTR8C1K7",
-     "spiele": 11,
+     "spiele": 12,
      "siege": 1,
-     "unentschieden": 3,
+     "unentschieden": 4,
      "niederlagen": 7,
-     "tore": "33:39",
+     "tore": "37:43",
      "differenz": -6,
-     "punkte": 6
+     "punkte": 7
     },
     {
      "platz": 16,
      "verein": "TV Kapellen II",
      "teamId": "031CD9A8T4000000VS5489BRVTPI24NQ",
-     "spiele": 13,
+     "spiele": 14,
      "siege": 2,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 11,
-     "tore": "21:76",
+     "tore": "25:80",
      "differenz": -55,
-     "punkte": 6
+     "punkte": 7
     },
     {
      "platz": 17,
@@ -1292,6 +1292,18 @@
     },
     {
      "platz": 5,
+     "verein": "Ratingen 04/19",
+     "teamId": "011MIERO8C000000VTVG0001VTR8C1K7",
+     "spiele": 14,
+     "siege": 5,
+     "unentschieden": 7,
+     "niederlagen": 2,
+     "tore": "29:22",
+     "differenz": 7,
+     "punkte": 22
+    },
+    {
+     "platz": 6,
      "verein": "1. FC Monheim",
      "teamId": "011MIAU70C000000VTVG0001VTR8C1K7",
      "spiele": 13,
@@ -1303,7 +1315,7 @@
      "punkte": 20
     },
     {
-     "platz": 6,
+     "platz": 7,
      "verein": "Wuppertaler SV",
      "teamId": "011MIB4F8S000000VTVG0001VTR8C1K7",
      "spiele": 13,
@@ -1312,18 +1324,6 @@
      "niederlagen": 6,
      "tore": "22:15",
      "differenz": 7,
-     "punkte": 19
-    },
-    {
-     "platz": 7,
-     "verein": "Ratingen 04/19",
-     "teamId": "011MIERO8C000000VTVG0001VTR8C1K7",
-     "spiele": 13,
-     "siege": 4,
-     "unentschieden": 7,
-     "niederlagen": 2,
-     "tore": "26:22",
-     "differenz": 4,
      "punkte": 19
     },
     {
@@ -1352,18 +1352,6 @@
     },
     {
      "platz": 10,
-     "verein": "VfL Viktoria Jüchen-Garzweiler",
-     "teamId": "011MICDOHK000000VTVG0001VTR8C1K7",
-     "spiele": 13,
-     "siege": 5,
-     "unentschieden": 4,
-     "niederlagen": 4,
-     "tore": "26:26",
-     "differenz": 0,
-     "punkte": 19
-    },
-    {
-     "platz": 11,
      "verein": "BW Dingden",
      "teamId": "011MIDCROO000000VTVG0001VTR8C1K7",
      "spiele": 13,
@@ -1372,6 +1360,18 @@
      "niederlagen": 6,
      "tore": "17:19",
      "differenz": -2,
+     "punkte": 19
+    },
+    {
+     "platz": 11,
+     "verein": "VfL Viktoria Jüchen-Garzweiler",
+     "teamId": "011MICDOHK000000VTVG0001VTR8C1K7",
+     "spiele": 14,
+     "siege": 5,
+     "unentschieden": 4,
+     "niederlagen": 5,
+     "tore": "26:29",
+     "differenz": -3,
      "punkte": 19
     },
     {
@@ -2312,7 +2312,7 @@
    "teamUrl": "https://www.fussball.de/mannschaft/1-fc-lintfort-1-fc-lintfort-niederrhein/-/saison/2627/team-id/011MI9O6GK000000VTVG0001VTR8C1K7",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 3,
+   "platz": 4,
    "punkte": 29,
    "torverhaeltnis": "32:18",
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
@@ -2617,7 +2617,7 @@
      "gast": "FC Mattheck Moers",
      "url": "https://www.fussball.de/spiel/wuppertaler-sv-2-fc-mattheck-moers/-/spiel/031OPNR3DS000000VS5489BTVV1LNS7C",
      "ergebnisVerschleiert": false,
-     "hinweis": "Nichtantritt GAST"
+     "hinweis": "w"
     },
     {
      "datum": "Samstag, 07.11.2026 - 14:30 Uhr",
@@ -3318,15 +3318,6 @@
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
    "naechste": [
     {
-     "datum": "Freitag, 27.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SC Rheinkamp",
-     "gast": "MSV Moers II",
-     "url": "https://www.fussball.de/spiel/sc-rheinkamp-msv-moers-ii/-/spiel/031I6OUSRK000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": "Absetzung"
-    },
-    {
      "datum": "Sonntag, 06.12.2026 - 16:00 Uhr",
      "wettbewerb": "Kreisliga C",
      "heim": "VfL Rheinhausen III",
@@ -3361,9 +3352,27 @@
      "url": "https://www.fussball.de/spiel/tv-kapellen-sc-rheinkamp/-/spiel/032JDKEQQS000000VS5489BTVU989P58",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 14.02.2027 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SV Alemannia Kamp II",
+     "gast": "SC Rheinkamp",
+     "url": "https://www.fussball.de/spiel/sv-alemannia-kamp-ii-sc-rheinkamp/-/spiel/031I6OVDQC000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Freitag, 27.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "SC Rheinkamp",
+     "gast": "MSV Moers II",
+     "url": "https://www.fussball.de/spiel/sc-rheinkamp-msv-moers-ii/-/spiel/031I6OUSRK000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": "Absetzung"
+    },
     {
      "datum": "Samstag, 21.11.2026 - 16:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -3397,15 +3406,6 @@
      "heim": "SC Rheinkamp",
      "gast": "VfL Repelen II",
      "url": "https://www.fussball.de/spiel/sc-rheinkamp-vfl-repelen-ii/-/spiel/031I6OUTR8000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 18.10.2026 - 13:00 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "SV Schwafheim III",
-     "gast": "SC Rheinkamp",
-     "url": "https://www.fussball.de/spiel/sv-schwafheim-iii-sc-rheinkamp/-/spiel/031I6OUUBS000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3640,19 +3640,10 @@
    "liga": "KL C Gruppe 2",
    "spielklasse": "Kreisliga C",
    "platz": 15,
-   "punkte": 6,
-   "torverhaeltnis": "33:39",
+   "punkte": 7,
+   "torverhaeltnis": "37:43",
    "staffelId": "031HJBKB28000004VS5489BTVVG7L386-G",
    "naechste": [
-    {
-     "datum": "Freitag, 27.11.2026 - 19:30 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "TV Kapellen II",
-     "gast": "SuS Rayen",
-     "url": "https://www.fussball.de/spiel/tv-kapellen-ii-sus-rayen/-/spiel/031I6OUSQG000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 06.12.2026 - 15:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -3688,9 +3679,27 @@
      "url": "https://www.fussball.de/spiel/spvgg-rheurdt-schaephuysen-iv-9er-sus-rayen/-/spiel/031I6OVDKK000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 21.02.2027 - 15:00 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "FC Neukirchen-Vluyn IV",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/fc-neukirchen-vluyn-iv-sus-rayen/-/spiel/031I6OVDF0000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Freitag, 27.11.2026 - 19:30 Uhr",
+     "wettbewerb": "Kreisliga C",
+     "heim": "TV Kapellen II",
+     "gast": "SuS Rayen",
+     "url": "https://www.fussball.de/spiel/tv-kapellen-ii-sus-rayen/-/spiel/031I6OUSQG000000VS5489BTVSRD0UH9",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Samstag, 21.11.2026 - 16:00 Uhr",
      "wettbewerb": "Kreisliga C",
@@ -3724,15 +3733,6 @@
      "heim": "SuS Rayen",
      "gast": "FC Rumeln-Kaldenhausen II",
      "url": "https://www.fussball.de/spiel/sus-rayen-fc-rumeln-kaldenhausen-ii/-/spiel/031I6OUTOO000000VS5489BTVSRD0UH9",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Sonntag, 18.10.2026 - 12:45 Uhr",
-     "wettbewerb": "Kreisliga C",
-     "heim": "FC Moers-Meerfeld II",
-     "gast": "SuS Rayen",
-     "url": "https://www.fussball.de/spiel/fc-moers-meerfeld-ii-sus-rayen/-/spiel/031I6OUU94000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -3966,20 +3966,11 @@
    "teamUrl": "https://www.fussball.de/mannschaft/sv-budberg-sv-budberg-1946-niederrhein/-/saison/2627/team-id/011MIEFDHS000000VTVG0001VTR8C1K7",
    "liga": "Landesliga Gruppe 1",
    "spielklasse": "Landesliga",
-   "platz": 4,
-   "punkte": 27,
-   "torverhaeltnis": "31:20",
+   "platz": 2,
+   "punkte": 30,
+   "torverhaeltnis": "35:21",
    "staffelId": "0311F9JM0S00000CVS5489BUVVARDA0V-G",
    "naechste": [
-    {
-     "datum": "Freitag, 27.11.2026 - 20:00 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "SV Budberg",
-     "gast": "SV Viktoria Goch",
-     "url": "https://www.fussball.de/spiel/sv-budberg-sv-viktoria-goch/-/spiel/031EKQ0SC0000000VS5489BTVUS470OH",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
     {
      "datum": "Sonntag, 06.12.2026 - 15:30 Uhr",
      "wettbewerb": "Landesliga",
@@ -4015,9 +4006,27 @@
      "url": "https://www.fussball.de/spiel/djk-adler-union-frintrop-sv-budberg/-/spiel/032IFKLCI0000000VS5489BUVSGKI48U",
      "ergebnisVerschleiert": false,
      "hinweis": null
+    },
+    {
+     "datum": "Sonntag, 14.02.2027 - 15:30 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "VfB Speldorf",
+     "gast": "SV Budberg",
+     "url": "https://www.fussball.de/spiel/vfb-speldorf-sv-budberg/-/spiel/031EKQ1DIC000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
     }
    ],
    "letzte": [
+    {
+     "datum": "Freitag, 27.11.2026 - 20:00 Uhr",
+     "wettbewerb": "Landesliga",
+     "heim": "SV Budberg",
+     "gast": "SV Viktoria Goch",
+     "url": "https://www.fussball.de/spiel/sv-budberg-sv-viktoria-goch/-/spiel/031EKQ0SC0000000VS5489BTVUS470OH",
+     "ergebnisVerschleiert": false,
+     "hinweis": null
+    },
     {
      "datum": "Sonntag, 15.11.2026 - 15:30 Uhr",
      "wettbewerb": "Landesliga",
@@ -4051,15 +4060,6 @@
      "heim": "VfL Rheinhausen",
      "gast": "SV Budberg",
      "url": "https://www.fussball.de/spiel/vfl-rheinhausen-sv-budberg/-/spiel/032A3QRSTO000000VS5489BTVU989P58",
-     "ergebnisVerschleiert": false,
-     "hinweis": null
-    },
-    {
-     "datum": "Samstag, 24.10.2026 - 15:00 Uhr",
-     "wettbewerb": "Landesliga",
-     "heim": "Rheinland Hamborn",
-     "gast": "SV Budberg",
-     "url": "https://www.fussball.de/spiel/rheinland-hamborn-sv-budberg/-/spiel/031EKQ0T7O000000VS5489BTVUS470OH",
      "ergebnisVerschleiert": false,
      "hinweis": null
     }
@@ -4626,7 +4626,7 @@
    "staffelId": "031H97LK70000004VS5489BUVSJ4CRAP-G",
    "naechste": [
     {
-     "datum": "Sonntag, 29.11.2026 - 15:00 Uhr",
+     "datum": "Sonntag, 29.11.2026 - 15:15 Uhr",
      "wettbewerb": "Kreisliga A",
      "heim": "SV Sonsbeck II",
      "gast": "SV Schwafheim",
