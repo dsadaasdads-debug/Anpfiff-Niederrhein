@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T17:21:32.696Z",
+ "aktualisiert": "2026-11-27T01:58:00.773Z",
  "hinweisErgebnisse": "fussball.de gibt die Ziffern gespielter Ergebnisse nur über eine wechselnde Spezialschrift aus. Diese Sperre wird nicht umgangen – für das Ergebnis führt der Link zur Spielseite.",
  "staffeln": {
   "0311F9JM0S00000CVS5489BUVVARDA0V-G": {
@@ -860,6 +860,18 @@
     },
     {
      "platz": 4,
+     "verein": "ESV Hohenbudberg",
+     "teamId": "011MI9O5QC000000VTVG0001VTR8C1K7",
+     "spiele": 14,
+     "siege": 6,
+     "unentschieden": 6,
+     "niederlagen": 2,
+     "tore": "35:34",
+     "differenz": 1,
+     "punkte": 24
+    },
+    {
+     "platz": 5,
      "verein": "FC Neukirchen-Vluyn II",
      "teamId": "023U3COCV4000000VS548984VSVTAEJ3",
      "spiele": 13,
@@ -871,7 +883,7 @@
      "punkte": 23
     },
     {
-     "platz": 5,
+     "platz": 6,
      "verein": "Büdericher SV",
      "teamId": "011MIASFU0000000VTVG0001VTR8C1K7",
      "spiele": 13,
@@ -880,18 +892,6 @@
      "niederlagen": 4,
      "tore": "26:21",
      "differenz": 5,
-     "punkte": 23
-    },
-    {
-     "platz": 6,
-     "verein": "ESV Hohenbudberg",
-     "teamId": "011MI9O5QC000000VTVG0001VTR8C1K7",
-     "spiele": 13,
-     "siege": 6,
-     "unentschieden": 5,
-     "niederlagen": 2,
-     "tore": "35:34",
-     "differenz": 1,
      "punkte": 23
     },
     {
@@ -970,13 +970,13 @@
      "platz": 13,
      "verein": "SV Budberg III",
      "teamId": "011MIBSVNC000000VTVG0001VTR8C1K7",
-     "spiele": 13,
+     "spiele": 14,
      "siege": 2,
-     "unentschieden": 2,
+     "unentschieden": 3,
      "niederlagen": 9,
      "tore": "9:32",
      "differenz": -23,
-     "punkte": 8
+     "punkte": 9
     },
     {
      "platz": 14,
@@ -3324,7 +3324,7 @@
      "gast": "MSV Moers II",
      "url": "https://www.fussball.de/spiel/sc-rheinkamp-msv-moers-ii/-/spiel/031I6OUSRK000000VS5489BTVSRD0UH9",
      "ergebnisVerschleiert": false,
-     "hinweis": null
+     "hinweis": "Absetzung"
     },
     {
      "datum": "Sonntag, 06.12.2026 - 16:00 Uhr",
